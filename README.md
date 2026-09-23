@@ -7,14 +7,16 @@
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ✨ Featured — batch 17 (new)
+## ✨ Featured — batch 17 (new) — Customer Success Suite
 
-- [Churn Risk Radar](https://github.com/Zion-support/churn-risk-radar) — https://ziontechgroup.com/churn-risk-radar/ — churn prediction, health scores & save plays
-- [Customer Health Scorer](https://github.com/Zion-support/customer-health-scorer) — https://ziontechgroup.com/customer-health-scorer/ — unified health scoring from usage, support & billing
-- [NPS Insight Engine](https://github.com/Zion-support/nps-insight-engine) — https://ziontechgroup.com/nps-insight-engine/ — NPS/CSAT AI themes, drivers & rescue workflows
-- [Upsell Signal Scout](https://github.com/Zion-support/upsell-signal-scout) — https://ziontechgroup.com/upsell-signal-scout/ — expansion signals from usage & account activity
-- [Onboarding Journey Tracker](https://github.com/Zion-support/onboarding-journey-tracker) — https://ziontechgroup.com/onboarding-journey-tracker/ — milestones, time-to-value & stalled-account rescue
+- [Customer Health Scorer](https://github.com/Zion-support/customer-health-scorer) — https://ziontechgroup.com/customer-health-scorer/ — unified health scoring from usage, support & billing signals
+- [Churn Risk Radar](https://github.com/Zion-support/churn-risk-radar) — https://ziontechgroup.com/churn-risk-radar/ — churn prediction, save plays & exec alerts
+- [NPS Insight Engine](https://github.com/Zion-support/nps-insight-engine) — https://ziontechgroup.com/nps-insight-engine/ — AI themes & drivers from NPS/CSAT verbatims
 - [Support Sentiment Monitor](https://github.com/Zion-support/support-sentiment-monitor) — https://ziontechgroup.com/support-sentiment-monitor/ — real-time sentiment across tickets, chats & calls
+- [Upsell Signal Scout](https://github.com/Zion-support/upsell-signal-scout) — https://ziontechgroup.com/upsell-signal-scout/ — expansion signals from product usage & account activity
+- [Onboarding Journey Tracker](https://github.com/Zion-support/onboarding-journey-tracker) — https://ziontechgroup.com/onboarding-journey-tracker/ — milestones, time-to-value & stalled-account alerts
+
+Suite doc: [docs/CUSTOMER_SUCCESS_SUITE.md](docs/CUSTOMER_SUCCESS_SUITE.md) · Homepage spotlight: [APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md)
 
 ## ✨ Featured — batch 16
 
@@ -100,12 +102,13 @@
 
 ## Suite & spotlight docs
 
+- [docs/CUSTOMER_SUCCESS_SUITE.md](docs/CUSTOMER_SUCCESS_SUITE.md) — customer success toolchain (onboard → health → sentiment → voice → save → expand)
 - [docs/FIELD_SERVICES_SUITE.md](docs/FIELD_SERVICES_SUITE.md) — field services toolchain (quote → dispatch → survey → parts → warranty → RMA)
 - [docs/SECOPS_RELIABILITY_SUITE.md](docs/SECOPS_RELIABILITY_SUITE.md) — SecOps & reliability pipeline (prevent → detect → respond → learn → prove)
 - [docs/SALES_MARKETING_SUITE.md](docs/SALES_MARKETING_SUITE.md) — sales & marketing AI toolchain
 - [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
-- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
+- Homepage spotlights: [Customer Success](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md) · [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
 
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
