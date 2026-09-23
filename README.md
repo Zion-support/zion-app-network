@@ -1,22 +1,22 @@
 # Zion App Network — Master Directory
 
-**708 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**702 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ✨ Featured — batch 17 (new) — Customer Success Suite
+## ✨ Featured — batch 17 (new) — Developer & LLM tools
 
-- [Customer Health Scorer](https://github.com/Zion-support/customer-health-scorer) — https://ziontechgroup.com/customer-health-scorer/ — unified health scoring from usage, support & billing signals
-- [Churn Risk Radar](https://github.com/Zion-support/churn-risk-radar) — https://ziontechgroup.com/churn-risk-radar/ — churn prediction, save plays & exec alerts
-- [NPS Insight Engine](https://github.com/Zion-support/nps-insight-engine) — https://ziontechgroup.com/nps-insight-engine/ — AI themes & drivers from NPS/CSAT verbatims
-- [Support Sentiment Monitor](https://github.com/Zion-support/support-sentiment-monitor) — https://ziontechgroup.com/support-sentiment-monitor/ — real-time sentiment across tickets, chats & calls
-- [Upsell Signal Scout](https://github.com/Zion-support/upsell-signal-scout) — https://ziontechgroup.com/upsell-signal-scout/ — expansion signals from product usage & account activity
-- [Onboarding Journey Tracker](https://github.com/Zion-support/onboarding-journey-tracker) — https://ziontechgroup.com/onboarding-journey-tracker/ — milestones, time-to-value & stalled-account alerts
-
-Suite doc: [docs/CUSTOMER_SUCCESS_SUITE.md](docs/CUSTOMER_SUCCESS_SUITE.md) · Homepage spotlight: [APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md)
+- [LLM Gateway](https://github.com/Zion-support/llm-gateway) — https://ziontechgroup.com/llm-gateway/ — unified API gateway for multiple LLM providers with routing & fallbacks
+- [RAG Forge](https://github.com/Zion-support/rag-forge) — https://ziontechgroup.com/rag-forge/ — build, test and ship retrieval-augmented generation pipelines (pairs with [RAG Evaluator](https://github.com/Zion-support/rag-evaluator))
+- [Prompt Shield](https://github.com/Zion-support/prompt-shield) — https://ziontechgroup.com/prompt-shield/ — prompt-injection defense & input sanitization (pairs with [Prompt Injection Playground](https://github.com/Zion-support/prompt-injection-playground))
+- [Prompt Forge](https://github.com/Zion-support/prompt-forge) — https://ziontechgroup.com/prompt-forge/ — prompt versioning, testing & optimization workbench
+- [LLM Cost Optimizer](https://github.com/Zion-support/llm-cost-optimizer) — https://ziontechgroup.com/llm-cost-optimizer/ — route requests to the cheapest model that meets quality targets (pairs with [LLM Cost Calculator](https://github.com/Zion-support/llm-cost-calculator))
+- [Mock API Generator](https://github.com/Zion-support/mock-api-generator) — https://ziontechgroup.com/mock-api-generator/ — realistic mock API payloads from a JSON schema
+- [Regex Builder](https://github.com/Zion-support/regex-builder) — https://ziontechgroup.com/regex-builder/ — live regex testing with explanations & presets
+- [K8s YAML Linter](https://github.com/Zion-support/k8s-yaml-linter) — https://ziontechgroup.com/k8s-yaml-linter/ — lint Kubernetes manifests for misconfigurations (pairs with [K8s Pod Security Scanner](https://github.com/Zion-support/k8s-pod-security-scanner))
 
 ## ✨ Featured — batch 16
 
@@ -102,13 +102,12 @@ Suite doc: [docs/CUSTOMER_SUCCESS_SUITE.md](docs/CUSTOMER_SUCCESS_SUITE.md) · H
 
 ## Suite & spotlight docs
 
-- [docs/CUSTOMER_SUCCESS_SUITE.md](docs/CUSTOMER_SUCCESS_SUITE.md) — customer success toolchain (onboard → health → sentiment → voice → save → expand)
 - [docs/FIELD_SERVICES_SUITE.md](docs/FIELD_SERVICES_SUITE.md) — field services toolchain (quote → dispatch → survey → parts → warranty → RMA)
 - [docs/SECOPS_RELIABILITY_SUITE.md](docs/SECOPS_RELIABILITY_SUITE.md) — SecOps & reliability pipeline (prevent → detect → respond → learn → prove)
 - [docs/SALES_MARKETING_SUITE.md](docs/SALES_MARKETING_SUITE.md) — sales & marketing AI toolchain
 - [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
-- Homepage spotlights: [Customer Success](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md) · [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
+- Homepage spotlights: [DevTools & LLM](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_DEVTOOLS_LLM.md) · [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
 
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
