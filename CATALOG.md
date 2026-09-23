@@ -1,6 +1,6 @@
 # Zion App Network — Master Catalog
 
-651 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+664 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
 
 ## Network Hubs
 
@@ -13,6 +13,25 @@
 - [agents](https://github.com/Zion-support/agents)
 - [ai-services](https://github.com/Zion-support/ai-services)
 - [blog](https://github.com/Zion-support/blog) · [case-studies](https://github.com/Zion-support/case-studies) · [success-stories](https://github.com/Zion-support/success-stories) · [partners](https://github.com/Zion-support/partners) · [plans](https://github.com/Zion-support/plans) · [zion-plans](https://github.com/Zion-support/zion-plans) · [zion-status](https://github.com/Zion-support/zion-status) · [zion-support.github.io](https://github.com/Zion-support/zion-support.github.io)
+
+
+## Featured New Apps — Batch 10 (2026-09-23)
+
+- [energy-usage-optimizer](https://github.com/Zion-support/energy-usage-optimizer) — facility energy analytics & tariff-window load shifting · https://ziontechgroup.com/energy-usage-optimizer/
+- [warehouse-slotting-ai](https://github.com/Zion-support/warehouse-slotting-ai) — SKU placement & pick-path optimization · https://ziontechgroup.com/warehouse-slotting-ai/
+- [onboarding-buddy-ai](https://github.com/Zion-support/onboarding-buddy-ai) — guided role-based employee onboarding · https://ziontechgroup.com/onboarding-buddy-ai/
+- [contract-clause-sentry](https://github.com/Zion-support/contract-clause-sentry) — clause-level contract risk & redlines · https://ziontechgroup.com/contract-clause-sentry/
+- [route-density-planner](https://github.com/Zion-support/route-density-planner) — field routing density clustering · https://ziontechgroup.com/route-density-planner/
+- [maintenance-ticket-triage](https://github.com/Zion-support/maintenance-ticket-triage) — auto ticket classification & routing · https://ziontechgroup.com/maintenance-ticket-triage/
+
+## Featured Apps — Batch 9
+
+- [invoice-match-ai](https://github.com/Zion-support/invoice-match-ai) · https://ziontechgroup.com/invoice-match-ai/
+- [field-safety-brief](https://github.com/Zion-support/field-safety-brief) · https://ziontechgroup.com/field-safety-brief/
+- [fleet-fuel-optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) · https://ziontechgroup.com/fleet-fuel-optimizer/
+- [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) · https://ziontechgroup.com/contract-renewal-radar/
+- [technician-coach-ai](https://github.com/Zion-support/technician-coach-ai) · https://ziontechgroup.com/technician-coach-ai/
+- [spare-price-scout](https://github.com/Zion-support/spare-price-scout) · https://ziontechgroup.com/spare-price-scout/
 
 ## Agents & Orchestration
 
