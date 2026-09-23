@@ -1,12 +1,24 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batches 15 & 16 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch 17 added).
 
 ## Hero block
-**Headline:** One network. 702 AI apps. Zero friction.
+**Headline:** One network. 708 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
-## Featured new apps (batch 16 — NEW)
+## Featured new apps (batch 17 — NEW)
+- **[Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/)** — churn prediction, health scores and save plays. [GitHub](https://github.com/Zion-support/churn-risk-radar)
+- **[Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/)** — unified health scoring from usage, support and billing. [GitHub](https://github.com/Zion-support/customer-health-scorer)
+- **[NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)** — NPS/CSAT AI themes, drivers and rescue workflows. [GitHub](https://github.com/Zion-support/nps-insight-engine)
+- **[Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/)** — expansion signals from usage and account activity. [GitHub](https://github.com/Zion-support/upsell-signal-scout)
+- **[Onboarding Journey Tracker](https://ziontechgroup.com/onboarding-journey-tracker/)** — milestones, time-to-value and stalled-account rescue. [GitHub](https://github.com/Zion-support/onboarding-journey-tracker)
+- **[Support Sentiment Monitor](https://ziontechgroup.com/support-sentiment-monitor/)** — real-time sentiment across tickets, chats and calls. [GitHub](https://github.com/Zion-support/support-sentiment-monitor)
+
+## Customer success block (batch 17)
+**Headline:** Keep every customer. Grow every account.
+**Body:** Batch 17 adds a full Customer Success suite to the Zion App Network: Churn Risk Radar, Customer Health Scorer, NPS Insight Engine, Upsell Signal Scout, Onboarding Journey Tracker and Support Sentiment Monitor — all interconnected with Voice of Customer Hub and AI Ticket Sentinel. See plans at https://ziontechgroup.com/en/plans/ or book a discovery call at https://ziontechgroup.com/discovery/.
+
+## Featured new apps (batch 16)
 - **[Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/)** — reviews, tickets, surveys and social mentions unified with AI themes. [GitHub](https://github.com/Zion-support/voice-of-customer-hub)
 - **[License Renewal Planner](https://ziontechgroup.com/license-renewal-planner/)** — software licenses, renewals and true-up exposure in one place. [GitHub](https://github.com/Zion-support/license-renewal-planner)
 - **[Returns Optimization AI](https://ziontechgroup.com/returns-optimization-ai/)** — cut return rates and costs with AI root-cause analysis. [GitHub](https://github.com/Zion-support/returns-optimization-ai)
@@ -77,8 +89,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch
 - 🤖 131 Zion AI suite apps
 - 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 44 new featured apps (batches 9–16)
-- **Total: 702 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 50 new featured apps (batches 9–17)
+- **Total: 708 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
