@@ -1,11 +1,21 @@
 # Zion App Network — Master Directory
 
-**702 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**709 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
+
+## ✨ Featured — batch 17 (new): Customer Success Suite
+
+- [Churn Risk Radar](https://github.com/Zion-support/churn-risk-radar) — https://ziontechgroup.com/churn-risk-radar/ — predict churn before it happens: health scores, save plays & exec alerts
+- [Customer Health Scorer](https://github.com/Zion-support/customer-health-scorer) — https://ziontechgroup.com/customer-health-scorer/ — unified health scoring from usage, support & billing signals
+- [NPS Insight Engine](https://github.com/Zion-support/nps-insight-engine) — https://ziontechgroup.com/nps-insight-engine/ — NPS/CSAT analysis with AI themes, drivers & follow-up workflows
+- [Upsell Signal Scout](https://github.com/Zion-support/upsell-signal-scout) — https://ziontechgroup.com/upsell-signal-scout/ — detect upsell & expansion signals from product usage
+- [Onboarding Journey Tracker](https://github.com/Zion-support/onboarding-journey-tracker) — https://ziontechgroup.com/onboarding-journey-tracker/ — onboarding milestones, time-to-value & stalled-account rescue
+- [Support Sentiment Monitor](https://github.com/Zion-support/support-sentiment-monitor) — https://ziontechgroup.com/support-sentiment-monitor/ — real-time sentiment across tickets, chats & calls
+- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — https://ziontechgroup.com/support-deflection-analyzer/ — measure & grow ticket deflection from docs and bots
 
 ## ✨ Featured — batch 16 (new)
 
@@ -87,6 +97,7 @@
 - **Zion AI App Suite (131)** — e.g. [zion-ai-ticket-sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/), [zion-ai-dispatch-orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/), [zion-ai-agent-builder](https://ziontechgroup.com/zion-ai-agent-builder/)
 - **Zion Platform & Core (65)** — e.g. [zion-agentforge](https://ziontechgroup.com/zion-agentforge/), [zion-constellation](https://ziontechgroup.com/zion-constellation/), [zion-content-studio](https://ziontechgroup.com/zion-content-studio/)
 - **Tools & Utilities (92)** — e.g. [security-awareness-coach](https://ziontechgroup.com/security-awareness-coach/), [patch-priority-radar](https://ziontechgroup.com/patch-priority-radar/), [accessibility-checker](https://ziontechgroup.com/accessibility-checker/)
+- **Customer Success Suite (7)** — e.g. [churn-risk-radar](https://ziontechgroup.com/churn-risk-radar/), [customer-health-scorer](https://ziontechgroup.com/customer-health-scorer/), [nps-insight-engine](https://ziontechgroup.com/nps-insight-engine/)
 - **Zion Field Satellite Playbooks (277)** — e.g. [zion-field](https://ziontechgroup.com/zion-field/), [zion-field-brazil](https://ziontechgroup.com/zion-field-brazil/), [zion-field-energy](https://ziontechgroup.com/zion-field-energy/)
 
 ## Suite & spotlight docs
@@ -96,7 +107,7 @@
 - [docs/SALES_MARKETING_SUITE.md](docs/SALES_MARKETING_SUITE.md) — sales & marketing AI toolchain
 - [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
-- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
+- Homepage spotlights: [Customer Success Suite](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md) · [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
 
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
