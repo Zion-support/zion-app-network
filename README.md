@@ -1,105 +1,76 @@
 # Zion App Network
 
-Master directory and interlink hub for all Zion Tech Group AI apps, tools and micro-SaaS products.
+Master directory and interlink hub for all Zion Tech Group AI apps.
 
-- Homepage: https://ziontechgroup.com
-- Apps hub (live): https://ziontechgroup.com/zion-apps-hub/
-- Homepage showcase: https://ziontechgroup.com (see APPS_SHOWCASE.md in Zion-support/zion-support.github.io)
-- Contact: commercial@ziontechgroup.com
+**Live catalog:** https://ziontechgroup.com/apps/ · **Plans:** https://ziontechgroup.com/en/plans/ · **Discovery ($99):** https://ziontechgroup.com/discovery/ · **Case studies:** https://ziontechgroup.com/case-studies/
 
-Every app below is live, free to try, and interlinked with the rest of the network.
+Machine-readable catalog: https://ziontechgroup.com/apps/catalog.json · https://ziontechgroup.com/apps/catalog.js
 
-## Hubs
+## Agents (13)
+- **[Zion AI Agent Builder](https://ziontechgroup.com/zion-ai-agent-builder/)** — No-code AI agent design studio · [repo](https://github.com/Zion-support/zion-ai-agent-builder)
+- **[Zion AgentForge](https://ziontechgroup.com/zion-agentforge/)** — Design, test and govern multi-agent AI systems · [repo](https://github.com/Zion-support/zion-agentforge)
+- **[Multi-Agent AI Orchestration Platform](https://ziontechgroup.com/zion-ai-agent-orchestrator/)** — Orchestrate fleets of cooperating AI agents · [repo](https://github.com/Zion-support/zion-ai-agent-orchestrator)
+- **[Zion Agents](https://ziontechgroup.com/zion-agents/)** — Autonomous AI agent fleet, workflows, and operations · [repo](https://github.com/Zion-support/zion-agents)
+- **[AI Agent Workflow Builder](https://ziontechgroup.com/ai-agent-workflow-builder/)** — Visually design multi-agent automation workflows · [repo](https://github.com/Zion-support/ai-agent-workflow-builder)
+- **[Agent Handoff Designer (flow)](https://ziontechgroup.com/zion-agent-handoff-flow/)** — Design multi-agent delegation flows visually · [repo](https://github.com/Zion-support/zion-agent-handoff-flow)
+- **[Agent Handoff Designer](https://ziontechgroup.com/zion-agent-handoff-designer/)** — Design multi-agent delegation flows visually · [repo](https://github.com/Zion-support/zion-agent-handoff-designer)
+- **[Agent Stack Builder](https://ziontechgroup.com/zion-agent-stack-builder/)** — Pick a use case, get a recommended MCP/agent tool stack · [repo](https://github.com/Zion-support/zion-agent-stack-builder)
+- **[AI Agent Contract Tester](https://ziontechgroup.com/zion-agent-contract-tests/)** — Generate schema-contract tests for agent tool outputs · [repo](https://github.com/Zion-support/zion-agent-contract-tests)
+- **[Agent Contract Tester](https://ziontechgroup.com/zion-agent-contract-tester/)** — Generate schema-contract tests for agent tool outputs · [repo](https://github.com/Zion-support/zion-agent-contract-tester)
+- **[Agent Observability Scorecard](https://ziontechgroup.com/zion-agent-observability/)** — Tracing, evals-in-CI, cost alerts maturity checklist · [repo](https://github.com/Zion-support/zion-agent-observability)
+- **[Agent SLA Monitor](https://ziontechgroup.com/agent-sla-monitor/)** — Track agent SLAs and alert on breaches · [repo](https://github.com/Zion-support/agent-sla-monitor)
+- **[Zion AI Agent Marketplace](https://ziontechgroup.com/zion-ai-agent-marketplace/)** — Discover, rate and monetize autonomous AI agents · [repo](https://github.com/Zion-support/zion-ai-agent-marketplace)
 
-| Hub | Live | Source |
-|---|---|---|
-| Zion App Network (this repo) | https://ziontechgroup.com/zion-app-network/ | https://github.com/Zion-support/zion-app-network |
-| Zion Apps Hub | https://ziontechgroup.com/zion-apps-hub/ | https://github.com/Zion-support/zion-apps-hub |
-| Zion Tech Group homepage | https://ziontechgroup.com | https://github.com/Zion-support/zion-support.github.io |
+## Voice & Comms (2)
+- **[Zion Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/)** — AI voice agents for calls & IVR · [repo](https://github.com/Zion-support/voice-agent-studio)
+- **[Zion AI Call Analytics](https://ziontechgroup.com/zion-ai-call-analytics/)** — Voice-of-customer insights from call recordings · [repo](https://github.com/Zion-support/zion-ai-call-analytics)
 
-## AI Agents & LLM Tooling
+## Security & Governance (7)
+- **[Zion Prompt Shield](https://ziontechgroup.com/prompt-shield/)** — LLM security testing & prompt-injection defense · [repo](https://github.com/Zion-support/prompt-shield)
+- **[Zion AI Code Reviewer](https://ziontechgroup.com/zion-ai-code-reviewer/)** — Automated PR review and security linting · [repo](https://github.com/Zion-support/zion-ai-code-reviewer)
+- **[AI Cybersecurity Hub](https://ziontechgroup.com/ai-cybersecurity-hub/)** — Threat detection and response · [repo](https://github.com/Zion-support/ai-cybersecurity-hub)
+- **[AI Compliance Guardian](https://ziontechgroup.com/ai-compliance-guardian/)** — Automate regulatory compliance · [repo](https://github.com/Zion-support/ai-compliance-guardian)
+- **[Accessibility Auditor](https://ziontechgroup.com/zion-ai-accessibility-auditor/)** — Audit WCAG accessibility across your site · [repo](https://github.com/Zion-support/zion-ai-accessibility-auditor)
+- **[Zion AI Accessibility Fixer](https://ziontechgroup.com/zion-ai-accessibility-fixer/)** — Auto-remediates WCAG violations with pull requests · [repo](https://github.com/Zion-support/zion-ai-accessibility-fixer)
+- **[Zion AI API Guardian](https://ziontechgroup.com/zion-ai-api-guardian/)** — Breaking-change detection and consumer migration guides · [repo](https://github.com/Zion-support/zion-ai-api-guardian)
 
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion AgentForge | Design, test and govern multi-agent AI systems | https://agentforge.ziontechgroup.com | https://github.com/Zion-support/zion-agentforge |
-| Zion AI Chatbot Builder | Build and deploy AI chatbots | https://chatbot-builder.ziontechgroup.com | https://github.com/Zion-support/zion-ai-chatbot-builder |
-| Zion AI Voice Assistant | Voice-first AI assistant | https://voice-assistant.ziontechgroup.com | https://github.com/Zion-support/zion-ai-voice-assistant |
-| Zion AI Voice Translator | Real-time multilingual speech-to-speech translation | https://ziontechgroup.com/zion-ai-voice-translator/ | https://github.com/Zion-support/zion-ai-voice-translator |
-| Zion AI Meeting Assistant | Meeting notes, summaries and action items | https://meeting-assistant.ziontechgroup.com | https://github.com/Zion-support/zion-ai-meeting-assistant |
-| Zion Prompt Vault | Searchable library of battle-tested AI prompts | https://prompts.ziontechgroup.com | https://github.com/Zion-support/zion-prompt-vault |
-| Zion Prompt Forge | Curated AI prompt library and prompt builder | https://promptforge.ziontechgroup.com | https://github.com/Zion-support/zion-prompt-forge |
-| Zion AI Prompt Forge | Build, optimize and version AI prompts | https://prompt-forge.ziontechgroup.com | https://github.com/Zion-support/zion-ai-prompt-forge |
-| Zion LLM Bench | Interactive LLM comparison and benchmark explorer | https://llmbench.ziontechgroup.com | https://github.com/Zion-support/zion-llm-bench |
-| Zion LLM Observatory | Observability, evals and cost control for LLM apps | https://llm-observability.ziontechgroup.com | https://github.com/Zion-support/zion-llm-observatory |
+## FinOps & Cloud (7)
+- **[AI FinOps Suite](https://ziontechgroup.com/ai-finops-suite/)** — Optimize cloud and AI costs · [repo](https://github.com/Zion-support/ai-finops-suite)
+- **[Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/)** — Multi-cloud compute & serverless price comparison · [repo](https://github.com/Zion-support/cloud-cost-estimator)
+- **[FinOps Estimator](https://ziontechgroup.com/finops-estimator/)** — Estimate cloud spend savings · [repo](https://github.com/Zion-support/finops-estimator)
+- **[Cloud Architect Diagram Builder](https://ziontechgroup.com/cloud-architect-diagram-builder/)** — Drag-and-drop AWS/Azure/GCP diagrams with export · [repo](https://github.com/Zion-support/cloud-architect-diagram-builder)
+- **[Zion AI Capacity Forecaster](https://ziontechgroup.com/zion-ai-capacity-forecaster/)** — Predictive infrastructure scaling from traffic seasonality · [repo](https://github.com/Zion-support/zion-ai-capacity-forecaster)
+- **[Zion AI Latency Budget Guardian](https://ziontechgroup.com/zion-ai-latency-budget-guardian/)** — End-to-end latency budgets with CI regression gates · [repo](https://github.com/Zion-support/zion-ai-latency-budget-guardian)
+- **[Website Carbon Estimator](https://ziontechgroup.com/website-carbon-estimator/)** — CO2 per page view with green hosting recommendations · [repo](https://github.com/Zion-support/website-carbon-estimator)
 
-## Data & AI Platform
+## Growth & CX (5)
+- **[Zion Churn Radar](https://ziontechgroup.com/churn-radar/)** — Customer health scoring & churn prediction · [repo](https://github.com/Zion-support/churn-radar)
+- **[AI Growth Marketing Hub](https://ziontechgroup.com/ai-growth-marketing-hub/)** — Scale marketing with AI · [repo](https://github.com/Zion-support/ai-growth-marketing-hub)
+- **[AI Customer Experience Hub](https://ziontechgroup.com/ai-customer-experience-hub/)** — Personalize CX across channels · [repo](https://github.com/Zion-support/ai-customer-experience-hub)
+- **[Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/)** — Never miss an auto-renewal or price escalator · [repo](https://github.com/Zion-support/contract-renewal-radar)
+- **[Invoice Match AI](https://ziontechgroup.com/invoice-match-ai/)** — Invoice-to-PO matching and duplicate-billing detection · [repo](https://github.com/Zion-support/invoice-match-ai)
 
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion RAG Foundry | Build, evaluate and ship enterprise RAG pipelines | https://rag-foundry.ziontechgroup.com | https://github.com/Zion-support/zion-rag-foundry |
-| Zion AI Knowledge Base | AI knowledge base and enterprise search | https://knowledge-base.ziontechgroup.com | https://github.com/Zion-support/zion-ai-knowledge-base |
-| Zion Content Studio | AI content creation studio | https://content-studio.ziontechgroup.com | https://github.com/Zion-support/zion-content-studio |
+## Industry Suites (4)
+- **[AI Healthcare Platform](https://ziontechgroup.com/ai-healthcare-platform/)** — Medical AI and patient management · [repo](https://github.com/Zion-support/ai-healthcare-platform)
+- **[AI Financial Services Suite](https://ziontechgroup.com/ai-financial-services-suite/)** — Banking, lending, and investment AI · [repo](https://github.com/Zion-support/ai-financial-services-suite)
+- **[AI Data Engineering Hub](https://ziontechgroup.com/ai-data-engineering-hub/)** — Build data pipelines · [repo](https://github.com/Zion-support/ai-data-engineering-hub)
+- **[AI Backup Recovery](https://ziontechgroup.com/ai-backup-recovery/)** — Intelligent backup and disaster recovery · [repo](https://github.com/Zion-support/ai-backup-recovery)
 
-## Developer Tools
+## Field Ops & IT (8)
+- **[Log Anomaly Spotter](https://ziontechgroup.com/log-anomaly-spotter/)** — Detect anomalies, error spikes, unusual patterns in logs · [repo](https://github.com/Zion-support/log-anomaly-spotter)
+- **[Ops Runbook AI](https://ziontechgroup.com/ops-runbook-ai/)** — AI-generated operational runbooks · [repo](https://github.com/Zion-support/ops-runbook-ai)
+- **[Technician Coach AI](https://ziontechgroup.com/technician-coach-ai/)** — Guided diagnostics and skill-gap training for field teams · [repo](https://github.com/Zion-support/technician-coach-ai)
+- **[Field Safety Brief](https://ziontechgroup.com/field-safety-brief/)** — Site hazards, PPE and JSA briefing generator · [repo](https://github.com/Zion-support/field-safety-brief)
+- **[Fleet Fuel Optimizer](https://ziontechgroup.com/fleet-fuel-optimizer/)** — Route, idle and driver-behavior savings · [repo](https://github.com/Zion-support/fleet-fuel-optimizer)
+- **[Spare Price Scout](https://ziontechgroup.com/spare-price-scout/)** — Cross-vendor spare-parts price and lead-time comparison · [repo](https://github.com/Zion-support/spare-price-scout)
+- **[Warranty Lens](https://ziontechgroup.com/warranty-lens/)** — AI warranty claim analyzer · [repo](https://github.com/Zion-support/warranty-lens)
+- **[Zion AI CAB Assistant](https://ziontechgroup.com/zion-ai-cab-assistant/)** — Change risk scoring, impact analysis, CAB automation · [repo](https://github.com/Zion-support/zion-ai-cab-assistant)
 
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion AI Code Assistant | AI pair-programming assistant | https://code-assistant.ziontechgroup.com | https://github.com/Zion-support/zion-ai-code-assistant |
-| Zion DevSecOps Checklist | Interactive security & ship-readiness checklist | https://devsec.ziontechgroup.com | https://github.com/Zion-support/zion-devsec-checklist |
-| Zion AI Accessibility Auditor | WCAG scanning and auto-fix suggestions | https://ziontechgroup.com/zion-ai-accessibility-auditor/ | https://github.com/Zion-support/zion-ai-accessibility-auditor |
+## Developer Tools (2)
+- **[Zion AI API Docs Writer](https://ziontechgroup.com/zion-ai-api-docs-writer/)** — Auto-generated, always-current API documentation · [repo](https://github.com/Zion-support/zion-ai-api-docs-writer)
+- **[Zion AI Benchmark Lab](https://ziontechgroup.com/zion-ai-benchmark-lab/)** — Model evaluations and leaderboards for vendor selection · [repo](https://github.com/Zion-support/zion-ai-benchmark-lab)
 
-## SRE & Operations
+## Free tools
+- [ROI Calculator](https://ziontechgroup.com/roi-calc/) · [SLA Calculator](https://ziontechgroup.com/sla-calculator/) · [FinOps Estimator](https://ziontechgroup.com/finops-estimator/) · [Stack Audit](https://ziontechgroup.com/stack-audit/) · [Agent Brief](https://ziontechgroup.com/agent-brief/) · [Prompt Library](https://ziontechgroup.com/prompt-library/) · [AI Governance Checklist](https://ziontechgroup.com/ai-governance-checklist/)
 
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion AI Incident Runbook | Structured incident response runbooks | https://incident-runbook.ziontechgroup.com | https://github.com/Zion-support/zion-ai-incident-runbook |
-| Agent SLA Monitor | AI-powered SLA monitoring for agent operations | https://ziontechgroup.com/agent-sla-monitor/ | https://github.com/Zion-support/agent-sla-monitor |
-| Zion AI SLA Breach Sentinel | SLA breach early-warning and credit calculation | https://ziontechgroup.com/zion-ai-sla-breach-sentinel/ | https://github.com/Zion-support/zion-ai-sla-breach-sentinel |
-| Zion AI Ticket Triage | NLP classification and routing of support emails | https://ziontechgroup.com/zion-ai-ticket-triage/ | https://github.com/Zion-support/zion-ai-ticket-triage |
-| Zion AI Help Desk | AI help desk automation | https://help-desk.ziontechgroup.com | https://github.com/Zion-support/zion-ai-help-desk |
-
-## Security & Compliance
-
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion AI Fraud Detection | Real-time fraud detection | https://fraud-detection.ziontechgroup.com | https://github.com/Zion-support/zion-ai-fraud-detection |
-| Zion AI Threat Brief | Weekly cyber threat intelligence brief templates | https://threat-brief.ziontechgroup.com | https://github.com/Zion-support/zion-ai-threat-brief |
-| Zion AI Compliance Checker | SOC 2, HIPAA, GDPR and ISO 27001 readiness | https://compliance-check.ziontechgroup.com | https://github.com/Zion-support/zion-ai-compliance-checker |
-| Zion AI Regs Radar | Global AI regulation and compliance tracker | https://airegs.ziontechgroup.com | https://github.com/Zion-support/zion-ai-regs-radar |
-| Zion AI Trade Compliance Checker | Import/export classification (HS/ECCN) and duties | https://ziontechgroup.com/zion-ai-trade-compliance-checker/ | https://github.com/Zion-support/zion-ai-trade-compliance-checker |
-
-## FinOps & Business
-
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion GreenCloud Optimizer | AI-driven FinOps + GreenOps | https://greencloud.ziontechgroup.com | https://github.com/Zion-support/zion-greencloud |
-| Zion AI Cloud Cost Navigator | Compare cloud scenarios and estimate spend | https://cloud-cost.ziontechgroup.com | https://github.com/Zion-support/zion-ai-cloud-cost-navigator |
-| Zion AI ROI Calculator | Model payback, savings and TCO for AI & IT projects | https://roi-calculator.ziontechgroup.com | https://github.com/Zion-support/zion-ai-roi-calculator |
-| Zion AI Quote Builder | Instant AI-powered quotes and proposals for IT services | https://ziontechgroup.com/zion-ai-quote-builder/ | https://github.com/Zion-support/zion-ai-quote-builder |
-| Zion AI RFP Responder | AI-assisted RFP response generation | https://ziontechgroup.com/zion-ai-rfp-responder/ | https://github.com/Zion-support/zion-ai-rfp-responder |
-| Zion AI Lead Scoring | AI lead scoring and prioritization | https://lead-scoring.ziontechgroup.com | https://github.com/Zion-support/zion-ai-lead-scoring |
-| Zion AI Email Marketing Pro | AI email marketing campaigns | https://email-marketing.ziontechgroup.com | https://github.com/Zion-support/zion-ai-email-marketing-pro |
-| Zion AI SEO Optimizer | AI SEO analysis and optimization | https://seo-optimizer.ziontechgroup.com | https://github.com/Zion-support/zion-ai-seo-optimizer |
-| Zion Project Master | AI project management | https://project-master.ziontechgroup.com | https://github.com/Zion-support/zion-project-master |
-
-## Field Services & Hardware Ops
-
-| App | What it does | Live | Source |
-|---|---|---|---|
-| Zion AI Field Dispatch | AI planner for field-engineer dispatch | https://ziontechgroup.com/zion-ai-field-dispatch/ | https://github.com/Zion-support/zion-ai-field-dispatch |
-| Zion AI Field Dispatch Optimizer | AI routing, scheduling and assignment of field engineers | https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/ | https://github.com/Zion-support/zion-ai-field-dispatch-optimizer |
-| Zion AI Site Survey Planner | Pre-visit checklists and deployment readiness packs | https://ziontechgroup.com/zion-ai-site-survey-planner/ | https://github.com/Zion-support/zion-ai-site-survey-planner |
-| Zion AI Site Survey Brief | AI-generated pre-visit briefs for data-center deployments | https://ziontechgroup.com/zion-ai-site-survey-brief/ | https://github.com/Zion-support/zion-ai-site-survey-brief |
-| Zion AI Warranty Tracker | Warranty & EOSL tracking with renewal alerts | https://ziontechgroup.com/zion-ai-warranty-tracker/ | https://github.com/Zion-support/zion-ai-warranty-tracker |
-| Zion AI Warranty Lifecycle | Warranty & EOL/EOSL lifecycle tracker with risk scoring | https://zion-support.github.io/zion-ai-warranty-lifecycle/ | https://github.com/Zion-support/zion-ai-warranty-lifecycle |
-| Zion AI RMA Tracker | End-to-end RMA lifecycle management | https://ziontechgroup.com/zion-ai-rma-tracker/ | https://github.com/Zion-support/zion-ai-rma-tracker |
-| Zion AI Spare Parts Matcher | Compatibility matching for Dell, HPE, Oracle, IBM parts | https://ziontechgroup.com/zion-ai-spare-parts-matcher/ | https://github.com/Zion-support/zion-ai-spare-parts-matcher |
-| Zion AI Spare Parts Finder | Cross-vendor part matching and lead-time signals | https://ziontechgroup.com/zion-ai-spare-parts-finder/ | https://github.com/Zion-support/zion-ai-spare-parts-finder |
-
-## Docs in this repo
-
-- [New apps spotlight — Contract Guardian & Energy Sentinel](docs/NEW_APPS_SPOTLIGHT.md)
-- [Field services suite spotlight](docs/FIELD_SERVICES_SUITE.md)
-
----
-© 2026 Zion Tech Group · https://ziontechgroup.com · Part of one interlinked network — every app links back to this directory.
+© 2026 Zion Tech Group · +1 302 464 0950 · kleber@ziontechgroup.com
