@@ -89,6 +89,15 @@
 - **Tools & Utilities (92)** — e.g. [security-awareness-coach](https://ziontechgroup.com/security-awareness-coach/), [patch-priority-radar](https://ziontechgroup.com/patch-priority-radar/), [accessibility-checker](https://ziontechgroup.com/accessibility-checker/)
 - **Zion Field Satellite Playbooks (277)** — e.g. [zion-field](https://ziontechgroup.com/zion-field/), [zion-field-brazil](https://ziontechgroup.com/zion-field-brazil/), [zion-field-energy](https://ziontechgroup.com/zion-field-energy/)
 
+## Suite & spotlight docs
+
+- [docs/FIELD_SERVICES_SUITE.md](docs/FIELD_SERVICES_SUITE.md) — field services toolchain (quote → dispatch → survey → parts → warranty → RMA)
+- [docs/SECOPS_RELIABILITY_SUITE.md](docs/SECOPS_RELIABILITY_SUITE.md) — SecOps & reliability pipeline (prevent → detect → respond → learn → prove)
+- [docs/SALES_MARKETING_SUITE.md](docs/SALES_MARKETING_SUITE.md) — sales & marketing AI toolchain
+- [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
+- [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
+- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md)
+
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
 
