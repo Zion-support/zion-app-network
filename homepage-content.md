@@ -1,5 +1,5 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch 12 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batches 11 & 12 added).
 
 ## Hero block
 **Headline:** One network. 676 AI apps. Zero friction.
@@ -10,8 +10,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch
 - **[AI Sales Email Copilot](https://ziontechgroup.com/ai-sales-email-copilot/)** — draft, personalize and A/B-test outbound sales emails. [GitHub](https://github.com/Zion-support/ai-sales-email-copilot)
 - **[Compliance Policy Writer](https://ziontechgroup.com/compliance-policy-writer/)** — audit-ready SOC2/ISO/GDPR/HIPAA policies in minutes. [GitHub](https://github.com/Zion-support/compliance-policy-writer)
 - **[Vendor Risk Scorecard](https://ziontechgroup.com/vendor-risk-scorecard/)** — score and monitor vendor security & finance risk. [GitHub](https://github.com/Zion-support/vendor-risk-scorecard)
-- **[Uptime Status Hub](https://ziontechgroup.com/uptime-status-hub/)** — status pages and uptime monitoring with incident comms. [GitHub](https://github.com/Zion-support/uptime-status-hub)
-- **[SEO Content Optimizer](https://ziontechgroup.com/seo-content-optimizer/)** — keywords, meta, internal links and content briefs. [GitHub](https://github.com/Zion-support/seo-content-optimizer)
+- **[Uptime Status Hub](https://ziontechgroup.com/uptime-status-hub/)** — status pages & uptime monitoring with incident comms. [GitHub](https://github.com/Zion-support/uptime-status-hub)
+- **[SEO Content Optimizer](https://ziontechgroup.com/seo-content-optimizer/)** — keywords, meta, internal links & content briefs. [GitHub](https://github.com/Zion-support/seo-content-optimizer)
 - **[Knowledge Base Copilot](https://ziontechgroup.com/knowledge-base-copilot/)** — RAG answers from your docs with citations. [GitHub](https://github.com/Zion-support/knowledge-base-copilot)
 
 ## Featured apps (batch 11)
