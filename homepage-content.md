@@ -1,7 +1,7 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for the https://ziontechgroup.com homepage. Generated 2026-09-23.
+Copy-paste ready blocks for https://ziontechgroup.com. Generated 2026-09-23.
 
-## Hero block (suggested)
+## Hero block
 **Headline:** One network. 658 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
@@ -19,7 +19,7 @@ Copy-paste ready blocks for the https://ziontechgroup.com homepage. Generated 20
 - 🤖 129 Zion AI suite apps
 - 🏗️ 145 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- **Total: 658 apps** — full directory: https://ziontechgroup.com/zion-app-network/
+- **Total: 658 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
