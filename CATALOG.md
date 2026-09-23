@@ -1,6 +1,6 @@
 # Zion App Network — Master Catalog
 
-670 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+676 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
 
 ## Network Hubs
 
@@ -74,6 +74,24 @@ Global field-dispatch network: country desks, city satellites, and vertical play
 - Regional desks: [zion-field-americas](https://github.com/Zion-support/zion-field-americas) · [zion-field-emea](https://github.com/Zion-support/zion-field-emea) · [zion-field-apac](https://github.com/Zion-support/zion-field-apac) · [zion-field-africa](https://github.com/Zion-support/zion-field-africa)
 - Vendor desks: [zion-field-dell](https://github.com/Zion-support/zion-field-dell) · [zion-field-hpe](https://github.com/Zion-support/zion-field-hpe) · [zion-field-lenovo](https://github.com/Zion-support/zion-field-lenovo)
 - 270+ country/city/vertical satellites under the `zion-field-*` namespace (countries, cities, and industries such as healthcare, banking, energy, telecom, logistics, pharma, retail, manufacturing and more).
+
+## Batch 11 — Service Ops & Reliability (2026-09-23)
+
+- [site-uptime-watchdog](https://github.com/Zion-support/site-uptime-watchdog) — AI uptime monitoring & status comms — https://ziontechgroup.com/site-uptime-watchdog/
+- [quote-builder-ai](https://github.com/Zion-support/quote-builder-ai) — instant accurate service quotes — https://ziontechgroup.com/quote-builder-ai/
+- [dispatch-window-optimizer](https://github.com/Zion-support/dispatch-window-optimizer) — first-time-fix service windows — https://ziontechgroup.com/dispatch-window-optimizer/
+- [asset-lifecycle-tracker](https://github.com/Zion-support/asset-lifecycle-tracker) — procurement-to-retirement IT asset tracking — https://ziontechgroup.com/asset-lifecycle-tracker/
+- [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster) — SLA breach prediction & interventions — https://ziontechgroup.com/sla-risk-forecaster/
+- [knowledge-gap-finder](https://github.com/Zion-support/knowledge-gap-finder) — KB gap, staleness & conflict audits — https://ziontechgroup.com/knowledge-gap-finder/
+
+## Batch 10 — Field, Finance & Legal Ops (2026-09-23)
+
+- [energy-usage-optimizer](https://github.com/Zion-support/energy-usage-optimizer) — facility energy analytics & load shifting — https://ziontechgroup.com/energy-usage-optimizer/
+- [warehouse-slotting-ai](https://github.com/Zion-support/warehouse-slotting-ai) — SKU placement & pick-path optimization — https://ziontechgroup.com/warehouse-slotting-ai/
+- [onboarding-buddy-ai](https://github.com/Zion-support/onboarding-buddy-ai) — guided role-based onboarding — https://ziontechgroup.com/onboarding-buddy-ai/
+- [contract-clause-sentry](https://github.com/Zion-support/contract-clause-sentry) — clause-level contract risk & redlines — https://ziontechgroup.com/contract-clause-sentry/
+- [route-density-planner](https://github.com/Zion-support/route-density-planner) — field routing density clustering — https://ziontechgroup.com/route-density-planner/
+- [maintenance-ticket-triage](https://github.com/Zion-support/maintenance-ticket-triage) — auto ticket classification & routing — https://ziontechgroup.com/maintenance-ticket-triage/
 
 ## Batch 12 — GTM, Compliance & Support Tooling (2026-09-23)
 
