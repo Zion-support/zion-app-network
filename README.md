@@ -1,13 +1,33 @@
 # Zion App Network — Master Directory
 
-**688 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**702 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ✨ Featured — batch 14 (new)
+## ✨ Featured — batch 16 (new)
+
+- [Voice of Customer Hub](https://github.com/Zion-support/voice-of-customer-hub) — https://ziontechgroup.com/voice-of-customer-hub/ — reviews, tickets, surveys & social mentions unified with AI themes
+- [License Renewal Planner](https://github.com/Zion-support/license-renewal-planner) — https://ziontechgroup.com/license-renewal-planner/ — software licenses, renewals & true-up exposure in one place
+- [Returns Optimization AI](https://github.com/Zion-support/returns-optimization-ai) — https://ziontechgroup.com/returns-optimization-ai/ — cut return rates and costs with AI root-cause analysis
+- [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/ — detect delays early, notify customers proactively
+- [Data Retention Enforcer](https://github.com/Zion-support/data-retention-enforcer) — https://ziontechgroup.com/data-retention-enforcer/ — retention schedules, legal holds & deletion proof
+- [Accessibility Statement Gen](https://github.com/Zion-support/accessibility-statement-gen) — https://ziontechgroup.com/accessibility-statement-gen/ — WCAG-compliant statements & audit evidence
+
+## ✨ Featured — batch 15
+
+- [AI Ticket Sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel) — https://ziontechgroup.com/zion-ai-ticket-sentinel/ — classifies, prioritizes and routes support tickets with AI
+- [AI Dispatch Orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator) — https://ziontechgroup.com/zion-ai-dispatch-orchestrator/ — smart scheduling & dispatch of field engineers by location, skill and SLA
+- [Driver Hours Compliance](https://github.com/Zion-support/driver-hours-compliance) — https://ziontechgroup.com/driver-hours-compliance/ — hours-of-service compliance tracking & violation alerts for fleets
+- [Dock Appointment Scheduler](https://github.com/Zion-support/dock-appointment-scheduler) — https://ziontechgroup.com/dock-appointment-scheduler/ — warehouse dock scheduling with carrier self-service & dwell analytics
+- [Vendor Questionnaire Autopilot](https://github.com/Zion-support/vendor-questionnaire-autopilot) — https://ziontechgroup.com/vendor-questionnaire-autopilot/ — auto-answer vendor security questionnaires from your evidence library
+- [Customs Doc Generator](https://github.com/Zion-support/customs-doc-generator) — https://ziontechgroup.com/customs-doc-generator/ — cross-border shipping & customs documents with AI validation
+- [Security Awareness Coach](https://github.com/Zion-support/security-awareness-coach) — https://ziontechgroup.com/security-awareness-coach/ — AI security training, phishing coaching & risk scoring per employee
+- [Patch Priority Radar](https://github.com/Zion-support/patch-priority-radar) — https://ziontechgroup.com/patch-priority-radar/ — prioritize patches by exploitability, asset criticality & exposure
+
+## ✨ Featured — batch 14
 
 - [Partner Referral Tracker](https://github.com/Zion-support/partner-referral-tracker) — https://ziontechgroup.com/partner-referral-tracker/ — referrals, commissions & pipeline attribution
 - [Incident Comms Writer](https://github.com/Zion-support/incident-comms-writer) — https://ziontechgroup.com/incident-comms-writer/ — incident updates for status pages & regulators
@@ -64,9 +84,9 @@
 ## Directory
 
 - **AI Tools & Calculators (107)** — e.g. [ai-accessibility-auditor](https://ziontechgroup.com/ai-accessibility-auditor/), [ai-agent-fleet](https://ziontechgroup.com/ai-agent-fleet/), [ai-roi-calculator](https://ziontechgroup.com/ai-roi-calculator/)
-- **Zion AI App Suite (129)** — e.g. [zion-ai-agent-builder](https://ziontechgroup.com/zion-ai-agent-builder/), [zion-ai-ticket-triage](https://ziontechgroup.com/zion-ai-ticket-triage/), [zion-ai-spare-parts-matcher](https://ziontechgroup.com/zion-ai-spare-parts-matcher/)
+- **Zion AI App Suite (131)** — e.g. [zion-ai-ticket-sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/), [zion-ai-dispatch-orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/), [zion-ai-agent-builder](https://ziontechgroup.com/zion-ai-agent-builder/)
 - **Zion Platform & Core (65)** — e.g. [zion-agentforge](https://ziontechgroup.com/zion-agentforge/), [zion-constellation](https://ziontechgroup.com/zion-constellation/), [zion-content-studio](https://ziontechgroup.com/zion-content-studio/)
-- **Tools & Utilities (80)** — e.g. [accessibility-checker](https://ziontechgroup.com/accessibility-checker/), [agent-sla-monitor](https://ziontechgroup.com/agent-sla-monitor/), [blog](https://ziontechgroup.com/blog/)
+- **Tools & Utilities (92)** — e.g. [security-awareness-coach](https://ziontechgroup.com/security-awareness-coach/), [patch-priority-radar](https://ziontechgroup.com/patch-priority-radar/), [accessibility-checker](https://ziontechgroup.com/accessibility-checker/)
 - **Zion Field Satellite Playbooks (277)** — e.g. [zion-field](https://ziontechgroup.com/zion-field/), [zion-field-brazil](https://ziontechgroup.com/zion-field-brazil/), [zion-field-energy](https://ziontechgroup.com/zion-field-energy/)
 
 ## Interlinking standard
