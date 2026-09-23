@@ -1,0 +1,21 @@
+# Spotlight — September 23, 2026 Wave 2 (41 apps)
+
+Second wave of September 23, 2026 releases in the Zion App Network. Homepage version with live links: https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md · News hub: https://ziontechgroup.com/APP_NETWORK_LATEST.md
+
+- 💚 Customer Success: churn-risk-radar · customer-health-scorer · nps-insight-engine · upsell-signal-scout · onboarding-journey-tracker · support-sentiment-monitor · voice-of-customer-hub · support-deflection-analyzer
+- 📈 Sales & Marketing: ai-sales-email-copilot · proposal-builder-ai · content-roi-dashboard · seo-content-optimizer · partner-referral-tracker
+- ⏱️ SLA & Uptime: sla-risk-forecaster · sla-forecast-guardian · sla-breach-predictor · uptime-status-hub · site-uptime-watchdog · incident-comms-writer · maintenance-ticket-triage
+- 🛡️ Security & Compliance: patch-priority-radar · security-awareness-coach · vendor-risk-scorecard · vendor-questionnaire-autopilot · accessibility-statement-gen
+- 💰 Finance & ITAM: expense-audit-ai · cloud-budget-guard · license-renewal-planner · it-asset-lifecycle-tracker · contract-obligation-tracker
+- 🚚 Logistics: warehouse-slotting-ai · shipping-delay-alerter · returns-optimization-ai
+- 🧠 Knowledge & People: knowledge-base-copilot · knowledge-gap-finder · ai-meeting-notes-copilot · employee-engagement-pulse · onboarding-buddy-ai
+- 🛰️ Zion satellites: zion-ai-dispatch-orchestrator · zion-ai-ticket-sentinel · ai-smart-hands-scheduler · quote-builder-ai
+
+## Source repositories (all interlinked)
+
+https://github.com/Zion-support/churn-risk-radar · https://github.com/Zion-support/customer-health-scorer · https://github.com/Zion-support/nps-insight-engine · https://github.com/Zion-support/upsell-signal-scout · https://github.com/Zion-support/onboarding-journey-tracker · https://github.com/Zion-support/support-sentiment-monitor · https://github.com/Zion-support/voice-of-customer-hub · https://github.com/Zion-support/support-deflection-analyzer · https://github.com/Zion-support/ai-sales-email-copilot · https://github.com/Zion-support/proposal-builder-ai · https://github.com/Zion-support/content-roi-dashboard · https://github.com/Zion-support/seo-content-optimizer · https://github.com/Zion-support/partner-referral-tracker · https://github.com/Zion-support/sla-risk-forecaster · https://github.com/Zion-support/sla-forecast-guardian · https://github.com/Zion-support/sla-breach-predictor · https://github.com/Zion-support/uptime-status-hub · https://github.com/Zion-support/site-uptime-watchdog · https://github.com/Zion-support/incident-comms-writer · https://github.com/Zion-support/maintenance-ticket-triage · https://github.com/Zion-support/patch-priority-radar · https://github.com/Zion-support/security-awareness-coach · https://github.com/Zion-support/vendor-risk-scorecard · https://github.com/Zion-support/vendor-questionnaire-autopilot · https://github.com/Zion-support/accessibility-statement-gen · https://github.com/Zion-support/expense-audit-ai · https://github.com/Zion-support/cloud-budget-guard · https://github.com/Zion-support/license-renewal-planner · https://github.com/Zion-support/it-asset-lifecycle-tracker · https://github.com/Zion-support/contract-obligation-tracker · https://github.com/Zion-support/warehouse-slotting-ai · https://github.com/Zion-support/shipping-delay-alerter · https://github.com/Zion-support/returns-optimization-ai · https://github.com/Zion-support/knowledge-base-copilot · https://github.com/Zion-support/knowledge-gap-finder · https://github.com/Zion-support/ai-meeting-notes-copilot · https://github.com/Zion-support/employee-engagement-pulse · https://github.com/Zion-support/onboarding-buddy-ai · https://github.com/Zion-support/zion-ai-dispatch-orchestrator · https://github.com/Zion-support/zion-ai-ticket-sentinel · https://github.com/Zion-support/ai-smart-hands-scheduler · https://github.com/Zion-support/quote-builder-ai
+
+Related: [SPOTLIGHT-2026-09-23.md](../SPOTLIGHT-2026-09-23.md) · [SPOTLIGHTS.md](SPOTLIGHTS.md) · [NEW_APPS_SPOTLIGHT.md](NEW_APPS_SPOTLIGHT.md) · Wave 1 homepage spotlight: https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_SEP23.md
+
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com · Master directory: https://ziontechgroup.com/zion-app-network/
