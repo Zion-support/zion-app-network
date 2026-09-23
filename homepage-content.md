@@ -1,12 +1,30 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batches 13 & 14 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batches 15 & 16 added).
 
 ## Hero block
-**Headline:** One network. 688 AI apps. Zero friction.
+**Headline:** One network. 702 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
-## Featured new apps (batch 14 — NEW)
+## Featured new apps (batch 16 — NEW)
+- **[Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/)** — reviews, tickets, surveys and social mentions unified with AI themes. [GitHub](https://github.com/Zion-support/voice-of-customer-hub)
+- **[License Renewal Planner](https://ziontechgroup.com/license-renewal-planner/)** — software licenses, renewals and true-up exposure in one place. [GitHub](https://github.com/Zion-support/license-renewal-planner)
+- **[Returns Optimization AI](https://ziontechgroup.com/returns-optimization-ai/)** — cut return rates and costs with AI root-cause analysis. [GitHub](https://github.com/Zion-support/returns-optimization-ai)
+- **[Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/)** — detect shipment delays early and notify customers proactively. [GitHub](https://github.com/Zion-support/shipping-delay-alerter)
+- **[Data Retention Enforcer](https://ziontechgroup.com/data-retention-enforcer/)** — retention schedules, legal holds and deletion proof. [GitHub](https://github.com/Zion-support/data-retention-enforcer)
+- **[Accessibility Statement Gen](https://ziontechgroup.com/accessibility-statement-gen/)** — WCAG-compliant accessibility statements and audit evidence. [GitHub](https://github.com/Zion-support/accessibility-statement-gen)
+
+## Featured apps (batch 15)
+- **[AI Ticket Sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/)** — classifies, prioritizes and routes support tickets with AI. [GitHub](https://github.com/Zion-support/zion-ai-ticket-sentinel)
+- **[AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/)** — smart scheduling and dispatch of field engineers by location, skill and SLA. [GitHub](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
+- **[Driver Hours Compliance](https://ziontechgroup.com/driver-hours-compliance/)** — hours-of-service compliance tracking and violation alerts for fleets. [GitHub](https://github.com/Zion-support/driver-hours-compliance)
+- **[Dock Appointment Scheduler](https://ziontechgroup.com/dock-appointment-scheduler/)** — warehouse dock scheduling with carrier self-service and dwell analytics. [GitHub](https://github.com/Zion-support/dock-appointment-scheduler)
+- **[Vendor Questionnaire Autopilot](https://ziontechgroup.com/vendor-questionnaire-autopilot/)** — auto-answer vendor security questionnaires from your evidence library. [GitHub](https://github.com/Zion-support/vendor-questionnaire-autopilot)
+- **[Customs Doc Generator](https://ziontechgroup.com/customs-doc-generator/)** — cross-border shipping and customs documents with AI validation. [GitHub](https://github.com/Zion-support/customs-doc-generator)
+- **[Security Awareness Coach](https://ziontechgroup.com/security-awareness-coach/)** — AI security awareness training, phishing coaching and risk scoring. [GitHub](https://github.com/Zion-support/security-awareness-coach)
+- **[Patch Priority Radar](https://ziontechgroup.com/patch-priority-radar/)** — prioritize patches by exploitability, asset criticality and exposure. [GitHub](https://github.com/Zion-support/patch-priority-radar)
+
+## Featured apps (batch 14)
 - **[Partner Referral Tracker](https://ziontechgroup.com/partner-referral-tracker/)** — track referrals, commissions and pipeline attribution. [GitHub](https://github.com/Zion-support/partner-referral-tracker)
 - **[Incident Comms Writer](https://ziontechgroup.com/incident-comms-writer/)** — incident updates for status pages, customers and regulators in minutes. [GitHub](https://github.com/Zion-support/incident-comms-writer)
 - **[Cloud Budget Guard](https://ziontechgroup.com/cloud-budget-guard/)** — budget guardrails with anomaly alerts and auto-remediation. [GitHub](https://github.com/Zion-support/cloud-budget-guard)
@@ -56,11 +74,11 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch
 
 ## Network stats strip
 - 🧰 107 AI tools & calculators
-- 🤖 129 Zion AI suite apps
-- 🛠️ 145 platform & utilities
+- 🤖 131 Zion AI suite apps
+- 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 30 new featured apps (batches 9–14)
-- **Total: 688 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 44 new featured apps (batches 9–16)
+- **Total: 702 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
