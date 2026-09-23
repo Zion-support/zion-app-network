@@ -1,20 +1,22 @@
 # Zion App Network — Master Directory
 
-**664 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**670 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## Suite docs
-- 🛠️ [Developer & SRE Tools Suite](docs/DEV_SRE_TOOLS_SUITE.md) — free utilities: regex, mock APIs, SLO math, postmortems, ROI
-- 📈 [Sales & Marketing AI Suite](docs/SALES_MARKETING_SUITE.md) — attract → score → engage → propose → close → learn
-- 🛡️ [SecOps & Reliability Suite](docs/SECOPS_RELIABILITY_SUITE.md) — prevent → detect → respond → learn → prove
-- 🧰 [Field Services Suite](docs/FIELD_SERVICES_SUITE.md) — quote → dispatch → survey → parts → warranty → RMA
-- 🚀 [New Apps Spotlight](docs/NEW_APPS_SPOTLIGHT.md)
+## 🆕 Featured — batch 12 (new)
 
-## 🆕 Featured — batch 11 (new)
+- [AI Sales Email Copilot](https://github.com/Zion-support/ai-sales-email-copilot) — https://ziontechgroup.com/ai-sales-email-copilot/ — draft, personalize and A/B-test outbound sales emails
+- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/ — audit-ready SOC2/ISO/GDPR/HIPAA policies
+- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/ — score & monitor vendor security/finance risk
+- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/ — status pages & uptime monitoring with incident comms
+- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/ — keywords, meta, internal links & content briefs
+- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/ — RAG answers from your docs with citations
+
+## ✨ Featured — batch 11
 
 - [AI Deepfake Detector](https://github.com/Zion-support/ai-deepfake-detector) — https://ai-deepfake-detector.ziontechgroup.com — verify content authenticity
 - [AI Benchmark Tracker](https://github.com/Zion-support/ai-benchmark-tracker) — https://ai-benchmark-tracker.ziontechgroup.com — compare AI model performance
@@ -32,7 +34,7 @@
 - [FinOps Spend Analyzer](https://github.com/Zion-support/finops-spend-analyzer) — https://ziontechgroup.com/finops-spend-analyzer/ — cloud waste & savings
 - [Managed IT Health Check](https://github.com/Zion-support/managed-it-health-check) — https://ziontechgroup.com/managed-it-health-check/ — infra/security self-assessment
 
-## ⭐ Featured — batch 10
+## ✨ Featured — batch 10
 
 - [Energy Usage Optimizer](https://github.com/Zion-support/energy-usage-optimizer) — https://ziontechgroup.com/energy-usage-optimizer/ — facility energy analytics, tariff-window load shifting
 - [Warehouse Slotting AI](https://github.com/Zion-support/warehouse-slotting-ai) — https://ziontechgroup.com/warehouse-slotting-ai/ — SKU placement & pick-path optimization
@@ -41,7 +43,7 @@
 - [Route Density Planner](https://github.com/Zion-support/route-density-planner) — https://ziontechgroup.com/route-density-planner/ — field routing density clustering
 - [Maintenance Ticket Triage](https://github.com/Zion-support/maintenance-ticket-triage) — https://ziontechgroup.com/maintenance-ticket-triage/ — auto ticket classification & routing
 
-## ⭐ Featured — batch 9
+## ✨ Featured — batch 9
 
 - [Invoice Match AI](https://ziontechgroup.com/invoice-match-ai/) — invoice-to-PO matching, duplicate-billing detection
 - [Field Safety Brief](https://ziontechgroup.com/field-safety-brief/) — site hazard briefings, PPE, JSAs
@@ -55,11 +57,11 @@
 - **AI Tools & Calculators (107)** — e.g. [ai-accessibility-auditor](https://ziontechgroup.com/ai-accessibility-auditor/), [ai-agent-fleet](https://ziontechgroup.com/ai-agent-fleet/), [ai-roi-calculator](https://ziontechgroup.com/ai-roi-calculator/)
 - **Zion AI App Suite (129)** — e.g. [zion-ai-agent-builder](https://ziontechgroup.com/zion-ai-agent-builder/), [zion-ai-ticket-triage](https://ziontechgroup.com/zion-ai-ticket-triage/), [zion-ai-spare-parts-matcher](https://ziontechgroup.com/zion-ai-spare-parts-matcher/)
 - **Zion Platform & Core (65)** — e.g. [zion-agentforge](https://ziontechgroup.com/zion-agentforge/), [zion-constellation](https://ziontechgroup.com/zion-constellation/), [zion-content-studio](https://ziontechgroup.com/zion-content-studio/)
-- **Tools & Utilities (80)** — e.g. [regex-builder](https://ziontechgroup.com/regex-builder/), [slo-calculator](https://ziontechgroup.com/slo-calculator/), [mock-api-generator](https://ziontechgroup.com/mock-api-generator/), [postmortem-generator](https://ziontechgroup.com/postmortem-generator/), [green-cloud-picker](https://ziontechgroup.com/green-cloud-picker/), [token-context-calculator](https://ziontechgroup.com/token-context-calculator/), [roi-calculator](https://ziontechgroup.com/roi-calculator/), [agent-sla-monitor](https://ziontechgroup.com/agent-sla-monitor/), [blog](https://ziontechgroup.com/blog/)
-- **Zion Field Satellite Playbooks (277)** — e.g. [zion-field](https://ziontechgroup.com/zion-field/), [zion-field-brazil](https://ziontechgroup.com/zion-field-brazil/), [zion-field-energy](https://ziontechgroup.com/zion-field-energy/) · playbook libraries: [zion-field-playbooks](https://github.com/Zion-support/zion-field-playbooks) · [zion-field-pt](https://github.com/Zion-support/zion-field-pt) · [zion-field-es](https://github.com/Zion-support/zion-field-es) · [zion-field-residency](https://github.com/Zion-support/zion-field-residency) · [zion-field-parts](https://github.com/Zion-support/zion-field-parts)
+- **Tools & Utilities (80)** — e.g. [accessibility-checker](https://ziontechgroup.com/accessibility-checker/), [agent-sla-monitor](https://ziontechgroup.com/agent-sla-monitor/), [blog](https://ziontechgroup.com/blog/)
+- **Zion Field Satellite Playbooks (277)** — e.g. [zion-field](https://ziontechgroup.com/zion-field/), [zion-field-brazil](https://ziontechgroup.com/zion-field-brazil/), [zion-field-energy](https://ziontechgroup.com/zion-field-energy/)
 
 ## Interlinking standard
-Every app repo ships index.html (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 2–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
+Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 2–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
 
 Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com.
 
