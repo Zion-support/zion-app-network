@@ -1,6 +1,6 @@
 # Zion App Network — Master Catalog
 
-664 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+670 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
 
 ## Network Hubs
 
@@ -13,25 +13,6 @@
 - [agents](https://github.com/Zion-support/agents)
 - [ai-services](https://github.com/Zion-support/ai-services)
 - [blog](https://github.com/Zion-support/blog) · [case-studies](https://github.com/Zion-support/case-studies) · [success-stories](https://github.com/Zion-support/success-stories) · [partners](https://github.com/Zion-support/partners) · [plans](https://github.com/Zion-support/plans) · [zion-plans](https://github.com/Zion-support/zion-plans) · [zion-status](https://github.com/Zion-support/zion-status) · [zion-support.github.io](https://github.com/Zion-support/zion-support.github.io)
-
-
-## Featured New Apps — Batch 10 (2026-09-23)
-
-- [energy-usage-optimizer](https://github.com/Zion-support/energy-usage-optimizer) — facility energy analytics & tariff-window load shifting · https://ziontechgroup.com/energy-usage-optimizer/
-- [warehouse-slotting-ai](https://github.com/Zion-support/warehouse-slotting-ai) — SKU placement & pick-path optimization · https://ziontechgroup.com/warehouse-slotting-ai/
-- [onboarding-buddy-ai](https://github.com/Zion-support/onboarding-buddy-ai) — guided role-based employee onboarding · https://ziontechgroup.com/onboarding-buddy-ai/
-- [contract-clause-sentry](https://github.com/Zion-support/contract-clause-sentry) — clause-level contract risk & redlines · https://ziontechgroup.com/contract-clause-sentry/
-- [route-density-planner](https://github.com/Zion-support/route-density-planner) — field routing density clustering · https://ziontechgroup.com/route-density-planner/
-- [maintenance-ticket-triage](https://github.com/Zion-support/maintenance-ticket-triage) — auto ticket classification & routing · https://ziontechgroup.com/maintenance-ticket-triage/
-
-## Featured Apps — Batch 9
-
-- [invoice-match-ai](https://github.com/Zion-support/invoice-match-ai) · https://ziontechgroup.com/invoice-match-ai/
-- [field-safety-brief](https://github.com/Zion-support/field-safety-brief) · https://ziontechgroup.com/field-safety-brief/
-- [fleet-fuel-optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) · https://ziontechgroup.com/fleet-fuel-optimizer/
-- [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) · https://ziontechgroup.com/contract-renewal-radar/
-- [technician-coach-ai](https://github.com/Zion-support/technician-coach-ai) · https://ziontechgroup.com/technician-coach-ai/
-- [spare-price-scout](https://github.com/Zion-support/spare-price-scout) · https://ziontechgroup.com/spare-price-scout/
 
 ## Agents & Orchestration
 
@@ -93,6 +74,15 @@ Global field-dispatch network: country desks, city satellites, and vertical play
 - Regional desks: [zion-field-americas](https://github.com/Zion-support/zion-field-americas) · [zion-field-emea](https://github.com/Zion-support/zion-field-emea) · [zion-field-apac](https://github.com/Zion-support/zion-field-apac) · [zion-field-africa](https://github.com/Zion-support/zion-field-africa)
 - Vendor desks: [zion-field-dell](https://github.com/Zion-support/zion-field-dell) · [zion-field-hpe](https://github.com/Zion-support/zion-field-hpe) · [zion-field-lenovo](https://github.com/Zion-support/zion-field-lenovo)
 - 270+ country/city/vertical satellites under the `zion-field-*` namespace (countries, cities, and industries such as healthcare, banking, energy, telecom, logistics, pharma, retail, manufacturing and more).
+
+## Batch 12 — GTM, Compliance & Support Tooling (2026-09-23)
+
+- [ai-sales-email-copilot](https://github.com/Zion-support/ai-sales-email-copilot) — AI Sales Email Copilot: draft, personalize and A/B-test outbound sales emails — https://ziontechgroup.com/ai-sales-email-copilot/
+- [compliance-policy-writer](https://github.com/Zion-support/compliance-policy-writer) — Compliance Policy Writer: audit-ready SOC2/ISO/GDPR/HIPAA policies — https://ziontechgroup.com/compliance-policy-writer/
+- [vendor-risk-scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — Vendor Risk Scorecard: score & monitor vendor security/finance risk — https://ziontechgroup.com/vendor-risk-scorecard/
+- [uptime-status-hub](https://github.com/Zion-support/uptime-status-hub) — Uptime Status Hub: status pages & uptime monitoring with incident comms — https://ziontechgroup.com/uptime-status-hub/
+- [seo-content-optimizer](https://github.com/Zion-support/seo-content-optimizer) — SEO Content Optimizer: keywords, meta, internal links & content briefs — https://ziontechgroup.com/seo-content-optimizer/
+- [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot) — Knowledge Base Copilot: RAG answers from your docs with citations — https://ziontechgroup.com/knowledge-base-copilot/
 
 ---
 *Maintained by Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
