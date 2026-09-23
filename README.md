@@ -1,20 +1,29 @@
 # Zion App Network — Master Directory
 
-**702 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**703 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ✨ Featured — batch 17 (new) — Customer Success AI Suite
+## ✨ Featured — batch 17 (new) — AI Agent Orchestration & Platform
 
-- [Onboarding Journey Tracker](https://github.com/Zion-support/onboarding-journey-tracker) — https://ziontechgroup.com/onboarding-journey-tracker/ — milestones, time-to-value & stalled accounts
-- [Customer Health Scorer](https://github.com/Zion-support/customer-health-scorer) — https://ziontechgroup.com/customer-health-scorer/ — unified health from usage, support & billing
-- [Support Sentiment Monitor](https://github.com/Zion-support/support-sentiment-monitor) — https://ziontechgroup.com/support-sentiment-monitor/ — real-time sentiment across tickets, chats & calls
-- [NPS Insight Engine](https://github.com/Zion-support/nps-insight-engine) — https://ziontechgroup.com/nps-insight-engine/ — AI themes, drivers & detractor rescue
-- [Churn Risk Radar](https://github.com/Zion-support/churn-risk-radar) — https://ziontechgroup.com/churn-risk-radar/ — churn prediction, save plays & exec alerts
-- [Upsell Signal Scout](https://github.com/Zion-support/upsell-signal-scout) — https://ziontechgroup.com/upsell-signal-scout/ — expansion signals from product usage
+- [AI Agent Swarm](https://github.com/Zion-support/ai-agent-swarm) — https://ziontechgroup.com/ai-agent-swarm/ — coordinate multiple AI agents as a unified swarm for complex multi-step tasks
+- [AI Agent Swarm v2](https://github.com/Zion-support/ai-agent-swarm-v2) — https://ziontechgroup.com/ai-agent-swarm-v2/ — advanced swarm intelligence with consensus algorithms for multi-agent systems
+- [AI Agent Fleet](https://github.com/Zion-support/ai-agent-fleet) — https://ziontechgroup.com/ai-agent-fleet/ — orchestrate and manage fleets of AI agents for enterprise-scale automation
+- [AI Agent Workflow](https://github.com/Zion-support/ai-agent-workflow) — https://ziontechgroup.com/ai-agent-workflow/ — design and execute complex multi-agent workflows with conditional logic
+- [AI Automation Builder](https://github.com/Zion-support/ai-automation-builder) — https://ziontechgroup.com/ai-automation-builder/ — visual no-code automation workflow builder with AI-powered logic
+- [AI Benchmark Lab](https://github.com/Zion-support/ai-benchmark-lab) — https://ziontechgroup.com/ai-benchmark-lab/ — run and compare AI model benchmarks in controlled environments
+- [AI Safety Suite](https://github.com/Zion-support/ai-ai-safety) — https://ziontechgroup.com/ai-ai-safety/ — AI safety testing, red-teaming and safety evaluation framework
+- [AI Audio Transcriber](https://github.com/Zion-support/ai-audio-transcriber) — https://ziontechgroup.com/ai-audio-transcriber/ — speech-to-text with speaker diarization and transcript summarization
+- [AI Audio Engine](https://github.com/Zion-support/ai-audio-engine) — https://ziontechgroup.com/ai-audio-engine/ — professional audio processing, synthesis and sound design powered by AI
+- [AI Avatar Generator](https://github.com/Zion-support/ai-avatar-generator) — https://ziontechgroup.com/ai-avatar-generator/ — personalized 3D avatars and digital identities with AI
+- [AI Arbitrage Finder](https://github.com/Zion-support/ai-arbitrage-finder) — https://ziontechgroup.com/ai-arbitrage-finder/ — real-time arbitrage opportunity detection across markets and exchanges
+- [Churn Radar](https://github.com/Zion-support/churn-radar) — https://ziontechgroup.com/churn-radar/ — customer health scoring & churn prediction
+- [AI Retail Commerce Hub](https://github.com/Zion-support/ai-retail-commerce-hub) — https://ziontechgroup.com/ai-retail-commerce-hub/ — e-commerce and retail AI — merchandising, pricing, personalization
+- [AI Financial Services Suite](https://github.com/Zion-support/ai-financial-services-suite) — https://ziontechgroup.com/ai-financial-services-suite/ — banking, lending, and investment AI
+- [AI Smart Hands Scheduler](https://github.com/Zion-support/ai-smart-hands-scheduler) — https://ziontechgroup.com/ai-smart-hands-scheduler/ — schedule remote smart-hands work with skill & SLA matching
 
 ## ✨ Featured — batch 16
 
@@ -104,9 +113,8 @@
 - [docs/SECOPS_RELIABILITY_SUITE.md](docs/SECOPS_RELIABILITY_SUITE.md) — SecOps & reliability pipeline (prevent → detect → respond → learn → prove)
 - [docs/SALES_MARKETING_SUITE.md](docs/SALES_MARKETING_SUITE.md) — sales & marketing AI toolchain
 - [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
-- [docs/CUSTOMER_SUCCESS_SUITE.md](docs/CUSTOMER_SUCCESS_SUITE.md) — post-sale journey (onboarding → health → churn → expansion)
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
-- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Customer Success Suite](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md)
+- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [AI Agent Orchestration](https://ziontechgroup.com/apps/ai-agent-orchestration.html)
 
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
