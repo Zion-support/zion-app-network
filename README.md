@@ -11,10 +11,10 @@
 
 - [AI Sales Email Copilot](https://github.com/Zion-support/ai-sales-email-copilot) — https://ziontechgroup.com/ai-sales-email-copilot/ — draft, personalize & A/B-test outbound emails
 - [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/ — audit-ready SOC2/ISO/GDPR/HIPAA policies
-- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/ — vendor security & finance risk scoring
-- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/ — status pages & incident comms
-- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/ — keywords, meta, internal links & briefs
-- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/ — RAG answers from your docs with citations
+- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/ — vendor security/finance risk scoring
+- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/ — status pages & uptime monitoring
+- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/ — keywords, meta & internal links
+- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/ — RAG answers from your docs
 
 ## ✨ Featured — batch 11
 
