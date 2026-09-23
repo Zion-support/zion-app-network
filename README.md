@@ -7,41 +7,23 @@
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## 🆕 Featured — batch 12 (new)
+## ✨ Featured — batch 11 (new)
 
-- [AI Sales Email Copilot](https://github.com/Zion-support/ai-sales-email-copilot) — https://ziontechgroup.com/ai-sales-email-copilot/ — draft, personalize and A/B-test outbound sales emails
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/ — audit-ready SOC2/ISO/GDPR/HIPAA policies
-- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/ — score & monitor vendor security/finance risk
-- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/ — status pages & uptime monitoring with incident comms
-- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/ — keywords, meta, internal links & content briefs
-- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/ — RAG answers from your docs with citations
-
-## ✨ Featured — batch 11
-
-- [AI Deepfake Detector](https://github.com/Zion-support/ai-deepfake-detector) — https://ai-deepfake-detector.ziontechgroup.com — verify content authenticity
-- [AI Benchmark Tracker](https://github.com/Zion-support/ai-benchmark-tracker) — https://ai-benchmark-tracker.ziontechgroup.com — compare AI model performance
-- [AI Audit Logger](https://github.com/Zion-support/ai-audit-logger) — https://ai-audit-logger.ziontechgroup.com — AI audit logging & compliance tracking
-- [Zion AI Threat Brief](https://github.com/Zion-support/zion-ai-threat-brief) — https://threat-brief.ziontechgroup.com — weekly cyber threat intel briefs
-- [Zion AI Readiness Quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) — https://aireadiness.ziontechgroup.com — score your company's AI readiness
-- [Zion AI Model Arena](https://github.com/Zion-support/zion-ai-model-arena) — https://modelarena.ziontechgroup.com — LLM price/context/benchmark comparison
-- [K8s Pod Security Scanner](https://github.com/Zion-support/k8s-pod-security-scanner) — https://ziontechgroup.com/k8s-pod-security-scanner/ — Pod Security Standards checks
-- [Tech Debt Radar](https://github.com/Zion-support/tech-debt-radar) — https://ziontechgroup.com/tech-debt-radar/ — visualize & prioritize technical debt
-- [Log Anomaly Spotter](https://github.com/Zion-support/log-anomaly-spotter) — https://ziontechgroup.com/log-anomaly-spotter/ — detect log anomalies & error spikes
-- [Cloud Architect Diagram Builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — https://ziontechgroup.com/cloud-architect-diagram-builder/ — AWS/Azure/GCP diagrams
-- [Cloud Migration Calculator](https://github.com/Zion-support/cloud-migration-calculator) — https://ziontechgroup.com/cloud-migration-calculator/ — on-prem vs cloud TCO
-- [Vendor Matrix Compare](https://github.com/Zion-support/vendor-matrix-compare) — https://ziontechgroup.com/vendor-matrix-compare/ — side-by-side vendor scoring
-- [Contract Clause Reviewer](https://github.com/Zion-support/contract-clause-reviewer) — https://ziontechgroup.com/contract-clause-reviewer/ — flag risky IT/AI clauses
-- [FinOps Spend Analyzer](https://github.com/Zion-support/finops-spend-analyzer) — https://ziontechgroup.com/finops-spend-analyzer/ — cloud waste & savings
-- [Managed IT Health Check](https://github.com/Zion-support/managed-it-health-check) — https://ziontechgroup.com/managed-it-health-check/ — infra/security self-assessment
+- [Site Uptime Watchdog](https://github.com/Zion-support/site-uptime-watchdog) — https://ziontechgroup.com/site-uptime-watchdog/ — AI uptime monitoring & status comms
+- [Quote Builder AI](https://github.com/Zion-support/quote-builder-ai) — https://ziontechgroup.com/quote-builder-ai/ — instant accurate service quotes
+- [Dispatch Window Optimizer](https://github.com/Zion-support/dispatch-window-optimizer) — https://ziontechgroup.com/dispatch-window-optimizer/ — first-time-fix service windows
+- [Asset Lifecycle Tracker](https://github.com/Zion-support/asset-lifecycle-tracker) — https://ziontechgroup.com/asset-lifecycle-tracker/ — procurement-to-retirement tracking
+- [SLA Risk Forecaster](https://github.com/Zion-support/sla-risk-forecaster) — https://ziontechgroup.com/sla-risk-forecaster/ — breach prediction & interventions
+- [Knowledge Gap Finder](https://github.com/Zion-support/knowledge-gap-finder) — https://ziontechgroup.com/knowledge-gap-finder/ — KB gap, staleness & conflict audits
 
 ## ✨ Featured — batch 10
 
-- [Energy Usage Optimizer](https://github.com/Zion-support/energy-usage-optimizer) — https://ziontechgroup.com/energy-usage-optimizer/ — facility energy analytics, tariff-window load shifting
-- [Warehouse Slotting AI](https://github.com/Zion-support/warehouse-slotting-ai) — https://ziontechgroup.com/warehouse-slotting-ai/ — SKU placement & pick-path optimization
-- [Onboarding Buddy AI](https://github.com/Zion-support/onboarding-buddy-ai) — https://ziontechgroup.com/onboarding-buddy-ai/ — guided role-based employee onboarding
-- [Contract Clause Sentry](https://github.com/Zion-support/contract-clause-sentry) — https://ziontechgroup.com/contract-clause-sentry/ — clause-level contract risk & redlines
-- [Route Density Planner](https://github.com/Zion-support/route-density-planner) — https://ziontechgroup.com/route-density-planner/ — field routing density clustering
-- [Maintenance Ticket Triage](https://github.com/Zion-support/maintenance-ticket-triage) — https://ziontechgroup.com/maintenance-ticket-triage/ — auto ticket classification & routing
+- [Energy Usage Optimizer](https://github.com/Zion-support/energy-usage-optimizer) — https://ziontechgroup.com/energy-usage-optimizer/
+- [Warehouse Slotting AI](https://github.com/Zion-support/warehouse-slotting-ai) — https://ziontechgroup.com/warehouse-slotting-ai/
+- [Onboarding Buddy AI](https://github.com/Zion-support/onboarding-buddy-ai) — https://ziontechgroup.com/onboarding-buddy-ai/
+- [Contract Clause Sentry](https://github.com/Zion-support/contract-clause-sentry) — https://ziontechgroup.com/contract-clause-sentry/
+- [Route Density Planner](https://github.com/Zion-support/route-density-planner) — https://ziontechgroup.com/route-density-planner/
+- [Maintenance Ticket Triage](https://github.com/Zion-support/maintenance-ticket-triage) — https://ziontechgroup.com/maintenance-ticket-triage/
 
 ## ✨ Featured — batch 9
 
@@ -61,9 +43,9 @@
 - **Zion Field Satellite Playbooks (277)** — e.g. [zion-field](https://ziontechgroup.com/zion-field/), [zion-field-brazil](https://ziontechgroup.com/zion-field-brazil/), [zion-field-energy](https://ziontechgroup.com/zion-field-energy/)
 
 ## Interlinking standard
-Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 2–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
+Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
 
-Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com.
+Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Full repository catalog: [CATALOG.md](CATALOG.md).
 
 Full source listing: https://github.com/Zion-support
 
