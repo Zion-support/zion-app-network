@@ -1,28 +1,31 @@
-# Customer Success AI Suite
+# Customer Success Suite — Zion App Network
 
-Eight interconnected apps covering the post-sale journey: **onboarding → health → sentiment → churn → expansion**.
+Retain, expand and delight customers with an integrated AI toolchain: health → risk → sentiment → voice → expansion → onboarding.
 
-| Stage | App | Live | Repo |
-|---|---|---|---|
-| Onboarding | Onboarding Journey Tracker | https://ziontechgroup.com/onboarding-journey-tracker/ | [repo](https://github.com/Zion-support/onboarding-journey-tracker) |
-| Health | Customer Health Scorer | https://ziontechgroup.com/customer-health-scorer/ | [repo](https://github.com/Zion-support/customer-health-scorer) |
-| Sentiment | Support Sentiment Monitor | https://ziontechgroup.com/support-sentiment-monitor/ | [repo](https://github.com/Zion-support/support-sentiment-monitor) |
-| Voice | NPS Insight Engine | https://ziontechgroup.com/nps-insight-engine/ | [repo](https://github.com/Zion-support/nps-insight-engine) |
-| Retention | Churn Risk Radar | https://ziontechgroup.com/churn-risk-radar/ | [repo](https://github.com/Zion-support/churn-risk-radar) |
-| Expansion | Upsell Signal Scout | https://ziontechgroup.com/upsell-signal-scout/ | [repo](https://github.com/Zion-support/upsell-signal-scout) |
-| VoC | Voice of Customer Hub | https://ziontechgroup.com/voice-of-customer-hub/ | [repo](https://github.com/Zion-support/voice-of-customer-hub) |
-| Deflection | Support Deflection Analyzer | https://ziontechgroup.com/support-deflection-analyzer/ | [repo](https://github.com/Zion-support/support-deflection-analyzer) |
+## The pipeline
 
-## Signal flow
+1. **[Onboarding Journey Tracker](https://github.com/Zion-support/onboarding-journey-tracker)** — milestones, time-to-value and stalled-account alerts. Live: https://ziontechgroup.com/onboarding-journey-tracker/
+2. **[Customer Health Scorer](https://github.com/Zion-support/customer-health-scorer)** — unified health scoring from usage, support and billing. Live: https://ziontechgroup.com/customer-health-scorer/
+3. **[Support Sentiment Monitor](https://github.com/Zion-support/support-sentiment-monitor)** — real-time sentiment across tickets, chats and calls; feeds health scores. Live: https://ziontechgroup.com/support-sentiment-monitor/
+4. **[NPS Insight Engine](https://github.com/Zion-support/nps-insight-engine)** — AI themes and drivers from NPS/CSAT verbatims with rescue workflows. Live: https://ziontechgroup.com/nps-insight-engine/
+5. **[Voice of Customer Hub](https://github.com/Zion-support/voice-of-customer-hub)** — unify reviews, tickets, surveys and social mentions. Live: https://ziontechgroup.com/voice-of-customer-hub/
+6. **[Churn Risk Radar](https://github.com/Zion-support/churn-risk-radar)** — churn prediction, save plays and exec alerts. Live: https://ziontechgroup.com/churn-risk-radar/
+7. **[Upsell Signal Scout](https://github.com/Zion-support/upsell-signal-scout)** — expansion signals from usage and account activity. Live: https://ziontechgroup.com/upsell-signal-scout/
 
-`onboarding-journey-tracker` → `customer-health-scorer` ← `support-sentiment-monitor`, `nps-insight-engine` → low score → `churn-risk-radar` (save plays) · high score → `upsell-signal-scout` (expansion) · `voice-of-customer-hub` + `support-deflection-analyzer` close the loop.
+## Companion apps
 
-## Related suites & docs
+- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — grow ticket deflection from docs and bots
+- [Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/) — auto-renewal and escalator tracking
+- [Employee Engagement Pulse](https://github.com/Zion-support/employee-engagement-pulse) — pulse surveys with AI insight summaries
+- [Onboarding Buddy AI](https://ziontechgroup.com/onboarding-buddy-ai/) — guided onboarding assistant
 
-- [FIELD_SERVICES_SUITE.md](FIELD_SERVICES_SUITE.md) — field services toolchain
-- [SECOPS_RELIABILITY_SUITE.md](SECOPS_RELIABILITY_SUITE.md) — SecOps & reliability pipeline
-- [SALES_MARKETING_SUITE.md](SALES_MARKETING_SUITE.md) — sales & marketing AI toolchain
-- Homepage spotlight: [APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CUSTOMER_SUCCESS.md)
+## Links
+
+- 🌐 Homepage: https://ziontechgroup.com/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Discovery call: https://ziontechgroup.com/discovery/
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 🗂 Master directory: https://github.com/Zion-support/zion-app-network
 
 ---
-🗂️ [Zion App Network — Master Directory](../README.md) · https://ziontechgroup.com/ · Plans: https://ziontechgroup.com/en/plans/ · Discovery: https://ziontechgroup.com/discovery/
+© 2026 Zion Tech Group · https://ziontechgroup.com/
