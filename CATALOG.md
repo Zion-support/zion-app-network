@@ -1,6 +1,10 @@
 # Zion App Network — Master Catalog
 
-688 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+705 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+
+## Customer Success & Support (added 2026-09-23)
+
+[customer-health-scorer](https://github.com/Zion-support/customer-health-scorer) · [churn-risk-radar](https://github.com/Zion-support/churn-risk-radar) · [nps-insight-engine](https://github.com/Zion-support/nps-insight-engine) · [support-sentiment-monitor](https://github.com/Zion-support/support-sentiment-monitor) · [upsell-signal-scout](https://github.com/Zion-support/upsell-signal-scout) · [onboarding-journey-tracker](https://github.com/Zion-support/onboarding-journey-tracker) · [voice-of-customer-hub](https://github.com/Zion-support/voice-of-customer-hub) · [license-renewal-planner](https://github.com/Zion-support/license-renewal-planner) · [data-retention-enforcer](https://github.com/Zion-support/data-retention-enforcer) · [accessibility-statement-gen](https://github.com/Zion-support/accessibility-statement-gen) · [sla-breach-predictor](https://github.com/Zion-support/sla-breach-predictor) · [patch-priority-radar](https://github.com/Zion-support/patch-priority-radar) · [vendor-questionnaire-autopilot](https://github.com/Zion-support/vendor-questionnaire-autopilot) · [customs-doc-generator](https://github.com/Zion-support/customs-doc-generator) · [driver-hours-compliance](https://github.com/Zion-support/driver-hours-compliance) · [dock-appointment-scheduler](https://github.com/Zion-support/dock-appointment-scheduler) · [security-awareness-coach](https://github.com/Zion-support/security-awareness-coach)
 
 ## Network Hubs
 
@@ -74,6 +78,15 @@ Global field-dispatch network: country desks, city satellites, and vertical play
 - Regional desks: [zion-field-americas](https://github.com/Zion-support/zion-field-americas) · [zion-field-emea](https://github.com/Zion-support/zion-field-emea) · [zion-field-apac](https://github.com/Zion-support/zion-field-apac) · [zion-field-africa](https://github.com/Zion-support/zion-field-africa)
 - Vendor desks: [zion-field-dell](https://github.com/Zion-support/zion-field-dell) · [zion-field-hpe](https://github.com/Zion-support/zion-field-hpe) · [zion-field-lenovo](https://github.com/Zion-support/zion-field-lenovo)
 - 270+ country/city/vertical satellites under the `zion-field-*` namespace (countries, cities, and industries such as healthcare, banking, energy, telecom, logistics, pharma, retail, manufacturing and more).
+
+## Batch 17 — Customer Success Suite (2026-09-23)
+
+- [customer-health-scorer](https://github.com/Zion-support/customer-health-scorer) — unified health scoring from usage, support & billing — https://ziontechgroup.com/customer-health-scorer/
+- [churn-risk-radar](https://github.com/Zion-support/churn-risk-radar) — churn prediction, save plays & exec alerts — https://ziontechgroup.com/churn-risk-radar/
+- [nps-insight-engine](https://github.com/Zion-support/nps-insight-engine) — AI themes & drivers from NPS/CSAT verbatims — https://ziontechgroup.com/nps-insight-engine/
+- [support-sentiment-monitor](https://github.com/Zion-support/support-sentiment-monitor) — real-time sentiment across tickets, chats & calls — https://ziontechgroup.com/support-sentiment-monitor/
+- [upsell-signal-scout](https://github.com/Zion-support/upsell-signal-scout) — expansion signals from usage & account activity — https://ziontechgroup.com/upsell-signal-scout/
+- [onboarding-journey-tracker](https://github.com/Zion-support/onboarding-journey-tracker) — milestones, time-to-value & stalled-account alerts — https://ziontechgroup.com/onboarding-journey-tracker/
 
 ## Batch 14 — Revenue, People & Incident Ops (2026-09-23)
 
