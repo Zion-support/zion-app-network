@@ -1,47 +1,23 @@
-# Homepage Advertising Pack — Batch 31 (AI Field Services & Logistics Suite)
+# Homepage Content — Batch 31 (September 2026 Late Wave)
 
-Ready-to-paste blocks for https://ziontechgroup.com homepage. All CTAs point to plans/discovery only.
+Copy blocks for https://ziontechgroup.com advertising the newest apps. Each links to its live app page.
 
-## Hero banner (rotating)
+## Hero blurb
+Zion Tech Group's AI App Network now spans **772 live applications** — from field-service dispatch to FinOps, compliance and data-ops. Explore the newest twelve:
 
-> **Field operations on autopilot.** Six new AI apps — from fuel savings to intelligent dispatch.
-> [See plans →](https://ziontechgroup.com/en/plans/) · [Free AI Discovery →](https://ziontechgroup.com/discovery/)
+## Cards
+- **AI Product Description Writer** — SEO-optimized product descriptions at catalog scale. 👉 https://ziontechgroup.com/ai-product-description-writer/
+- **Lead Score Copilot** — behavioral + firmographic lead scoring ranked in real time. 👉 https://ziontechgroup.com/lead-score-copilot/
+- **Landing Page A/B Tester** — AI landing-page A/B testing with variant generation, traffic allocation and significance alerts. 👉 https://ziontechgroup.com/landing-page-ab-tester/
+- **ETL Pipeline Monitor** — always-on ETL pipeline health monitoring. 👉 https://ziontechgroup.com/etl-pipeline-monitor/
+- **Metric Anomaly Alerter** — catch metric anomalies before customers do. 👉 https://ziontechgroup.com/metric-anomaly-alerter/
+- **Report Scheduler AI** — recurring reports, generated and delivered by AI. 👉 https://ziontechgroup.com/report-scheduler-ai/
+- **Accessibility Statement Gen** — WCAG-compliant accessibility statements & audit evidence. 👉 https://ziontechgroup.com/accessibility-statement-gen/
+- **Zion Agent Contract Tester** — schema-contract tests for AI agent outputs. 👉 https://ziontechgroup.com/zion-agent-contract-tester/
+- **AI Tender Scout** — AI that finds tenders and RFPs for you. 👉 https://ziontechgroup.com/ai-tender-scout/
+- **Licitação Radar** — radar de licitações públicas brasileiras. 👉 https://ziontechgroup.com/licitacao-radar/
+- **Field Tech Scheduler** — schedule and dispatch field technicians smarter. 👉 https://ziontechgroup.com/field-tech-scheduler/
+- **AI Smart Hands Scheduler** — smart-hands scheduling for remote sites. 👉 https://ziontechgroup.com/ai-smart-hands-scheduler/
 
-## App cards section: "New this month"
-
-### ⛽ Fleet Fuel Optimizer
-Cut fuel spend with route, idle-time and driver-behavior analytics — savings you can measure.
-→ https://ziontechgroup.com/fleet-fuel-optimizer/
-
-### 🧰 Technician Coach AI
-Guided diagnostics and on-the-job training — every tech performs like your best tech.
-→ https://ziontechgroup.com/technician-coach-ai/
-
-### 🔩 Spare Price Scout
-Cross-vendor price and lead-time comparison for spare parts — never overpay again.
-→ https://ziontechgroup.com/spare-price-scout/
-
-### 🗺️ Route Density Planner
-Denser routes, fewer miles, more jobs per day — AI-planned territories.
-→ https://ziontechgroup.com/route-density-planner/
-
-### 🎫 Maintenance Ticket Triage
-Every maintenance ticket classified, prioritized and routed in real time.
-→ https://ziontechgroup.com/maintenance-ticket-triage/
-
-### 🚚 Field Dispatch Optimizer
-Skills matching, SLA windows, routing and site scheduling for multi-site deployments.
-→ https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/
-
-## Network strip (footer of section)
-
-> Part of the **Zion App Network** — 100+ AI business tools.
-> [Browse the full network →](https://ziontechgroup.com/zion-app-network/) · [Plans & pricing →](https://ziontechgroup.com/en/plans/) · [Book a free discovery call →](https://ziontechgroup.com/discovery/)
-
-## SEO meta suggestion
-
-- Title: `New AI Apps for Field Services & Logistics | Zion Tech Group`
-- Description: `Six new AI apps: fleet fuel optimization, technician coaching, spare-parts price scouting, route density planning, maintenance triage, and field dispatch. Explore the Zion App Network.`
-
----
-Source: [zion-app-network hub](https://github.com/Zion-support/zion-app-network) · © 2026 Zion Tech Group
+## CTA
+Browse the full network: https://ziontechgroup.com/zion-app-network/ — source & docs: https://github.com/Zion-support/zion-app-network
