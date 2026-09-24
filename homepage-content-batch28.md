@@ -1,32 +1,35 @@
-# Homepage content — Batch 28 (2026-09-24)
+# Homepage Advertising Pack — Batch 28 (AI Service & Claims Ops Suite)
 
-Copy for https://ziontechgroup.com advertising the six new batch-28 apps, all interlinked.
+Ready-to-paste blocks for https://ziontechgroup.com homepage. All CTAs point to plans/discovery only.
 
-# App Network Spotlight — 2026-09-24 — Batch 28 (homepage copy): AI Service Operations & Revenue Suite
+## Hero banner (rotating)
 
-Six apps that connect service delivery to revenue: warranty claims, incident runbooks, procurement, SLA risk, knowledge gaps and quoting.
+> **From purchase order to warranty claim — one AI loop.** Three new AI apps — procurement copilot, executable incident runbooks, and warranty claim auto-adjudication.
+> [See plans →](https://ziontechgroup.com/en/plans/) · [Free AI Discovery →](https://ziontechgroup.com/discovery/)
 
-| App | Live | Focus |
-|---|---|---|
-| [warranty-claim-triager](https://github.com/Zion-support/warranty-claim-triager) | https://ziontechgroup.com/warranty-claim-triager/ | AI classification and auto-adjudication routing of warranty claims |
-| [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) | https://ziontechgroup.com/incident-runbook-ai/ | Turns incidents into step-by-step executable runbooks |
-| [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) | https://ziontechgroup.com/ai-procurement-copilot/ | Sourcing, vendor comparison and purchase-request automation |
-| [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster) | https://ziontechgroup.com/sla-risk-forecaster/ | Predicts SLA breaches before they happen |
-| [knowledge-gap-finder](https://github.com/Zion-support/knowledge-gap-finder) | https://ziontechgroup.com/knowledge-gap-finder/ | Finds missing docs & unanswered-question clusters |
-| [quote-builder-ai](https://github.com/Zion-support/quote-builder-ai) | https://ziontechgroup.com/quote-builder-ai/ | Generate accurate quotes from requirements in minutes |
+## App cards section: "New this month"
 
-## Why they work together
+### 🛡️ Warranty Claim Triager
+Classify, auto-adjudicate and route warranty claims — with duplicate & fraud detection built in.
+→ https://ziontechgroup.com/warranty-claim-triager/
 
-Triage warranty claims → resolve incidents with runbooks → forecast SLA risk → fill knowledge gaps → streamline procurement → quote deals faster. One connected service-to-revenue loop.
+### 📖 Incident Runbook AI
+Runbooks generated from your alerts and history — executable with approval gates and a full audit trail.
+→ https://ziontechgroup.com/incident-runbook-ai/
 
-## Related batches
+### 🤝 AI Procurement Copilot
+Spend analysis, RFP drafting and vendor risk screening — procurement decisions tied to budget guardrails.
+→ https://ziontechgroup.com/ai-procurement-copilot/
 
-- [Batch 27 — AI Data & Analytics Ops Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH27.md)
-- [Batch 26 — AI Legal & Compliance Ops](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH26.md)
-- [Batch 25 — AI Customer Success & Support](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH25.md)
+## Network strip (footer of section)
 
-- 💳 Plans: https://ziontechgroup.com/en/plans/
-- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
-- 🗇 Full index: [APPS_INDEX.md](https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md) · [CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+> Part of the **Zion App Network** — 100+ AI business tools.
+> [Browse the full network →](https://ziontechgroup.com/zion-app-network/) · [Plans & pricing →](https://ziontechgroup.com/en/plans/) · [Book a free discovery call →](https://ziontechgroup.com/discovery/)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com
+## SEO meta suggestion
+
+- Title: `New AI Apps for Service & Claims Operations | Zion Tech Group`
+- Description: `Three new AI apps: warranty claim triage and auto-adjudication, executable incident runbooks, and an AI procurement copilot. Explore the Zion App Network.`
+
+---
+Source: [zion-app-network hub](https://github.com/Zion-support/zion-app-network) · © 2026 Zion Tech Group

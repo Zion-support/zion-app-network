@@ -4,7 +4,7 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Total repositories: 100**
+**Total repositories: 103**
 
 ## AI Apps (15)
 
@@ -131,5 +131,16 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 | [zion-field-food](https://github.com/Zion-support/zion-field-food) | https://ziontechgroup.com/zion-field-food/ |
 | [zion-field-forestry](https://github.com/Zion-support/zion-field-forestry) | https://ziontechgroup.com/zion-field-forestry/ |
 
+
+## Service & Claims Ops — Batch 28 (3)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [warranty-claim-triager](https://github.com/Zion-support/warranty-claim-triager) | AI classification & auto-adjudication routing of warranty claims | https://ziontechgroup.com/warranty-claim-triager/ |
+| [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) | AI-generated, executable incident response runbooks | https://ziontechgroup.com/incident-runbook-ai/ |
+| [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) | AI sourcing, spend analysis & vendor negotiation copilot | https://ziontechgroup.com/ai-procurement-copilot/ |
+
 ---
-*Generated 2026-09-23 · Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md), [spotlight](SPOTLIGHT-2026-09-23-EVENING.md) and the [homepage showcase](https://ziontechgroup.com/app-network-showcase/).*
+
+---
+*Updated 2026-09-24 · Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md), [spotlight](SPOTLIGHT-2026-09-23-EVENING.md) and the [homepage showcase](https://ziontechgroup.com/app-network-showcase/).*
