@@ -1,5 +1,10 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18–21 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18–21 added + Compliance & Governance suite block).
+
+## Suite advertising block — Compliance & Governance (NEW)
+**Headline:** Audit-ready compliance without the audit scramble.
+**Body:** One interlinked toolchain covers policy writing, continuous controls, employee awareness, data retention, contracts and vendor evidence: [Compliance Policy Writer](https://ziontechgroup.com/compliance-policy-writer/) · [Zion AI Compliance Scanner](https://ziontechgroup.com/zion-ai-compliance-scanner/) · [Security Awareness Coach](https://ziontechgroup.com/security-awareness-coach/) · [Data Retention Enforcer](https://ziontechgroup.com/data-retention-enforcer/) · [Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/) · [Vendor Questionnaire Autopilot](https://ziontechgroup.com/vendor-questionnaire-autopilot/) · [Accessibility Statement Gen](https://ziontechgroup.com/accessibility-statement-gen/) · [License Renewal Planner](https://ziontechgroup.com/license-renewal-planner/).
+**CTA:** [Explore the suite](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_COMPLIANCE_GOVERNANCE.md) · [See plans](https://ziontechgroup.com/en/plans/)
 
 ## BLOCK 0 — Batch 21: AI Marketing & Growth (NEW 2026-09-24)
 
