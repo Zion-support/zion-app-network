@@ -7,7 +7,20 @@
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ✨ Featured — batch 21 (new) — AI Marketing & Growth
+## ✨ Featured — batch 22 (new) — AI Data Quality & Pipeline Intelligence
+
+Full spotlight: [SPOTLIGHT-2026-09-24-BATCH22.md](SPOTLIGHT-2026-09-24-BATCH22.md) · Homepage: [APP_NETWORK_SPOTLIGHT_SEP24_BATCH22](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH22.md) · Live page: https://ziontechgroup.com/apps/ai-data-quality-pipeline.html
+
+- [Data Quality Sentinel](https://github.com/Zion-support/data-quality-sentinel) — https://ziontechgroup.com/data-quality-sentinel/ — continuous data quality monitoring (frechness, completeness, anomaly SLAs)
+- [Data Quality Watchdog](https://github.com/Zion-support/data-quality-watchdog) — https://ziontechgroup.com/data-quality-watchdog/ — detects schema drift, nulls & distribution shifts
+- [Data Pipeline Doctor](https://github.com/Zion-support/data-pipeline-doctor) — https://ziontechgroup.com/data-pipeline-doctor/ — guided pipeline failure troubleshooting with ranked root causes
+- [Data Contract Validator](https://github.com/Zion-support/data-contract-validator) — https://ziontechgroup.com/data-contract-validator/ — schema & SLA checks for data contracts
+- [Data Catalog Copilot](https://github.com/Zion-support/data-catalog-copilot) — https://ziontechgroup.com/data-catalog-copilot/ — auto-documents tables, lineage & ownership
+- [Dashboard Insight Narrator](https://github.com/Zion-support/dashboard-insight-narrator) — https://ziontechgroup.com/dashboard-insight-narrator/ — plain-language insight narratives from dashboards
+
+Interlinks: [etl-pipeline-monitor](https://github.com/Zion-support/etl-pipeline-monitor) · [log-anomaly-spotter](https://github.com/Zion-support/log-anomaly-spotter) · [data-retention-enforcer](https://github.com/Zion-support/data-retention-enforcer) · [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot) · [llm-gateway](https://github.com/Zion-support/llm-gateway)
+
+## ✨ Featured — batch 21 — AI Marketing & Growth
 
 Full spotlight: [SPOTLIGHT-2026-09-24-BATCH21.md](SPOTLIGHT-2026-09-24-BATCH21.md) · Homepage: [APP_NETWORK_SPOTLIGHT_SEP24_BATCH21](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH21.md)
 
@@ -16,7 +29,7 @@ Full spotlight: [SPOTLIGHT-2026-09-24-BATCH21.md](SPOTLIGHT-2026-09-24-BATCH21.m
 - [Webinar Funnel Hub](https://github.com/Zion-support/webinar-funnel-hub) — https://ziontechgroup.com/webinar-funnel-hub/ — registration → attendance → follow-up funnels
 - [Social Listening Radar](https://github.com/Zion-support/social-listening-radar) — https://ziontechgroup.com/social-listening-radar/ — AI themes, sentiment & share-of-voice
 - [Referral Engine AI](https://github.com/Zion-support/referral-engine-ai) — https://ziontechgroup.com/referral-engine-ai/ — advocate detection & incentive optimization
-- [Newsletter Growth Copilot](https://github.com/Zion-support/newsletter-growth-copilot) — https://ziontechgroup.com/newsletter-growth-copilot/ — subject-line testing & send-time optimization
+- [Newsletter Growx Copilot](https://github.com/Zion-support/newsletter-growth-copilot) — https://ziontechgroup.com/newsletter-growth-copilot/ — subject-line testing & send-time optimization
 
 ## ✨ Featured — batch 20 — AI Legal, Privacy & Compliance
 
@@ -154,7 +167,7 @@ Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-W
 ## ✨ Featured — batch 9
 
 - [Invoice Match AI](https://ziontechgroup.com/invoice-match-ai/) — invoice-to-PO matching, duplicate-billing detection
-- [Field Safety Brief](https://ziontechgroup.com/field-safety-brief/) — site hazard briefings, PPE, JSAS
+- [Field Safety Brief](https://ziontechgroup.com/field-safety-brief/) — site hazard briefings, PPE, JSAs
 - [Fleet Fuel Optimizer](https://ziontechgroup.com/fleet-fuel-optimizer/) — route/idle/driver fuel savings
 - [Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/) — auto-renewal & escalator tracking
 - [Technician Coach AI](https://ziontechgroup.com/technician-coach-ai/) — guided diagnostics & training
@@ -181,7 +194,7 @@ Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-W
 - [SPOTLIGHT-2026-09-24-BATCH20.md](SPOTLIGHT-2026-09-24-BATCH20.md) — Batch 20 AI Legal, Privacy & Compliance (6 apps)
 - [SPOTLIGHT-2026-09-24-BATCH21.md](SPOTLIGHT-2026-09-24-BATCH21.md) — Batch 21 AI Marketing & Growth (6 apps)
 - [SPOTLIGHT-2026-09-24-BATCH22.md](SPOTLIGHT-2026-09-24-BATCH22.md) — Batch 22 AI Data Quality & Pipeline Intelligence (6 apps)
-- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 18](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH18.md) · [Sep 24 Batch 19](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH19.md) · [Sep 24 Batch 20](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH20.md) · [Sep 24 Batch 21](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH21.md)
+- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 18](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH18.md) · [Sep 24 Batch 19](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH19.md) · [Sep 24 Batch 20](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH20.md) · [Sep 24 Batch 21](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH21.md) · [Sep 24 Batch 22](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH22.md)
 
 ## Duplicate consolidation notes
 Known overlapping pairs now cross-linked instead of duplicated: [it-asset-lifecycle-tracker](https://github.com/Zion-support/it-asset-lifecycle-tracker) ↔ [asset-lifecycle-tracker](https://github.com/Zion-support/asset-lifecycle-tracker); [sla-forecast-guardian](https://github.com/Zion-support/sla-forecast-guardian) ↔ [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster). Keep both slugs (live pages exist); cross-link, do not merge.
