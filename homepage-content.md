@@ -1,11 +1,23 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18–20 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18–21 added).
 
-## BLOCK 0 — Batch 20: AI Legal, Privacy & Compliance (NEW 2026-09-24)
+## BLOCK 0 — Batch 21: AI Marketing & Growth (NEW 2026-09-24)
+
+**Headline:** Grow faster. Spend smarter. Every channel, one network.
+
+**Body:** Six new marketing and growth apps join the Zion App Network (now 734 apps). Allocate spend with [Ad Budget Optimizer](https://ziontechgroup.com/ad-budget-optimizer/), test pages with [Landing Page AB Tester](https://ziontechgroup.com/landing-page-ab-tester/), run webinars with [Webinar Funnel Hub](https://ziontechgroup.com/webinar-funnel-hub/), hear the market with [Social Listening Radar](https://ziontechgroup.com/social-listening-radar/), turn customers into advocates with [Referral Engine AI](https://ziontechgroup.com/referral-engine-ai/) and grow your list with [Newsletter Growth Copilot](https://ziontechgroup.com/newsletter-growth-copilot/).
+
+**CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
+
+**Source links:** [ad-budget-optimizer](https://github.com/Zion-support/ad-budget-optimizer) · [landing-page-ab-tester](https://github.com/Zion-support/landing-page-ab-tester) · [webinar-funnel-hub](https://github.com/Zion-support/webinar-funnel-hub) · [social-listening-radar](https://github.com/Zion-support/social-listening-radar) · [referral-engine-ai](https://github.com/Zion-support/referral-engine-ai) · [newsletter-growth-copilot](https://github.com/Zion-support/newsletter-growth-copilot)
+
+---
+
+## BLOCK 1 — Batch 20: AI Legal, Privacy & Compliance (2026-09-24)
 
 **Headline:** Compliance on autopilot. Audits without the scramble.
 
-**Body:** Six new legal, privacy and compliance apps join the Zion App Network (now 728 apps). Automate data-subject requests with [Privacy DSR Assistant](https://ziontechgroup.com/privacy-dsr-assistant/), redline contracts against your playbook with [Contract Redline Copilot](https://ziontechgroup.com/contract-redline-copilot/), track attestations with [Policy Attestation Tracker](https://ziontechgroup.com/policy-attestation-tracker/), stay ahead of new rules with [Regulatory Change Radar](https://ziontechgroup.com/regulatory-change-radar/), generate assessments with [DPIA Generator](https://ziontechgroup.com/dpia-generator/) and vet vendors with [Vendor DPA Checker](https://ziontechgroup.com/vendor-dpa-checker/).
+**Body:** Six new legal, privacy and compliance apps join the Zion App Network. Automate data-subject requests with [Privacy DSR Assistant](https://ziontechgroup.com/privacy-dsr-assistant/), redline contracts against your playbook with [Contract Redline Copilot](https://ziontechgroup.com/contract-redline-copilot/), track attestations with [Policy Attestation Tracker](https://ziontechgroup.com/policy-attestation-tracker/), stay ahead of new rules with [Regulatory Change Radar](https://ziontechgroup.com/regulatory-change-radar/), generate assessments with [DPIA Generator](https://ziontechgroup.com/dpia-generator/) and vet vendors with [Vendor DPA Checker](https://ziontechgroup.com/vendor-dpa-checker/).
 
 **CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
 
@@ -13,7 +25,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 
 ---
 
-## BLOCK 1 — Batch 19: AI Supply Chain & Procurement (2026-09-24)
+## BLOCK 2 — Batch 19: AI Supply Chain & Procurement (2026-09-24)
 
 **Headline:** See risk early. Buy smart. Never stock out.
 
@@ -25,7 +37,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 
 ---
 
-## BLOCK 2 — Batch 18: AI Revenue Operations (2026-09-24)
+## BLOCK 3 — Batch 18: AI Revenue Operations (2026-09-24)
 
 **Headline:** Stop leaking revenue. Start collecting it.
 
@@ -38,7 +50,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 ---
 
 ## Hero block
-**Headline:** One network. 728 AI apps. Zero friction.
+**Headline:** One network. 734 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
@@ -125,8 +137,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 - 🤖 131 Zion AI suite apps
 - 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 68 new featured apps (batches 9–20)
-- **Total: 728 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 74 new featured apps (batches 9–21)
+- **Total: 734 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
