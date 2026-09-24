@@ -154,7 +154,7 @@ Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-W
 ## ✨ Featured — batch 9
 
 - [Invoice Match AI](https://ziontechgroup.com/invoice-match-ai/) — invoice-to-PO matching, duplicate-billing detection
-- [Field Safety Brief](https://ziontechgroup.com/field-safety-brief/) — site hazard briefings, PPE, JSAs
+- [Field Safety Brief](https://ziontechgroup.com/field-safety-brief/) — site hazard briefings, PPE, JSAS
 - [Fleet Fuel Optimizer](https://ziontechgroup.com/fleet-fuel-optimizer/) — route/idle/driver fuel savings
 - [Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/) — auto-renewal & escalator tracking
 - [Technician Coach AI](https://ziontechgroup.com/technician-coach-ai/) — guided diagnostics & training
@@ -180,6 +180,7 @@ Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-W
 - [SPOTLIGHT-2026-09-24-BATCH19.md](SPOTLIGHT-2026-09-24-BATCH19.md) — Batch 19 AI Supply Chain & Procurement (6 apps)
 - [SPOTLIGHT-2026-09-24-BATCH20.md](SPOTLIGHT-2026-09-24-BATCH20.md) — Batch 20 AI Legal, Privacy & Compliance (6 apps)
 - [SPOTLIGHT-2026-09-24-BATCH21.md](SPOTLIGHT-2026-09-24-BATCH21.md) — Batch 21 AI Marketing & Growth (6 apps)
+- [SPOTLIGHT-2026-09-24-BATCH22.md](SPOTLIGHT-2026-09-24-BATCH22.md) — Batch 22 AI Data Quality & Pipeline Intelligence (6 apps)
 - Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 18](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH18.md) · [Sep 24 Batch 19](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH19.md) · [Sep 24 Batch 20](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH20.md) · [Sep 24 Batch 21](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH21.md)
 
 ## Duplicate consolidation notes
