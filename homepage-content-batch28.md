@@ -1,22 +1,32 @@
-# Homepage advertising content — Batch 28 (Zion AI Workplace Suite)
-Copy-paste ready blocks for https://ziontechgroup.com/
+# Homepage content — Batch 28 (2026-09-24)
 
-## Hero block
-**Meet the Zion AI Workplace Suite** — six AI-native apps that run your meetings, voice, support, knowledge, and revenue workflows. Explore the suite:
-- [Zion AI Meeting Assistant](https://zion-support.github.io/zion-ai-meeting-assistant/)
-- [Zion AI Voice Assistant](https://zion-support.github.io/zion-ai-voice-assistant/)
-- [Zion AI Help Desk](https://zion-support.github.io/zion-ai-help-desk/)
-- [Zion AI Knowledge Base](https://zion-support.github.io/zion-ai-knowledge-base/)
-- [Zion AI Lead Scoring](https://zion-support.github.io/zion-ai-lead-scoring/)
-- [Zion AI Email Marketing Pro](https://zion-support.github.io/zion-ai-email-marketing-pro/)
+Copy for https://ziontechgroup.com advertising the six new batch-28 apps, all interlinked.
 
-## Card copy (per app)
-- **Meeting Assistant**: Never take notes again — AI transcription, summaries and action items. [Try it](https://zion-support.github.io/zion-ai-meeting-assistant/)
-- **Voice Assistant**: Talk to your workflows — voice-first AI for calls and dictation. [Try it](https://zion-support.github.io/zion-ai-voice-assistant/)
-- **Help Desk**: Tickets that answer themselves — AI triage and SLA-aware routing. [Try it](https://zion-support.github.io/zion-ai-help-desk/)
-- **Knowledge Base**: Your company brain — instant answers from your docs. [Try it](https://zion-support.github.io/zion-ai-knowledge-base/)
-- **Lead Scoring**: Know which leads convert — predictive scoring and routing. [Try it](https://zion-support.github.io/zion-ai-lead-scoring/)
-- **Email Marketing Pro**: Campaigns that write themselves — AI sequencing and deliverability. [Try it](https://zion-support.github.io/zion-ai-email-marketing-pro/)
+# App Network Spotlight — 2026-09-24 — Batch 28 (homepage copy): AI Service Operations & Revenue Suite
 
-## Footer interlinks
-App Network hub: https://github.com/Zion-support/zion-app-network · Full catalog: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH28.md · Plans: https://ziontechgroup.com/en/plans/
+Six apps that connect service delivery to revenue: warranty claims, incident runbooks, procurement, SLA risk, knowledge gaps and quoting.
+
+| App | Live | Focus |
+|---|---|---|
+| [warranty-claim-triager](https://github.com/Zion-support/warranty-claim-triager) | https://ziontechgroup.com/warranty-claim-triager/ | AI classification and auto-adjudication routing of warranty claims |
+| [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) | https://ziontechgroup.com/incident-runbook-ai/ | Turns incidents into step-by-step executable runbooks |
+| [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) | https://ziontechgroup.com/ai-procurement-copilot/ | Sourcing, vendor comparison and purchase-request automation |
+| [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster) | https://ziontechgroup.com/sla-risk-forecaster/ | Predicts SLA breaches before they happen |
+| [knowledge-gap-finder](https://github.com/Zion-support/knowledge-gap-finder) | https://ziontechgroup.com/knowledge-gap-finder/ | Finds missing docs & unanswered-question clusters |
+| [quote-builder-ai](https://github.com/Zion-support/quote-builder-ai) | https://ziontechgroup.com/quote-builder-ai/ | Generate accurate quotes from requirements in minutes |
+
+## Why they work together
+
+Triage warranty claims → resolve incidents with runbooks → forecast SLA risk → fill knowledge gaps → streamline procurement → quote deals faster. One connected service-to-revenue loop.
+
+## Related batches
+
+- [Batch 27 — AI Data & Analytics Ops Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH27.md)
+- [Batch 26 — AI Legal & Compliance Ops](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH26.md)
+- [Batch 25 — AI Customer Success & Support](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH25.md)
+
+- 💳 Plans: https://ziontechgroup.com/en/plans/
+- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
+- 🗇 Full index: [APPS_INDEX.md](https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md) · [CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+
+© 2026 Zion Tech Group · https://ziontechgroup.com

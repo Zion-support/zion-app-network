@@ -1,20 +1,28 @@
-# App Network Spotlight — 2026-09-24 Batch 28: Zion AI Workplace Suite
+# Spotlight — 2026-09-24 — Batch 28: AI Service Operations & Revenue Suite
 
-Six flagship Zion AI apps that turn everyday workplace workflows into AI-native experiences. All part of the [Zion App Network](https://github.com/Zion-support/zion-app-network) by [Zion Tech Group](https://ziontechgroup.com/).
+Six apps that connect service delivery to revenue: warranty claims, incident runbooks, procurement, SLA risk, knowledge gaps and quoting.
 
-## Featured apps
+| App | Live | Focus |
+|---|---|---|
+| [warranty-claim-triager](https://github.com/Zion-support/warranty-claim-triager) | https://ziontechgroup.com/warranty-claim-triager/ | AI classification and auto-adjudication routing of warranty claims |
+| [incident-runbook-ai](https://github.com/Zion-support/incident-runbook-ai) | https://ziontechgroup.com/incident-runbook-ai/ | Turns incidents into step-by-step executable runbooks |
+| [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) | https://ziontechgroup.com/ai-procurement-copilot/ | Sourcing, vendor comparison and purchase-request automation |
+| [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster) | https://ziontechgroup.com/sla-risk-forecaster/ | Predicts SLA breaches before they happen |
+| [knowledge-gap-finder](https://github.com/Zion-support/knowledge-gap-finder) | https://ziontechgroup.com/knowledge-gap-finder/ | Finds missing docs & unanswered-question clusters |
+| [quote-builder-ai](https://github.com/Zion-support/quote-builder-ai) | https://ziontechgroup.com/quote-builder-ai/ | Generate accurate quotes from requirements in minutes |
 
-1. **[Zion AI Meeting Assistant](https://github.com/Zion-support/zion-ai-meeting-assistant)** — Live page: https://zion-support.github.io/zion-ai-meeting-assistant/ — AI transcription, summaries, action items and follow-ups for every meeting. Pairs with [Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base) and [Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk).
-2. **[Zion AI Voice Assistant](https://github.com/Zion-support/zion-ai-voice-assistant)** — Live page: https://zion-support.github.io/zion-ai-voice-assistant/ — Voice-first assistant for calls, dictation and hands-free workflows. Pairs with [Zion AI Meeting Assistant](https://github.com/Zion-support/zion-ai-meeting-assistant).
-3. **[Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk)** — Live page: https://zion-support.github.io/zion-ai-help-desk/ — AI ticket triage, auto-replies and SLA-aware routing. Pairs with [Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base) and [Zion AI Incident Runbook](https://github.com/Zion-support/zion-ai-incident-runbook).
-4. **[Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base)** — Live page: https://zion-support.github.io/zion-ai-knowledge-base/ — RAG-powered company brain that answers from your docs. Pairs with [Zion RAG Platform](https://github.com/Zion-support/zion-rag-platform) and [Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk).
-5. **[Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring)** — Live page: https://zion-support.github.io/zion-ai-lead-scoring/ — Predictive lead scoring and routing for sales teams. Pairs with [Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) and [Zion AI ROI Calculator](https://github.com/Zion-support/zion-ai-roi-calculator).
-6. **[Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro)** — Live page: https://zion-support.github.io/zion-ai-email-marketing-pro/ — AI-generated campaigns, sequencing and deliverability optimization. Pairs with [Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring) and [Zion Content Studio](https://github.com/Zion-support/zion-content-studio).
+## Why they work together
 
-## Explore more
-- Hub: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [NETWORK.md](NETWORK.md) · [CATALOG.md](CATALOG.md)
-- Homepage: https://ziontechgroup.com/ · Plans: https://ziontechgroup.com/en/plans/ · Discovery: https://ziontechgroup.com/discovery/ · Tools: https://ziontechgroup.com/tools/
-- Previous batch: [Batch 27](SPOTLIGHT-2026-09-24-BATCH27.md)
+Triage warranty claims → resolve incidents with runbooks → forecast SLA risk → fill knowledge gaps → streamline procurement → quote deals faster. One connected service-to-revenue loop.
 
----
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+## Related batches
+
+- [Batch 27 — AI Data & Analytics Ops Suite](SPOTLIGHT-2026-09-24-BATCH27.md)
+- [Batch 26 — AI Legal & Compliance Ops](SPOTLIGHT-2026-09-24-BATCH26.md)
+- [Batch 25 — AI Customer Success & Support](SPOTLIGHT-2026-09-24-BATCH25.md)
+
+- 💳 Plans: https://ziontechgroup.com/en/plans/
+- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
+- 🗇 Full index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md)
+
+© 2026 Zion Tech Group · https://ziontechgroup.com
