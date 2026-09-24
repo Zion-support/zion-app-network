@@ -2,6 +2,7 @@
 
 All apps interlink back to the hub: [NETWORK.md](NETWORK.md) · [CATALOG.md](CATALOG.md) · [APPS_INDEX.md](APPS_INDEX.md)
 Hub: https://ziontechgroup.com/zion-app-network/
+Zion Field satellites (277) live in [DIRECTORY-ZION-FIELD.md](DIRECTORY-ZION-FIELD.md).
 
 ## T (7)
 - [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar) · [Live](https://ziontechgroup.com/tech-debt-radar/)
@@ -32,7 +33,7 @@ Hub: https://ziontechgroup.com/zion-app-network/
 - [webinar-funnel-hub](https://github.com/Zion-support/webinar-funnel-hub) · [Live](https://ziontechgroup.com/webinar-funnel-hub/)
 - [website-carbon-estimator](https://github.com/Zion-support/website-carbon-estimator) · [Live](https://ziontechgroup.com/website-carbon-estimator/)
 
-## Z (196)
+## Z — zion-* apps (196)
 - [zion-agent-contract-tester](https://github.com/Zion-support/zion-agent-contract-tester) · [Live](https://ziontechgroup.com/zion-agent-contract-tester/)
 - [zion-agent-contract-tests](https://github.com/Zion-support/zion-agent-contract-tests) · [Live](https://ziontechgroup.com/zion-agent-contract-tests/)
 - [zion-agent-handoff-designer](https://github.com/Zion-support/zion-agent-handoff-designer) · [Live](https://ziontechgroup.com/zion-agent-handoff-designer/)
