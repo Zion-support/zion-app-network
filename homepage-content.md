@@ -1,11 +1,23 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch 18 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18+19 added).
 
-## BLOCK 0 — Batch 18: AI Revenue Operations (NEW 2026-09-24)
+## BLOCK 0 — Batch 19: AI Supply Chain & Procurement (NEW 2026-09-24)
+
+**Headline:** See risk early. Buy smart. Never stock out.
+
+**Body:** Six new supply-chain and procurement apps join the Zion App Network (now 722 apps). Monitor suppliers with [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/), automate purchase orders with [PO Approvals Autopilot](https://ziontechgroup.com/po-approvals-autopilot/), prevent stockouts with [Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/), buy freight smarter with [Freight Rate Scout](https://ziontechgroup.com/freight-rate-scout/), score vendors with [Supplier Scorecard AI](https://ziontechgroup.com/supplier-scorecard-ai/) and sense demand in near real time with [Demand Sensing Hub](https://ziontechgroup.com/demand-sensing-hub/).
+
+**CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
+
+**Source links:** [supplier-risk-radar](https://github.com/Zion-support/supplier-risk-radar) · [po-approvals-autopilot](https://github.com/Zion-support/po-approvals-autopilot) · [inventory-forecast-ai](https://github.com/Zion-support/inventory-forecast-ai) · [freight-rate-scout](https://github.com/Zion-support/freight-rate-scout) · [supplier-scorecard-ai](https://github.com/Zion-support/supplier-scorecard-ai) · [demand-sensing-hub](https://github.com/Zion-support/demand-sensing-hub)
+
+---
+
+## BLOCK 1 — Batch 18: AI Revenue Operations (2026-09-24)
 
 **Headline:** Stop leaking revenue. Start collecting it.
 
-**Body:** Six new AI revenue-operations apps join the Zion App Network (now 716 apps). Find unbilled usage and expired discounts with [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/), react to competitor moves with [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/), shorten sales cycles with [Quote-to-Cash Accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/), recover failed payments via [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/), protect margins with [Deal Desk Copilot](https://ziontechgroup.com/deal-desk-copilot/) and collect faster with [AR Collections Prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/).
+**Body:** Six new AI revenue-operations apps join the Zion App Network. Find unbilled usage and expired discounts with [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/), react to competitor moves with [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/), shorten sales cycles with [Quote-to-Cash Accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/), recover failed payments via [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/), protect margins with [Deal Desk Copilot](https://ziontechgroup.com/deal-desk-copilot/) and collect faster with [AR Collections Prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/).
 
 **CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
 
@@ -14,7 +26,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 ---
 
 ## Hero block
-**Headline:** One network. 716 AI apps. Zero friction.
+**Headline:** One network. 722 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
@@ -101,8 +113,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 - 🤖 131 Zion AI suite apps
 - 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 56 new featured apps (batches 9–18)
-- **Total: 716 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 62 new featured apps (batches 9–19)
+- **Total: 722 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
