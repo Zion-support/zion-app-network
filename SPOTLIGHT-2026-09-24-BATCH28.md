@@ -1,21 +1,20 @@
-# Spotlight — Batch 28 (2026-09-24)
+# App Network Spotlight — 2026-09-24 Batch 28: Zion AI Workplace Suite
 
-Three new apps join the Zion AI App Network, closing gaps in procurement, incident response and after-sales service.
+Six flagship Zion AI apps that turn everyday workplace workflows into AI-native experiences. All part of the [Zion App Network](https://github.com/Zion-support/zion-app-network) by [Zion Tech Group](https://ziontechgroup.com/).
 
-## New apps
-1. **AI Procurement Copilot** — supplier comparison, RFQ drafting, spend-anomaly detection.
-   - Repo: https://github.com/Zion-support/ai-procurement-copilot
-   - Live: https://ziontechgroup.com/ai-procurement-copilot/
-2. **Incident Runbook AI** — executable runbooks generated from alert signals, with guided response steps.
-   - Repo: https://github.com/Zion-support/incident-runbook-ai
-   - Live: https://ziontechgroup.com/incident-runbook-ai/
-3. **Warranty Claim Triager** — claim classification, coverage checks, auto-adjudication routing.
-   - Repo: https://github.com/Zion-support/warranty-claim-triager
-   - Live: https://ziontechgroup.com/warranty-claim-triager/
+## Featured apps
 
-## Interlinks created
-- Procurement Copilot ↔ Spare Price Scout, Invoice Match AI, Vendor Risk Screener, Contract Renewal Radar
-- Incident Runbook AI ↔ API Health Probe, Metric Anomaly Alerter, AI Postmortem, SLA Risk Forecaster
-- Warranty Claim Triager ↔ Returns Optimization AI, Maintenance Ticket Triage, Technician Coach AI
+1. **[Zion AI Meeting Assistant](https://github.com/Zion-support/zion-ai-meeting-assistant)** — Live page: https://zion-support.github.io/zion-ai-meeting-assistant/ — AI transcription, summaries, action items and follow-ups for every meeting. Pairs with [Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base) and [Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk).
+2. **[Zion AI Voice Assistant](https://github.com/Zion-support/zion-ai-voice-assistant)** — Live page: https://zion-support.github.io/zion-ai-voice-assistant/ — Voice-first assistant for calls, dictation and hands-free workflows. Pairs with [Zion AI Meeting Assistant](https://github.com/Zion-support/zion-ai-meeting-assistant).
+3. **[Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk)** — Live page: https://zion-support.github.io/zion-ai-help-desk/ — AI ticket triage, auto-replies and SLA-aware routing. Pairs with [Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base) and [Zion AI Incident Runbook](https://github.com/Zion-support/zion-ai-incident-runbook).
+4. **[Zion AI Knowledge Base](https://github.com/Zion-support/zion-ai-knowledge-base)** — Live page: https://zion-support.github.io/zion-ai-knowledge-base/ — RAG-powered company brain that answers from your docs. Pairs with [Zion RAG Platform](https://github.com/Zion-support/zion-rag-platform) and [Zion AI Help Desk](https://github.com/Zion-support/zion-ai-help-desk).
+5. **[Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring)** — Live page: https://zion-support.github.io/zion-ai-lead-scoring/ — Predictive lead scoring and routing for sales teams. Pairs with [Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) and [Zion AI ROI Calculator](https://github.com/Zion-support/zion-ai-roi-calculator).
+6. **[Zion AI Email Marketing Pro](https://github.com/Zion-support/zion-ai-email-marketing-pro)** — Live page: https://zion-support.github.io/zion-ai-email-marketing-pro/ — AI-generated campaigns, sequencing and deliverability optimization. Pairs with [Zion AI Lead Scoring](https://github.com/Zion-support/zion-ai-lead-scoring) and [Zion Content Studio](https://github.com/Zion-support/zion-content-studio).
 
-See [APPS_INDEX.md](APPS_INDEX.md) and [CATALOG.md](CATALOG.md) for the full network.
+## Explore more
+- Hub: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [NETWORK.md](NETWORK.md) · [CATALOG.md](CATALOG.md)
+- Homepage: https://ziontechgroup.com/ · Plans: https://ziontechgroup.com/en/plans/ · Discovery: https://ziontechgroup.com/discovery/ · Tools: https://ziontechgroup.com/tools/
+- Previous batch: [Batch 27](SPOTLIGHT-2026-09-24-BATCH27.md)
+
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com/

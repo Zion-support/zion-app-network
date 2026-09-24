@@ -1,13 +1,22 @@
-# Homepage Content — Batch 28 (2026-09-24)
+# Homepage advertising content — Batch 28 (Zion AI Workplace Suite)
+Copy-paste ready blocks for https://ziontechgroup.com/
 
-Copy block for https://ziontechgroup.com homepage / apps sections.
+## Hero block
+**Meet the Zion AI Workplace Suite** — six AI-native apps that run your meetings, voice, support, knowledge, and revenue workflows. Explore the suite:
+- [Zion AI Meeting Assistant](https://zion-support.github.io/zion-ai-meeting-assistant/)
+- [Zion AI Voice Assistant](https://zion-support.github.io/zion-ai-voice-assistant/)
+- [Zion AI Help Desk](https://zion-support.github.io/zion-ai-help-desk/)
+- [Zion AI Knowledge Base](https://zion-support.github.io/zion-ai-knowledge-base/)
+- [Zion AI Lead Scoring](https://zion-support.github.io/zion-ai-lead-scoring/)
+- [Zion AI Email Marketing Pro](https://zion-support.github.io/zion-ai-email-marketing-pro/)
 
-## New this week on the Zion AI App Network
+## Card copy (per app)
+- **Meeting Assistant**: Never take notes again — AI transcription, summaries and action items. [Try it](https://zion-support.github.io/zion-ai-meeting-assistant/)
+- **Voice Assistant**: Talk to your workflows — voice-first AI for calls and dictation. [Try it](https://zion-support.github.io/zion-ai-voice-assistant/)
+- **Help Desk**: Tickets that answer themselves — AI triage and SLA-aware routing. [Try it](https://zion-support.github.io/zion-ai-help-desk/)
+- **Knowledge Base**: Your company brain — instant answers from your docs. [Try it](https://zion-support.github.io/zion-ai-knowledge-base/)
+- **Lead Scoring**: Know which leads convert — predictive scoring and routing. [Try it](https://zion-support.github.io/zion-ai-lead-scoring/)
+- **Email Marketing Pro**: Campaigns that write themselves — AI sequencing and deliverability. [Try it](https://zion-support.github.io/zion-ai-email-marketing-pro/)
 
-**AI Procurement Copilot** — Stop overpaying suppliers. Compare offers side-by-side, draft RFQs in seconds, and catch spend anomalies before they hit your P&L. Try it free: https://ziontechgroup.com/ai-procurement-copilot/
-
-**Incident Runbook AI** — Every alert becomes a guided, executable runbook. Cut MTTR and make every on-call engineer your best on-call engineer. Try it free: https://ziontechgroup.com/incident-runbook-ai/
-
-**Warranty Claim Triager** — Classify claims, check coverage, and auto-route approvals — slash warranty processing cost per claim. Try it free: https://ziontechgroup.com/warranty-claim-triager/
-
-Explore all 100+ free tools: https://ziontechgroup.com/zion-app-network/
+## Footer interlinks
+App Network hub: https://github.com/Zion-support/zion-app-network · Full catalog: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-24-BATCH28.md · Plans: https://ziontechgroup.com/en/plans/
