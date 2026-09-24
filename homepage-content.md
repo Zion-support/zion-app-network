@@ -1,11 +1,23 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18+19 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batches 18–20 added).
 
-## BLOCK 0 — Batch 19: AI Supply Chain & Procurement (NEW 2026-09-24)
+## BLOCK 0 — Batch 20: AI Legal, Privacy & Compliance (NEW 2026-09-24)
+
+**Headline:** Compliance on autopilot. Audits without the scramble.
+
+**Body:** Six new legal, privacy and compliance apps join the Zion App Network (now 728 apps). Automate data-subject requests with [Privacy DSR Assistant](https://ziontechgroup.com/privacy-dsr-assistant/), redline contracts against your playbook with [Contract Redline Copilot](https://ziontechgroup.com/contract-redline-copilot/), track attestations with [Policy Attestation Tracker](https://ziontechgroup.com/policy-attestation-tracker/), stay ahead of new rules with [Regulatory Change Radar](https://ziontechgroup.com/regulatory-change-radar/), generate assessments with [DPIA Generator](https://ziontechgroup.com/dpia-generator/) and vet vendors with [Vendor DPA Checker](https://ziontechgroup.com/vendor-dpa-checker/).
+
+**CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
+
+**Source links:** [privacy-dsr-assistant](https://github.com/Zion-support/privacy-dsr-assistant) · [contract-redline-copilot](https://github.com/Zion-support/contract-redline-copilot) · [policy-attestation-tracker](https://github.com/Zion-support/policy-attestation-tracker) · [regulatory-change-radar](https://github.com/Zion-support/regulatory-change-radar) · [dpia-generator](https://github.com/Zion-support/dpia-generator) · [vendor-dpa-checker](https://github.com/Zion-support/vendor-dpa-checker)
+
+---
+
+## BLOCK 1 — Batch 19: AI Supply Chain & Procurement (2026-09-24)
 
 **Headline:** See risk early. Buy smart. Never stock out.
 
-**Body:** Six new supply-chain and procurement apps join the Zion App Network (now 722 apps). Monitor suppliers with [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/), automate purchase orders with [PO Approvals Autopilot](https://ziontechgroup.com/po-approvals-autopilot/), prevent stockouts with [Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/), buy freight smarter with [Freight Rate Scout](https://ziontechgroup.com/freight-rate-scout/), score vendors with [Supplier Scorecard AI](https://ziontechgroup.com/supplier-scorecard-ai/) and sense demand in near real time with [Demand Sensing Hub](https://ziontechgroup.com/demand-sensing-hub/).
+**Body:** Six new supply-chain and procurement apps join the Zion App Network. Monitor suppliers with [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/), automate purchase orders with [PO Approvals Autopilot](https://ziontechgroup.com/po-approvals-autopilot/), prevent stockouts with [Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/), buy freight smarter with [Freight Rate Scout](https://ziontechgroup.com/freight-rate-scout/), score vendors with [Supplier Scorecard AI](https://ziontechgroup.com/supplier-scorecard-ai/) and sense demand in near real time with [Demand Sensing Hub](https://ziontechgroup.com/demand-sensing-hub/).
 
 **CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
 
@@ -13,7 +25,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 
 ---
 
-## BLOCK 1 — Batch 18: AI Revenue Operations (2026-09-24)
+## BLOCK 2 — Batch 18: AI Revenue Operations (2026-09-24)
 
 **Headline:** Stop leaking revenue. Start collecting it.
 
@@ -26,7 +38,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 ---
 
 ## Hero block
-**Headline:** One network. 722 AI apps. Zero friction.
+**Headline:** One network. 728 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
@@ -113,8 +125,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch
 - 🤖 131 Zion AI suite apps
 - 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 62 new featured apps (batches 9–19)
-- **Total: 722 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 68 new featured apps (batches 9–20)
+- **Total: 728 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
