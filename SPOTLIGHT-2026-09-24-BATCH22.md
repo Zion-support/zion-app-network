@@ -1,27 +1,18 @@
-# Spotlight — 2026-09-24 — Batch 22: AI Data & Analytics Ops Suite
+# SPOTLIGHT 2026-09-24 — Batch 22: AI Data Quality & Pipeline Intelligence (6 apps)
 
-Six apps that make your data stack trustworthy end-to-end: quality, pipelines, catalog, anomalies, narratives, and delivery.
+Six new Zion App Network releases focused on trustworthy data: monitor quality, diagnose pipelines, enforce contracts and narrate insights.
 
-| App | Live | Focus |
-|---|---|---|
-| [data-quality-watchdog](https://github.com/Zion-support/data-quality-watchdog) | https://ziontechgroup.com/data-quality-watchdog/ | Schema drift & anomaly detection for pipelines |
-| [etl-pipeline-monitor](https://github.com/Zion-support/etl-pipeline-monitor) | https://ziontechgroup.com/etl-pipeline-monitor/ | Failure prediction & root-cause ranking |
-| [dashboard-insight-narrator](https://github.com/Zion-support/dashboard-insight-narrator) | https://ziontechgroup.com/dashboard-insight-narrator/ | Dashboards narrated in plain language |
-| [metric-anomaly-alerter](https://github.com/Zion-support/metric-anomaly-alerter) | https://ziontechgroup.com/metric-anomaly-alerter/ | Real-time KPI anomaly alerts |
-| [data-catalog-copilot](https://github.com/Zion-support/data-catalog-copilot) | https://ziontechgroup.com/data-catalog-copilot/ | Auto-documented catalog & lineage |
-| [report-scheduler-ai](https://github.com/Zion-support/report-scheduler-ai) | https://ziontechgroup.com/report-scheduler-ai/ | Smart report timing & delivery |
+- **[data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel)** — Continuous data quality monitoring — freshness, completeness and anomaly SLAs for every critical table · Live: https://ziontechgroup.com/data-quality-sentinel/
+- **[data-quality-watchdog](https://github.com/Zion-support/data-quality-watchdog)** — Detects schema drift, nulls and distribution shifts before they break dashboards and models · Live: https://ziontechgroup.com/data-quality-watchdog/
+- **[data-pipeline-doctor](https://github.com/Zion-support/data-pipeline-doctor)** — Guided troubleshooting for common data pipeline failures with ranked root causes · Live: https://ziontechgroup.com/data-pipeline-doctor/
+- **[data-contract-validator](https://github.com/Zion-support/data-contract-validator)** — Schema and SLA validation for data contracts between producers and consumers · Live: https://ziontechgroup.com/data-contract-validator/
+- **[data-catalog-copilot](https://github.com/Zion-support/data-catalog-copilot)** — AI copilot that auto-documents tables, lineage and ownership across your data catalog · Live: https://ziontechgroup.com/data-catalog-copilot/
+- **[dashboard-insight-narrator](https://github.com/Zion-support/dashboard-insight-narrator)** — Turns dashboards into plain-language insight narratives for executives and clients · Live: https://ziontechgroup.com/dashboard-insight-narrator/
 
-## Why they work together
+## Interlinks
+- Hub: [zion-app-network](https://github.com/Zion-support/zion-app-network) · Homepage: https://ziontechgroup.com/ · Plans: https://ziontechgroup.com/en/plans/ · Discovery: https://ziontechgroup.com/discovery/ · Tools: https://ziontechgroup.com/tools/
+- Related batches: [Batch 20 AI Legal, Privacy & Compliance](SPOTLIGHT-2026-09-24-BATCH20.md) · [Batch 21 AI Marketing & Growth](SPOTLIGHT-2026-09-24-BATCH21.md)
+- Related apps: [etl-pipeline-monitor](https://github.com/Zion-support/etl-pipeline-monitor) · [log-anomaly-spotter](https://github.com/Zion-support/log-anomaly-spotter) · [data-retention-enforcer](https://github.com/Zion-support/data-retention-enforcer) · [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot)
 
-Document the data → monitor the pipelines → guard the quality → alert on anomalies → narrate the insights → deliver at the right time. One connected trust loop for your entire analytics stack.
-
-## Related batches
-
-- [Batch 21 — AI Marketing & Growth](SPOTLIGHT-2026-09-24-BATCH21.md)
-- [Batch 9 — FieldOps & Back-Office Savings](SPOTLIGHT-2026-09-24-BATCH9.md)
-
-- 💼 Plans: https://ziontechgroup.com/en/plans/
-- 📞 Free AI Discovery: https://ziontechgroup.com/discovery/
-- 📇 Full index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md)
-
-© 2026 Zion Tech Group · https://ziontechgroup.com
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com/
