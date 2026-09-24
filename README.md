@@ -1,13 +1,24 @@
 # Zion App Network — Master Directory
 
-**710 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**716 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - 🧰 All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ✨ Featured — September 23 Wave 2 (new) — 41 apps
+## ✨ Featured — batch 18 (new) — AI Revenue Operations
+
+Full spotlight: [SPOTLIGHT-2026-09-24-BATCH18.md](SPOTLIGHT-2026-09-24-BATCH18.md) · Homepage: [APP_NETWORK_SPOTLIGHT_SEP24_BATCH18](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH18.md)
+
+- [Revenue Leak Detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/ — finds & stops revenue leakage across billing, contracts and renewals
+- [Pricing Signal Radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/ — competitor pricing signals → recommended price actions
+- [Quote-to-Cash Accelerator](https://github.com/Zion-support/quote-to-cash-accelerator) — https://ziontechgroup.com/quote-to-cash-accelerator/ — compresses quote → approval → invoice cycle
+- [Subscription Dunning Hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/ — recovers failed payments with smart dunning
+- [Deal Desk Copilot](https://github.com/Zion-support/deal-desk-copilot) — https://ziontechgroup.com/deal-desk-copilot/ — discount guardrails & margin protection
+- [AR Collections Prioritizer](https://github.com/Zion-support/ar-collections-prioritizer) — https://ziontechgroup.com/ar-collections-prioritizer/ — AI risk-scored collections queue
+
+## ✨ Featured — September 23 Wave 2 — 41 apps
 
 Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-WAVE2.md) · Homepage: [APP_NETWORK_SPOTLIGHT_SEP23_WAVE2](https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md)
 
@@ -24,7 +35,7 @@ Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-W
 - [Zion AI Dispatch Orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator) — https://ziontechgroup.com/zion-ai-dispatch-orchestrator/ — smart scheduling & dispatch
 - [Zion AI Ticket Sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel) — https://ziontechgroup.com/zion-ai-ticket-sentinel/ — ticket triage & routing
 
-## ✨ Featured — batch 17 (new) — AI Agent Orchestration & Platform
+## ✨ Featured — batch 17 — AI Agent Orchestration & Platform
 
 - [AI Agent Swarm](https://github.com/Zion-support/ai-agent-swarm) — https://ziontechgroup.com/ai-agent-swarm/ — coordinate multiple AI agents as a unified swarm for complex multi-step tasks
 - [AI Agent Swarm v2](https://github.com/Zion-support/ai-agent-swarm-v2) — https://ziontechgroup.com/ai-agent-swarm-v2/ — advanced swarm intelligence with consensus algorithms for multi-agent systems
@@ -132,7 +143,11 @@ Full spotlight: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-W
 - [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
 - [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-WAVE2.md) — September 23 Wave 2 (41 apps)
-- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md)
+- [SPOTLIGHT-2026-09-24-BATCH18.md](SPOTLIGHT-2026-09-24-BATCH18.md) — Batch 18 AI Revenue Operations (6 apps)
+- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 18](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH18.md)
+
+## Duplicate consolidation notes
+Known overlapping pairs now cross-linked instead of duplicated: [it-asset-lifecycle-tracker](https://github.com/Zion-support/it-asset-lifecycle-tracker) ↔ [asset-lifecycle-tracker](https://github.com/Zion-support/asset-lifecycle-tracker); [sla-forecast-guardian](https://github.com/Zion-support/sla-forecast-guardian) ↔ [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster). Keep both slugs (live pages exist); cross-link, do not merge.
 
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and 6–8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
