@@ -1,12 +1,24 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch 17 added).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-24 (batch 18 added).
+
+## BLOCK 0 — Batch 18: AI Revenue Operations (NEW 2026-09-24)
+
+**Headline:** Stop leaking revenue. Start collecting it.
+
+**Body:** Six new AI revenue-operations apps join the Zion App Network (now 716 apps). Find unbilled usage and expired discounts with [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/), react to competitor moves with [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/), shorten sales cycles with [Quote-to-Cash Accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/), recover failed payments via [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/), protect margins with [Deal Desk Copilot](https://ziontechgroup.com/deal-desk-copilot/) and collect faster with [AR Collections Prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/).
+
+**CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
+
+**Source links:** [revenue-leak-detector](https://github.com/Zion-support/revenue-leak-detector) · [pricing-signal-radar](https://github.com/Zion-support/pricing-signal-radar) · [quote-to-cash-accelerator](https://github.com/Zion-support/quote-to-cash-accelerator) · [subscription-dunning-hero](https://github.com/Zion-support/subscription-dunning-hero) · [deal-desk-copilot](https://github.com/Zion-support/deal-desk-copilot) · [ar-collections-prioritizer](https://github.com/Zion-support/ar-collections-prioritizer)
+
+---
 
 ## Hero block
-**Headline:** One network. 708 AI apps. Zero friction.
+**Headline:** One network. 716 AI apps. Zero friction.
 **Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
-## Featured new apps (batch 17 — NEW)
+## Featured new apps (batch 17)
 - **[Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/)** — churn prediction, health scores and save plays. [GitHub](https://github.com/Zion-support/churn-risk-radar)
 - **[Customer Health Scorer](https://ziontechgroup.com/customer-health-scorer/)** — unified health scoring from usage, support and billing. [GitHub](https://github.com/Zion-support/customer-health-scorer)
 - **[NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)** — NPS/CSAT AI themes, drivers and rescue workflows. [GitHub](https://github.com/Zion-support/nps-insight-engine)
@@ -89,8 +101,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-23 (batch
 - 🤖 131 Zion AI suite apps
 - 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 50 new featured apps (batches 9–17)
-- **Total: 708 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 56 new featured apps (batches 9–18)
+- **Total: 716 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
