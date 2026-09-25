@@ -7,9 +7,13 @@ Master directory and interlink hub for all Zion Tech Group AI apps.
 - [agents](https://github.com/Zion-support/agents) · [ai-services](https://github.com/Zion-support/ai-services) · [tools](https://github.com/Zion-support/tools)
 - Field network: [zion-field](https://github.com/Zion-support/zion-field) (277 satellites)
 
-## 🆕 September 24, 2026 — Batch 31 Spotlight
-- Doc: [SPOTLIGHT-2026-09-24-BATCH31.md](SPOTLIGHT-2026-09-24-BATCH31.md) · HTML: https://ziontechgroup.com/zion-app-network/app-network-batch31-sept24.html
-- Homepage copy: [homepage-content-batch31.md](homepage-content-batch31.md)
+## 🆕 September 25, 2026 — Batch 33 Spotlight (Field Service & Revenue Intelligence)
+- Doc: [SPOTLIGHT-2026-09-25-BATCH33.md](SPOTLIGHT-2026-09-25-BATCH33.md) · HTML: https://ziontechgroup.com/zion-app-network/app-network-batch33-sept25.html
+- Homepage copy: [homepage-content-batch33.md](homepage-content-batch33.md)
+
+## September 24, 2026 — Batch 31 & 32
+- Batch 31: [SPOTLIGHT-2026-09-24-BATCH31.md](SPOTLIGHT-2026-09-24-BATCH31.md) · HTML: https://ziontechgroup.com/zion-app-network/app-network-batch31-sept24.html · [homepage-content-batch31.md](homepage-content-batch31.md)
+- Batch 32: [SPOTLIGHT-2026-09-24-BATCH32.md](SPOTLIGHT-2026-09-24-BATCH32.md) · [homepage-content-batch32.md](homepage-content-batch32.md)
 - Network total: **772 repositories** (495 AI apps + 277 Zion Field satellites)
 
 ## 🔗 Complete Interlink Directory — all 772 repositories
@@ -19,7 +23,7 @@ Every app links back to this hub; live sites under https://ziontechgroup.com, so
 - [DIRECTORY-PART2.md](DIRECTORY-PART2.md) — D–L (55 repos)
 - [DIRECTORY-PART3.md](DIRECTORY-PART3.md) — M–S (69 repos)
 - [DIRECTORY-PART4.md](DIRECTORY-PART4.md) — T–Z apps (217 repos)
-- [DIRECTORY-ZION-FIELD.md](DIRECTORY-ZION-FIELD.md) — Zion Field satellites (277 repos)
+- [DIRECTORY-ZION-FIELD.md](DIRECTORY-ZION-FIELD.md) — Zion Field satellites (277 repos, verified complete)
 
 ## Indexes
 - [APPS_INDEX.md](APPS_INDEX.md) — A–Z master index
