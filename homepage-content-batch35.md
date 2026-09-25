@@ -1,47 +1,23 @@
-# Homepage Advertising Pack — Batch 35 (AI Industry Verticals Suite)
+# Homepage content — Batch 35 (2026-09-25): E-Commerce & Retail AI
 
-Ready-to-paste blocks for https://ziontechgroup.com homepage. All CTAs point to plans/discovery only.
+Copy block for the ziontechgroup.com homepage hero/section rotation. Each item links to its live app page.
 
-## Hero banner (rotating)
+## Section: Grow online revenue with the Zion E-Commerce AI Suite
 
-> **AI built for your industry, not adapted to it.** Six vertical suites — banking, FinServ, retail, HR, supply chain, legal.
-> [See plans →](https://ziontechgroup.com/en/plans/) · [Free AI Discovery →](https://ziontechgroup.com/discovery/)
+Zion Tech Group's retail AI suite covers the entire revenue loop — from product content to pricing, conversion, returns and replenishment. Explore the apps:
 
-## App cards section: "Industry suites"
+- **[AI E-Commerce](https://ziontechgroup.com/ai-e-commerce/)** — Complete AI-powered e-commerce with recommendations and inventory management.
+- **[AI E-commerce Optimizer](https://ziontechgroup.com/ai-ecommerce-optimizer/)** — Product descriptions and recommendations that convert.
+- **[AI Pricing Optimizer](https://ziontechgroup.com/ai-pricing-optimizer/)** — Dynamic pricing recommendations from demand, competition and margin targets.
+- **[AI Product Description Writer](https://ziontechgroup.com/ai-product-description-writer/)** — SEO-optimized product descriptions at catalog scale.
+- **[AI Cart Recovery](https://ziontechgroup.com/ai-cart-recovery/)** — Personalized abandoned-cart recovery sequences across email and on-site.
+- **[AI Returns Reducer](https://ziontechgroup.com/ai-returns-reducer/)** — Predicts return risk and recommends interventions before purchase.
+- **[Returns Optimization AI](https://ziontechgroup.com/returns-optimization-ai/)** — Cut return rates and costs with AI root-cause analysis.
+- **[AI Inventory Forecaster](https://ziontechgroup.com/ai-inventory-forecaster/)** — Demand forecasting and replenishment alerts.
+- **[Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/)** — Inventory planning forecasts that prevent stockouts and overstock.
+- **[AI Review Insights](https://ziontechgroup.com/ai-review-insights/)** — Mines reviews and ratings for sentiment, themes and product fixes.
 
-### 🏦 AI Banking Platform
-AI-native banking operations — onboarding, servicing and risk in one platform.
-→ https://ziontechgroup.com/ai-banking-platform/
+- Browse the full catalog: [ziontechgroup.com/apps/](https://ziontechgroup.com/apps/)
+- New this month: [New apps — September 2026](https://ziontechgroup.com/apps/new-september-2026.html)
 
-### 💼 AI Financial Services Suite
-FinServ workflows with compliance baked in — not bolted on.
-→ https://ziontechgroup.com/ai-financial-services-suite/
-
-### 🛍️ AI Retail & Commerce Hub
-Retail intelligence from catalog to checkout — merchandising that learns.
-→ https://ziontechgroup.com/ai-retail-commerce-hub/
-
-### 👥 AI HR & Talent Platform
-Hire, grow and retain — the entire talent lifecycle in one suite.
-→ https://ziontechgroup.com/ai-hr-talent-platform/
-
-### 🚢 AI Supply Chain
-End-to-end visibility and planning — disruptions flagged before they hit.
-→ https://ziontechgroup.com/ai-supply-chain/
-
-### ⚖️ AI Legal Intelligence
-Legal research and matter intelligence at machine speed.
-→ https://ziontechgroup.com/ai-legal-intelligence/
-
-## Network strip (footer of section)
-
-> Part of the **Zion App Network** — 100+ AI business tools.
-> [Browse the full network →](https://ziontechgroup.com/zion-app-network/) · [Plans & pricing →](https://ziontechgroup.com/en/plans/) · [Book a free discovery call →](https://ziontechgroup.com/discovery/)
-
-## SEO meta suggestion
-
-- Title: `AI Suites for Banking, Retail, HR, Supply Chain & Legal | Zion Tech Group`
-- Description: `Six industry-vertical AI suites: banking platform, financial services, retail commerce, HR & talent, supply chain, and legal intelligence. Explore the Zion App Network.`
-
----
-Source: [zion-app-network hub](https://github.com/Zion-support/zion-app-network) · © 2026 Zion Tech Group
+Suggested CTA: "See all 200+ AI apps" → https://ziontechgroup.com/apps/
