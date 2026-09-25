@@ -2,50 +2,27 @@
 
 Master directory and interlink hub for all Zion Tech Group AI apps.
 
-- 📚 [CATALOG.md](CATALOG.md) — all 710 repos grouped by category
+- 📚 [CATALOG.md](CATALOG.md) — all repos grouped by category
 - [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub) · [zion-network](https://github.com/Zion-support/zion-network) · [zion-portal](https://github.com/Zion-support/zion-portal) · [zion-tools](https://github.com/Zion-support/zion-tools)
 - [agents](https://github.com/Zion-support/agents) · [ai-services](https://github.com/Zion-support/ai-services) · [tools](https://github.com/Zion-support/tools)
-- Field network: [zion-field](https://github.com/Zion-support/zion-field) (270+ satellites)
+- Field network: [zion-field](https://github.com/Zion-support/zion-field) (277 satellites)
 
-## 🚀 September 23, 2026 Wave 2 — 41 apps
-Spotlight: https://ziontechgroup.com/zion-app-network/app-network-wave2-sept23.html · Doc: [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-WAVE2.md)
-[churn-risk-radar](https://github.com/Zion-support/churn-risk-radar) · [customer-health-scorer](https://github.com/Zion-support/customer-health-scorer) · [nps-insight-engine](https://github.com/Zion-support/nps-insight-engine) · [upsell-signal-scout](https://github.com/Zion-support/upsell-signal-scout) · [onboarding-journey-tracker](https://github.com/Zion-support/onboarding-journey-tracker) · [support-sentiment-monitor](https://github.com/Zion-support/support-sentiment-monitor) · [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster) · [sla-forecast-guardian](https://github.com/Zion-support/sla-forecast-guardian) · [sla-breach-predictor](https://github.com/Zion-support/sla-breach-predictor) · [uptime-status-hub](https://github.com/Zion-support/uptime-status-hub) · [site-uptime-watchdog](https://github.com/Zion-support/site-uptime-watchdog) · [incident-comms-writer](https://github.com/Zion-support/incident-comms-writer) · [maintenance-ticket-triage](https://github.com/Zion-support/maintenance-ticket-triage) · [patch-priority-radar](https://github.com/Zion-support/patch-priority-radar) · [security-awareness-coach](https://github.com/Zion-support/security-awareness-coach) · [vendor-risk-scorecard](https://github.com/Zion-support/vendor-risk-scorecard) · [vendor-questionnaire-autopilot](https://github.com/Zion-support/vendor-questionnaire-autopilot) · [accessibility-statement-gen](https://github.com/Zion-support/accessibility-statement-gen) · [expense-audit-ai](https://github.com/Zion-support/expense-audit-ai) · [cloud-budget-guard](https://github.com/Zion-support/cloud-budget-guard) · [license-renewal-planner](https://github.com/Zion-support/license-renewal-planner) · [it-asset-lifecycle-tracker](https://github.com/Zion-support/it-asset-lifecycle-tracker) · [contract-obligation-tracker](https://github.com/Zion-support/contract-obligation-tracker) · [warehouse-slotting-ai](https://github.com/Zion-support/warehouse-slotting-ai) · [shipping-delay-alerter](https://github.com/Zion-support/shipping-delay-alerter) · [returns-optimization-ai](https://github.com/Zion-support/returns-optimization-ai) · [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot) · [knowledge-gap-finder](https://github.com/Zion-support/knowledge-gap-finder) · [ai-meeting-notes-copilot](https://github.com/Zion-support/ai-meeting-notes-copilot) · [employee-engagement-pulse](https://github.com/Zion-support/employee-engagement-pulse) · [onboarding-buddy-ai](https://github.com/Zion-support/onboarding-buddy-ai) · [ai-sales-email-copilot](https://github.com/Zion-support/ai-sales-email-copilot) · [proposal-builder-ai](https://github.com/Zion-support/proposal-builder-ai) · [content-roi-dashboard](https://github.com/Zion-support/content-roi-dashboard) · [seo-content-optimizer](https://github.com/Zion-support/seo-content-optimizer) · [partner-referral-tracker](https://github.com/Zion-support/partner-referral-tracker) · [voice-of-customer-hub](https://github.com/Zion-support/voice-of-customer-hub) · [support-deflection-analyzer](https://github.com/Zion-support/support-deflection-analyzer) · [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator) · [zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel)
+## 🆕 September 24, 2026 — Batch 31 Spotlight
+- Doc: [SPOTLIGHT-2026-09-24-BATCH31.md](SPOTLIGHT-2026-09-24-BATCH31.md) · HTML: https://ziontechgroup.com/zion-app-network/app-network-batch31-sept24.html
+- Homepage copy: [homepage-content-batch31.md](homepage-content-batch31.md)
+- Network total: **772 repositories** (495 AI apps + 277 Zion Field satellites)
 
-## 🆕 Batch 17 — AI Agent Orchestration & Platform
-[ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) · [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) · [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) · [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) · [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) · [ai-benchmark-lab](https://github.com/Zion-support/ai-benchmark-lab) · [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) · [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) · [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) · [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) · [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) · [churn-radar](https://github.com/Zion-support/churn-radar) · [ai-retail-commerce-hub](https://github.com/Zion-support/ai-retail-commerce-hub) · [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite) · [ai-smart-hands-scheduler](https://github.com/Zion-support/ai-smart-hands-scheduler)
+## 🔗 Complete Interlink Directory — all 772 repositories
+Every app links back to this hub; live sites under https://ziontechgroup.com, source under https://github.com/Zion-support.
 
-Spotlight page: https://ziontechgroup.com/apps/ai-agent-orchestration.html
+- [DIRECTORY-PART1.md](DIRECTORY-PART1.md) — A–C (154 repos)
+- [DIRECTORY-PART2.md](DIRECTORY-PART2.md) — D–L (55 repos)
+- [DIRECTORY-PART3.md](DIRECTORY-PART3.md) — M–S (69 repos)
+- [DIRECTORY-PART4.md](DIRECTORY-PART4.md) — T–Z apps (217 repos)
+- [DIRECTORY-ZION-FIELD.md](DIRECTORY-ZION-FIELD.md) — Zion Field satellites (277 repos)
 
-## Batch 16 — CX, Logistics & Compliance
-[voice-of-customer-hub](https://github.com/Zion-support/voice-of-customer-hub) · [license-renewal-planner](https://github.com/Zion-support/license-renewal-planner) · [returns-optimization-ai](https://github.com/Zion-support/returns-optimization-ai) · [shipping-delay-alerter](https://github.com/Zion-support/shipping-delay-alerter) · [data-retention-enforcer](https://github.com/Zion-support/data-retention-enforcer) · [accessibility-statement-gen](https://github.com/Zion-support/accessibility-statement-gen)
+## Indexes
+- [APPS_INDEX.md](APPS_INDEX.md) — A–Z master index
+- [INTERLINKS.md](INTERLINKS.md) — interlink map
 
-## Batch 15 — Field, Fleet & Security Ops
-[zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel) · [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator) · [driver-hours-compliance](https://github.com/Zion-support/driver-hours-compliance) · [dock-appointment-scheduler](https://github.com/Zion-support/dock-appointment-scheduler) · [vendor-questionnaire-autopilot](https://github.com/Zion-support/vendor-questionnaire-autopilot) · [customs-doc-generator](https://github.com/Zion-support/customs-doc-generator) · [security-awareness-coach](https://github.com/Zion-support/security-awareness-coach) · [patch-priority-radar](https://github.com/Zion-support/patch-priority-radar)
-
-## Batch 14 — Revenue & Ops tooling
-[partner-referral-tracker](https://github.com/Zion-support/partner-referral-tracker) · [incident-comms-writer](https://github.com/Zion-support/incident-comms-writer) · [cloud-budget-guard](https://github.com/Zion-support/cloud-budget-guard) · [ai-meeting-notes-copilot](https://github.com/Zion-support/ai-meeting-notes-copilot) · [employee-engagement-pulse](https://github.com/Zion-support/employee-engagement-pulse) · [contract-obligation-tracker](https://github.com/Zion-support/contract-obligation-tracker)
-
-## Batch 13 — Ops & Customer Experience tooling
-[contract-obligation-tracker](https://github.com/Zion-support/contract-obligation-tracker) · [ai-meeting-notes-copilot](https://github.com/Zion-support/ai-meeting-notes-copilot) · [cloud-budget-guard](https://github.com/Zion-support/cloud-budget-guard) · [employee-engagement-pulse](https://github.com/Zion-support/employee-engagement-pulse) · [partner-referral-tracker](https://github.com/Zion-support/partner-referral-tracker) · [incident-comms-writer](https://github.com/Zion-support/incident-comms-writer)
-
-## ✨ Batch 12 — GTM, Compliance & Support tooling
-[ai-sales-email-copilot](https://github.com/Zion-support/ai-sales-email-copilot) · [compliance-policy-writer](https://github.com/Zion-support/compliance-policy-writer) · [vendor-risk-scorecard](https://github.com/Zion-support/vendor-risk-scorecard) · [uptime-status-hub](https://github.com/Zion-support/uptime-status-hub) · [seo-content-optimizer](https://github.com/Zion-support/seo-content-optimizer) · [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot)
-
-## ✨ Batch 11 — Security, FinOps & Cloud tooling
-[ai-deepfake-detector](https://github.com/Zion-support/ai-deepfake-detector) · [ai-benchmark-tracker](https://github.com/Zion-support/ai-benchmark-tracker) · [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger) · [zion-ai-threat-brief](https://github.com/Zion-support/zion-ai-threat-brief) · [zion-ai-model-arena](https://github.com/Zion-support/zion-ai-model-arena) · [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) · [k8s-pod-security-scanner](https://github.com/Zion-support/k8s-pod-security-scanner) · [tech-debt-radar](https://github.com/Zion-support/tech-debt-radar) · [log-anomaly-spotter](https://github.com/Zion-support/log-anomaly-spotter) · [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) · [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) · [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) · [contract-clause-reviewer](https://github.com/Zion-support/contract-clause-reviewer) · [finops-spend-analyzer](https://github.com/Zion-support/finops-spend-analyzer) · [managed-it-health-check](https://github.com/Zion-support/managed-it-health-check)
-
-## 🚀 September 24, 2026 Batch 22 — AI Data Quality & Pipeline Intelligence (6 apps)
-Spotlight doc: [SPOTLIGHT-2026-09-24-BATCH22.md](SPOTLIGHT-2026-09-24-BATCH22.md) · Homepage page: https://ziontechgroup.com/apps/ai-data-quality-pipeline.html
-[data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) · [data-quality-watchdog](https://github.com/Zion-support/data-quality-watchdog) · [data-pipeline-doctor](https://github.com/Zion-support/data-pipeline-doctor) · [data-contract-validator](https://github.com/Zion-support/data-contract-validator) · [data-catalog-copilot](https://github.com/Zion-support/data-catalog-copilot) · [dashboard-insight-narrator](https://github.com/Zion-support/dashboard-insight-narrator)
-
-Interlink footer: each Batch 22 app links to the hub, homepage, /en/plans/, /discovery/, /tools/ and sibling apps [etl-pipeline-monitor](https://github.com/Zion-support/etl-pipeline-monitor) · [log-anomaly-spotter](https://github.com/Zion-support/log-anomaly-spotter) · [data-retention-enforcer](https://github.com/Zion-support/data-retention-enforcer) · [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot) · [llm-gateway](https://github.com/Zion-support/llm-gateway) · [data-contract-validator](https://github.com/Zion-support/data-contract-validator).
-
-## 🔗 Live gateways
-- Homepage: https://ziontechgroup.com/
-- Plans & pricing: https://ziontechgroup.com/en/plans/
-- Discovery call: https://ziontechgroup.com/discovery/
-- All tools: https://ziontechgroup.com/tools/
-- Hub page: https://ziontechgroup.com/zion-app-network/
-- Showcase: https://github.com/Zion-support/zion-support.github.io/blob/main/APPS_SHOWCASE.md
-
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+Contact: kleber@ziontechgroup.com · commercial@ziontechgroup.com
