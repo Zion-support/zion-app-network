@@ -20,4 +20,4 @@ Zion Tech Group's retail AI suite covers the entire revenue loop — from produc
 - Browse the full catalog: [ziontechgroup.com/apps/](https://ziontechgroup.com/apps/)
 - New this month: [New apps — September 2026](https://ziontechgroup.com/apps/new-september-2026.html)
 
-Suggested CTA: "See all 200+ AI apps" → https://ziontechgroup.com/apps/
+Suggested CTA: "See all 200+ AI apps" -> https://ziontechgroup.com/apps/
