@@ -4,7 +4,7 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Total repositories: 116**
+**Total repositories: 122**
 
 ## AI Apps (15)
 
@@ -156,3 +156,16 @@ Spotlight: [SPOTLIGHT-2026-09-24-BATCH28.md](SPOTLIGHT-2026-09-24-BATCH28.md) ·
 
 ---
 *Generated 2026-09-23 · Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md), [spotlight](SPOTLIGHT-2026-09-24-BATCH28.md) and the [homepage showcase](https://ziontechgroup.com/app-network-showcase/).*
+
+## Regulated & Public Industries Suite — Batch 36, 2026-09-25 (6)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [ai-gov-services-platform](https://github.com/Zion-support/ai-gov-services-platform) | Citizen services, permitting & case management for the public sector | https://ziontechgroup.com/ai-gov-services-platform/ |
+| [ai-insurance-suite](https://github.com/Zion-support/ai-insurance-suite) | Underwriting intelligence, claims triage & policy servicing | https://ziontechgroup.com/ai-insurance-suite/ |
+| [ai-real-estate-hub](https://github.com/Zion-support/ai-real-estate-hub) | Valuation models, lead routing & property intelligence | https://ziontechgroup.com/ai-real-estate-hub/ |
+| [ai-nonprofit-hub](https://github.com/Zion-support/ai-nonprofit-hub) | Donor intelligence, grant writing & impact reporting | https://ziontechgroup.com/ai-nonprofit-hub/ |
+| [ai-hospitality-suite](https://github.com/Zion-support/ai-hospitality-suite) | Guest experience, revenue management & ops intelligence | https://ziontechgroup.com/ai-hospitality-suite/ |
+| [ai-agriculture-platform](https://github.com/Zion-support/ai-agriculture-platform) | Crop intelligence, precision farming & supply forecasting | https://ziontechgroup.com/ai-agriculture-platform/ |
+
+Spotlight: [SPOTLIGHT-2026-09-25-BATCH36.md](SPOTLIGHT-2026-09-25-BATCH36.md) · Homepage pack: [homepage-content-batch36.md](homepage-content-batch36.md)
