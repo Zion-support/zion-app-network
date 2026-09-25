@@ -7,6 +7,11 @@ Master directory and interlink hub for all Zion Tech Group AI apps.
 - [agents](https://github.com/Zion-support/agents) · [ai-services](https://github.com/Zion-support/ai-services) · [tools](https://github.com/Zion-support/tools)
 - Field network: [zion-field](https://github.com/Zion-support/zion-field) (277 satellites)
 
+## September 25, 2026 — Revenue, Growth & Ops
+- Doc: [SPOTLIGHT-2026-09-25-REVOPS-GROWTH.md](SPOTLIGHT-2026-09-25-REVOPS-GROWTH.md) · HTML: https://ziontechgroup.com/zion-app-network/app-network-sept25-revops.html
+- On-site map: https://ziontechgroup.com/revenue-notes/ · Billing brief: https://ziontechgroup.com/billing-notes/
+- Homepage copy: [homepage-content-sep25-revops.md](homepage-content-sep25-revops.md)
+
 ## 🆕 September 25, 2026 — Batch 33 Spotlight (Field Service & Revenue Intelligence)
 - Doc: [SPOTLIGHT-2026-09-25-BATCH33.md](SPOTLIGHT-2026-09-25-BATCH33.md) · HTML: https://ziontechgroup.com/zion-app-network/app-network-batch33-sept25.html
 - Homepage copy: [homepage-content-batch33.md](homepage-content-batch33.md)
