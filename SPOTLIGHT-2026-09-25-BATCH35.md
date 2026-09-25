@@ -18,7 +18,7 @@ Ten interlinked apps from the Zion Tech Group App Network that cover the full re
 ## How the suite interlinks
 
 1. [AI Product Description Writer](https://ziontechgroup.com/ai-product-description-writer/) and [AI E-commerce Optimizer](https://ziontechgroup.com/ai-ecommerce-optimizer/) build the catalog content layer.
-2. [AI Pricing Optimizer](https://ziontechgroup.com/ai-pricing-optimizer/) prices it; [AI Inventory Forecaster](https://ziontechgroup.com/ai-inventory-forecaster/) and [Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/) keep it in stock.
+2. [AI Pricing Optimizer](https://ziontechgroup.com/ai-pricing-optimzer/) prices it; [AI Inventory Forecaster](https://ziontechgroup.com/ai-inventory-forecaster/) and [Inventory Forecast AI](https://ziontechgroup.com/inventory-forecast-ai/) keep it in stock.
 3. [AI Cart Recovery](https://ziontechgroup.com/ai-cart-recovery/) converts abandoning shoppers; [AI Returns Reducer](https://ziontechgroup.com/ai-returns-reducer/) and [Returns Optimization AI](https://ziontechgroup.com/returns-optimization-ai/) protect margin post-purchase.
 4. [AI Review Insights](https://ziontechgroup.com/ai-review-insights/) closes the loop, feeding customer sentiment back into content and pricing.
 
