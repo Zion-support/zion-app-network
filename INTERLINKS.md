@@ -1,4 +1,4 @@
-# Zion App Network — Master Interlink Map (2026-09-24)
+# Zion App Network — Master Interlink Map (2026-09-25)
 
 Every app in the network, interlinked: live app · source repo · related apps. Start at the hubs:
 
@@ -6,6 +6,14 @@ Every app in the network, interlinked: live app · source repo · related apps. 
 - **Live hub:** https://ziontechgroup.com/zion-app-network/ · https://ziontechgroup.com/zion-apps-hub/
 - **Master index:** [APPS_INDEX.md](APPS_INDEX.md) · **Catalog:** [CATALOG.md](CATALOG.md) · **Network graph:** [NETWORK.md](NETWORK.md)
 - **Homepage:** https://ziontechgroup.com · **Plans:** https://ziontechgroup.com/en/plans/ · **Free AI Discovery:** https://ziontechgroup.com/discovery/
+
+## Customer Success & Support Automation Cluster (batch 39 — fully interlinked)
+- [support-copilot-ai](https://github.com/Zion-support/support-copilot-ai) — https://ziontechgroup.com/support-copilot-ai/ · pairs with [ticket-triage-ai](https://github.com/Zion-support/ticket-triage-ai) and [cs-escalation-radar](https://github.com/Zion-support/cs-escalation-radar)
+- [ticket-triage-ai](https://github.com/Zion-support/ticket-triage-ai) — https://ziontechgroup.com/ticket-triage-ai/ · feeds [zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel) and [sla-breach-predictor](https://github.com/Zion-support/sla-breach-predictor)
+- [knowledge-base-gen](https://github.com/Zion-support/knowledge-base-gen) — https://ziontechgroup.com/knowledge-base-gen/ · publishes to [help-center-optimizer](https://github.com/Zion-support/help-center-optimizer)
+- [cs-escalation-radar](https://github.com/Zion-support/cs-escalation-radar) — https://ziontechgroup.com/cs-escalation-radar/ · shares signals with [churn-signal-radar](https://github.com/Zion-support/churn-signal-radar) and [support-sentiment-monitor](https://github.com/Zion-support/support-sentiment-monitor)
+- [feedback-loop-ai](https://github.com/Zion-support/feedback-loop-ai) — https://ziontechgroup.com/feedback-loop-ai/ · closes the loop with [voice-of-customer-hub](https://github.com/Zion-support/voice-of-customer-hub) and [nps-insight-engine](https://github.com/Zion-support/nps-insight-engine)
+- [help-center-optimizer](https://github.com/Zion-support/help-center-optimizer) — https://ziontechgroup.com/help-center-optimizer/ · measures [support-deflection-analyzer](https://github.com/Zion-support/support-deflection-analyzer) outcomes
 
 ## AI Agent Orchestration Cluster
 - [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) — live: https://ai-agent-fleet.ziontechgroup.com · pairs with [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) and [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow)
@@ -62,4 +70,4 @@ Every app in the network, interlinked: live app · source repo · related apps. 
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch28.md](homepage-content-batch28.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch39.md](homepage-content-batch39.md)
