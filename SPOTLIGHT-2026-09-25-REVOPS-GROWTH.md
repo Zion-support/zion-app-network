@@ -4,7 +4,7 @@ A fully interlinked wave of AI apps for revenue operations, growth marketing, su
 
 - 🗂️ Master directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub repo: https://github.com/Zion-support/zion-app-network
-- 📰 Showcase page: https://ziontechgroup.com/zion-app-network/app-network-sept25-revops.html
+- 📰 Live showcase page: https://ziontechgroup.com/zion-app-network/app-network-sept25-revops.html
 
 ## Revenue & Sales
 | App | Live | Repo |
