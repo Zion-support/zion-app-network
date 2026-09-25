@@ -1,21 +1,7 @@
-# Homepage Content — Batch 29 (Sep 24 evening)
+# Homepage content — Batch 20 (deployed 2026-09-25)
 
-Copy-ready blocks advertising the newest Zion AI App Network apps. Link every card to its live app.
+Section: "🚀 Batch 20 — Operations Hubs & Copilots" added above Batch 19 on https://ziontechgroup.com/ (public/index.html — the live pt-BR homepage) and on the English app-network page (root index.html), with 13 app links + spotlight card in What's new.
 
-## Hero strip
-**New on the Zion AI App Network:** Warranty Claim Triager, Incident Runbook AI and AI Procurement Copilot — plus 11 more apps shipped today. Explore all 678+ apps → https://ziontechgroup.com/zion-app-network/
+Apps: ai-contract-clause-screener, ai-customer-experience-hub, ai-cybersecurity-hub, ai-data-engineering-hub, ai-finops-suite, ai-growth-marketing-hub, ai-meeting-notes-copilot, ar-collections-prioritizer, inventory-forecast-ai, landing-page-ab-tester, newsletter-growth-copilot, po-approvals-autopilot, policy-attestation-tracker.
 
-## Featured cards
-1. **Warranty Claim Triager** — AI classification & auto-adjudication routing of warranty claims. → https://ziontechgroup.com/warranty-claim-triager/
-2. **Incident Runbook AI** — executable runbooks generated from alerts & postmortems. → https://ziontechgroup.com/incident-runbook-ai/
-3. **AI Procurement Copilot** — sourcing, vendor comparison & PO drafting. → https://ziontechgroup.com/ai-procurement-copilot/
-4. **SLA Risk Forecaster** — predict SLA breaches before they happen. → https://ziontechgroup.com/sla-risk-forecaster/
-5. **Voice of Customer Hub** — unified VoC analytics. → https://ziontechgroup.com/voice-of-customer-hub/
-6. **NPS Insight Engine** — the drivers behind your NPS. → https://ziontechgroup.com/nps-insight-engine/
-7. **Upsell Signal Scout** — expansion revenue signals. → https://ziontechgroup.com/upsell-signal-scout/
-8. **Route Density Planner** — denser routes, fewer miles. → https://ziontechgroup.com/route-density-planner/
-
-## Footer CTA
-The Zion AI App Network grows daily — 678+ interlinked AI apps. Browse the directory: https://ziontechgroup.com/zion-app-network/ · GitHub hub: https://github.com/Zion-support/zion-app-network
-
-© 2026 Zion Tech Group.
+Interlink pattern per app repo: index.html (demo + related apps + network links) and NETWORK.md (live/repo/pages links + related apps + master catalog + hub).
