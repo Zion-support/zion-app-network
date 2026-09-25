@@ -4,4 +4,4 @@ Section: "🚀 Batch 21 — Revenue Protection, Governance & People Ops" added a
 
 Apps: ai-energy-optimizer, ai-talent-onboarding-copilot, zion-insight-dashboard, pricing-signal-radar, revenue-leak-detector, shipping-delay-alerter, subscription-dunning-hero, supplier-risk-radar, ai-governance-dashboard, audit-readiness-copilot, churn-signal-radar, compliance-evidence-collector.
 
-Note: 3 of these repos were completely empty (size 0) before this batch.
+Interlink pattern per app repo: index.html (demo + related apps + network links) and NETWORK.md (live/repo/pages links + related apps + master catalog + hub).

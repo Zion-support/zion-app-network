@@ -1,6 +1,6 @@
 # Batch 21 Spotlight (2026-09-25) — Revenue Protection, Governance & People Ops
 
-12 stub repos fixed with interactive index.html + NETWORK.md interlinks:
+12 stub/empty repos fixed with interactive index.html + NETWORK.md interlinks:
 
 - ai-energy-optimizer: https://ziontechgroup.com/ai-energy-optimizer/ · https://github.com/Zion-support/ai-energy-optimizer
 - ai-talent-onboarding-copilot: https://ziontechgroup.com/ai-talent-onboarding-copilot/ · https://github.com/Zion-support/ai-talent-onboarding-copilot
@@ -15,7 +15,7 @@
 - churn-signal-radar: https://ziontechgroup.com/churn-signal-radar/ · https://github.com/Zion-support/churn-signal-radar
 - compliance-evidence-collector: https://ziontechgroup.com/compliance-evidence-collector/ · https://github.com/Zion-support/compliance-evidence-collector
 
-Homepage updated with Batch 21 section: https://ziontechgroup.com/ (public/index.html commit a8164c9).
+Homepages updated with Batch 21 section: https://ziontechgroup.com/ (public/index.html, live) and root index.html (English app-network page).
 Full spotlight doc: https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_REVENUE_GOVERNANCE.md
 Previous: [Batch 20](SPOTLIGHT-2026-09-25-BATCH29.md)
 
