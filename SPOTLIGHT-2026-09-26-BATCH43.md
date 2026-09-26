@@ -1,26 +1,26 @@
-# Spotlight — 2026-09-26 — Batch 43: AI Security & Trust Suite
+# Spotlight — 2026-09-26 — Batch 43: Data Engineering & AI Pipelines Suite
 
-Six apps that make security continuous: threat briefs, threat intel, compliance scanning, injection defense, monitoring, postmortems.
+Six apps for modern data teams: build pipelines visually, generate ETL with AI, guard quality, stream in real time, catalog everything, and cut warehouse spend.
 
 | App | Live | Focus |
 |---|---|---|
-| [zion-ai-threat-brief](https://github.com/Zion-support/zion-ai-threat-brief) | https://ziontechgroup.com/zion-ai-threat-brief/ | Daily exec-ready threat briefings |
-| [zion-ai-threat-intel](https://github.com/Zion-support/zion-ai-threat-intel) | https://ziontechgroup.com/zion-ai-threat-intel/ | Threat intelligence correlation |
-| [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) | https://ziontechgroup.com/zion-ai-compliance-scanner/ | Continuous compliance scanning |
-| [prompt-injection-playground](https://github.com/Zion-support/prompt-injection-playground) | https://ziontechgroup.com/prompt-injection-playground/ | Learn LLM security with safe demos |
-| [zion-ai-compliance-monitor](https://github.com/Zion-support/zion-ai-compliance-monitor) | https://ziontechgroup.com/zion-ai-compliance-monitor/ | Always-on compliance monitoring |
-| [zion-ai-postmortem](https://github.com/Zion-support/zion-ai-postmortem) | https://ziontechgroup.com/zion-ai-postmortem/ | Blameless postmortems for AI failures |
+| [zion-data-pipeline-hub](https://github.com/Zion-support/zion-data-pipeline-hub) | https://ziontechgroup.com/zion-data-pipeline-hub/ | Visual ETL/ELT pipeline builder |
+| [etl-copilot-ai](https://github.com/Zion-support/etl-copilot-ai) | https://ziontechgroup.com/etl-copilot-ai/ | Natural-language ETL generation |
+| [data-quality-guard](https://github.com/Zion-support/data-quality-guard) | https://ziontechgroup.com/data-quality-guard/ | Anomaly detection & freshness SLAs |
+| [stream-analytics-hub](https://github.com/Zion-support/stream-analytics-hub) | https://ziontechgroup.com/stream-analytics-hub/ | Real-time streaming analytics |
+| [data-catalog-ai](https://github.com/Zion-support/data-catalog-ai) | https://ziontechgroup.com/data-catalog-ai/ | Automated lineage & discovery |
+| [warehouse-optimizer-ai](https://github.com/Zion-support/warehouse-optimizer-ai) | https://ziontechgroup.com/warehouse-optimizer-ai/ | Warehouse cost & performance optimizer |
 
 ## Why they work together
 
-Brief the execs → correlate intel → scan continuously → train teams safely → monitor controls → learn from every incident. One connected security-trust loop.
+Build pipelines in the hub → generate jobs with the copilot → guard quality on every run → stream events in real time → catalog lineage automatically → optimize warehouse spend. One connected data engineering loop.
 
 ## Related batches
 
-- [Batch 39 — Security & FinOps](SPOTLIGHT-2026-09-25-BATCH39.md)
-- [Batch 38 — LLM Ops](SPOTLIGHT-2026-09-25-BATCH38.md)
+- [Batch 42 — AI Agents & Platform](SPOTLIGHT-2026-09-25-BATCH42.md)
+- [Batch 41 — Everyday AI Productivity](SPOTLIGHT-2026-09-25-BATCH41.md)
 
-- 💳 Plans: https://ziontechgroup.com/en/plans/
+- 📊 Plans: https://ziontechgroup.com/en/plans/
 - 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
 - 🗇 Full index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md)
 
