@@ -1,9 +1,21 @@
-# Homepage content — Batch 53: Revenue Protection & Operations Signals (Sep 26, 2026)
+# Homepage content pack — Batch 53 (2026-09-26)
 
-New section for https://ziontechgroup.com — links each app to its live page:
+Copy-ready marketing content for ziontechgroup.com advertising the LLM Platform & AI Engineering Suite.
 
-## 💹 Revenue Protection & Operations Signals — 8 new interlinked apps
+## Headline
+**Run LLMs like infrastructure — routed, secured, evaluated and observed.**
 
-[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
+## Blurb
+Eight new Zion apps cover the entire LLM lifecycle: one gateway to route and cache every model call, cost calculators that keep token spend honest, a forge and a shield for prompts, a RAG pipeline builder with built-in evals, and an observatory for drift and cost in production.
 
-Detect revenue leakage, recover failed payments, act on pricing signals, and monitor supplier, shipping, vendor and energy risk — one connected revenue-protection toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md
+## Apps
+- **Zion LLM Gateway** — Smart model routing, caching & failover across LLM providers. → https://ziontechgroup.com/llm-gateway/
+- **LLM Cost Optimizer** — Token spend estimator and optimizer. → https://ziontechgroup.com/llm-cost-optimizer/
+- **LLM Cost Calculator** — Token pricing comparison across major models. → https://ziontechgroup.com/llm-cost-calculator/
+- **AI Prompt Forge** — Build, optimize and score prompts with versioned test suites. → https://ziontechgroup.com/prompt-forge/
+- **Zion Prompt Shield** — LLM security testing & prompt-injection defense. → https://ziontechgroup.com/prompt-shield/
+- **Zion RAG Forge** — Production RAG pipelines & knowledge copilots. → https://ziontechgroup.com/rag-forge/
+- **RAG Evaluator** — Score RAG quality: faithfulness, relevance, context recall. → https://ziontechgroup.com/rag-evaluator/
+- **Zion Model Observatory** — ML/LLM observability: drift, cost and quality. → https://ziontechgroup.com/model-observatory/
+
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
