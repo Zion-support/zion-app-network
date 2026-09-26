@@ -1,28 +1,33 @@
-# Spotlight — Batch 53: AI Finance & Expense Ops (Sep 26, 2026)
+# Spotlight — Batch 53: People & Workforce AI (Sep 26, 2026)
 
-Six interlinked apps to audit spend, stop fraud, watch budgets, forecast cash, clean payroll and close the books faster. Network total: **784 apps**.
+Eight interlinked apps to hire, grow, engage and retain your team — one connected people-ops toolchain.
 
-| App | What it does | Live | Source |
-|---|---|---|---|
-| **Expense Audit AI** | Policy violations, duplicate receipts and outlier detection with manager-ready audit summaries. | https://ziontechgroup.com/expense-audit-ai/ | [GitHub](https://github.com/Zion-support/expense-audit-ai) |
-| **Invoice Fraud Detector** | Duplicate invoices, vendor bank-detail change alerts and price drift vs PO history. | https://ziontechgroup.com/invoice-fraud-detector/ | [GitHub](https://github.com/Zion-support/invoice-fraud-detector) |
-| **Budget Variance Radar** | Real-time budget vs actual tracking with threshold alerts and year-end variance forecasts. | https://ziontechgroup.com/budget-variance-radar/ | [GitHub](https://github.com/Zion-support/budget-variance-radar) |
-| **Cashflow Forecaster AI** | 13-week rolling cash forecast, scenarios, runway alerts and collections signals. | https://ziontechgroup.com/cashflow-forecaster-ai/ | [GitHub](https://github.com/Zion-support/cashflow-forecaster-ai) |
-| **Payroll Anomaly Detector** | Overtime spikes, ghost employees, duplicate bank accounts and tax mismatches. | https://ziontechgroup.com/payroll-anomaly-detector/ | [GitHub](https://github.com/Zion-support/payroll-anomaly-detector) |
-| **Finance Close Copilot** | Close checklist automation, auto-reconciliations, flux narratives and audit-ready binders. | https://ziontechgroup.com/finance-close-copilot/ | [GitHub](https://github.com/Zion-support/finance-close-copilot) |
+| App | What it does | Live |
+|---|---|---|
+| **Skills Matrix AI** | Dynamic skills matrix — proficiency tracking, gap heatmaps and upskilling priorities. | https://ziontechgroup.com/skills-matrix-ai/ |
+| **Retention Risk Radar** | Predict employee attrition risk with explainable signals and retention playbooks. | https://ziontechgroup.com/retention-risk-radar/ |
+| **Interview Intelligence AI** | Structured interviews — question banks, scoring rubrics and bias-aware summaries. | https://ziontechgroup.com/interview-intelligence-ai/ |
+| **Comp Benchmark Scout** | Real-time compensation benchmarking by role, level and location. | https://ziontechgroup.com/comp-benchmark-scout/ |
+| **Engagement Pulse AI** | Continuous pulse surveys with AI theme detection and action tracking. | https://ziontechgroup.com/engagement-pulse-ai/ |
+| **Workforce Capacity Planner** | Headcount and capacity forecasting across teams, skills and budgets. | https://ziontechgroup.com/workforce-capacity-planner/ |
+| **Learning Path AI** | Personalized learning paths from skills gaps, goals and role requirements. | https://ziontechgroup.com/learning-path-ai/ |
+| **Hiring Funnel Optimizer** | Hiring funnel analytics — source quality, stage conversion and time-to-hire. | https://ziontechgroup.com/hiring-funnel-optimizer/ |
 
-## How they interlink
-1. **Control spend** with [Expense Audit AI](https://ziontechgroup.com/expense-audit-ai/) and [Invoice Fraud Detector](https://ziontechgroup.com/invoice-fraud-detector/).
-2. **Track plan** with [Budget Variance Radar](https://ziontechgroup.com/budget-variance-radar/) and [Cashflow Forecaster AI](https://ziontechgroup.com/cashflow-forecaster-ai/).
-3. **Protect payroll** with [Payroll Anomaly Detector](https://ziontechgroup.com/payroll-anomaly-detector/).
-4. **Close faster** with [Finance Close Copilot](https://ziontechgroup.com/finance-close-copilot/) — fed by all five.
+## Repositories
+- [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/
+- [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — https://ziontechgroup.com/retention-risk-radar/
+- [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) — https://ziontechgroup.com/interview-intelligence-ai/
+- [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) — https://ziontechgroup.com/comp-benchmark-scout/
+- [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) — https://ziontechgroup.com/engagement-pulse-ai/
+- [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) — https://ziontechgroup.com/workforce-capacity-planner/
+- [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — https://ziontechgroup.com/learning-path-ai/
+- [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — https://ziontechgroup.com/hiring-funnel-optimizer/
 
-All six pair with [Compliance Evidence Collector](https://github.com/Zion-support/compliance-evidence-collector), [Audit Readiness Copilot](https://github.com/Zion-support/audit-readiness-copilot) and [Vendor Risk Screener](https://github.com/Zion-support/vendor-risk-screener) (Batch 52) for audit evidence and vendor signals.
+## Interlinks
+- Hub: https://ziontechgroup.com/zion-app-network/ · https://github.com/Zion-support/zion-app-network
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+- Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md)
+- Previous: [Batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09-26-BATCH52.md)
 
-## Related spotlights
-- [SPOTLIGHT-2026-09-26-BATCH52.md](SPOTLIGHT-2026-09-26-BATCH52.md) · [INTERLINKS.md](INTERLINKS.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md)
-- Hub: https://ziontechgroup.com/zion-app-network/ · Showcase: [app-network-batch53-sept26.html](app-network-batch53-sept26.html) · Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md)
-
-CTA: [Plans](https://ziontechgroup.com/en/plans/) · [Discovery call](https://ziontechgroup.com/discovery/) · [All tools](https://ziontechgroup.com/tools/)
-
-© 2026 Zion Tech Group · https://ziontechgroup.com
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com · [README.md](README.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS.md](INTERLINKS.md)
