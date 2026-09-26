@@ -1,27 +1,25 @@
-# Spotlight — Batch 53: Revenue Protection & Operations Signals (Sep 26, 2026)
+# SPOTLIGHT — Batch 53: LLM Platform & AI Engineering Suite (2026-09-26)
 
-Eight interlinked apps to detect revenue leaks, recover payments, price smarter and watch supply-side risk.
+Eight interconnected apps that cover the full LLM lifecycle: route, spend, prompt, secure, retrieve, evaluate and observe.
 
-| App | What it does | Live |
-|---|---|---|
-| **Revenue Leak Detector** | Finds and stops revenue leakage across billing, contracts and usage before it compounds. | https://ziontechgroup.com/revenue-leak-detector/ |
-| **Subscription Dunning Hero** | Recovers failed subscription payments with smart, branded dunning sequences and retry logic. | https://ziontechgroup.com/subscription-dunning-hero/ |
-| **Pricing Signal Radar** | Tracks competitor pricing moves and market signals, then recommends concrete price actions. | https://ziontechgroup.com/pricing-signal-radar/ |
-| **Zion AI Pricing Optimizer** | Runs dynamic pricing experiments and elasticity analysis to maximize margin and conversion. | https://ziontechgroup.com/zion-ai-pricing-optimizer/ |
-| **Supplier Risk Radar** | Monitors supplier financial, geopolitical, ESG and delivery signals with early warnings. | https://ziontechgroup.com/supplier-risk-radar/ |
-| **Shipping Delay Alerter** | Detects shipment delays early and notifies customers proactively with revised ETAs. | https://ziontechgroup.com/shipping-delay-alerter/ |
-| **Vendor Onboarding Copilot** | Streamlines vendor onboarding — document collection, compliance checks, risk screening and approvals. | https://ziontechgroup.com/vendor-onboarding-copilot/ |
-| **Energy Demand Forecaster** | Forecasts energy demand by site, meter and weather — budget alerts and peak-shaving recommendations. | https://ziontechgroup.com/energy-demand-forecaster/ |
+| App | What it does | Live | Source |
+|---|---|---|---|
+| **Zion LLM Gateway** | Smart model routing, caching & failover across LLM providers — cut latency and cost with one endpoint. | https://ziontechgroup.com/llm-gateway/ | [llm-gateway](https://github.com/Zion-support/llm-gateway) |
+| **LLM Cost Optimizer** | Token spend estimator and optimizer — right-size models per task and eliminate waste. | https://ziontechgroup.com/llm-cost-optimizer/ | [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) |
+| **LLM Cost Calculator** | Token pricing comparison across OpenAI, Claude, Gemini, Llama and Mistral. | https://ziontechgroup.com/llm-cost-calculator/ | [llm-cost-calculator](https://github.com/Zion-support/llm-cost-calculator) |
+| **AI Prompt Forge** | Build, optimize and score prompts for IT & engineering workflows with versioned test suites. | https://ziontechgroup.com/prompt-forge/ | [prompt-forge](https://github.com/Zion-support/prompt-forge) |
+| **Zion Prompt Shield** | LLM security testing & prompt-injection defense — red-team your AI before attackers do. | https://ziontechgroup.com/prompt-shield/ | [prompt-shield](https://github.com/Zion-support/prompt-shield) |
+| **Zion RAG Forge** | Production RAG pipelines & knowledge copilots — ingestion, chunking, retrieval and evals. | https://ziontechgroup.com/rag-forge/ | [rag-forge](https://github.com/Zion-support/rag-forge) |
+| **RAG Evaluator** | Score retrieval-augmented generation quality — faithfulness, relevance and context recall. | https://ziontechgroup.com/rag-evaluator/ | [rag-evaluator](https://github.com/Zion-support/rag-evaluator) |
+| **Zion Model Observatory** | ML/LLM observability — drift detection, cost tracking and quality monitoring in one pane. | https://ziontechgroup.com/model-observatory/ | [model-observatory](https://github.com/Zion-support/model-observatory) |
 
 ## How they interlink
-1. **Detect** leaks and market moves with [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) and [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/).
-2. **Recover** failed payments with [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/).
-3. **Price** dynamically with [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/).
-4. **Watch** the supply side with [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) and [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/).
-5. **Onboard** vendors safely with [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) and **forecast** facility costs with [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/).
+- **llm-gateway** routes traffic → **llm-cost-optimizer** and **llm-cost-calculator** keep spend visible.
+- **prompt-forge** versions prompts → **prompt-shield** red-teams them → **rag-forge** grounds them in your data.
+- **rag-evaluator** scores retrieval quality → **model-observatory** watches drift and cost in production.
 
-## Related spotlights
-- [SPOTLIGHT-2026-09-26-BATCH50.md](SPOTLIGHT-2026-09-26-BATCH50.md) (FinOps) · [SPOTLIGHT-2026-09-26-BATCH52.md](SPOTLIGHT-2026-09-26-BATCH52.md) (GRC) · [INTERLINKS.md](INTERLINKS.md)
-- Master index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · Hub: https://ziontechgroup.com/zion-app-network/
-
-© 2026 Zion Tech Group · https://ziontechgroup.com
+## Network links
+- Master hub: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [Live hub](https://ziontechgroup.com/zion-app-network/)
+- Showcase page: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+- Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md)
+- Index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS.md](INTERLINKS.md)
