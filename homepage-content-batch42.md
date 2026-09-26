@@ -1,47 +1,18 @@
-# Homepage Advertising Pack — Batch 42 (AI Agents & Platform Suite)
+# Homepage Content — Batch 42: Security & Trust Suite (2026-09-26)
 
-Ready-to-paste blocks for https://ziontechgroup.com homepage. All CTAs point to plans/discovery only.
+## Section: Secure Your AI Stack End-to-End
 
-## Hero banner (rotating)
+**AI adoption is outpacing security review. Close the gap with the Zion Security & Trust Suite — eight production-ready apps covering models, code, infrastructure and people.**
 
-> **Your AI agent fleet, production-ready.** Six platform blocks — from marketplace to Telegram ops.
-> [See plans →](https://ziontechgroup.com/en/plans/) · [Free AI Discovery →](https://ziontechgroup.com/discovery/)
+- **Prompt Shield** — real-time LLM prompt-injection firewall. [Try it](https://ziontechgroup.com/prompt-shield/)
+- **Prompt Injection Playground** — red-team your AI apps before attackers do. [Try it](https://ziontechgroup.com/prompt-injection-playground/)
+- **Secrets Sentinel** — find and revoke leaked keys across repos, CI and containers. [Try it](https://ziontechgroup.com/secrets-sentinel/)
+- **SSL/TLS Config Auditor** — instant transport-security grade reports and fixes. [Try it](https://ziontechgroup.com/ssl-config-auditor/)
+- **K8s Pod Security Scanner** — enforce Pod Security Standards across clusters. [Try it](https://ziontechgroup.com/k8s-pod-security-scanner/)
+- **AI Phishing Simulator** — measure real employee click risk with AI-personalized campaigns. [Try it](https://ziontechgroup.com/ai-phishing-simulator/)
+- **Security Awareness Coach** — adaptive micro-training tied to real simulation results. [Try it](https://ziontechgroup.com/security-awareness-coach/)
+- **Quantum-Safe Migrator** — get ready for post-quantum cryptography (NIST PQC). [Try it](https://ziontechgroup.com/quantum-safe-migrator/)
 
-## App cards section: "Agent platform"
-
-### 🤖 Zion Agents
-An autonomous AI agent fleet with workflows and operations built in.
-→ https://zion-support.github.io/zion-agents/
-
-### ⚙️ Agents Runtime
-The orchestration layer that keeps agents reliable in production.
-→ https://ziontechgroup.com/agents/
-
-### 🔌 Zion MCP Stack
-MCP servers and tool connectivity — plug any system into your agents.
-→ https://ziontechgroup.com/zion-mcp-stack/
-
-### 🏪 AI Agent Marketplace
-Discover, evaluate and deploy ready-made agents in minutes.
-→ https://ziontechgroup.com/zion-ai-agent-marketplace/
-
-### 📨 Telegram Agent Listener
-Intake messages from Telegram straight into agent workflows.
-→ https://ziontechgroup.com/telegram-agent-listener/
-
-### 💬 Telegram AI Reply Worker
-AI-drafted replies for Telegram threads — fast and on-brand.
-→ https://ziontechgroup.com/telegram-ai-reply-worker/
-
-## Network strip (footer of section)
-
-> Part of the **Zion App Network** — 100+ AI business tools.
-> [Browse the full network →](https://ziontechgroup.com/zion-app-network/) · [Plans & pricing →](https://ziontechgroup.com/en/plans/) · [Book a free discovery call →](https://ziontechgroup.com/discovery/)
-
-## SEO meta suggestion
-
-- Title: `AI Agent Platform: Fleet, Runtime, MCP Stack & Marketplace | Zion Tech Group`
-- Description: `Six agent platform blocks: agent fleet ops, runtime orchestration, MCP stack, agent marketplace, and Telegram listener/reply workers. Explore the Zion App Network.`
-
----
-Source: [zion-app-network hub](https://github.com/Zion-support/zion-app-network) · © 2026 Zion Tech Group
+**Full showcase:** https://ziontechgroup.com/zion-app-network/app-network-batch42-sept26.html
+**Explore all 710+ apps:** https://ziontechgroup.com/zion-app-network/
+**Contact:** commercial@ziontechgroup.com
