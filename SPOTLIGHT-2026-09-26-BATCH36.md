@@ -1,21 +1,23 @@
-# 🚀 SPOTLIGHT 2026-09-26 — Batch 36: Field Service AI Suite
+# 📣 SPOTLIGHT — 2026-09-26 — Batch 36: Finance & Accounting AI
 
-**Zion App Network · [ziontechgroup.com](https://ziontechgroup.com)**
+Part of the Zion App Network (179 flagship apps · [master index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)).
 
-Six AI apps that run field service operations end to end: dispatch → route → quote → execute → expand.
-
-## The 6 apps
-1. [Onsite Work Order Copilot](https://ziontechgroup.com/onsite-work-order-copilot/) — technician copilot on site · [repo](https://github.com/Zion-support/onsite-work-order-copilot)
-2. [Smart Dispatch Optimizer](https://ziontechgroup.com/smart-dispatch-optimizer/) — AI job-to-tech assignment · [repo](https://github.com/Zion-support/smart-dispatch-optimizer)
-3. [Technician Route AI](https://ziontechgroup.com/technician-route-ai/) — multi-stop route optimization · [repo](https://github.com/Zion-support/technician-route-ai)
-4. [Field Service Quote Engine](https://ziontechgroup.com/field-service-quote-engine/) — on-site quotes in minutes · [repo](https://github.com/Zion-support/field-service-quote-engine)
-5. [Geo Coverage Finder](https://ziontechgroup.com/geo-coverage-finder/) — coverage gap mapping · [repo](https://github.com/Zion-support/geo-coverage-finder)
-6. [Field Tech Marketplace](https://ziontechgroup.com/field-tech-marketplace/) — on-demand vetted technicians · [repo](https://github.com/Zion-support/field-tech-marketplace)
+## Finance & Accounting AI suite
+- [ai-book-keeper](https://ziontechgroup.com/ai-book-keeper/) — [repo](https://github.com/Zion-support/ai-book-keeper)
+- [ai-billing-automation](https://ziontechgroup.com/ai-billing-automation/) — [repo](https://github.com/Zion-support/ai-billing-automation)
+- [invoice-match-ai](https://ziontechgroup.com/invoice-match-ai/) — [repo](https://github.com/Zion-support/invoice-match-ai)
+- [expense-audit-ai](https://ziontechgroup.com/expense-audit-ai/) — [repo](https://github.com/Zion-support/expense-audit-ai)
+- [ar-collections-prioritizer](https://ziontechgroup.com/ar-collections-prioritizer/) — [repo](https://github.com/Zion-support/ar-collections-prioritizer)
+- [revenue-leak-detector](https://ziontechgroup.com/revenue-leak-detector/) — [repo](https://github.com/Zion-support/revenue-leak-detector)
+- [quote-to-cash-accelerator](https://ziontechgroup.com/quote-to-cash-accelerator/) — [repo](https://github.com/Zion-support/quote-to-cash-accelerator)
+- [ai-asset-depreciation](https://ziontechgroup.com/ai-asset-depreciation/) — [repo](https://github.com/Zion-support/ai-asset-depreciation)
+- [subscription-dunning-hero](https://ziontechgroup.com/subscription-dunning-hero/) — [repo](https://github.com/Zion-support/subscription-dunning-hero)
+- [ai-roi-calculator](https://ziontechgroup.com/ai-roi-calculator/) — [repo](https://github.com/Zion-support/ai-roi-calculator)
+- [ai-financial-services-suite](https://ziontechgroup.com/ai-financial-services-suite/) — [repo](https://github.com/Zion-support/ai-financial-services-suite)
 
 ## Interlinks
-- Category: [zion-network/network/field-service-ai.md](https://github.com/Zion-support/zion-network/blob/main/network/field-service-ai.md) · Spotlight: [spotlights/field-service-ai.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/field-service-ai.md)
-- Homepage copy: [homepage-content-batch36.md](homepage-content-batch36.md) · Homepage spotlight: [APP_NETWORK_SPOTLIGHT_FIELD_SERVICE.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_FIELD_SERVICE.md)
-- Master index: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-
-## Also in Batch 36
-- network.json: registered marketing-growth-ai, compliance-grc-ai and industry-verticals-suites categories + registries (15 categories total); spotlight_latest now points to spotlights/marketing-growth-ai.md.
+- Network hub: https://zion-support.github.io/zion-network/
+- Spotlight in network repo: [spotlights/finance-accounting-ai.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/finance-accounting-ai.md)
+- Homepage spotlight: https://ziontechgroup.com/APP_NETWORK_SPOTLIGHT_FINANCE_AI.md
+- Registry: https://github.com/Zion-support/zion-network/blob/main/network.json
+- Previous: [SPOTLIGHT-2026-09-26-BATCH35.md](SPOTLIGHT-2026-09-26-BATCH35.md)
