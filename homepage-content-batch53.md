@@ -1,22 +1,12 @@
-# Homepage Advertising Pack — Batch 53: AI Finance & Expense Ops
-Copy-paste ready blocks for https://ziontechgroup.com. Created 2026-09-26 (Batch 53). Network total: **784 apps**.
+# Homepage content — Batch 53: People & Workforce AI (Sep 26, 2026)
 
-## BLOCK 0 — Hero banner (stats line)
-> 🚀 New: **AI Finance & Expense Ops suite** — 6 new apps bring the Zion App Network to **784 interconnected AI tools**. Audit spend, stop invoice fraud, watch budgets, forecast cash, clean payroll and close the books faster.
-> [Explore the suite](https://ziontechgroup.com/zion-app-network/) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a free Discovery call](https://ziontechgroup.com/discovery/)
+New section for https://ziontechgroup.com — links each app to its live page:
 
-## BLOCK 1 — Feature section (6 cards)
-**Expense Audit AI** — AI expense auditing: policy violations, duplicate receipts, outlier alerts. → https://ziontechgroup.com/expense-audit-ai/
-**Invoice Fraud Detector** — Catch duplicate invoices, vendor bank-detail changes and price drift before you pay. → https://ziontechgroup.com/invoice-fraud-detector/
-**Budget Variance Radar** — Budget vs actual in real time with alerts and year-end variance forecasts. → https://ziontechgroup.com/budget-variance-radar/
-**Cashflow Forecaster AI** — 13-week rolling forecasts, scenarios, runway alerts, collections signals. → https://ziontechgroup.com/cashflow-forecaster-ai/
-**Payroll Anomaly Detector** — Overtime spikes, ghost employees, tax mismatches — caught before payday. → https://ziontechgroup.com/payroll-anomaly-detector/
-**Finance Close Copilot** — Month-end close checklists, auto-reconciliations and flux narratives. → https://ziontechgroup.com/finance-close-copilot/
+## 👥 People & Workforce AI — 8 new interlinked apps
 
-## BLOCK 2 — Social proof / interlink line
-Every Batch-53 app interlinks with the other 778 apps in the network — including Batch-52 GRC apps (Compliance Evidence Collector, Audit Readiness Copilot, Vendor Risk Screener) for audit-ready evidence end to end.
+[Skills Matrix AI](https://ziontechgroup.com/skills-matrix-ai/) · [Retention Risk Radar](https://ziontechgroup.com/retention-risk-radar/) · [Interview Intelligence AI](https://ziontechgroup.com/interview-intelligence-ai/) · [Comp Benchmark Scout](https://ziontechgroup.com/comp-benchmark-scout/) · [Engagement Pulse AI](https://ziontechgroup.com/engagement-pulse-ai/) · [Workforce Capacity Planner](https://ziontechgroup.com/workforce-capacity-planner/) · [Learning Path AI](https://ziontechgroup.com/learning-path-ai/) · [Hiring Funnel Optimizer](https://ziontechgroup.com/hiring-funnel-optimizer/)
 
-## BLOCK 3 — CTA footer
-Ready to modernize finance ops? [Plans & pricing](https://ziontechgroup.com/en/plans/) · [Free Discovery call](https://ziontechgroup.com/discovery/) · [Browse all 784 tools](https://ziontechgroup.com/tools/)
+Hire smarter, benchmark pay, grow skills, keep a pulse on engagement and forecast capacity — one connected people-ops toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Hub: https://ziontechgroup.com/zion-app-network/
 
-© 2026 Zion Tech Group
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com
