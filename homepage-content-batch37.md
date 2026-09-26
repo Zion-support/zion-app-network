@@ -1,23 +1,23 @@
-# Homepage content — Batch 37 (2026-09-25): Customer Support & Success AI
+# Homepage Content — Batch 37 (2026-09-26): Data Platform & Engineering AI
 
-Copy block for the ziontechgroup.com homepage hero/section rotation. Each item links to its live app page.
+Copy block for [ziontechgroup.com](https://ziontechgroup.com) homepage rotation.
 
-## Section: Turn support into a growth engine with Zion Customer Success AI
+---
 
-Listen across every channel, deflect tickets with self-service, protect SLAs and surface expansion signals. Explore the apps:
+## 🏗️ Data Platform & Engineering AI: your data stack, self-optimizing
 
-- **[Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/)** — Unify reviews, tickets, surveys and social into one VoC hub.
-- **[NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)** — NPS/CSAT analysis with AI themes and follow-up workflows.
-- **[Support Sentiment Monitor](https://ziontechgroup.com/support-sentiment-monitor/)** — Real-time sentiment across tickets, chats and calls.
-- **[Help Center Copilot](https://ziontechgroup.com/help-center-copilot/)** — Drafts and updates docs from resolved tickets.
-- **[Knowledge Gap Finder](https://ziontechgroup.com/knowledge-gap-finder/)** — Finds missing answers in your knowledge base.
-- **[Support Deflection Analyzer](https://ziontechgroup.com/support-deflection-analyzer/)** — Measure and grow ticket deflection.
-- **[Maintenance Ticket Triage](https://ziontechgroup.com/maintenance-ticket-triage/)** — AI classification, prioritization and routing.
-- **[Escalation Sentinel](https://ziontechgroup.com/escalation-sentinel/)** — Detects brewing escalations before they blow up.
-- **[SLA Risk Forecaster](https://ziontechgroup.com/sla-risk-forecaster/)** — Predicts SLA breaches days ahead.
-- **[Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/)** — Detect expansion signals from product usage.
+**Build, monitor and tune the pipelines your business runs on.** Five AI apps for the modern data platform.
 
-- Browse the full catalog: [ziontechgroup.com/apps/](https://ziontechgroup.com/apps/)
-- Also new: [HR & Talent AI Suite — Batch 36](https://ziontechgroup.com/apps/september-2026-batch5.html)
+- **Zion Data Pipeline Hub** — design, run and monitor ETL/ELT flows visually → [launch](https://ziontechgroup.com/zion-data-pipeline-hub/)
+- **ETL Copilot AI** — generate, document and refactor ETL jobs → [launch](https://ziontechgroup.com/etl-copilot-ai/)
+- **Warehouse Optimizer AI** — cut Snowflake/BigQuery/Redshift costs, boost performance → [launch](https://ziontechgroup.com/warehouse-optimizer-ai/)
+- **Stream Analytics Hub** — real-time Kafka/Kinesis analytics with live dashboards → [launch](https://ziontechgroup.com/stream-analytics-hub/)
+- **Data Quality Guard** — anomaly detection, schema drift and quality SLAs → [launch](https://ziontechgroup.com/data-quality-guard/)
 
-Suggested CTA: "See all 200+ AI apps" → https://ziontechgroup.com/apps/
+Pairs with the Data Observability suite: [ETL Pipeline Monitor](https://ziontechgroup.com/etl-pipeline-monitor/) · [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/) · [Metric Anomaly Alerter](https://ziontechgroup.com/metric-anomaly-alerter/)
+
+Explore the full network: [ziontechgroup.com/app-network/](https://ziontechgroup.com/app-network/) · [Network hub](https://network.ziontechgroup.com)
+
+---
+
+_Interlinks: spotlight [SPOTLIGHT-2026-09-26-BATCH37.md](SPOTLIGHT-2026-09-26-BATCH37.md) · homepage spotlight [APP_NETWORK_SPOTLIGHT_DATA_PLATFORM.md](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_DATA_PLATFORM.md) · category [data-observability-ai](https://github.com/Zion-support/zion-network/blob/main/network/data-observability-ai.md)_
