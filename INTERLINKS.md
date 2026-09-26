@@ -96,6 +96,17 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch51-sept26.
 - [metric-anomaly-alerter](https://github.com/Zion-support/metric-anomaly-alerter) — https://ziontechgroup.com/metric-anomaly-alerter/
 - [dashboard-insight-narrator](https://github.com/Zion-support/dashboard-insight-narrator) — https://ziontechgroup.com/dashboard-insight-narrator/
 
+## Assessment, Compliance & GRC (Batch 52 — Sep 26, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch52-sept26.html
+- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
+- [managed-it-health-check](https://github.com/Zion-support/managed-it-health-check) — https://ziontechgroup.com/managed-it-health-check/
+- [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) — https://ziontechgroup.com/ai-readiness-assessment/
+- [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) — https://ziontechgroup.com/compliance-evidence-collector/
+- [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) — https://ziontechgroup.com/audit-readiness-copilot/
+- [policy-change-tracker](https://github.com/Zion-support/policy-change-tracker) — https://ziontechgroup.com/policy-change-tracker/
+- [vendor-risk-screener](https://github.com/Zion-support/vendor-risk-screener) — https://ziontechgroup.com/vendor-risk-screener/
+- [contract-clause-extractor](https://github.com/Zion-support/contract-clause-extractor) — https://ziontechgroup.com/contract-clause-extractor/
+
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
 - [zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel)
@@ -105,4 +116,4 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch51-sept26.
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
