@@ -107,6 +107,17 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch52-sept26.
 - [vendor-risk-screener](https://github.com/Zion-support/vendor-risk-screener) — https://ziontechgroup.com/vendor-risk-screener/
 - [contract-clause-extractor](https://github.com/Zion-support/contract-clause-extractor) — https://ziontechgroup.com/contract-clause-extractor/
 
+## Revenue Protection & Operations Signals (Batch 53 — Sep 26, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+- [Revenue Leak Detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/
+- [Subscription Dunning Hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/
+- [Pricing Signal Radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/
+- [Zion AI Pricing Optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — https://ziontechgroup.com/zion-ai-pricing-optimizer/
+- [Supplier Risk Radar](https://github.com/Zion-support/supplier-risk-radar) — https://ziontechgroup.com/supplier-risk-radar/
+- [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
+- [Vendor Onboarding Copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — https://ziontechgroup.com/vendor-onboarding-copilot/
+- [Energy Demand Forecaster](https://github.com/Zion-support/energy-demand-forecaster) — https://ziontechgroup.com/energy-demand-forecaster/
+
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
 - [zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel)
@@ -116,4 +127,4 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch52-sept26.
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
