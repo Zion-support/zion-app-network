@@ -85,6 +85,17 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch50-sept26.
 - [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) — https://ziontechgroup.com/ai-compute-optimizer/
 - [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — https://ziontechgroup.com/cloud-architect-diagram-builder/
 
+## Data Engineering & Observability (Batch 51 — Sep 26, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch51-sept26.html
+- [zion-data-pipeline-hub](https://github.com/Zion-support/zion-data-pipeline-hub) — https://ziontechgroup.com/zion-data-pipeline-hub/
+- [etl-copilot-ai](https://github.com/Zion-support/etl-copilot-ai) — https://ziontechgroup.com/etl-copilot-ai/
+- [data-quality-guard](https://github.com/Zion-support/data-quality-guard) — https://ziontechgroup.com/data-quality-guard/
+- [stream-analytics-hub](https://github.com/Zion-support/stream-analytics-hub) — https://ziontechgroup.com/stream-analytics-hub/
+- [warehouse-optimizer-ai](https://github.com/Zion-support/warehouse-optimizer-ai) — https://ziontechgroup.com/warehouse-optimizer-ai/
+- [data-catalog-ai](https://github.com/Zion-support/data-catalog-ai) — https://ziontechgroup.com/data-catalog-ai/
+- [metric-anomaly-alerter](https://github.com/Zion-support/metric-anomaly-alerter) — https://ziontechgroup.com/metric-anomaly-alerter/
+- [dashboard-insight-narrator](https://github.com/Zion-support/dashboard-insight-narrator) — https://ziontechgroup.com/dashboard-insight-narrator/
+
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
 - [zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel)
@@ -94,4 +105,4 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch50-sept26.
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
