@@ -1,43 +1,23 @@
-# Homepage Advertising Pack — Batch 37 (Risk, Compliance & Architecture)
+# Homepage content — Batch 37 (2026-09-25): Customer Support & Success AI
 
-Ready-to-paste blocks for https://ziontechgroup.com homepage. All CTAs point to plans/discovery only. (Gap fill — matches [SPOTLIGHT-2026-09-25-BATCH37.md](SPOTLIGHT-2026-09-25-BATCH37.md).)
+Copy block for the ziontechgroup.com homepage hero/section rotation. Each item links to its live app page.
 
-## Hero banner (rotating)
+## Section: Turn support into a growth engine with the Zion Customer Success AI Suite
 
-> **See churn, audit gaps and cyber risk before they cost you.** Five AI apps for retention, compliance and architecture clarity.
-> [See plans →](https://ziontechgroup.com/en/plans/) · [Free AI Discovery →](https://ziontechgroup.com/discovery/)
+Listen across every channel, deflect tickets with living documentation, protect SLAs and grow the accounts you already have:
 
-## App cards section: "Retention, compliance & architecture intelligence"
+- **[Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/)** — Unify reviews, tickets, surveys and social into one VoC hub.
+- **[Support Sentiment Monitor](https://ziontechgroup.com/support-sentiment-monitor/)** — Real-time sentiment across tickets, chats and calls.
+- **[NPS Insight Engine](https://ziontechgroup.com/nps-insight-engine/)** — NPS/CSAT analysis with AI themes and follow-up workflows.
+- **[Help Center Copilot](https://ziontechgroup.com/help-center-copilot/)** — Drafts and updates docs from resolved tickets.
+- **[Knowledge Gap Finder](https://ziontechgroup.com/knowledge-gap-finder/)** — Finds missing articles in your knowledge base.
+- **[Support Deflection Analyzer](https://ziontechgroup.com/support-deflection-analyzer/)** — Measure and grow ticket deflection ROI.
+- **[Escalation Sentinel](https://ziontechgroup.com/escalation-sentinel/)** — Detects brewing escalations before they blow up.
+- **[SLA Risk Forecaster](https://ziontechgroup.com/sla-risk-forecaster/)** — Predicts SLA breaches days ahead.
+- **[Churn Radar](https://ziontechgroup.com/churn-radar/)** — Customer health scoring and churn prediction.
+- **[Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/)** — Detect expansion signals from product usage.
 
-### 📉 Churn Signal Radar
-Earliest churn signals surfaced from product and support data.
-→ https://ziontechgroup.com/churn-signal-radar/
+- Browse the full catalog: [ziontechgroup.com/apps/](https://ziontechgroup.com/apps/)
+- Also new: [HR & Talent AI Suite — Batch 36](https://ziontechgroup.com/apps/september-2026-batch5.html) · [E-Commerce & Retail AI — Batch 35](https://ziontechgroup.com/apps/september-2026-batch4.html)
 
-### ❤️ Customer Health Scoreboard
-Portfolio-wide health scoring at a glance.
-→ https://ziontechgroup.com/customer-health-scoreboard/
-
-### 🧾 Compliance Evidence Collector
-SOC 2 / ISO audit evidence gathered automatically and continuously.
-→ https://ziontechgroup.com/compliance-evidence-collector/
-
-### ☁️ Cloud Architect Diagram Builder
-Architecture diagrams generated from your real stack.
-→ https://ziontechgroup.com/cloud-architect-diagram-builder/
-
-### 🛡️ Cybersecurity Risk Assessment
-Quantify and prioritize cyber risk across your environment.
-→ https://ziontechgroup.com/cybersecurity-risk-assessment/
-
-## Network strip (footer of section)
-
-> Part of the **Zion App Network** — 778 AI business tools.
-> [Browse the full network →](https://ziontechgroup.com/zion-app-network/) · [Plans & pricing →](https://ziontechgroup.com/en/plans/) · [Book a free discovery call →](https://ziontechgroup.com/discovery/)
-
-## SEO meta suggestion
-
-- Title: `Churn Signal Radar, Customer Health Scoreboard, Compliance Evidence Collector & more | Zion Tech Group`
-- Description: `Five AI apps for retention, compliance and architecture: churn signals, health scoring, audit evidence collection, cloud diagram building and cyber risk assessment. Explore the Zion App Network.`
-
----
-Source: [zion-app-network hub](https://github.com/Zion-support/zion-app-network) · © 2026 Zion Tech Group
+Suggested CTA: "Make support your growth engine" → https://ziontechgroup.com/apps/
