@@ -74,6 +74,17 @@ Related: [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-co
 - [patch-priority-radar](https://github.com/Zion-support/patch-priority-radar) — https://ziontechgroup.com/patch-priority-radar/
 - [accessibility-statement-gen](https://github.com/Zion-support/accessibility-statement-gen) — https://ziontechgroup.com/accessibility-statement-gen/
 
+## FinOps & Cloud Cost Optimization (Batch 50 — Sep 26, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch50-sept26.html
+- [ai-finops-suite](https://github.com/Zion-support/ai-finops-suite) — https://ziontechgroup.com/ai-finops-suite/
+- [finops-spend-analyzer](https://github.com/Zion-support/finops-spend-analyzer) — https://ziontechgroup.com/finops-spend-analyzer/
+- [finops-autopilot](https://github.com/Zion-support/finops-autopilot) — https://ziontechgroup.com/finops-autopilot/
+- [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator) — https://ziontechgroup.com/cloud-cost-estimator/
+- [zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator) — https://ziontechgroup.com/zion-ai-roi-calculator/
+- [ai-cloud-optimizer](https://github.com/Zion-support/ai-cloud-optimizer) — https://ziontechgroup.com/ai-cloud-optimizer/
+- [ai-compute-optimizer](https://github.com/Zion-support/ai-compute-optimizer) — https://ziontechgroup.com/ai-compute-optimizer/
+- [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — https://ziontechgroup.com/cloud-architect-diagram-builder/
+
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
 - [zion-ai-ticket-sentinel](https://github.com/Zion-support/zion-ai-ticket-sentinel)
@@ -83,4 +94,4 @@ Related: [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-co
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
