@@ -1,22 +1,34 @@
-# Homepage content — batch 35 (2026-09-25): Marketing & Growth AI
+# Homepage Content — Batch 35 (2026-09-26)
 
-Copy for ziontechgroup.com homepage / app-network section:
+Homepage copy advertising the two newest waves of the Zion App Network. Link each block to the live apps.
 
-> **New: Marketing & Growth AI Suite** — 12 AI apps to run your entire demand engine:
-> SEO content optimization, ad budget optimization, landing page A/B testing, social listening,
-> newsletter growth, referrals, webinars and content ROI — all interlinked in the Zion App Network.
+## Block 1 — Creative & Media AI
 
-- **AI Growth Marketing Hub** → [https://ziontechgroup.com/ai-growth-marketing-hub/](https://ziontechgroup.com/ai-growth-marketing-hub/)
-- **Newsletter Growth Copilot** → [https://ziontechgroup.com/newsletter-growth-copilot/](https://ziontechgroup.com/newsletter-growth-copilot/)
-- **Social Listening Radar** → [https://ziontechgroup.com/social-listening-radar/](https://ziontechgroup.com/social-listening-radar/)
-- **Ad Budget Optimizer** → [https://ziontechgroup.com/ad-budget-optimizer/](https://ziontechgroup.com/ad-budget-optimizer/)
-- **Landing Page A/B Tester** → [https://ziontechgroup.com/landing-page-ab-tester/](https://ziontechgroup.com/landing-page-ab-tester/)
-- **SEO Content Optimizer** → [https://ziontechgroup.com/seo-content-optimizer/](https://ziontechgroup.com/seo-content-optimizer/)
-- **Content ROI Dashboard** → [https://ziontechgroup.com/content-roi-dashboard/](https://ziontechgroup.com/content-roi-dashboard/)
-- **Zion Content Studio** → [https://content-studio.ziontechgroup.com](https://content-studio.ziontechgroup.com)
-- **AI Social Manager** → [https://ziontechgroup.com/ai-social-manager/](https://ziontechgroup.com/ai-social-manager/)
-- **AI Caption Generator** → [https://ai-caption-generator.ziontechgroup.com](https://ai-caption-generator.ziontechgroup.com)
-- **Referral Engine AI** → [https://ziontechgroup.com/referral-engine-ai/](https://ziontechgroup.com/referral-engine-ai/)
-- **Webinar Funnel Hub** → [https://ziontechgroup.com/webinar-funnel-hub/](https://ziontechgroup.com/webinar-funnel-hub/)
+**Headline:** Your content team, multiplied.
 
-CTA: Explore the suite → https://network.ziontechgroup.com · Full catalog → https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+Eight free AI tools for captions, charts, audio, avatars, translation and images:
+
+- [AI Caption Generator](https://ai-caption-generator.ziontechgroup.com) — captions with hashtags that perform
+- [AI Chart Builder](https://ziontechgroup.com/ai-chart-builder/) — data to publication-ready charts
+- [AI Audio Transcriber](https://ziontechgroup.com/ai-audio-transcriber/) — speaker-labeled transcripts
+- [AI Avatar Generator](https://ziontechgroup.com/ai-avatar-generator/) — branded avatars
+- [AI Content Translator](https://ziontechgroup.com/ai-content-translator/) — tone-preserving translation
+- [AI Image Editor](https://ziontechgroup.com/ai-image-editor/) — retouch and generate visuals
+
+Pairs with [AI Social Manager](https://ziontechgroup.com/ai-social-manager/), [Newsletter Growth Copilot](https://ziontechgroup.com/newsletter-growth-copilot/) and [Content ROI Dashboard](https://ziontechgroup.com/content-roi-dashboard/).
+
+## Block 2 — Industry Vertical AI Suites
+
+**Headline:** AI that already speaks your industry's language.
+
+13 suites — Banking, Insurance, Pharma, Education, Media, Energy & Utilities, Transportation, Construction, Agriculture, Hospitality, Real Estate, Government, Nonprofit — with pre-built prompts, checklists and KPIs. Start at [ziontechgroup.com/ai-banking-platform/](https://ziontechgroup.com/ai-banking-platform/) or browse the [full suite catalog](https://github.com/Zion-support/zion-network/blob/main/network/industry-verticals-suites.md).
+
+## CTA
+
+- 🔎 Discovery session $99: https://ziontechgroup.com/discovery/
+- 💼 Plans: https://ziontechgroup.com/en/plans/
+- 🛠 All 530+ apps: https://ziontechgroup.com/tools/
+- ✉️ commercial@ziontechgroup.com
+
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com
