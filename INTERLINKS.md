@@ -1,4 +1,4 @@
-# Zion App Network — Master Interlink Map (2026-09-25)
+# Zion App Network — Master Interlink Map (2026-09-26)
 
 Every app in the network, interlinked: live app · source repo · related apps. Start at the hubs:
 
@@ -6,6 +6,19 @@ Every app in the network, interlinked: live app · source repo · related apps. 
 - **Live hub:** https://ziontechgroup.com/zion-app-network/ · https://ziontechgroup.com/zion-apps-hub/
 - **Master index:** [APPS_INDEX.md](APPS_INDEX.md) · **Catalog:** [CATALOG.md](CATALOG.md) · **Network graph:** [NETWORK.md](NETWORK.md)
 - **Homepage:** https://ziontechgroup.com · **Plans:** https://ziontechgroup.com/en/plans/ · **Free AI Discovery:** https://ziontechgroup.com/discovery/
+
+## Security & Trust Suite (Batch 42 — Sep 26, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch42-sept26.html
+- [prompt-shield](https://github.com/Zion-support/prompt-shield) — LLM Prompt-Injection Firewall — https://ziontechgroup.com/prompt-shield/
+- [prompt-injection-playground](https://github.com/Zion-support/prompt-injection-playground) — Prompt Injection Red-Team Playground — https://ziontechgroup.com/prompt-injection-playground/
+- [secrets-sentinel](https://github.com/Zion-support/secrets-sentinel) — Secrets Sentinel — https://ziontechgroup.com/secrets-sentinel/
+- [ssl-config-auditor](https://github.com/Zion-support/ssl-config-auditor) — SSL/TLS Config Auditor — https://ziontechgroup.com/ssl-config-auditor/
+- [k8s-pod-security-scanner](https://github.com/Zion-support/k8s-pod-security-scanner) — Kubernetes Pod Security Scanner — https://ziontechgroup.com/k8s-pod-security-scanner/
+- [ai-phishing-simulator](https://github.com/Zion-support/ai-phishing-simulator) — AI Phishing Simulator — https://ziontechgroup.com/ai-phishing-simulator/
+- [security-awareness-coach](https://github.com/Zion-support/security-awareness-coach) — Security Awareness Coach — https://ziontechgroup.com/security-awareness-coach/
+- [quantum-safe-migrator](https://github.com/Zion-support/quantum-safe-migrator) — Quantum-Safe Migrator — https://ziontechgroup.com/quantum-safe-migrator/
+
+Related: [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) · [patch-priority-radar](https://github.com/Zion-support/patch-priority-radar) · [vendor-risk-scorecard](https://github.com/Zion-support/vendor-risk-scorecard)
 
 ## Customer Success & Support Automation Cluster (batch 39 — fully interlinked)
 - [support-copilot-ai](https://github.com/Zion-support/support-copilot-ai) — https://ziontechgroup.com/support-copilot-ai/ · pairs with [ticket-triage-ai](https://github.com/Zion-support/ticket-triage-ai) and [cs-escalation-radar](https://github.com/Zion-support/cs-escalation-radar)
@@ -70,4 +83,4 @@ Every app in the network, interlinked: live app · source repo · related apps. 
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch39.md](homepage-content-batch39.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
