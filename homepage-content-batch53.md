@@ -1,9 +1,9 @@
-# Homepage content — Batch 53: Contract Lifecycle & Legal Ops (Sep 26, 2026)
+# Homepage content — Batch 53: Revenue Protection & Operations Signals (Sep 26, 2026)
 
 New section for https://ziontechgroup.com — links each app to its live page:
 
-## 📜 Contract Lifecycle & Legal Ops — 8 new interlinked apps
+## 💹 Revenue Protection & Operations Signals — 8 new interlinked apps
 
-[AI Tender Scout](https://ziontechgroup.com/ai-tender-scout/) · [AI Contract Reviewer](https://ziontechgroup.com/ai-contract-reviewer/) · [Contract Clause Reviewer](https://ziontechgroup.com/contract-clause-reviewer/) · [AI Contract Clause Screener](https://ziontechgroup.com/ai-contract-clause-screener/) · [Contract Redline Copilot](https://ziontechgroup.com/contract-redline-copilot/) · [Contract Clause Sentry](https://ziontechgroup.com/contract-clause-sentry/) · [Contract Obligation Tracker](https://ziontechgroup.com/contract-obligation-tracker/) · [Contract Renewal Radar](https://ziontechgroup.com/contract-renewal-radar/)
+[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
 
-Discover tenders, review and screen contracts, negotiate with redline intelligence, then track obligations and renewals — one connected contract lifecycle toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md
+Detect revenue leakage, recover failed payments, act on pricing signals, and monitor supplier, shipping, vendor and energy risk — one connected revenue-protection toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md
