@@ -1,11 +1,22 @@
-# Homepage content — Batch 53: FinOps & Cloud Cost Optimization (Sep 26, 2026)
+# Homepage Advertising Pack — Batch 53: AI Finance & Expense Ops
+Copy-paste ready blocks for https://ziontechgroup.com. Created 2026-09-26 (Batch 53). Network total: **784 apps**.
 
-New section for https://ziontechgroup.com — every link verified live:
+## BLOCK 0 — Hero banner (stats line)
+> 🚀 New: **AI Finance & Expense Ops suite** — 6 new apps bring the Zion App Network to **784 interconnected AI tools**. Audit spend, stop invoice fraud, watch budgets, forecast cash, clean payroll and close the books faster.
+> [Explore the suite](https://ziontechgroup.com/zion-app-network/) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a free Discovery call](https://ziontechgroup.com/discovery/)
 
-## 💸 FinOps & Cloud Cost Optimization — 8 interlinked live tools
+## BLOCK 1 — Feature section (6 cards)
+**Expense Audit AI** — AI expense auditing: policy violations, duplicate receipts, outlier alerts. → https://ziontechgroup.com/expense-audit-ai/
+**Invoice Fraud Detector** — Catch duplicate invoices, vendor bank-detail changes and price drift before you pay. → https://ziontechgroup.com/invoice-fraud-detector/
+**Budget Variance Radar** — Budget vs actual in real time with alerts and year-end variance forecasts. → https://ziontechgroup.com/budget-variance-radar/
+**Cashflow Forecaster AI** — 13-week rolling forecasts, scenarios, runway alerts, collections signals. → https://ziontechgroup.com/cashflow-forecaster-ai/
+**Payroll Anomaly Detector** — Overtime spikes, ghost employees, tax mismatches — caught before payday. → https://ziontechgroup.com/payroll-anomaly-detector/
+**Finance Close Copilot** — Month-end close checklists, auto-reconciliations and flux narratives. → https://ziontechgroup.com/finance-close-copilot/
 
-[FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [FinOps Estimator](https://ziontechgroup.com/finops-estimator/) · [AI Cost Optimization](https://ziontechgroup.com/ai-cost-optimization/) · [Cloud Cost Optimization](https://ziontechgroup.com/cloud-cost-optimization/) · [AI Energy Optimizer](https://ziontechgroup.com/ai-energy-optimizer/) · [AI Energy Optimization](https://ziontechgroup.com/ai-energy-optimization/) · [Cloud Migration](https://ziontechgroup.com/cloud-migration/) · [Cloud Hybrid Infrastructure](https://ziontechgroup.com/cloud-hybrid-infrastructure/)
+## BLOCK 2 — Social proof / interlink line
+Every Batch-53 app interlinks with the other 778 apps in the network — including Batch-52 GRC apps (Compliance Evidence Collector, Audit Readiness Copilot, Vendor Risk Screener) for audit-ready evidence end to end.
 
-Estimate spend before you build, detect anomalies and rightsize automatically, cut facility energy costs, and place every workload in the cheapest resilient home. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md
+## BLOCK 3 — CTA footer
+Ready to modernize finance ops? [Plans & pricing](https://ziontechgroup.com/en/plans/) · [Free Discovery call](https://ziontechgroup.com/discovery/) · [Browse all 784 tools](https://ziontechgroup.com/tools/)
 
-**CTA:** [See plans](https://ziontechgroup.com/en/plans/) · [Book a Discovery](https://ziontechgroup.com/discovery/)
+© 2026 Zion Tech Group
