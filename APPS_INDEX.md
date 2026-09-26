@@ -4,24 +4,24 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Total repositories: 128**
+**Total repositories: 300**
 
 ## AI Apps (15)
 
 | Repository | What it does | Live app |
 |---|---|---|
-| [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) | Orchestrate and manage fleets of AI agents for enterprise-scale automation | https://ai-agent-fleet.ziontechgroup.com |
-| [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) | Coordinate multiple AI agents as a unified swarm for complex multi-step tasks | https://ai-agent-swarm.ziontechgroup.com |
-| [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) | Advanced swarm intelligence with consensus algorithms | https://ai-agent-swarm-v2.ziontechgroup.com |
-| [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) | Multi-agent workflows with conditional logic and handoffs | https://ai-agent-workflow.ziontechgroup.com |
-| [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) | AI safety testing, red-teaming, and safety evaluation frameworks | https://ai-ai-safety.ziontechgroup.com |
-| [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) | Real-time arbitrage detection across markets and exchanges | https://ai-arbitrage-finder.ziontechgroup.com |
+| [ai-agent-fleet](https://github.com/Zion-support/ai-agent-fleet) | Orchestrate and manage fleets of AI agents for enterprise-scale automation | https://ziontechgroup.com/ai-agent-fleet/ |
+| [ai-agent-swarm](https://github.com/Zion-support/ai-agent-swarm) | Coordinate multiple AI agents as a unified swarm for complex multi-step tasks | https://ziontechgroup.com/ai-agent-swarm/ |
+| [ai-agent-swarm-v2](https://github.com/Zion-support/ai-agent-swarm-v2) | Advanced swarm intelligence with consensus algorithms | https://ziontechgroup.com/ai-agent-swarm-v2/ |
+| [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) | Multi-agent workflows with conditional logic and handoffs | https://ziontechgroup.com/ai-agent-workflow/ |
+| [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) | AI safety testing, red-teaming, and safety evaluation frameworks | https://ziontechgroup.com/ai-ai-safety/ |
+| [ai-arbitrage-finder](https://github.com/Zion-support/ai-arbitrage-finder) | Real-time arbitrage detection across markets and exchanges | https://ziontechgroup.com/ai-arbitrage-finder/ |
 | [ai-architecture-design](https://github.com/Zion-support/ai-architecture-design) | AI Architecture Design | https://ziontechgroup.com/ai-architecture-design/ |
-| [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) | Audio processing, synthesis, and sound design powered by AI | https://ai-audio-engine.ziontechgroup.com |
-| [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) | Speech-to-text with speaker diarization and summaries | https://ai-audio-transcriber.ziontechgroup.com |
-| [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) | Visual no-code automation workflow builder with AI logic | https://ai-automation-builder.ziontechgroup.com |
-| [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) | Personalized 3D avatars and digital identities with AI | https://ai-avatar-generator.ziontechgroup.com |
-| [ai-benchmark-lab](https://github.com/Zion-support/ai-benchmark-lab) | Run and compare AI model benchmarks | https://ai-benchmark-lab.ziontechgroup.com |
+| [ai-audio-engine](https://github.com/Zion-support/ai-audio-engine) | Audio processing, synthesis, and sound design powered by AI | https://ziontechgroup.com/ai-audio-engine/ |
+| [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) | Speech-to-text with speaker diarization and summaries | https://ziontechgroup.com/ai-audio-transcriber/ |
+| [ai-automation-builder](https://github.com/Zion-support/ai-automation-builder) | Visual no-code automation workflow builder with AI logic | https://ziontechgroup.com/ai-automation-builder/ |
+| [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) | Personalized 3D avatars and digital identities with AI | https://ziontechgroup.com/ai-avatar-generator/ |
+| [ai-benchmark-lab](https://github.com/Zion-support/ai-benchmark-lab) | Run and compare AI model benchmarks | https://ziontechgroup.com/ai-benchmark-lab/ |
 | [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite) | Banking, lending, and investment AI | https://ziontechgroup.com/ai-financial-services-suite/ |
 | [ai-retail-commerce-hub](https://github.com/Zion-support/ai-retail-commerce-hub) | E-commerce and retail AI | https://ziontechgroup.com/ai-retail-commerce-hub/ |
 | [ai-smart-hands-scheduler](https://github.com/Zion-support/ai-smart-hands-scheduler) | AI Smart Hands Scheduler | https://ziontechgroup.com/ai-smart-hands-scheduler/ |
@@ -124,6 +124,57 @@ Spotlight: [SPOTLIGHT-2026-09-25-BATCH42.md](SPOTLIGHT-2026-09-25-BATCH42.md) ·
 | [warehouse-optimizer-ai](https://github.com/Zion-support/warehouse-optimizer-ai) | Snowflake/BigQuery/Redshift cost & performance optimizer | https://ziontechgroup.com/warehouse-optimizer-ai/ |
 
 Spotlight: [SPOTLIGHT-2026-09-26-BATCH43.md](SPOTLIGHT-2026-09-26-BATCH43.md) · Homepage pack: [homepage-content-batch43.md](homepage-content-batch43.md)
+
+## AI Support & CX Suite — 2026-09-26 (6)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [ticket-triage-ai](https://github.com/Zion-support/ticket-triage-ai) | Ticket classification, prioritization & routing | https://ziontechgroup.com/ticket-triage-ai/ |
+| [support-copilot-ai](https://github.com/Zion-support/support-copilot-ai) | Agent-assist replies & next-best-action | https://ziontechgroup.com/support-copilot-ai/ |
+| [cs-escalation-radar](https://github.com/Zion-support/cs-escalation-radar) | Early escalation-risk detection | https://ziontechgroup.com/cs-escalation-radar/ |
+| [knowledge-base-gen](https://github.com/Zion-support/knowledge-base-gen) | Help-center articles from resolved tickets | https://ziontechgroup.com/knowledge-base-gen/ |
+| [help-center-optimizer](https://github.com/Zion-support/help-center-optimizer) | Deflection analytics & article optimization | https://ziontechgroup.com/help-center-optimizer/ |
+| [feedback-loop-ai](https://github.com/Zion-support/feedback-loop-ai) | Feedback → prioritized product actions | https://ziontechgroup.com/feedback-loop-ai/ |
+
+Spotlight: [SPOTLIGHT-2026-09-26-SUPPORT-CX.md](SPOTLIGHT-2026-09-26-SUPPORT-CX.md) · Homepage pack: [homepage-content-sep26-support-field.md](homepage-content-sep26-support-field.md)
+
+## AI Field Service & Workforce Suite — Batch 49, 2026-09-26 (6)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [field-service-dispatch-ai](https://github.com/Zion-support/field-service-dispatch-ai) | Right tech, right job, right time dispatch | https://ziontechgroup.com/field-service-dispatch-ai/ |
+| [fe-ticket-triage](https://github.com/Zion-support/fe-ticket-triage) | Field ticket triage by priority, skills & parts | https://ziontechgroup.com/fe-ticket-triage/ |
+| [technician-scheduler-ai](https://github.com/Zion-support/technician-scheduler-ai) | Routes, SLAs & skill-matched scheduling | https://ziontechgroup.com/technician-scheduler-ai/ |
+| [onsite-support-copilot](https://github.com/Zion-support/onsite-support-copilot) | On-site guides, manuals & parts lookup | https://ziontechgroup.com/onsite-support-copilot/ |
+| [service-sla-tracker](https://github.com/Zion-support/service-sla-tracker) | SLA monitoring & breach prediction | https://ziontechgroup.com/service-sla-tracker/ |
+| [field-workforce-analytics](https://github.com/Zion-support/field-workforce-analytics) | Workforce utilization, cost & performance | https://ziontechgroup.com/field-workforce-analytics/ |
+
+Spotlight: [SPOTLIGHT-2026-09-26-BATCH49-FIELD.md](SPOTLIGHT-2026-09-26-BATCH49-FIELD.md)
+
+## AI Industry Verticals Suite — 2026-09-26 (14)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [ai-education-suite](https://github.com/Zion-support/ai-education-suite) | Learning paths & student-success analytics | https://ziontechgroup.com/ai-education-suite/ |
+| [ai-pharma-suite](https://github.com/Zion-support/ai-pharma-suite) | Trial matching & pharmacovigilance | https://ziontechgroup.com/ai-pharma-suite/ |
+| [ai-media-entertainment-hub](https://github.com/Zion-support/ai-media-entertainment-hub) | Content, audience & rights intelligence | https://ziontechgroup.com/ai-media-entertainment-hub/ |
+| [ai-energy-utilities-suite](https://github.com/Zion-support/ai-energy-utilities-suite) | Grid analytics & demand forecasting | https://ziontechgroup.com/ai-energy-utilities-suite/ |
+| [ai-transportation-suite](https://github.com/Zion-support/ai-transportation-suite) | Fleet, routing & network optimization | https://ziontechgroup.com/ai-transportation-suite/ |
+| [ai-construction-suite](https://github.com/Zion-support/ai-construction-suite) | Project controls, safety & site intelligence | https://ziontechgroup.com/ai-construction-suite/ |
+| [ai-agriculture-platform](https://github.com/Zion-support/ai-agriculture-platform) | Crop, irrigation & yield intelligence | https://ziontechgroup.com/ai-agriculture-platform/ |
+| [ai-nonprofit-hub](https://github.com/Zion-support/ai-nonprofit-hub) | Donor analytics & impact reporting | https://ziontechgroup.com/ai-nonprofit-hub/ |
+| [ai-hospitality-suite](https://github.com/Zion-support/ai-hospitality-suite) | Guest experience & revenue analytics | https://ziontechgroup.com/ai-hospitality-suite/ |
+| [ai-real-estate-hub](https://github.com/Zion-support/ai-real-estate-hub) | Portfolio, leasing & market intelligence | https://ziontechgroup.com/ai-real-estate-hub/ |
+| [ai-insurance-suite](https://github.com/Zion-support/ai-insurance-suite) | Claims triage, underwriting & risk | https://ziontechgroup.com/ai-insurance-suite/ |
+| [ai-gov-services-platform](https://github.com/Zion-support/ai-gov-services-platform) | Case management & citizen services | https://ziontechgroup.com/ai-gov-services-platform/ |
+| [ai-logistics-suite](https://github.com/Zion-support/ai-logistics-suite) | Route optimization & freight intelligence | https://ziontechgroup.com/ai-logistics-suite/ |
+| [ai-retail-suite](https://github.com/Zion-support/ai-retail-suite) | Demand forecasting & pricing intelligence | https://ziontechgroup.com/ai-retail-suite/ |
+
+Spotlight: [SPOTLIGHT-2026-09-26-VERTICALS.md](SPOTLIGHT-2026-09-26-VERTICALS.md) · Homepage pack: [homepage-content-sep26-verticals.md](homepage-content-sep26-verticals.md)
+
+## AI Micro-Apps Library — 2026-09-26 (54)
+
+54 single-purpose AI tools — full list in [SPOTLIGHT-2026-09-26-MICROAPPS.md](SPOTLIGHT-2026-09-26-MICROAPPS.md) · Homepage pack: [homepage-content-sep26-microapps.md](homepage-content-sep26-microapps.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-sept26-microapps.html
 
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
