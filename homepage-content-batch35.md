@@ -1,34 +1,25 @@
-# Homepage Content — Batch 35 (2026-09-26)
+# Homepage Content — Batch 35 (2026-09-25): Marketing & Growth AI
 
-Homepage copy advertising the two newest waves of the Zion App Network. Link each block to the live apps.
+Section copy for ziontechgroup.com advertising the Marketing & Growth AI suite. All cards link to live apps.
 
-## Block 1 — Creative & Media AI
+## Section: Grow faster with AI marketing
 
-**Headline:** Your content team, multiplied.
+**Headline:** 14 AI apps that run your growth loop — attract, convert, nurture, refer.
 
-Eight free AI tools for captions, charts, audio, avatars, translation and images:
+**Intro:** Stop stitching together point tools. The Zion Marketing & Growth AI suite connects campaign orchestration, ad spend, SEO, social, email, webinars and referrals into one interlinked stack — free to try, deployable by our team.
 
-- [AI Caption Generator](https://ai-caption-generator.ziontechgroup.com) — captions with hashtags that perform
-- [AI Chart Builder](https://ziontechgroup.com/ai-chart-builder/) — data to publication-ready charts
-- [AI Audio Transcriber](https://ziontechgroup.com/ai-audio-transcriber/) — speaker-labeled transcripts
-- [AI Avatar Generator](https://ziontechgroup.com/ai-avatar-generator/) — branded avatars
-- [AI Content Translator](https://ziontechgroup.com/ai-content-translator/) — tone-preserving translation
-- [AI Image Editor](https://ziontechgroup.com/ai-image-editor/) — retouch and generate visuals
+### Featured cards
+1. **AI Growth Marketing Hub** — your AI campaign command center. → https://ziontechgroup.com/ai-growth-marketing-hub/
+2. **Ad Budget Optimizer** — reallocate spend to what's working, automatically. → https://ziontechgroup.com/ad-budget-optimizer/
+3. **Landing Page A/B Tester** — AI-written variants, auto-analyzed experiments. → https://ziontechgroup.com/landing-page-ab-tester/
+4. **SEO Content Optimizer** — rank higher with semantic coverage scoring. → https://ziontechgroup.com/seo-content-optimizer/
+5. **Referral Engine AI** — turn happy customers into a growth channel. → https://ziontechgroup.com/referral-engine-ai/
+6. **Webinar Funnel Hub** — fill your pipeline with webinar funnels. → https://ziontechgroup.com/webinar-funnel-hub/
 
-Pairs with [AI Social Manager](https://ziontechgroup.com/ai-social-manager/), [Newsletter Growth Copilot](https://ziontechgroup.com/newsletter-growth-copilot/) and [Content ROI Dashboard](https://ziontechgroup.com/content-roi-dashboard/).
+### More in the suite
+Newsletter Growth Copilot (https://ziontechgroup.com/newsletter-growth-copilot/) · Social Listening Radar (https://ziontechgroup.com/social-listening-radar/) · Content ROI Dashboard (https://ziontechgroup.com/content-roi-dashboard/) · Zion Content Studio (https://content-studio.ziontechgroup.com) · AI Social Manager (https://ziontechgroup.com/ai-social-manager/) · AI Caption Generator (https://ai-caption-generator.ziontechgroup.com) · Zion AI Email Marketing Pro (https://email-marketing.ziontechgroup.com) · AI Sales Email Copilot (https://ziontechgroup.com/ai-sales-email-copilot/)
 
-## Block 2 — Industry Vertical AI Suites
-
-**Headline:** AI that already speaks your industry's language.
-
-13 suites — Banking, Insurance, Pharma, Education, Media, Energy & Utilities, Transportation, Construction, Agriculture, Hospitality, Real Estate, Government, Nonprofit — with pre-built prompts, checklists and KPIs. Start at [ziontechgroup.com/ai-banking-platform/](https://ziontechgroup.com/ai-banking-platform/) or browse the [full suite catalog](https://github.com/Zion-support/zion-network/blob/main/network/industry-verticals-suites.md).
-
-## CTA
-
-- 🔎 Discovery session $99: https://ziontechgroup.com/discovery/
-- 💼 Plans: https://ziontechgroup.com/en/plans/
-- 🛠 All 530+ apps: https://ziontechgroup.com/tools/
-- ✉️ commercial@ziontechgroup.com
+**CTA:** Explore the full network → https://ziontechgroup.com/app-network/ · Talk to us → https://ziontechgroup.com/contact/
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com
+Network links: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Category page](https://github.com/Zion-support/zion-network/blob/main/network/marketing-growth-ai.md)
