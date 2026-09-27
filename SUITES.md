@@ -13,8 +13,9 @@ Curated collections of interlinked apps. Each suite has a spotlight page, homepa
 | Industry Verticals | 6 | [link](https://github.com/Zion-support/zion-app-network/blob/main/suites/industry-verticals-suite.md) | [link](https://github.com/Zion-support/zion-network/blob/main/spotlights/industry-verticals-suite.md) | [link](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) |
 | Developer Tools | 6 | [link](https://github.com/Zion-support/zion-app-network/blob/main/suites/developer-tools-suite.md) | [link](https://github.com/Zion-support/zion-network/blob/main/spotlights/developer-tools-suite.md) | [link](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_DEVELOPER_TOOLS.md) |
 | Content & Marketing | 6 | [link](https://github.com/Zion-support/zion-app-network/blob/main/suites/content-marketing-suite.md) | [link](https://github.com/Zion-support/zion-network/blob/main/spotlights/content-marketing-suite.md) | [link](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_CONTENT_MARKETING.md) |
+| HR & Workforce | 6 | [link](https://github.com/Zion-support/zion-app-network/blob/main/suites/hr-workforce-suite.md) | [link](https://github.com/Zion-support/zion-network/blob/main/spotlights/hr-workforce-suite.md) | [link](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_HR_WORKFORCE.md) |
 
-**46 apps** across 9 suites.
+**52 apps** across 10 suites.
 
 ## Network links
 - Live directory: https://zion-support.github.io/zion-network/
