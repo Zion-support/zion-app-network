@@ -1,12 +1,9 @@
-# Homepage content — Batch 54: People & Workforce AI (Sep 27, 2026)
+# Homepage content — Batch 54: AI Agents, Platform & Assurance (Sep 27, 2026)
 
 New section for https://ziontechgroup.com — links each app to its live page:
 
-## 👥 People & Workforce AI — 8 new interlinked apps
+## 🤖 AI Agents, Platform & Assurance — 8 new interlinked apps
 
-[Skills Matrix AI](https://ziontechgroup.com/skills-matrix-ai/) · [Retention Risk Radar](https://ziontechgroup.com/retention-risk-radar/) · [Interview Intelligence AI](https://ziontechgroup.com/interview-intelligence-ai/) · [Comp Benchmark Scout](https://ziontechgroup.com/comp-benchmark-scout/) · [Engagement Pulse AI](https://ziontechgroup.com/engagement-pulse-ai/) · [Workforce Capacity Planner](https://ziontechgroup.com/workforce-capacity-planner/) · [Learning Path AI](https://ziontechgroup.com/learning-path-ai/) · [Hiring Funnel Optimizer](https://ziontechgroup.com/hiring-funnel-optimizer/)
+[Zion AI Agent Builder](https://ziontechgroup.com/zion-ai-agent-builder/) · [Voice Agent Studio](https://ziontechgroup.com/voice-agent-studio/) · [Zion MCP Stack](https://ziontechgroup.com/zion-mcp-stack/) · [AI Eval Harness](https://ziontechgroup.com/ai-eval-harness/) · [AI Assessment Engine](https://ziontechgroup.com/ai-assessment-engine/) · [Zion AI Threat Brief](https://ziontechgroup.com/zion-ai-threat-brief/) · [AI Compliance Auditor](https://ziontechgroup.com/ai-compliance-auditor/) · [AI Backup Recovery](https://ziontechgroup.com/ai-backup-recovery/)
 
-Hire smarter, benchmark pay, grow skills, keep a pulse on engagement and forecast capacity — one connected people-ops toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH54.md · Hub: https://ziontechgroup.com/zion-app-network/
-
----
-© 2026 Zion Tech Group · https://ziontechgroup.com
+Build no-code and voice AI agents on a self-hosted MCP stack, evaluate them with rigorous harnesses and assessments, and assure threat intel, AI compliance and backup recovery — one connected platform toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH54.md
