@@ -1,43 +1,15 @@
-# Homepage Advertising Pack — Batch 38 (LLM Engineering & Cost Suite)
+# Homepage content — Batch 38 (2026-09-27): Healthcare, Wellness & Education AI
 
-Ready-to-paste blocks for https://ziontechgroup.com homepage. All CTAs point to plans/discovery only.
+Suggested homepage block for ziontechgroup.com:
 
-## Hero banner (rotating)
+> **🏥 New in the Zion App Network: Healthcare, Wellness & Education AI.**
+> Patient intake automation, wellness insights, adaptive learning and AI tutoring — free apps from Zion Tech Group.
+> - [AI Healthcare Platform](https://ziontechgroup.com/ai-healthcare-platform/)
+> - [AI Health Tracker](https://ziontechgroup.com/ai-health-tracker/)
+> - [AI Education Platform](https://ai-education-platform.ziontechgroup.com)
+> - [AI Language Tutor](https://ziontechgroup.com/ai-language-tutor/)
+> Explore all 535+ apps: https://ziontechgroup.com/app-network/ · Plans: https://ziontechgroup.com/en/plans/
 
-> **Ship LLM features without surprise bills or injection attacks.** Five tools to route, price, optimize, build and secure your LLM stack.
-> [See plans →](https://ziontechgroup.com/en/plans/) · [Free AI Discovery →](https://ziontechgroup.com/discovery/)
-
-## App cards section: "LLM engineering & cost control"
-
-### 🔀 LLM Gateway
-One gateway for every LLM provider — routing, fallback and guardrails built in.
-→ https://ziontechgroup.com/llm-gateway/
-
-### 🧮 LLM Cost Calculator
-Know what a feature will cost in tokens before you write a line of code.
-→ https://ziontechgroup.com/llm-cost-calculator/
-
-### 📉 LLM Cost Optimizer
-Smart routing, caching and model selection that cut LLM spend by double digits.
-→ https://ziontechgroup.com/llm-cost-optimizer/
-
-### 🛠️ Prompt Forge
-Design, version and test production prompts like code.
-→ https://ziontechgroup.com/prompt-forge/
-
-### 🛡️ Prompt Shield
-Stop prompt injection before it reaches your models.
-→ https://ziontechgroup.com/prompt-shield/
-
-## Network strip (footer of section)
-
-> Part of the **Zion App Network** — 300+ AI business tools.
-> [Browse the full network →](https://ziontechgroup.com/zion-app-network/) · [Plans & pricing →](https://ziontechgroup.com/en/plans/) · [Book a free discovery call →](https://ziontechgroup.com/discovery/)
-
-## SEO meta suggestion
-
-- Title: `LLM Gateway, Cost Calculator, Cost Optimizer, Prompt Forge & Prompt Shield | Zion Tech Group`
-- Description: `Five AI tools for LLM engineering and cost control: unified gateway, cost calculator, cost optimizer, prompt versioning and prompt-injection defense. Explore the Zion App Network.`
-
----
-Source: [zion-app-network hub](https://github.com/Zion-support/zion-app-network) · © 2026 Zion Tech Group
+Source copies:
+- Homepage spotlight: https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_HEALTHCARE_WELLNESS.md
+- Network spotlight: https://zion-support.github.io/zion-network/spotlights/healthcare-wellness.html
