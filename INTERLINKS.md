@@ -1,4 +1,4 @@
-# Zion App Network — Master Interlink Map (2026-09-26)
+# Zion App Network — Master Interlink Map (2026-09-27)
 
 Every app in the network, interlinked: live app · source repo · related apps. Start at the hubs:
 
@@ -108,15 +108,26 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch52-sept26.
 - [contract-clause-extractor](https://github.com/Zion-support/contract-clause-extractor) — https://ziontechgroup.com/contract-clause-extractor/
 
 ## Revenue Protection & Operations Signals (Batch 53 — Sep 26, 2026)
-Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
-- [Revenue Leak Detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/
-- [Subscription Dunning Hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/
-- [Pricing Signal Radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/
-- [Zion AI Pricing Optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — https://ziontechgroup.com/zion-ai-pricing-optimizer/
-- [Supplier Risk Radar](https://github.com/Zion-support/supplier-risk-radar) — https://ziontechgroup.com/supplier-risk-radar/
-- [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
-- [Vendor Onboarding Copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — https://ziontechgroup.com/vendor-onboarding-copilot/
-- [Energy Demand Forecaster](https://github.com/Zion-support/energy-demand-forecaster) — https://ziontechgroup.com/energy-demand-forecaster/
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md)
+- [revenue-leak-detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/
+- [subscription-dunning-hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/
+- [pricing-signal-radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/
+- [zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — https://ziontechgroup.com/zion-ai-pricing-optimizer/
+- [supplier-risk-radar](https://github.com/Zion-support/supplier-risk-radar) — https://ziontechgroup.com/supplier-risk-radar/
+- [shipping-delay-alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
+- [vendor-onboarding-copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — https://ziontechgroup.com/vendor-onboarding-copilot/
+- [energy-demand-forecaster](https://github.com/Zion-support/energy-demand-forecaster) — https://ziontechgroup.com/energy-demand-forecaster/
+
+## People & Workforce AI (Batch 54 — Sep 27, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html · Spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md)
+- [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/
+- [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — https://ziontechgroup.com/retention-risk-radar/
+- [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) — https://ziontechgroup.com/interview-intelligence-ai/
+- [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) — https://ziontechgroup.com/comp-benchmark-scout/
+- [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) — https://ziontechgroup.com/engagement-pulse-ai/
+- [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) — https://ziontechgroup.com/workforce-capacity-planner/
+- [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — https://ziontechgroup.com/learning-path-ai/
+- [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — https://ziontechgroup.com/hiring-funnel-optimizer/
 
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
@@ -127,4 +138,4 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
