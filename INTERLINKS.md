@@ -108,26 +108,26 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch52-sept26.
 - [contract-clause-extractor](https://github.com/Zion-support/contract-clause-extractor) — https://ziontechgroup.com/contract-clause-extractor/
 
 ## Revenue Protection & Operations Signals (Batch 53 — Sep 26, 2026)
-Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md)
-- [revenue-leak-detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/
-- [subscription-dunning-hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/
-- [pricing-signal-radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/
-- [zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — https://ziontechgroup.com/zion-ai-pricing-optimizer/
-- [supplier-risk-radar](https://github.com/Zion-support/supplier-risk-radar) — https://ziontechgroup.com/supplier-risk-radar/
-- [shipping-delay-alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
-- [vendor-onboarding-copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — https://ziontechgroup.com/vendor-onboarding-copilot/
-- [energy-demand-forecaster](https://github.com/Zion-support/energy-demand-forecaster) — https://ziontechgroup.com/energy-demand-forecaster/
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+- [Revenue Leak Detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/
+- [Subscription Dunning Hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/
+- [Pricing Signal Radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/
+- [Zion AI Pricing Optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — https://ziontechgroup.com/zion-ai-pricing-optimizer/
+- [Supplier Risk Radar](https://github.com/Zion-support/supplier-risk-radar) — https://ziontechgroup.com/supplier-risk-radar/
+- [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
+- [Vendor Onboarding Copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — https://ziontechgroup.com/vendor-onboarding-copilot/
+- [Energy Demand Forecaster](https://github.com/Zion-support/energy-demand-forecaster) — https://ziontechgroup.com/energy-demand-forecaster/
 
-## People & Workforce AI (Batch 54 — Sep 27, 2026)
-Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html · Spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md)
-- [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/
-- [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — https://ziontechgroup.com/retention-risk-radar/
-- [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) — https://ziontechgroup.com/interview-intelligence-ai/
-- [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) — https://ziontechgroup.com/comp-benchmark-scout/
-- [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) — https://ziontechgroup.com/engagement-pulse-ai/
-- [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) — https://ziontechgroup.com/workforce-capacity-planner/
-- [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — https://ziontechgroup.com/learning-path-ai/
-- [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — https://ziontechgroup.com/hiring-funnel-optimizer/
+## AI Agents, Platform & Assurance (Batch 54 — Sep 27, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html
+- [Zion AI Agent Builder](https://github.com/Zion-support/zion-ai-agent-builder) — https://ziontechgroup.com/zion-ai-agent-builder/
+- [Voice Agent Studio](https://github.com/Zion-support/voice-agent-studio) — https://ziontechgroup.com/voice-agent-studio/
+- [Zion MCP Stack](https://github.com/Zion-support/zion-mcp-stack) — https://ziontechgroup.com/zion-mcp-stack/
+- [AI Eval Harness](https://github.com/Zion-support/ai-eval-harness) — https://ziontechgroup.com/ai-eval-harness/
+- [AI Assessment Engine](https://github.com/Zion-support/ai-assessment-engine) — https://ziontechgroup.com/ai-assessment-engine/
+- [Zion AI Threat Brief](https://github.com/Zion-support/zion-ai-threat-brief) — https://ziontechgroup.com/zion-ai-threat-brief/
+- [AI Compliance Auditor](https://github.com/Zion-support/ai-compliance-auditor) — https://ziontechgroup.com/ai-compliance-auditor/
+- [AI Backup Recovery](https://github.com/Zion-support/ai-backup-recovery) — https://ziontechgroup.com/ai-backup-recovery/
 
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
