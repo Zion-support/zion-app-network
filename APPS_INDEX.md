@@ -4,7 +4,7 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Total repositories: 300**
+**Total repositories: 786**
 
 ## AI Apps (15)
 
@@ -175,6 +175,36 @@ Spotlight: [SPOTLIGHT-2026-09-26-VERTICALS.md](SPOTLIGHT-2026-09-26-VERTICALS.md
 ## AI Micro-Apps Library — 2026-09-26 (54)
 
 54 single-purpose AI tools — full list in [SPOTLIGHT-2026-09-26-MICROAPPS.md](SPOTLIGHT-2026-09-26-MICROAPPS.md) · Homepage pack: [homepage-content-sep26-microapps.md](homepage-content-sep26-microapps.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-sept26-microapps.html
+
+## Batch 53 — Revenue Protection & Operations Signals — 2026-09-26 (8)
+
+| App | What it does | Live |
+|---|---|---|
+| [Revenue Leak Detector](https://github.com/Zion-support/revenue-leak-detector) | Find and stop revenue leakage across billing, contracts and renewals | https://ziontechgroup.com/revenue-leak-detector/ |
+| [Subscription Dunning Hero](https://github.com/Zion-support/subscription-dunning-hero) | Recover failed payments with smart dunning sequences and retries | https://ziontechgroup.com/subscription-dunning-hero/ |
+| [Pricing Signal Radar](https://github.com/Zion-support/pricing-signal-radar) | Track competitor pricing moves and market signals in real time | https://ziontechgroup.com/pricing-signal-radar/ |
+| [Zion AI Pricing Optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) | AI-driven price optimization with guardrails and elasticity models | https://ziontechgroup.com/zion-ai-pricing-optimizer/ |
+| [Supplier Risk Radar](https://github.com/Zion-support/supplier-risk-radar) | Supplier risk monitoring across financial, geo and compliance signals | https://ziontechgroup.com/supplier-risk-radar/ |
+| [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) | Predictive shipping delay alerts with customer comms automation | https://ziontechgroup.com/shipping-delay-alerter/ |
+| [Vendor Onboarding Copilot](https://github.com/Zion-support/vendor-onboarding-copilot) | Streamlined vendor onboarding with docs, checks and approvals | https://ziontechgroup.com/vendor-onboarding-copilot/ |
+| [Energy Demand Forecaster](https://github.com/Zion-support/energy-demand-forecaster) | Forecast energy demand for sites and fleets to cut costs | https://ziontechgroup.com/energy-demand-forecaster/ |
+
+Spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md) · Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+
+## Batch 54 — People & Workforce AI — 2026-09-27 (8)
+
+| App | What it does | Live |
+|---|---|---|
+| [Skills Matrix AI](https://github.com/Zion-support/skills-matrix-ai) | Dynamic skills matrix — proficiency tracking, gap heatmaps and upskilling priorities | https://ziontechgroup.com/skills-matrix-ai/ |
+| [Retention Risk Radar](https://github.com/Zion-support/retention-risk-radar) | Predict employee attrition risk with explainable signals and retention playbooks | https://ziontechgroup.com/retention-risk-radar/ |
+| [Interview Intelligence AI](https://github.com/Zion-support/interview-intelligence-ai) | Structured interviews — question banks, scoring rubrics and bias-aware summaries | https://ziontechgroup.com/interview-intelligence-ai/ |
+| [Comp Benchmark Scout](https://github.com/Zion-support/comp-benchmark-scout) | Real-time compensation benchmarking by role, level and location | https://ziontechgroup.com/comp-benchmark-scout/ |
+| [Engagement Pulse AI](https://github.com/Zion-support/engagement-pulse-ai) | Continuous pulse surveys with AI theme detection and action tracking | https://ziontechgroup.com/engagement-pulse-ai/ |
+| [Workforce Capacity Planner](https://github.com/Zion-support/workforce-capacity-planner) | Headcount and capacity forecasting across teams, skills and budgets | https://ziontechgroup.com/workforce-capacity-planner/ |
+| [Learning Path AI](https://github.com/Zion-support/learning-path-ai) | Personalized learning paths from skills gaps, goals and role requirements | https://ziontechgroup.com/learning-path-ai/ |
+| [Hiring Funnel Optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) | Hiring funnel analytics — source quality, stage conversion and time-to-hire | https://ziontechgroup.com/hiring-funnel-optimizer/ |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md) · Homepage pack: [homepage-content-batch54.md](homepage-content-batch54.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html
 
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
