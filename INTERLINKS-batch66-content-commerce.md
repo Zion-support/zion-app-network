@@ -1,13 +1,14 @@
 # Interlinks — Batch 66: Content & Commerce AI
 
 ## Batch 66 apps
-- https://ziontechgroup.com/zion-content-studio/
 - https://ziontechgroup.com/ai-advertising-optimizer/
 - https://ziontechgroup.com/ai-image-generator/
 - https://ziontechgroup.com/ai-image-editor/
 - https://ziontechgroup.com/ai-content-translator/
+- https://ziontechgroup.com/zion-content-studio/
 - https://ziontechgroup.com/ai-e-commerce/
 - https://ziontechgroup.com/ai-ecommerce-optimizer/
+- https://ziontechgroup.com/ai-edge-deployer/
 
 ## Related existing apps
 - AI Document Summarizer — https://ziontechgroup.com/ai-document-summarizer/
