@@ -7,9 +7,9 @@
 - 🛠️ All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ⭐ Featured — batch 54 (new) — People & Workforce AI
+## ⭐ Featured — batch 55 (new) — People & Workforce AI
 
-Full spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md) · Showcase: [app-network-batch54-sept27.html](https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html) · Homepage pack: [homepage-content-batch54.md](homepage-content-batch54.md)
+Full spotlight: [SPOTLIGHT-2026-09-27-BATCH55.md](SPOTLIGHT-2026-09-27-BATCH55.md) · Showcase: [app-network-batch55-sept27.html](https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html) · Homepage pack: [homepage-content-batch55.md](homepage-content-batch55.md)
 
 - [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/ — Dynamic skills matrix — proficiency tracking, gap heatmaps and upskilling priorities.
 - [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — https://ziontechgroup.com/retention-risk-radar/ — Predict employee attrition risk with explainable signals and retention playbooks.
@@ -20,7 +20,7 @@ Full spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.m
 - [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — https://ziontechgroup.com/learning-path-ai/ — Personalized learning paths from skills gaps, goals and role requirements.
 - [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — https://ziontechgroup.com/hiring-funnel-optimizer/ — Hiring funnel analytics — source quality, stage conversion and time-to-hire.
 
-Previous featured: [batch 53 — Revenue Protection & Operations Signals](SPOTLIGHT-2026-09-26-BATCH53.md) · [batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09-26-BATCH52.md) · [batch 51 — Data Engineering & Observability](SPOTLIGHT-2026-09-26-BATCH51.md)
+Previous featured: [batch 54 — AI Builders, Voice & Growth](SPOTLIGHT-2026-09-27-BATCH54.md) · [batch 53 — Revenue Protection & Operations Signals](SPOTLIGHT-2026-09-26-BATCH53.md) · [batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09-26-BATCH52.md) · [batch 51 — Data Engineering & Observability](SPOTLIGHT-2026-09-26-BATCH51.md)
 
 
 ## Directory
@@ -40,7 +40,7 @@ Previous featured: [batch 53 — Revenue Protection & Operations Signals](SPOTLI
 - [docs/DEV_SRE_TOOLS_SUITE.md](docs/DEV_SRE_TOOLS_SUITE.md) — free developer & SRE utilities
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
 - [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-WAVE2.md) — September 23 Wave 2 (41 apps)
-- Batches: [18](SPOTLIGHT-2026-09-24-BATCH18.md) · [19](SPOTLIGHT-2026-09-24-BATCH19.md) · [20](SPOTLIGHT-2026-09-24-BATCH20.md) · [21](SPOTLIGHT-2026-09-24-BATCH21.md) · [22](SPOTLIGHT-2026-09-24-BATCH22.md) · [23](SPOTLIGHT-2026-09-24-BATCH23.md) · [24](SPOTLIGHT-2026-09-24-BATCH24.md) · [25](SPOTLIGHT-2026-09-24-BATCH25.md) · [26](SPOTLIGHT-2026-09-24-BATCH26.md) · [27](SPOTLIGHT-2026-09-24-BATCH27.md) · [28](SPOTLIGHT-2026-09-24-BATCH28.md) · [29](SPOTLIGHT-2026-09-24-BATCH29.md) · [30](SPOTLIGHT-2026-09-24-BATCH30.md) · [31](SPOTLIGHT-2026-09-24-BATCH31.md) · [32](SPOTLIGHT-2026-09-24-BATCH32.md) · [33](SPOTLIGHT-2026-09-25-BATCH33.md) · [34](SPOTLIGHT-2026-09-25-BATCH34.md) · [35](SPOTLIGHT-2026-09-25-BATCH35.md) · [36](SPOTLIGHT-2026-09-25-BATCH36.md) · [37](SPOTLIGHT-2026-09-25-BATCH37.md) · [38](SPOTLIGHT-2026-09-25-BATCH38.md) · [39](SPOTLIGHT-2026-09-25-BATCH39.md) · [50](SPOTLIGHT-2026-09-26-BATCH50.md) · [51](SPOTLIGHT-2026-09-26-BATCH51.md) · [52](SPOTLIGHT-2026-09-26-BATCH52.md) · [53](SPOTLIGHT-2026-09-26-BATCH53.md) · [54](SPOTLIGHT-2026-09-27-BATCH54.md)
+- Batches: [18](SPOTLIGHT-2026-09-24-BATCH18.md) · [19](SPOTLIGHT-2026-09-24-BATCH19.md) · [20](SPOTLIGHT-2026-09-24-BATCH20.md) · [21](SPOTLIGHT-2026-09-24-BATCH21.md) · [22](SPOTLIGHT-2026-09-24-BATCH22.md) · [23](SPOTLIGHT-2026-09-24-BATCH23.md) · [24](SPOTLIGHT-2026-09-24-BATCH24.md) · [25](SPOTLIGHT-2026-09-24-BATCH25.md) · [26](SPOTLIGHT-2026-09-24-BATCH26.md) · [27](SPOTLIGHT-2026-09-24-BATCH27.md) · [28](SPOTLIGHT-2026-09-24-BATCH28.md) · [29](SPOTLIGHT-2026-09-24-BATCH29.md) · [30](SPOTLIGHT-2026-09-24-BATCH30.md) · [31](SPOTLIGHT-2026-09-24-BATCH31.md) · [32](SPOTLIGHT-2026-09-24-BATCH32.md) · [33](SPOTLIGHT-2026-09-25-BATCH33.md) · [34](SPOTLIGHT-2026-09-25-BATCH34.md) · [35](SPOTLIGHT-2026-09-25-BATCH35.md) · [36](SPOTLIGHT-2026-09-25-BATCH36.md) · [37](SPOTLIGHT-2026-09-25-BATCH37.md) · [38](SPOTLIGHT-2026-09-25-BATCH38.md) · [39](SPOTLIGHT-2026-09-25-BATCH39.md) · [50](SPOTLIGHT-2026-09-26-BATCH50.md) · [51](SPOTLIGHT-2026-09-26-BATCH51.md) · [52](SPOTLIGHT-2026-09-26-BATCH52.md) · [53](SPOTLIGHT-2026-09-26-BATCH53.md) · [54](SPOTLIGHT-2026-09-27-BATCH54.md) · [55](SPOTLIGHT-2026-09-27-BATCH55.md)
 - Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 28](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md) · [Sep 24 Batch 32](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH32.md)
 
 ## Duplicate consolidation notes
@@ -49,7 +49,7 @@ Known overlapping pairs now cross-linked instead of duplicated: [it-asset-lifecy
 ## Interlinking standard
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and ±8 related apps. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
 
-Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Per-batch packs: [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch54.md](homepage-content-batch54.md). Full repository catalog: [CATALOG.md](CATALOG.md).
+Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Per-batch packs: [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch55.md](homepage-content-batch55.md). Full repository catalog: [CATALOG.md](CATALOG.md).
 
 Full source listing: https://github.com/Zion-support
 
