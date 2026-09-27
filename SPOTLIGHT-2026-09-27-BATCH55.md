@@ -1,25 +1,33 @@
-# Spotlight — Batch 55: SRE, Reliability & Incident Response (Sep 27, 2026)
+# Spotlight — Batch 55: People & Workforce AI (Sep 27, 2026)
 
-Seven interlinked apps to keep services reliable end-to-end: define SLOs, de-risk releases, respond to incidents, learn from chaos and protect on-call teams.
+Eight interlinked apps to hire, grow, engage and retain your team — one connected people-ops toolchain.
 
 | App | What it does | Live |
 |---|---|---|
-| **SLI/SLO Tracker** | Define, monitor and forecast service level objectives with error-budget alerts. | https://ziontechgroup.com/sli-slo-tracker/ |
-| **Release Risk Radar** | Score every release for risk using change size, test coverage and history signals. | https://ziontechgroup.com/release-risk-radar/ |
-| **Deployment Guardian AI** | Progressive delivery guardrails — canary analysis and automated rollback. | https://ziontechgroup.com/deployment-guardian-ai/ |
-| **Incident Commander AI** | Automated incident response coordination — timelines, roles and comms. | https://ziontechgroup.com/incident-commander-ai/ |
-| **Zion AI Incident Runbook** | Generate structured incident response runbooks for IT and SRE teams. | https://ziontechgroup.com/zion-ai-incident-runbook/ |
-| **Chaos Engineering AI** | Design, run and learn from resilience experiments before incidents happen. | https://ziontechgroup.com/chaos-engineering-ai/ |
-| **On-call Optimizer AI** | Fair on-call rotations, burnout alerts and escalation tuning with AI. | https://ziontechgroup.com/oncall-optimizer-ai/ |
+| **Skills Matrix AI** | Dynamic skills matrix — proficiency tracking, gap heatmaps and upskilling priorities | https://ziontechgroup.com/skills-matrix-ai/ |
+| **Retention Risk Radar** | Predict employee attrition risk with explainable signals and retention playbooks | https://ziontechgroup.com/retention-risk-radar/ |
+| **Interview Intelligence AI** | Structured interviews — question banks, scoring rubrics and bias-aware summaries | https://ziontechgroup.com/interview-intelligence-ai/ |
+| **Comp Benchmark Scout** | Real-time compensation benchmarking by role, level and location | https://ziontechgroup.com/comp-benchmark-scout/ |
+| **Engagement Pulse AI** | Continuous pulse surveys with AI theme detection and action tracking | https://ziontechgroup.com/engagement-pulse-ai/ |
+| **Workforce Capacity Planner** | Headcount and capacity forecasting across teams, skills and budgets | https://ziontechgroup.com/workforce-capacity-planner/ |
+| **Learning Path AI** | Personalized learning paths from skills gaps, goals and role requirements | https://ziontechgroup.com/learning-path-ai/ |
+| **Hiring Funnel Optimizer** | Hiring funnel analytics — source quality, stage conversion and time-to-hire | https://ziontechgroup.com/hiring-funnel-optimizer/ |
 
-## How they interlink
-1. **Define** reliability targets with [SLI/SLO Tracker](https://ziontechgroup.com/sli-slo-tracker/).
-2. **De-risk** change with [Release Risk Radar](https://ziontechgroup.com/release-risk-radar/) and [Deployment Guardian AI](https://ziontechgroup.com/deployment-guardian-ai/).
-3. **Respond** with [Incident Commander AI](https://ziontechgroup.com/incident-commander-ai/) guided by [Zion AI Incident Runbook](https://ziontechgroup.com/zion-ai-incident-runbook/).
-4. **Learn** proactively via [Chaos Engineering AI](https://ziontechgroup.com/chaos-engineering-ai/) and protect the team with [On-call Optimizer AI](https://ziontechgroup.com/oncall-optimizer-ai/).
+## Repositories
+- [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/
+- [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — https://ziontechgroup.com/retention-risk-radar/
+- [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) — https://ziontechgroup.com/interview-intelligence-ai/
+- [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) — https://ziontechgroup.com/comp-benchmark-scout/
+- [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) — https://ziontechgroup.com/engagement-pulse-ai/
+- [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) — https://ziontechgroup.com/workforce-capacity-planner/
+- [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — https://ziontechgroup.com/learning-path-ai/
+- [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — https://ziontechgroup.com/hiring-funnel-optimizer/
 
-## Related spotlights
-- [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md) (AI Agents, Platform & Assurance) · [INTERLINKS.md](INTERLINKS.md)
-- Master index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · Hub: https://ziontechgroup.com/zion-app-network/
+## Interlinks
+- Hub: https://ziontechgroup.com/zion-app-network/ · https://github.com/Zion-support/zion-app-network
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html
+- Homepage pack: [homepage-content-batch55.md](homepage-content-batch55.md)
+- Previous: [Batch 54 — AI Builders, Voice & Growth](SPOTLIGHT-2026-09-27-BATCH54.md)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com · [README.md](README.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS.md](INTERLINKS.md)
