@@ -191,7 +191,22 @@ Spotlight: [SPOTLIGHT-2026-09-26-VERTICALS.md](SPOTLIGHT-2026-09-26-VERTICALS.md
 
 Spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md) · Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
 
-## Batch 54 — People & Workforce AI — 2026-09-27 (8)
+## Batch 54 — AI Agents, Platform & Assurance — 2026-09-27 (8)
+
+| App | What it does | Live |
+|---|---|---|
+| [Zion AI Agent Builder](https://github.com/Zion-support/zion-ai-agent-builder) | No-code studio to design, test and ship AI agents with guardrails | https://ziontechgroup.com/zion-ai-agent-builder/ |
+| [Voice Agent Studio](https://github.com/Zion-support/voice-agent-studio) | AI voice agents for calls & IVR — design, test and launch phone automation | https://ziontechgroup.com/voice-agent-studio/ |
+| [Zion MCP Stack](https://github.com/Zion-support/zion-mcp-stack) | Self-hosted MCP server stack (Docker Compose): Grafana, Slack, Playwright, Docker MCP Gateway | https://ziontechgroup.com/zion-mcp-stack/ |
+| [Zion AI Eval Harness](https://github.com/Zion-support/ai-eval-harness) | Evaluation & regression testing for LLM features — prompts, models, gates in CI | https://ziontechgroup.com/ai-eval-harness/ |
+| [AI Assessment Engine](https://github.com/Zion-support/ai-assessment-engine) | Build and score skills assessments with anti-gaming and analytics | https://ziontechgroup.com/ai-assessment-engine/ |
+| [Zion AI Threat Brief](https://github.com/Zion-support/zion-ai-threat-brief) | Daily AI-curated threat intelligence briefs mapped to your stack | https://ziontechgroup.com/zion-ai-threat-brief/ |
+| [AI Compliance Auditor](https://github.com/Zion-support/ai-compliance-auditor) | Automated compliance audits with findings mapped to controls and remediation | https://ziontechgroup.com/ai-compliance-auditor/ |
+| [AI Backup Recovery](https://github.com/Zion-support/ai-backup-recovery) | Backup verification, restore drills and recovery automation with RPO/RTO tracking | https://ziontechgroup.com/ai-backup-recovery/ |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md) · Homepage pack: [homepage-content-batch54.md](homepage-content-batch54.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html
+
+## Batch 55 — People & Workforce AI — 2026-09-27 (8)
 
 | App | What it does | Live |
 |---|---|---|
@@ -204,7 +219,64 @@ Spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md) ·
 | [Learning Path AI](https://github.com/Zion-support/learning-path-ai) | Personalized learning paths from skills gaps, goals and role requirements | https://ziontechgroup.com/learning-path-ai/ |
 | [Hiring Funnel Optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) | Hiring funnel analytics — source quality, stage conversion and time-to-hire | https://ziontechgroup.com/hiring-funnel-optimizer/ |
 
-Spotlight: [SPOTLIGHT-2026-09-27-BATCH54.md](SPOTLIGHT-2026-09-27-BATCH54.md) · Homepage pack: [homepage-content-batch54.md](homepage-content-batch54.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH55.md](SPOTLIGHT-2026-09-27-BATCH55.md) · Homepage pack: [homepage-content-batch55.md](homepage-content-batch55.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html
+
+## Batch 56 — E-commerce & Conversion AI — 2026-09-27 (8)
+
+| App | What it does | Live |
+|---|---|---|
+| [Product Description Gen](https://github.com/Zion-support/product-description-gen) | On-brand product descriptions at scale with SEO metadata | https://ziontechgroup.com/product-description-gen/ |
+| [SEO Product Pages AI](https://github.com/Zion-support/seo-product-pages-ai) | SEO optimization for product pages — schema, internal links, meta | https://ziontechgroup.com/seo-product-pages-ai/ |
+| [Review Sentiment Hub](https://github.com/Zion-support/review-sentiment-hub) | Aggregate reviews, detect themes and route issues to teams | https://ziontechgroup.com/review-sentiment-hub/ |
+| [Dynamic Pricing Pilot](https://github.com/Zion-support/dynamic-pricing-pilot) | Dynamic pricing experiments with guardrails and margin protection | https://ziontechgroup.com/dynamic-pricing-pilot/ |
+| [Cart Abandonment AI](https://github.com/Zion-support/cart-abandonment-ai) | Recover abandoned carts with personalized, timed outreach | https://ziontechgroup.com/cart-abandonment-ai/ |
+| [Inventory Demand Planner](https://github.com/Zion-support/inventory-demand-planner) | Demand forecasting and replenishment planning across SKUs | https://ziontechgroup.com/inventory-demand-planner/ |
+| [Loyalty Program Optimizer](https://github.com/Zion-support/loyalty-program-optimizer) | Loyalty program analytics and offer optimization for repeat revenue | https://ziontechgroup.com/loyalty-program-optimizer/ |
+| [Checkout Funnel Optimizer](https://github.com/Zion-support/checkout-funnel-optimizer) | Checkout funnel analytics — friction detection and A/B recommendations | https://ziontechgroup.com/checkout-funnel-optimizer/ |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH56.md](SPOTLIGHT-2026-09-27-BATCH56.md) · Homepage pack: [homepage-content-batch56.md](homepage-content-batch56.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch56-sept27.html
+
+## Batch 57 — Reliability & SRE AI — 2026-09-27 (7)
+
+| App | What it does | Live |
+|---|---|---|
+| [Incident Commander AI](https://github.com/Zion-support/incident-commander-ai) | AI incident command — triage, timelines, comms and postmortems | https://ziontechgroup.com/incident-commander-ai/ |
+| [Deployment Guardian AI](https://github.com/Zion-support/deployment-guardian-ai) | Deploy risk scoring with automated rollback triggers | https://ziontechgroup.com/deployment-guardian-ai/ |
+| [Oncall Optimizer AI](https://github.com/Zion-support/oncall-optimizer-ai) | Fair, fatigue-aware on-call scheduling and alert routing | https://ziontechgroup.com/oncall-optimizer-ai/ |
+| [SLI/SLO Tracker](https://github.com/Zion-support/sli-slo-tracker) | SLI/SLO tracking with error-budget burn alerts | https://ziontechgroup.com/sli-slo-tracker/ |
+| [Release Risk Radar](https://github.com/Zion-support/release-risk-radar) | Release risk scoring from change, coverage and history signals | https://ziontechgroup.com/release-risk-radar/ |
+| [Zion AI Incident Runbook](https://github.com/Zion-support/zion-ai-incident-runbook) | Executable runbooks with AI-guided remediation steps | https://ziontechgroup.com/zion-ai-incident-runbook/ |
+| [Chaos Engineering AI](https://github.com/Zion-support/chaos-engineering-ai) | Chaos experiments with safety gates and resilience scoring | https://ziontechgroup.com/chaos-engineering-ai/ |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH57.md](SPOTLIGHT-2026-09-27-BATCH57.md) · Homepage pack: [homepage-content-batch57.md](homepage-content-batch57.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch57-sept27.html
+
+## Batch 58 — Legal & Compliance Ops AI — 2026-09-27 (8)
+
+| App | What it does | Live |
+|---|---|---|
+| [Legal Brief Drafter](https://github.com/Zion-support/legal-brief-drafter) | Draft legal briefs and memos with citation checks | https://ziontechgroup.com/legal-brief-drafter/ |
+| [E-Discovery Copilot](https://github.com/Zion-support/e-discovery-copilot) | E-discovery review acceleration with relevance clustering | https://ziontechgroup.com/e-discovery-copilot/ |
+| [DPO Privacy Assistant](https://github.com/Zion-support/dpo-privacy-assistant) | DPO copilot — DSARs, RoPA, DPIAs and breach workflows | https://ziontechgroup.com/dpo-privacy-assistant/ |
+| [Contract Negotiation AI](https://github.com/Zion-support/contract-negotiation-ai) | Contract redlining with playbooks and fallback positions | https://ziontechgroup.com/contract-negotiation-ai/ |
+| [IP Portfolio Tracker](https://github.com/Zion-support/ip-portfolio-tracker) | Track patents, trademarks and renewals with deadline alerts | https://ziontechgroup.com/ip-portfolio-tracker/ |
+| [Regulatory Filing Copilot](https://github.com/Zion-support/regulatory-filing-copilot) | Regulatory filing calendars, checklists and draft generation | https://ziontechgroup.com/regulatory-filing-copilot/ |
+| [Litigation Risk Scorer](https://github.com/Zion-support/litigation-risk-scorer) | Score litigation exposure from contracts, comms and claims | https://ziontechgroup.com/litigation-risk-scorer/ |
+| [Legal Spend Optimizer](https://github.com/Zion-support/legal-spend-optimizer) | Outside-counsel spend analytics and matter budgeting | https://ziontechgroup.com/legal-spend-optimizer/ |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH58.md](SPOTLIGHT-2026-09-27-BATCH58.md) · Homepage pack: [homepage-content-batch58.md](homepage-content-batch58.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch58-sept27.html
+
+## Batch 59 — Manufacturing & Industrial Ops AI — 2026-09-27 (6)
+
+| App | What it does | Live |
+|---|---|---|
+| [Production Schedule AI](https://github.com/Zion-support/production-schedule-ai) | Constraint-based scheduling, changeover optimization, order prioritization | https://ziontechgroup.com/production-schedule-ai/ |
+| [Quality Vision Inspector](https://github.com/Zion-support/quality-vision-inspector) | Computer-vision defect detection, SPC alerts and traceability | https://ziontechgroup.com/quality-vision-inspector/ |
+| [Predictive Maintenance AI](https://github.com/Zion-support/predictive-maintenance-ai) | Machine health scoring, failure prediction, maintenance windows | https://ziontechgroup.com/predictive-maintenance-ai/ |
+| [OEE Dashboard AI](https://github.com/Zion-support/oee-dashboard-ai) | Real-time OEE, downtime Pareto, throughput analytics | https://ziontechgroup.com/oee-dashboard-ai/ |
+| [Factory Energy Optimizer](https://github.com/Zion-support/factory-energy-optimizer) | Energy optimization, peak shaving and carbon reporting | https://ziontechgroup.com/factory-energy-optimizer/ |
+| [Supplier Risk Radar](https://github.com/Zion-support/supplier-risk-radar) | Supplier risk scoring, disruption alerts, dual-sourcing recommendations (cross-listed with Batch 53) | https://ziontechgroup.com/supplier-risk-radar/ |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH59.md](SPOTLIGHT-2026-09-27-BATCH59.md) · Homepage pack: [homepage-content-batch59.md](homepage-content-batch59.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch59-sept27.html
 
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
