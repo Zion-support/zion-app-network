@@ -1,23 +1,32 @@
-# Spotlight — 2026-09-26 — Batch 53 — AI Sales & Pipeline Intelligence
+# Spotlight — Batch 53: Revenue Protection & Operations Signals (Sep 26, 2026)
 
-Six new revenue-engine apps join the **Zion App Network** (780+ tools). All ship with live pages, interlinked docs and plans/discovery CTAs.
+Eight interlinked apps to protect revenue, optimize pricing and de-risk operations.
 
-- 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery: https://ziontechgroup.com/discovery/
-- Hub: https://ziontechgroup.com/zion-app-network/
+| App | What it does | Live |
+|---|---|---|
+| **Revenue Leak Detector** | Find and plug revenue leaks across billing, contracts and usage. | https://ziontechgroup.com/revenue-leak-detector/ |
+| **Subscription Dunning Hero** | Recover failed payments with smart dunning sequences and retry timing. | https://ziontechgroup.com/subscription-dunning-hero/ |
+| **Pricing Signal Radar** | Competitor and market pricing signals with change alerts. | https://ziontechgroup.com/pricing-signal-radar/ |
+| **Zion AI Pricing Optimizer** | AI price optimization with elasticity modeling and guardrails. | https://ziontechgroup.com/zion-ai-pricing-optimizer/ |
+| **Supplier Risk Radar** | Supplier risk monitoring across financial, geopolitical and operational signals. | https://ziontechgroup.com/supplier-risk-radar/ |
+| **Shipping Delay Alerter** | Predictive shipping delay alerts across carriers and lanes. | https://ziontechgroup.com/shipping-delay-alerter/ |
+| **Vendor Onboarding Copilot** | Automated vendor onboarding — docs, compliance checks and approvals. | https://ziontechgroup.com/vendor-onboarding-copilot/ |
+| **Energy Demand Forecaster** | Forecast energy demand for sites, fleets and operations planning. | https://ziontechgroup.com/energy-demand-forecaster/ |
 
-| App | Live | GitHub | What it does |
-|---|---|---|---|
-| Pipeline Risk Radar | https://ziontechgroup.com/pipeline-risk-radar/ | https://github.com/Zion-support/pipeline-risk-radar | Stall-signal scoring, forecast confidence, deal rescue plays |
-| Renewal & Upsell Radar | https://ziontechgroup.com/renewal-upsell-radar/ | https://github.com/Zion-support/renewal-upsell-radar | Churn-risk and expansion signals 90+ days early |
-| Deal Coach AI | https://ziontechgroup.com/deal-coach-ai/ | https://github.com/Zion-support/deal-coach-ai | Next-best-action, MEDDICC gaps, objection responses per deal |
-| Forecast Accuracy AI | https://ziontechgroup.com/forecast-accuracy-ai/ | https://github.com/Zion-support/forecast-accuracy-ai | Rep bias profiles, commit confidence, scenario modeling |
-| Outbound Sequencer AI | https://ziontechgroup.com/outbound-sequencer-ai/ | https://github.com/Zion-support/outbound-sequencer-ai | Persona sequences, reply-intent AI, deliverability guardrails |
-| Win/Loss Analyzer AI | https://ziontechgroup.com/win-loss-analyzer-ai/ | https://github.com/Zion-support/win-loss-analyzer-ai | Win/loss reason clustering, competitor radar, pricing feedback |
+## Repositories
+- [revenue-leak-detector](https://github.com/Zion-support/revenue-leak-detector) — https://ziontechgroup.com/revenue-leak-detector/
+- [subscription-dunning-hero](https://github.com/Zion-support/subscription-dunning-hero) — https://ziontechgroup.com/subscription-dunning-hero/
+- [pricing-signal-radar](https://github.com/Zion-support/pricing-signal-radar) — https://ziontechgroup.com/pricing-signal-radar/
+- [zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — https://ziontechgroup.com/zion-ai-pricing-optimizer/
+- [supplier-risk-radar](https://github.com/Zion-support/supplier-risk-radar) — https://ziontechgroup.com/supplier-risk-radar/
+- [shipping-delay-alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
+- [vendor-onboarding-copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — https://ziontechgroup.com/vendor-onboarding-copilot/
+- [energy-demand-forecaster](https://github.com/Zion-support/energy-demand-forecaster) — https://ziontechgroup.com/energy-demand-forecaster/
 
-## Network effects
-- pipeline-risk-radar ↔ forecast-accuracy-ai ↔ deal-coach-ai form the forecast loop (risk → commit → coaching).
-- outbound-sequencer-ai → lead-score-copilot → deal-coach-ai covers top-of-funnel to close.
-- win-loss-analyzer-ai feeds the win library used by deal-coach-ai and outbound-sequencer-ai.
-- renewal-upsell-radar connects to batch-39 CS suite (support-copilot-ai, cs-escalation-radar) and contract-renewal-radar (batch-9/26).
+## Interlinks
+- Hub: https://ziontechgroup.com/zion-app-network/ · https://github.com/Zion-support/zion-app-network
+- Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md)
+- Previous: [Batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09-26-BATCH52.md)
 
-© 2026 Zion Tech Group
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com · [README.md](README.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS.md](INTERLINKS.md)
