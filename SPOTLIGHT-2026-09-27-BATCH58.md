@@ -1,17 +1,22 @@
 # Spotlight — Batch 58: Legal & Compliance Ops AI (Sep 27, 2026)
 
-Eight interlinked apps for modern legal and compliance teams — draft, discover, negotiate, file and control spend.
+Eight interlinked apps to draft, review, file and de-risk legal work — one connected legal-ops toolchain.
 
 | App | What it does | Live |
 |---|---|---|
-| **Legal Brief Drafter** | AI legal brief & memo drafting with citation checking. | https://ziontechgroup.com/legal-brief-drafter/ |
-| **E-Discovery Copilot** | AI-assisted e-discovery — document review, clustering and privilege detection. | https://ziontechgroup.com/e-discovery-copilot/ |
-| **DPO Privacy Assistant** | DPO copilot for GDPR/CCPA — DSAR handling, RoPA and privacy tickets. | https://ziontechgroup.com/dpo-privacy-assistant/ |
-| **Contract Negotiation AI** | Redline suggestions, fallback positions and playbook alignment. | https://ziontechgroup.com/contract-negotiation-ai/ |
-| **IP Portfolio Tracker** | Track patents, trademarks and renewals across jurisdictions with deadline alerts. | https://ziontechgroup.com/ip-portfolio-tracker/ |
-| **Regulatory Filing Copilot** | Regulatory filing preparation, validation and deadline tracking. | https://ziontechgroup.com/regulatory-filing-copilot/ |
-| **Litigation Risk Scorer** | Score litigation exposure from contracts, incidents and claims history. | https://ziontechgroup.com/litigation-risk-scorer/ |
-| **Legal Spend Optimizer** | Outside counsel spend analytics, matter budgets and invoice review. | https://ziontechgroup.com/legal-spend-optimizer/ |
+| **Legal Brief Drafter** | Draft legal briefs and memos with citation checks | https://ziontechgroup.com/legal-brief-drafter/ |
+| **E-Discovery Copilot** | E-discovery review acceleration with relevance clustering | https://ziontechgroup.com/e-discovery-copilot/ |
+| **DPO Privacy Assistant** | DPO copilot — DSARs, RoPA, DPIAs and breach workflows | https://ziontechgroup.com/dpo-privacy-assistant/ |
+| **Contract Negotiation AI** | Contract redlining with playbooks and fallback positions | https://ziontechgroup.com/contract-negotiation-ai/ |
+| **IP Portfolio Tracker** | Track patents, trademarks and renewals with deadline alerts | https://ziontechgroup.com/ip-portfolio-tracker/ |
+| **Regulatory Filing Copilot** | Regulatory filing calendars, checklists and draft generation | https://ziontechgroup.com/regulatory-filing-copilot/ |
+| **Litigation Risk Scorer** | Score litigation exposure from contracts, comms and claims | https://ziontechgroup.com/litigation-risk-scorer/ |
+| **Legal Spend Optimizer** | Outside-counsel spend analytics and matter budgeting | https://ziontechgroup.com/legal-spend-optimizer/ |
+
+## How they interlink
+1. **Draft** with [Legal Brief Drafter](https://ziontechgroup.com/legal-brief-drafter/) and negotiate with [Contract Negotiation AI](https://ziontechgroup.com/contract-negotiation-ai/).
+2. **Comply** via [DPO Privacy Assistant](https://ziontechgroup.com/dpo-privacy-assistant/) and [Regulatory Filing Copilot](https://ziontechgroup.com/regulatory-filing-copilot/).
+3. **Protect** with [IP Portfolio Tracker](https://ziontechgroup.com/ip-portfolio-tracker/), [Litigation Risk Scorer](https://ziontechgroup.com/litigation-risk-scorer/), [E-Discovery Copilot](https://ziontechgroup.com/e-discovery-copilot/) and [Legal Spend Optimizer](https://ziontechgroup.com/legal-spend-optimizer/).
 
 ## Repositories
 - [legal-brief-drafter](https://github.com/Zion-support/legal-brief-drafter) — https://ziontechgroup.com/legal-brief-drafter/
@@ -25,8 +30,10 @@ Eight interlinked apps for modern legal and compliance teams — draft, discover
 
 ## Interlinks
 - Hub: https://ziontechgroup.com/zion-app-network/ · https://github.com/Zion-support/zion-app-network
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch58-sept27.html
 - Homepage pack: [homepage-content-batch58.md](homepage-content-batch58.md)
-- Related: [Batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09-26-BATCH52.md) · [Batch 53 — Revenue Protection & Operations Signals](SPOTLIGHT-2026-09-26-BATCH53.md)
+- Previous: [Batch 57 — Reliability & SRE AI](SPOTLIGHT-2026-09-27-BATCH57.md)
+- Index: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS.md](INTERLINKS.md)
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · [README.md](README.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS.md](INTERLINKS.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · [README.md](README.md)
