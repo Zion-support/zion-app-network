@@ -1,6 +1,6 @@
 # Zion App Network — Master Catalog
 
-710 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+786 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
 
 ## Network Hubs
 
@@ -52,7 +52,7 @@
 
 ## HR, Meetings & Productivity
 
-[ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) · [ai-resume-builder](https://github.com/Zion-support/ai-resume-builder) · [ai-coach](https://github.com/Zion-support/ai-coach) · [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) · [ai-education-platform](https://github.com/Zion-support/ai-education-platform) · [meeting-cost-calculator](https://github.com/Zion-support/meeting-cost-calculator) · [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot) · [zion-ai-meeting-assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) · [zion-ai-meeting-scheduler](https://github.com/Zion-support/zion-ai-meeting-scheduler) · [zion-ai-meeting-to-roadmap](https://github.com/Zion-support/zion-ai-meeting-to-roadmap) · [zion-ai-onboarding-assistant](https://github.com/Zion-support/zion-ai-onboarding-assistant) · [zion-ai-onboarding-twin](https://github.com/Zion-support/zion-ai-onboarding-twin) · [zion-ai-recruiter](https://github.com/Zion-support/zion-ai-recruiter) · [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) · [zion-ai-training-academy](https://github.com/Zion-support/zion-ai-training-academy) · [zion-ai-support-copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) · [ai-project-tracker](https://github.com/Zion-support/ai-project-tracker)
+[ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) · [ai-resume-builder](https://github.com/Zion-support/ai-resume-builder) · [ai-coach](https://github.com/Zion-support/ai-coach) · [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) · [ai-education-platform](https://github.com/Zion-support/ai-education-platform) · [meeting-cost-calculator](https://github.com/Zion-support/meeting-cost-calculator) · [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot) · [zion-ai-meeting-assistant](https://github.com/Zion-support/zion-ai-meeting-assistant) · [zion-ai-meeting-scheduler](https://github.com/Zion-support/zion-ai-meeting-scheduler) · [zion-ai-meeting-to-roadmap](https://github.com/Zion-support/zion-ai-meeting-to-roadmap) · [zion-ai-onboarding-assistant](https://github.com/Zion-support/zion-ai-onboarding-assistant) · [zion-ai-onboarding-twin](https://github.com/Zion-support/zion-ai-onboarding-twin) · [zion-ai-recruiter](https://github.com/Zion-support/zion-ai-recruiter) · [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) · [zion-ai-training-academy](https://github.com/Zion-support/zion-ai-training-academy) · [zion-ai-support-copilot](https://github.com/Zion-support/zion-ai-support-copilot) · [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) · [ai-project-tracker](https://github.com/Zion-support/ai-project-tracker) · [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) · [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) · [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) · [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) · [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) · [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) · [learning-path-ai](https://github.com/Zion-support/learning-path-ai) · [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer)
 
 ## Content, Media & Localization
 
@@ -148,6 +148,27 @@ Global field-dispatch network: country desks, city satellites, and vertical play
 - [contract-clause-sentry](https://github.com/Zion-support/contract-clause-sentry) — clause-level contract risk & redlines — https://ziontechgroup.com/contract-clause-sentry/
 - [route-density-planner](https://github.com/Zion-support/route-density-planner) — field routing density clustering — https://ziontechgroup.com/route-density-planner/
 - [maintenance-ticket-triage](https://github.com/Zion-support/maintenance-ticket-triage) — auto ticket classification & routing — https://ziontechgroup.com/maintenance-ticket-triage/
+
+## Batch 53 — Revenue Protection & Operations Signals (2026-09-26)
+
+- [revenue-leak-detector](https://github.com/Zion-support/revenue-leak-detector) — find and stop revenue leakage across billing, contracts and renewals — https://ziontechgroup.com/revenue-leak-detector/
+- [subscription-dunning-hero](https://github.com/Zion-support/subscription-dunning-hero) — recover failed payments with smart dunning sequences and retries — https://ziontechgroup.com/subscription-dunning-hero/
+- [pricing-signal-radar](https://github.com/Zion-support/pricing-signal-radar) — track competitor pricing moves and market signals in real time — https://ziontechgroup.com/pricing-signal-radar/
+- [zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer) — AI-driven price optimization with guardrails and elasticity models — https://ziontechgroup.com/zion-ai-pricing-optimizer/
+- [supplier-risk-radar](https://github.com/Zion-support/supplier-risk-radar) — supplier risk monitoring across financial, geo and compliance signals — https://ziontechgroup.com/supplier-risk-radar/
+- [vendor-onboarding-copilot](https://github.com/Zion-support/vendor-onboarding-copilot) — streamlined vendor onboarding with docs, checks and approvals — https://ziontechgroup.com/vendor-onboarding-copilot/
+- [energy-demand-forecaster](https://github.com/Zion-support/energy-demand-forecaster) — forecast energy demand for sites and fleets to cut costs — https://ziontechgroup.com/energy-demand-forecaster/
+
+## Batch 54 — People & Workforce AI (2026-09-27)
+
+- [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — dynamic skills matrix, proficiency tracking, gap heatmaps & upskilling priorities — https://ziontechgroup.com/skills-matrix-ai/
+- [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — attrition risk prediction with explainable signals & retention playbooks — https://ziontechgroup.com/retention-risk-radar/
+- [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) — structured interviews, question banks, scoring rubrics & bias-aware summaries — https://ziontechgroup.com/interview-intelligence-ai/
+- [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) — real-time compensation benchmarking by role, level & location — https://ziontechgroup.com/comp-benchmark-scout/
+- [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) — continuous pulse surveys with AI theme detection & action tracking — https://ziontechgroup.com/engagement-pulse-ai/
+- [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) — headcount & capacity forecasting across teams, skills & budgets — https://ziontechgroup.com/workforce-capacity-planner/
+- [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — personalized learning paths from skills gaps, goals & role requirements — https://ziontechgroup.com/learning-path-ai/
+- [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — hiring funnel analytics: source quality, stage conversion & time-to-hire — https://ziontechgroup.com/hiring-funnel-optimizer/
 
 ---
 *Maintained by Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
