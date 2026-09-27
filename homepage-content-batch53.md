@@ -1,12 +1,17 @@
-# Homepage content — Batch 53: People & Workforce AI (Sep 26, 2026)
+# Homepage content pack — Batch 53 (AI Sales & Pipeline Intelligence)
 
-New section for https://ziontechgroup.com — links each app to its live page:
+Copy-paste blocks for https://ziontechgroup.com homepage.
 
-## 👥 People & Workforce AI — 8 new interlinked apps
+## Hero blurb
+**New: AI Sales & Pipeline Intelligence suite.** Forecast with evidence, coach every deal, and never lose a winnable deal again. Six new apps live in the Zion App Network.
 
-[Skills Matrix AI](https://ziontechgroup.com/skills-matrix-ai/) · [Retention Risk Radar](https://ziontechgroup.com/retention-risk-radar/) · [Interview Intelligence AI](https://ziontechgroup.com/interview-intelligence-ai/) · [Comp Benchmark Scout](https://ziontechgroup.com/comp-benchmark-scout/) · [Engagement Pulse AI](https://ziontechgroup.com/engagement-pulse-ai/) · [Workforce Capacity Planner](https://ziontechgroup.com/workforce-capacity-planner/) · [Learning Path AI](https://ziontechgroup.com/learning-path-ai/) · [Hiring Funnel Optimizer](https://ziontechgroup.com/hiring-funnel-optimizer/)
+## Cards
+- **Pipeline Risk Radar** — Stall-signal scoring, forecast confidence, deal rescue plays. → https://ziontechgroup.com/pipeline-risk-radar/
+- **Renewal & Upsell Radar** — Churn-risk and expansion signals 90+ days early. → https://ziontechgroup.com/renewal-upsell-radar/
+- **Deal Coach AI** — Next-best-action, MEDDICC gaps, objection responses per deal. → https://ziontechgroup.com/deal-coach-ai/
+- **Forecast Accuracy AI** — Rep bias profiles, commit confidence, scenario modeling. → https://ziontechgroup.com/forecast-accuracy-ai/
+- **Outbound Sequencer AI** — Persona sequences, reply-intent AI, deliverability guardrails. → https://ziontechgroup.com/outbound-sequencer-ai/
+- **Win/Loss Analyzer AI** — Win/loss reason clustering, competitor radar, pricing feedback. → https://ziontechgroup.com/win-loss-analyzer-ai/
 
-Hire smarter, benchmark pay, grow skills, keep a pulse on engagement and forecast capacity — one connected people-ops toolchain. Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html · Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Hub: https://ziontechgroup.com/zion-app-network/
-
----
-© 2026 Zion Tech Group · https://ziontechgroup.com
+## CTA
+See plans & pricing: https://ziontechgroup.com/en/plans/ · Book a free AI Discovery call: https://ziontechgroup.com/discovery/ · Browse the full network: https://ziontechgroup.com/zion-app-network/
