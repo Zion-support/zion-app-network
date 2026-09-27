@@ -1,27 +1,12 @@
-# Interlinks — Batch 64: DevOps & Platform AI
+# Interlinks — Batch 64 (DevOps & Platform AI)
 
-## Batch 64 apps
-- https://ziontechgroup.com/ci-failure-doctor/
-- https://ziontechgroup.com/terraform-cost-guard/
-- https://ziontechgroup.com/k8s-rightsizer-ai/
-- https://ziontechgroup.com/incident-timeline-builder/
-- https://ziontechgroup.com/api-deprecation-tracker/
-- https://ziontechgroup.com/runbook-executor-ai/
+| App | Live | GitHub |
+|---|---|---|
+| CI Failure Doctor | https://ziontechgroup.com/ci-failure-doctor/ | https://github.com/Zion-support/ci-failure-doctor |
+| K8s Rightsizer AI | https://ziontechgroup.com/k8s-rightsizer-ai/ | https://github.com/Zion-support/k8s-rightsizer-ai |
+| Terraform Cost Guard | https://ziontechgroup.com/terraform-cost-guard/ | https://github.com/Zion-support/terraform-cost-guard |
+| Runbook Executor AI | https://ziontechgroup.com/runbook-executor-ai/ | https://github.com/Zion-support/runbook-executor-ai |
+| Incident Timeline Builder | https://ziontechgroup.com/incident-timeline-builder/ | https://github.com/Zion-support/incident-timeline-builder |
+| API Deprecation Tracker | https://ziontechgroup.com/api-deprecation-tracker/ | https://github.com/Zion-support/api-deprecation-tracker |
 
-## Related existing apps
-- Release Risk Radar — https://ziontechgroup.com/release-risk-radar/
-- Deployment Guardian AI — https://ziontechgroup.com/deployment-guardian-ai/
-- Chaos Engineering AI — https://ziontechgroup.com/chaos-engineering-ai/
-- Incident Commander AI — https://ziontechgroup.com/incident-commander-ai/
-- On-call Optimizer AI — https://ziontechgroup.com/oncall-optimizer-ai/
-- AI Infrastructure Monitor — https://ziontechgroup.com/ai-infrastructure-monitor/
-- Tech Debt Radar — https://ziontechgroup.com/tech-debt-radar/
-- API Health Probe — https://ziontechgroup.com/api-health-probe/
-- K8s Pod Security Scanner — https://ziontechgroup.com/k8s-pod-security-scanner/
-- FinOps Spend Analyzer — https://ziontechgroup.com/finops-spend-analyzer/
-
-## Hub & showcases
-- Hub: https://github.com/Zion-support/zion-app-network
-- Batch 64 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch64-sept27.html
-- Batch 63 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch63-sept27.html
-- Network spotlight: https://ziontechgroup.com/zion-app-network/app-network-spotlight.html
+Related batches: [Batch 63 Education](https://ziontechgroup.com/zion-app-network/app-network-batch63-sept27.html) · [Batch 57 Reliability & SRE](https://ziontechgroup.com/zion-app-network/app-network-batch57-sept27.html) · [Sept Batch 16 DevTools](https://ziontechgroup.com/apps/september-2026-batch16.html)
