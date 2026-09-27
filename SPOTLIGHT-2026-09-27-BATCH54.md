@@ -4,14 +4,14 @@ Eight interlinked apps to hire, grow, engage and retain your team — one connec
 
 | App | What it does | Live |
 |---|---|---|
-| **Skills Matrix AI** | Dynamic skills matrix — proficiency tracking, gap heatmaps and upskilling priorities | https://ziontechgroup.com/skills-matrix-ai/ |
-| **Retention Risk Radar** | Predict employee attrition risk with explainable signals and retention playbooks | https://ziontechgroup.com/retention-risk-radar/ |
-| **Interview Intelligence AI** | Structured interviews — question banks, scoring rubrics and bias-aware summaries | https://ziontechgroup.com/interview-intelligence-ai/ |
-| **Comp Benchmark Scout** | Real-time compensation benchmarking by role, level and location | https://ziontechgroup.com/comp-benchmark-scout/ |
-| **Engagement Pulse AI** | Continuous pulse surveys with AI theme detection and action tracking | https://ziontechgroup.com/engagement-pulse-ai/ |
-| **Workforce Capacity Planner** | Headcount and capacity forecasting across teams, skills and budgets | https://ziontechgroup.com/workforce-capacity-planner/ |
-| **Learning Path AI** | Personalized learning paths from skills gaps, goals and role requirements | https://ziontechgroup.com/learning-path-ai/ |
-| **Hiring Funnel Optimizer** | Hiring funnel analytics — source quality, stage conversion and time-to-hire | https://ziontechgroup.com/hiring-funnel-optimizer/ |
+| **Skills Matrix AI** | Dynamic skills matrix — proficiency tracking, gap heatmaps and upskilling priorities. | https://ziontechgroup.com/skills-matrix-ai/ |
+| **Retention Risk Radar** | Predict employee attrition risk with explainable signals and retention playbooks. | https://ziontechgroup.com/retention-risk-radar/ |
+| **Interview Intelligence AI** | Structured interviews — question banks, scoring rubrics and bias-aware summaries. | https://ziontechgroup.com/interview-intelligence-ai/ |
+| **Comp Benchmark Scout** | Real-time compensation benchmarking by role, level and location. | https://ziontechgroup.com/comp-benchmark-scout/ |
+| **Engagement Pulse AI** | Continuous pulse surveys with AI theme detection and action tracking. | https://ziontechgroup.com/engagement-pulse-ai/ |
+| **Workforce Capacity Planner** | Headcount and capacity forecasting across teams, skills and budgets. | https://ziontechgroup.com/workforce-capacity-planner/ |
+| **Learning Path AI** | Personalized learning paths from skills gaps, goals and role requirements. | https://ziontechgroup.com/learning-path-ai/ |
+| **Hiring Funnel Optimizer** | Hiring funnel analytics — source quality, stage conversion and time-to-hire. | https://ziontechgroup.com/hiring-funnel-optimizer/ |
 
 ## Repositories
 - [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/
@@ -25,6 +25,7 @@ Eight interlinked apps to hire, grow, engage and retain your team — one connec
 
 ## Interlinks
 - Hub: https://ziontechgroup.com/zion-app-network/ · https://github.com/Zion-support/zion-app-network
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html
 - Homepage pack: [homepage-content-batch54.md](homepage-content-batch54.md)
 - Previous: [Batch 53 — Revenue Protection & Operations Signals](SPOTLIGHT-2026-09-26-BATCH53.md)
 
