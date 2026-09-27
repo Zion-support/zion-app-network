@@ -1,22 +1,21 @@
-# Spotlight — 27 Sep 2026 — Batch 67 (Space & Satellite Ops AI)
+# Spotlight — Batch 67 (Sep 27, 2026): Operations & Business Ops AI
 
-Three new apps extending the Zion App Network into space & satellite operations.
+Eight AI apps for operations teams: assess readiness, automate booking, protect data, onboard vendors, catch shipping delays, forecast energy demand, schedule reports, and close the feedback loop.
 
-## Apps
-1. **Satellite Pass Scheduler AI** — contact window planning, ground-station scheduling and conflict resolution.
-   - Live: https://ziontechgroup.com/satellite-pass-scheduler/
-   - Repo: https://github.com/Zion-support/satellite-pass-scheduler
-2. **Ground Station Link Monitor** — real-time link budgets, RF health monitoring and outage alerting.
-   - Live: https://ziontechgroup.com/ground-station-link-monitor/
-   - Repo: https://github.com/Zion-support/ground-station-link-monitor
-3. **Orbital Conjunction Screener** — conjunction risk screening, CDM triage and avoidance maneuver planning.
-   - Live: https://ziontechgroup.com/orbital-conjunction-screener/
-   - Repo: https://github.com/Zion-support/orbital-conjunction-screener
+| App | What it does | Live |
+|---|---|---|
+| AI Assessment Engine ✅ | Structured assessments, scoring & readiness reports | https://ziontechgroup.com/ai-assessment-engine/ |
+| AI Automated Booking 📅 | Automated scheduling & booking workflows | https://ziontechgroup.com/ai-automated-booking/ |
+| AI Backup Recovery 💾 | Verified backup & recovery automation | https://ziontechgroup.com/ai-backup-recovery/ |
+| Vendor Onboarding Copilot 🤝 | Vendor intake, docs & compliance onboarding | https://ziontechgroup.com/vendor-onboarding-copilot/ |
+| Shipping Delay Alerter 🚚 | Proactive shipping delay detection & alerts | https://ziontechgroup.com/shipping-delay-alerter/ |
+| Energy Demand Forecaster ⚡ | Energy demand forecasting & planning | https://ziontechgroup.com/energy-demand-forecaster/ |
+| Report Scheduler AI 🗓️ | Scheduled, auto-generated business reports | https://ziontechgroup.com/report-scheduler-ai/ |
+| Feedback Loop AI 🔁 | Feedback → prioritized product actions | https://ziontechgroup.com/feedback-loop-ai/ |
 
-## Links
+## How they connect
+AI Assessment Engine baselines your ops; Vendor Onboarding Copilot + Shipping Delay Alerter keep the supply side clean; AI Backup Recovery protects continuity; Energy Demand Forecaster plans capacity; Report Scheduler AI keeps stakeholders informed; Feedback Loop AI turns signals into the roadmap; AI Automated Booking fills the calendar without effort.
+
 - Showcase page: https://ziontechgroup.com/zion-app-network/app-network-batch67-sept27.html
-- Homepage spotlight: https://ziontechgroup.com/apps/spotlight-2026-09-27d.html
-- Interlinks: [INTERLINKS-batch67-space.md](INTERLINKS-batch67-space.md)
-- Adjacent: [Batch 64 DevOps & Platform AI](https://ziontechgroup.com/zion-app-network/app-network-batch64-sept27.html) · [INTERLINKS.md](INTERLINKS.md)
-
-© 2026 Zion Tech Group
+- Hub: https://github.com/Zion-support/zion-app-network
+- Repos: ai-assessment-engine, ai-automated-booking, ai-backup-recovery, vendor-onboarding-copilot, shipping-delay-alerter, energy-demand-forecaster, report-scheduler-ai, feedback-loop-ai (github.com/Zion-support)
