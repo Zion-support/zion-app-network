@@ -1,17 +1,12 @@
-# Homepage content pack — Batch 53 (AI Sales & Pipeline Intelligence)
+# Homepage content — Batch 53: Revenue Protection & Operations Signals (Sep 26, 2026)
 
-Copy-paste blocks for https://ziontechgroup.com homepage.
+New section for https://ziontechgroup.com — links each app to its live page:
 
-## Hero blurb
-**New: AI Sales & Pipeline Intelligence suite.** Forecast with evidence, coach every deal, and never lose a winnable deal again. Six new apps live in the Zion App Network.
+## 💰 Revenue Protection & Operations Signals — 8 new interlinked apps
 
-## Cards
-- **Pipeline Risk Radar** — Stall-signal scoring, forecast confidence, deal rescue plays. → https://ziontechgroup.com/pipeline-risk-radar/
-- **Renewal & Upsell Radar** — Churn-risk and expansion signals 90+ days early. → https://ziontechgroup.com/renewal-upsell-radar/
-- **Deal Coach AI** — Next-best-action, MEDDICC gaps, objection responses per deal. → https://ziontechgroup.com/deal-coach-ai/
-- **Forecast Accuracy AI** — Rep bias profiles, commit confidence, scenario modeling. → https://ziontechgroup.com/forecast-accuracy-ai/
-- **Outbound Sequencer AI** — Persona sequences, reply-intent AI, deliverability guardrails. → https://ziontechgroup.com/outbound-sequencer-ai/
-- **Win/Loss Analyzer AI** — Win/loss reason clustering, competitor radar, pricing feedback. → https://ziontechgroup.com/win-loss-analyzer-ai/
+[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
 
-## CTA
-See plans & pricing: https://ziontechgroup.com/en/plans/ · Book a free AI Discovery call: https://ziontechgroup.com/discovery/ · Browse the full network: https://ziontechgroup.com/zion-app-network/
+Protect revenue, recover failed payments, optimize pricing and de-risk the supply chain — one connected toolchain. Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Hub: https://ziontechgroup.com/zion-app-network/
+
+---
+© 2026 Zion Tech Group · https://ziontechgroup.com
