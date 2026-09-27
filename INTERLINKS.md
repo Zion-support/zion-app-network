@@ -129,15 +129,16 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.
 - [AI Compliance Auditor](https://github.com/Zion-support/ai-compliance-auditor) — https://ziontechgroup.com/ai-compliance-auditor/
 - [AI Backup Recovery](https://github.com/Zion-support/ai-backup-recovery) — https://ziontechgroup.com/ai-backup-recovery/
 
-## SRE, Reliability & Incident Response (Batch 55 — Sep 27, 2026)
-Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html
-- [SLI/SLO Tracker](https://github.com/Zion-support/sli-slo-tracker) — https://ziontechgroup.com/sli-slo-tracker/
-- [Release Risk Radar](https://github.com/Zion-support/release-risk-radar) — https://ziontechgroup.com/release-risk-radar/
-- [Deployment Guardian AI](https://github.com/Zion-support/deployment-guardian-ai) — https://ziontechgroup.com/deployment-guardian-ai/
-- [Incident Commander AI](https://github.com/Zion-support/incident-commander-ai) — https://ziontechgroup.com/incident-commander-ai/
-- [Zion AI Incident Runbook](https://github.com/Zion-support/zion-ai-incident-runbook) — https://ziontechgroup.com/zion-ai-incident-runbook/
-- [Chaos Engineering AI](https://github.com/Zion-support/chaos-engineering-ai) — https://ziontechgroup.com/chaos-engineering-ai/
-- [On-call Optimizer AI](https://github.com/Zion-support/oncall-optimizer-ai) — https://ziontechgroup.com/oncall-optimizer-ai/
+## People & Workforce AI (Batch 55 — Sep 27, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html · Spotlight: [SPOTLIGHT-2026-09-27-BATCH55.md](SPOTLIGHT-2026-09-27-BATCH55.md)
+- [skills-matrix-ai](https://github.com/Zion-support/skills-matrix-ai) — https://ziontechgroup.com/skills-matrix-ai/
+- [retention-risk-radar](https://github.com/Zion-support/retention-risk-radar) — https://ziontechgroup.com/retention-risk-radar/
+- [interview-intelligence-ai](https://github.com/Zion-support/interview-intelligence-ai) — https://ziontechgroup.com/interview-intelligence-ai/
+- [comp-benchmark-scout](https://github.com/Zion-support/comp-benchmark-scout) — https://ziontechgroup.com/comp-benchmark-scout/
+- [engagement-pulse-ai](https://github.com/Zion-support/engagement-pulse-ai) — https://ziontechgroup.com/engagement-pulse-ai/
+- [workforce-capacity-planner](https://github.com/Zion-support/workforce-capacity-planner) — https://ziontechgroup.com/workforce-capacity-planner/
+- [learning-path-ai](https://github.com/Zion-support/learning-path-ai) — https://ziontechgroup.com/learning-path-ai/
+- [hiring-funnel-optimizer](https://github.com/Zion-support/hiring-funnel-optimizer) — https://ziontechgroup.com/hiring-funnel-optimizer/
 
 ## Zion Ops & Support AI
 - [zion-ai-dispatch-orchestrator](https://github.com/Zion-support/zion-ai-dispatch-orchestrator)
