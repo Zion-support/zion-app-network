@@ -148,5 +148,20 @@ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.
 ## Zion Field Country/City Editions
 All zion-field-* editions (60+ country, city and vertical playbooks) are indexed in [APPS_INDEX.md](APPS_INDEX.md) and link back to [zion-field](https://github.com/Zion-support/zion-field).
 
+## Batch 56 — E-commerce & Conversion AI (2026-09-27)
+
+| App | Live | Repo |
+|---|---|---|
+| Product Description Gen | https://ziontechgroup.com/product-description-gen/ | https://github.com/Zion-support/product-description-gen |
+| SEO Product Pages AI | https://ziontechgroup.com/seo-product-pages-ai/ | https://github.com/Zion-support/seo-product-pages-ai |
+| Review Sentiment Hub | https://ziontechgroup.com/review-sentiment-hub/ | https://github.com/Zion-support/review-sentiment-hub |
+| Dynamic Pricing Pilot | https://ziontechgroup.com/dynamic-pricing-pilot/ | https://github.com/Zion-support/dynamic-pricing-pilot |
+| Cart Abandonment AI | https://ziontechgroup.com/cart-abandonment-ai/ | https://github.com/Zion-support/cart-abandonment-ai |
+| Inventory Demand Planner | https://ziontechgroup.com/inventory-demand-planner/ | https://github.com/Zion-support/inventory-demand-planner |
+| Loyalty Program Optimizer | https://ziontechgroup.com/loyalty-program-optimizer/ | https://github.com/Zion-support/loyalty-program-optimizer |
+| Checkout Funnel Optimizer | https://ziontechgroup.com/checkout-funnel-optimizer/ | https://github.com/Zion-support/checkout-funnel-optimizer |
+
+Spotlight: [SPOTLIGHT-2026-09-27-BATCH56.md](SPOTLIGHT-2026-09-27-BATCH56.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch56-sept27.html · Homepage pack: [homepage-content-batch56.md](homepage-content-batch56.md)
+
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch56.md](homepage-content-batch56.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
