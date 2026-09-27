@@ -1,26 +1,25 @@
 # Zion App Network — Master Directory
 
-**778 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**784 interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 🔎 Discovery call: https://ziontechgroup.com/discovery/
 - 🛠️ All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ⭐ Featured — batch 53 (new) — FinOps & Cloud Cost Optimization
+## ⭐ Featured — batch 53 (new) — AI Sales & Pipeline Intelligence
 
-Full spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md) · Showcase: [app-network-batch53-sept26.html](https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html) · Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md)
+Full spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md) · Showcase: [app-network-sept26-batch53.html](https://ziontechgroup.com/zion-app-network/app-network-sept26-batch53.html) · Homepage pack: [homepage-content-batch53.md](homepage-content-batch53.md)
 
-- [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) — Cloud cost anomaly detection, rightsizing & budget guardrails
-- [FinOps Estimator](https://ziontechgroup.com/finops-estimator/) — Model spend scenarios & forecast budgets
-- [AI Cost Optimization](https://ziontechgroup.com/ai-cost-optimization/) — AI recommendations cutting compute, storage & license waste
-- [Cloud Cost Optimization](https://ziontechgroup.com/cloud-cost-optimization/) — Commitments, rightsizing, waste removal service
-- [AI Energy Optimizer](https://ziontechgroup.com/ai-energy-optimizer/) — Facility & data-center energy cost reduction
-- [AI Energy Optimization](https://ziontechgroup.com/ai-energy-optimization/) — Continuous energy-efficiency tuning
-- [Cloud Migration](https://ziontechgroup.com/cloud-migration/) — Low-risk migration with cost & dependency modeling
-- [Cloud Hybrid Infrastructure](https://ziontechgroup.com/cloud-hybrid-infrastructure/) — Hybrid placement, cost & resilience guardrails
+- [pipeline-risk-radar](https://github.com/Zion-support/pipeline-risk-radar) — https://ziontechgroup.com/pipeline-risk-radar/ — Stall-signal scoring & forecast confidence
+- [renewal-upsell-radar](https://github.com/Zion-support/renewal-upsell-radar) — https://ziontechgroup.com/renewal-upsell-radar/ — Churn-risk & expansion signals 90+ days early
+- [deal-coach-ai](https://github.com/Zion-support/deal-coach-ai) — https://ziontechgroup.com/deal-coach-ai/ — Next-best-action & objection handling per deal
+- [forecast-accuracy-ai](https://github.com/Zion-support/forecast-accuracy-ai) — https://ziontechgroup.com/forecast-accuracy-ai/ — Bias-adjusted commit confidence
+- [outbound-sequencer-ai](https://github.com/Zion-support/outbound-sequencer-ai) — https://ziontechgroup.com/outbound-sequencer-ai/ — Persona sequences with reply-intent AI
+- [win-loss-analyzer-ai](https://github.com/Zion-support/win-loss-analyzer-ai) — https://ziontechgroup.com/win-loss-analyzer-ai/ — Win/loss patterns & competitor radar
 
-Previous featured: [batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09-26-BATCH52.md) · [batch 51](SPOTLIGHT-2026-09-26-BATCH51.md) · [batch 50](SPOTLIGHT-2026-09-26-BATCH50.md) · [batch 49 — Field](SPOTLIGHT-2026-09-26-BATCH49-FIELD.md) · [batch 48](SPOTLIGHT-2026-09-26-BATCH48.md) · [batch 39 — Customer Success & Support](SPOTLIGHT-2026-09-25-BATCH39.md)
+Previous featured: [batch 39 — Customer Success & Support Automation](SPOTLIGHT-2026-09-25-BATCH39.md) · [batch 38 — LLM Engineering & Cost Suite](SPOTLIGHT-2026-09-25-BATCH38.md) · [batch 37 — Risk, Compliance & Architecture](SPOTLIGHT-2026-09-25-BATCH37.md)
+
 
 ## Directory
 
@@ -40,7 +39,7 @@ Previous featured: [batch 52 — Assessment, Compliance & GRC](SPOTLIGHT-2026-09
 - [docs/NEW_APPS_SPOTLIGHT.md](docs/NEW_APPS_SPOTLIGHT.md) — latest app launches
 - [docs/SPOTLIGHT-2026-09-23-WAVE2.md](docs/SPOTLIGHT-2026-09-23-WAVE2.md) — September 23 Wave 2 (41 apps)
 - Batches: [18](SPOTLIGHT-2026-09-24-BATCH18.md) · [19](SPOTLIGHT-2026-09-24-BATCH19.md) · [20](SPOTLIGHT-2026-09-24-BATCH20.md) · [21](SPOTLIGHT-2026-09-24-BATCH21.md) · [22](SPOTLIGHT-2026-09-24-BATCH22.md) · [23](SPOTLIGHT-2026-09-24-BATCH23.md) · [24](SPOTLIGHT-2026-09-24-BATCH24.md) · [25](SPOTLIGHT-2026-09-24-BATCH25.md) · [26](SPOTLIGHT-2026-09-24-BATCH26.md) · [27](SPOTLIGHT-2026-09-24-BATCH27.md) · [28](SPOTLIGHT-2026-09-24-BATCH28.md) · [29](SPOTLIGHT-2026-09-24-BATCH29.md) · [30](SPOTLIGHT-2026-09-24-BATCH30.md) · [31](SPOTLIGHT-2026-09-24-BATCH31.md) · [32](SPOTLIGHT-2026-09-24-BATCH32.md) · [33](SPOTLIGHT-2026-09-25-BATCH33.md) · [34](SPOTLIGHT-2026-09-25-BATCH34.md) · [35](SPOTLIGHT-2026-09-25-BATCH35.md) · [36](SPOTLIGHT-2026-09-25-BATCH36.md) · [37](SPOTLIGHT-2026-09-25-BATCH37.md) · [38](SPOTLIGHT-2026-09-25-BATCH38.md) · [39](SPOTLIGHT-2026-09-25-BATCH39.md) · [40](SPOTLIGHT-2026-09-25-BATCH40.md) · [41](SPOTLIGHT-2026-09-25-BATCH41.md) · [42](SPOTLIGHT-2026-09-26-BATCH42.md) · [43](SPOTLIGHT-2026-09-26-BATCH43.md) · [44](SPOTLIGHT-2026-09-26-BATCH44.md) · [48](SPOTLIGHT-2026-09-26-BATCH48.md) · [49](SPOTLIGHT-2026-09-26-BATCH49.md) · [50](SPOTLIGHT-2026-09-26-BATCH50.md) · [51](SPOTLIGHT-2026-09-26-BATCH51.md) · [52](SPOTLIGHT-2026-09-26-BATCH52.md) · [53](SPOTLIGHT-2026-09-26-BATCH53.md)
-- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 28](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md) · [Sep 24 Batch 32](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH32.md)
+- Homepage spotlights: [SecOps & Reliability](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SECOPS_RELIABILITY.md) · [Industry Verticals](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_INDUSTRY_VERTICALS.md) · [What's New](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_LATEST.md) · [Sep 23 Wave 2](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP23_WAVE2.md) · [Sep 24 Batch 28](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH28.md) · [Sep 24 Batch 32](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SEP24_BATCH32.md) · [Sales & Pipeline (batch 53)](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_SALES_PIPELINE.md)
 
 ## Duplicate consolidation notes
 Known overlapping pairs now cross-linked instead of duplicated: [it-asset-lifecycle-tracker](https://github.com/Zion-support/it-asset-lifecycle-tracker) ↔ [asset-lifecycle-tracker](https://github.com/Zion-support/asset-lifecycle-tracker); [sla-forecast-guardian](https://github.com/Zion-support/sla-forecast-guardian) ↔ [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster). Keep both slugs (live pages exist); cross-link, do not merge.
