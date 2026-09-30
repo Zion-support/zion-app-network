@@ -1,4 +1,4 @@
-# Zion App Network — Master Interlink Map (2026-09-27)
+# Zion App Network — Master Interlink Map (2026-09-30)
 
 Every app in the network, interlinked: live app · source repo · related apps. Start at the hubs:
 
@@ -6,6 +6,19 @@ Every app in the network, interlinked: live app · source repo · related apps. 
 - **Live hub:** https://ziontechgroup.com/zion-app-network/ · https://ziontechgroup.com/zion-apps-hub/
 - **Master index:** [APPS_INDEX.md](APPS_INDEX.md) · **Catalog:** [CATALOG.md](CATALOG.md) · **Network graph:** [NETWORK.md](NETWORK.md)
 - **Homepage:** https://ziontechgroup.com · **Plans:** https://ziontechgroup.com/en/plans/ · **Free AI Discovery:** https://ziontechgroup.com/discovery/
+
+## Education & Energy AI (Batch 68 — Sep 30, 2026)
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch68-sept30.html · Spotlight: [SPOTLIGHT-2026-09-30-BATCH68.md](SPOTLIGHT-2026-09-30-BATCH68.md) · Homepage pack: [homepage-content-batch68.md](homepage-content-batch68.md) · Interlinks: [INTERLINKS-batch68-education-energy.md](INTERLINKS-batch68-education-energy.md)
+- [learning-outcome-dashboard](https://github.com/Zion-support/learning-outcome-dashboard) — Learning Outcome Dashboard — https://ziontechgroup.com/learning-outcome-dashboard/
+- [tutoring-session-analyzer](https://github.com/Zion-support/tutoring-session-analyzer) — Tutoring Session Analyzer — https://ziontechgroup.com/tutoring-session-analyzer/
+- [lesson-plan-generator](https://github.com/Zion-support/lesson-plan-generator) — Lesson Plan Generator — https://ziontechgroup.com/lesson-plan-generator/
+- [student-progress-tracker](https://github.com/Zion-support/student-progress-tracker) — Student Progress Tracker — https://ziontechgroup.com/student-progress-tracker/
+- [curriculum-alignment-checker](https://github.com/Zion-support/curriculum-alignment-checker) — Curriculum Alignment Checker — https://ziontechgroup.com/curriculum-alignment-checker/
+- [smart-grid-load-balancer](https://github.com/Zion-support/smart-grid-load-balancer) — Smart Grid Load Balancer — https://ziontechgroup.com/smart-grid-load-balancer/
+- [renewable-energy-forecaster](https://github.com/Zion-support/renewable-energy-forecaster) — Renewable Energy Forecaster — https://ziontechgroup.com/renewable-energy-forecaster/
+- [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) — Carbon Footprint Tracker — https://ziontechgroup.com/carbon-footprint-tracker/
+- [energy-audit-copilot](https://github.com/Zion-support/energy-audit-copilot) — Energy Audit Copilot — https://ziontechgroup.com/energy-audit-copilot/
+- [energy-optimizer-ai](https://github.com/Zion-support/energy-optimizer-ai) — Energy Optimizer AI — https://ziontechgroup.com/energy-optimizer-ai/
 
 ## Security & Trust Suite (Batch 42 — Sep 26, 2026)
 Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch42-sept26.html
@@ -164,4 +177,4 @@ All zion-field-* editions (60+ country, city and vertical playbooks) are indexed
 Spotlight: [SPOTLIGHT-2026-09-27-BATCH56.md](SPOTLIGHT-2026-09-27-BATCH56.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch56-sept27.html · Homepage pack: [homepage-content-batch56.md](homepage-content-batch56.md)
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch56.md](homepage-content-batch56.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
+© 2026 Zion Tech Group · https://ziontechgroup.com · See also: [README.md](README.md) · [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [NETWORK.md](NETWORK.md) · [homepage-content-batch68.md](homepage-content-batch68.md) · [homepage-content-batch67.md](homepage-content-batch67.md) · [homepage-content-batch56.md](homepage-content-batch56.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch52.md](homepage-content-batch52.md) · [homepage-content-batch51.md](homepage-content-batch51.md) · [homepage-content-batch50.md](homepage-content-batch50.md) · [homepage-content-batch42.md](homepage-content-batch42.md)
