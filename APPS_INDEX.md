@@ -4,7 +4,7 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Total repositories: 786**
+**Total repositories: 796**
 
 ## AI Apps (15)
 
@@ -277,6 +277,23 @@ Spotlight: [SPOTLIGHT-2026-09-27-BATCH58.md](SPOTLIGHT-2026-09-27-BATCH58.md) ·
 | [Supplier Risk Radar](https://github.com/Zion-support/supplier-risk-radar) | Supplier risk scoring, disruption alerts, dual-sourcing recommendations (cross-listed with Batch 53) | https://ziontechgroup.com/supplier-risk-radar/ |
 
 Spotlight: [SPOTLIGHT-2026-09-27-BATCH59.md](SPOTLIGHT-2026-09-27-BATCH59.md) · Homepage pack: [homepage-content-batch59.md](homepage-content-batch59.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch59-sept27.html
+
+## Green Energy, Sustainability & Education AI — Batch 68 (10)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [energy-audit-copilot](https://github.com/Zion-support/energy-audit-copilot) | AI energy audit copilot analyzing building energy data and recommending savings | https://ziontechgroup.com/energy-audit-copilot/ |
+| [smart-grid-load-balancer](https://github.com/Zion-support/smart-grid-load-balancer) | Smart grid load balancing and distribution optimization | https://ziontechgroup.com/smart-grid-load-balancer/ |
+| [renewable-energy-forecaster](https://github.com/Zion-support/renewable-energy-forecaster) | Solar/wind generation forecasting for planning and trading | https://ziontechgroup.com/renewable-energy-forecaster/ |
+| [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) | Carbon footprint tracking and ESG reporting | https://ziontechgroup.com/carbon-footprint-tracker/ |
+| [energy-optimizer-ai](https://github.com/Zion-support/energy-optimizer-ai) | Real-time facility energy optimization and demand-response automation | https://ziontechgroup.com/energy-optimizer-ai/ |
+| [lesson-plan-generator](https://github.com/Zion-support/lesson-plan-generator) | AI lesson plan generation aligned to curriculum standards | https://ziontechgroup.com/lesson-plan-generator/ |
+| [student-progress-tracker](https://github.com/Zion-support/student-progress-tracker) | Student progress analytics and early-warning signals | https://ziontechgroup.com/student-progress-tracker/ |
+| [curriculum-alignment-checker](https://github.com/Zion-support/curriculum-alignment-checker) | Checks curriculum content against standards and learning objectives | https://ziontechgroup.com/curriculum-alignment-checker/ |
+| [learning-outcome-dashboard](https://github.com/Zion-support/learning-outcome-dashboard) | Learning outcome dashboards for educators and institutions | https://ziontechgroup.com/learning-outcome-dashboard/ |
+| [tutoring-session-analyzer](https://github.com/Zion-support/tutoring-session-analyzer) | Tutoring session analytics: engagement, coverage and improvement tips | https://ziontechgroup.com/tutoring-session-analyzer/ |
+
+Spotlight: [SPOTLIGHT-2026-10-01-BATCH68.md](SPOTLIGHT-2026-10-01-BATCH68.md) · Homepage pack: [homepage-content-batch68.md](homepage-content-batch68.md) · Showcase: https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase.html · Blog: https://ziontechgroup.com/blog/green-energy-education-ai-suite/
 
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
