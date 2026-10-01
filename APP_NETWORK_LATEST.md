@@ -1,5 +1,12 @@
 # 🆕 Zion AI App Network — Latest Updates (Oct 1, 2026)
 
+## 🛠️ NEW: Batch 70 — AI Platform & Engineering Suite (Oct 1, 2026)
+- [SPOTLIGHT-2026-10-01-BATCH70.md](SPOTLIGHT-2026-10-01-BATCH70.md) — 8 apps: Agent Orchestrator, Edge AI Platform, AI Edge Deployer, Model Router, RAG Eval Kit, PR Review Swarm, AI Threat Modeler, DevOps Automation
+- [INTERLINKS-batch70-platform.md](INTERLINKS-batch70-platform.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
+- Blog: https://ziontechgroup.com/blog/ai-platform-engineering-suite/
+- Fix: added missing ZION_APP_NETWORK.md to zion-devops-automation
+
 ## 🏥 NEW: Batch 69 — Healthcare & Life Sciences AI (Oct 1, 2026)
 - [SPOTLIGHT-2026-10-01-BATCH69.md](SPOTLIGHT-2026-10-01-BATCH69.md) — 6 apps: Clinical Documentation AI, Patient Engagement Copilot, Medical Billing Auditor, Remote Patient Monitoring AI, Care Plan Generator, Health Risk Screener
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch69-oct01.html
