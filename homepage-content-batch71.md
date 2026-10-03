@@ -1,16 +1,22 @@
-# Homepage content — Batch 71: AI Security & Trust Suite (Oct 3, 2026)
+# Homepage Content — Batch 71: AI Agent Engineering & Code Assistant Suite
 
-## Section: Secure every layer of your AI stack with one interlinked suite
+**Publish on https://ziontechgroup.com**
 
-Zion Tech Group's AI Security & Trust suite protects the full AI lifecycle — adversarial testing, runtime defense, data protection, model integrity, compliance and incident response. Six production-grade apps, fully interlinked and live today:
+## Headline
+Ship production AI agents with engineering rigor — Batch 71 is live.
 
-- **Zion AI Red Team Studio** — automated adversarial testing for LLM applications. https://ziontechgroup.com/zion-ai-red-team/
-- **Zion Prompt Injection Shield** — runtime firewall against prompt injection. https://ziontechgroup.com/zion-prompt-shield/
-- **Zion Data Loss Guardian** — DLP for prompts and AI responses. https://ziontechgroup.com/zion-data-guardian/
-- **Zion Model Integrity Monitor** — drift, poisoning and tamper detection. https://ziontechgroup.com/zion-model-integrity/
-- **Zion AI Compliance Copilot** — continuous EU AI Act / NIST AI RMF / ISO 42001 mapping. https://ziontechgroup.com/zion-ai-compliance-copilot/
-- **Zion Incident Triage AI** — agentic alert triage and routing in seconds. https://ziontechgroup.com/zion-incident-triage/
+## Blurb
+The Zion AI App Network just added 8 new apps covering the full agent engineering lifecycle: design agents with AgentForge, verify them with Agent Contract Tester and Agent Contract Tests, orchestrate safe agent-to-agent handoffs with Handoff Designer and Handoff Flow, monitor fleets with Agent Observability, assemble stacks with Agent Stack Builder, and accelerate your developers with the AI Code Assistant.
 
-Explore the full directory: https://ziontechgroup.com/zion-app-network/ · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch71-oct03.html · Blog: https://ziontechgroup.com/blog/ai-security-trust-suite/
+## Explore the apps
+- AgentForge — https://ziontechgroup.com/zion-agentforge/
+- Agent Contract Tester — https://ziontechgroup.com/zion-agent-contract-tester/
+- Agent Contract Tests — https://ziontechgroup.com/zion-agent-contract-tests/
+- Agent Handoff Designer — https://ziontechgroup.com/zion-agent-handoff-designer/
+- Agent Handoff Flow — https://ziontechgroup.com/zion-agent-handoff-flow/
+- Agent Observability — https://ziontechgroup.com/zion-agent-observability/
+- Agent Stack Builder — https://ziontechgroup.com/zion-agent-stack-builder/
+- AI Code Assistant — https://ziontechgroup.com/zion-ai-code-assistant/
 
-Start with a $99 Discovery: https://ziontechgroup.com/discovery/ — plans from Starter $2,500 to Growth $8,000/mo: https://ziontechgroup.com/en/plans/
+Full showcase: https://ziontechgroup.com/zion-app-network/app-network-batch71-oct03.html
+App network directory: https://github.com/Zion-support/zion-app-network
