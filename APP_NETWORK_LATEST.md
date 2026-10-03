@@ -1,12 +1,10 @@
 # 🆕 Zion AI App Network — Latest Updates (Oct 3, 2026)
 
-## 🛡️ NEW: AI Trust & Safety Cross-Suite Showcase (Oct 3, 2026)
-- [SPOTLIGHT-2026-10-03-TRUST-SAFETY.md](SPOTLIGHT-2026-10-03-TRUST-SAFETY.md) — 21 apps across security ops, privacy, compliance & governance
-- [INTERLINKS-trust-safety.md](INTERLINKS-trust-safety.md)
-- [Homepage pack: homepage-content-trust-safety.md](homepage-content-trust-safety.md)
-- Showcase: https://ziontechgroup.com/zion-app-network/app/network-ai-trust-safety-showcase.html
-- Blog: https://ziontechgroup.com/blog/ai-trust-safety-showcase/
-- zion-ai-meeting-copilot onboarded to the network (ZION_APP_NETWORK.md + live page)
+## 🌐 Oct 3, 2026 — Master Interlink Map + Q4 homepage pulse
+- [INTERLINKS-MASTER.md](INTERLINKS-MASTER.md) — every app cross-linked GitHub ↔ ziontechgroup.com, grouped by suite
+- [NETWORK-PULSE-2026-10-03.md](NETWORK-PULSE-2026-10-03.md) — new homepage advertising pack: hero copy, featured suites, cross-suite journeys, CTA
+- [homepage-content-batch64.md](homepage-content-batch64.md) — filled the missing DevOps & Platform Engineering homepage pack
+- Verified live: homepage, /en/plans/, /zion-app-network/, app pages all 200 OK
 
 ## 🛡️ NEW: Batch 71 — AI Security & Trust Suite (Oct 3, 2026)
 - [SPOTLIGHT-2026-10-03-BATCH71.md](SPOTLIGHT-2026-10-03-BATCH71.md) — 6 apps: AI Red Team Studio, Prompt Injection Shield, Data Loss Guardian, Model Integrity Monitor, AI Compliance Copilot, Incident Triage AI
@@ -35,14 +33,12 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🎥 Live showcases
-- [AI Trust & Safety Showcase](https://ziontechgroup.com/zion-app-network/app/network-ai-trust-safety-showcase.html)
 - [Q4 2026 Showcase](https://ziontechgroup.com/zion-app-network/app-network-q4-2026-showcase.html)
 - [Industry & Platform Suites Showcase](https://ziontechgroup.com/zion-app-network/app-network-industry-suites-showcase.html)
 - [Field Service AI Showcase](https://ziontechgroup.com/zion-app-network/app-network-field-service-showcase.html)
 - [Batch 71 Security Showcase](https://ziontechgroup.com/zion-app-network/app-network-batch71-oct03.html)
 
 ## 📝 Homepage blog posts (live)
-- [AI Trust & Safety Showcase](https://ziontechgroup.com/blog/ai-trust-safety-showcase/)
 - [Inside the Zion AI App Network: 770+ apps](https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/)
 - [Six Industry AI Suites](https://ziontechgroup.com/blog/industry-ai-suites-sept-2026/)
 - [AI Platform, Sales, Finance, Security & Data](https://ziontechgroup.com/blog/ai-platform-sales-finance-suites/)
@@ -53,8 +49,8 @@
 
 ## 🔧 Interlink fixes (Oct 3, 2026)
 - Batch 71 launched with full day-one interlinks across all 6 apps (README + live pages)
-- AI Trust & Safety cross-suite showcase links 21 trust apps + 4 prior showcases bidirectionally
-- zion-ai-meeting-copilot onboarded with ZION_APP_NETWORK.md + index.html live page
+- Showcase links Batches 69/70/71 and Q4 showcase bidirectionally
+- /apps/ hub updated with AI Security & Trust card
 - Prior: added missing ZION_APP_NETWORK.md to 13 repos; audited ~500 repos — coverage near-complete
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
