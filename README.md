@@ -1,22 +1,26 @@
 # Zion App Network — Master Directory
 
-**816+ interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**822+ interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 🔎 Discovery call: https://ziontechgroup.com/discovery/
 - 🛠️ All tools: https://ziontechgroup.com/tools/
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 
-## ⭐ Featured — batch 61 (new) — Hospitality & Travel AI
+## ⭐ Featured — batch 72 (new) — Energy & Sustainability AI
 
-Full spotlight: [SPOTLIGHT-2026-09-27-BATCH61.md](SPOTLIGHT-2026-09-27-BATCH61.md) · Showcase: [app-network-batch61-sept27.html](https://ziontechgroup.com/zion-app-network/app-network-batch61-sept27.html) · Homepage pack: [homepage-content-batch61.md](homepage-content-batch61.md)
+Full spotlight: [SPOTLIGHT-2026-10-03-BATCH72.md](SPOTLIGHT-2026-10-03-BATCH72.md) · Showcase: [app-network-batch72-oct03.html](https://ziontechgroup.com/zion-app-network/app-network-batch72-oct03.html) · Homepage pack: [homepage-content-batch72.md](homepage-content-batch72.md)
 
-- [hotel-revenue-pilot](https://github.com/Zion-support/hotel-revenue-pilot) — https://ziontechgroup.com/hotel-revenue-pilot/ — Dynamic room pricing, RevPAR optimization, rate recommendations.
-- [guest-experience-ai](https://github.com/Zion-support/guest-experience-ai) — https://ziontechgroup.com/guest-experience-ai/ — Guest messaging, review responses, upsell offers.
-- [itinerary-builder-ai](https://github.com/Zion-support/itinerary-builder-ai) — https://ziontechgroup.com/itinerary-builder-ai/ — Multi-day itineraries with budget & routing.
-- [event-demand-forecaster](https://github.com/Zion-support/event-demand-forecaster) — https://ziontechgroup.com/event-demand-forecaster/ — Demand forecasts from events & seasonality.
-- [restaurant-waste-reducer](https://github.com/Zion-support/restaurant-waste-reducer) — https://ziontechgroup.com/restaurant-waste-reducer/ — Food waste tracking & purchasing optimization.
-- [travel-risk-monitor](https://github.com/Zion-support/travel-risk-monitor) — https://ziontechgroup.com/travel-risk-monitor/ — Traveler safety alerts & duty-of-care.
+- [energy-consumption-forecaster](https://github.com/Zion-support/energy-consumption-forecaster) — https://ziontechgroup.com/energy-consumption-forecaster/ — AI load & usage forecasting with anomaly alerts.
+- [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) — https://ziontechgroup.com/carbon-footprint-tracker/ — Scope 1-3 emissions measurement & reduction.
+- [solar-roi-optimizer](https://github.com/Zion-support/solar-roi-optimizer) — https://ziontechgroup.com/solar-roi-optimizer/ — Solar payback, sizing & incentive modeling.
+- [grid-demand-balancer](https://github.com/Zion-support/grid-demand-balancer) — https://ziontechgroup.com/grid-demand-balancer/ — Demand-response & peak-shaving playbooks.
+- [esg-report-builder](https://github.com/Zion-support/esg-report-builder) — https://ziontechgroup.com/esg-report-builder/ — CSRD/GRI-ready sustainability reports.
+- [building-efficiency-auditor](https://github.com/Zion-support/building-efficiency-auditor) — https://ziontechgroup.com/building-efficiency-auditor/ — Virtual energy audits with savings estimates.
+
+Previous featured: [batch 71 — AI Agent Engineering & Code Assistant Suite](SPOTLIGHT-2026-10-03-BATCH71.md) · [batch 70 — AI Platform & Engineering Suite](SPOTLIGHT-2026-10-01-BATCH70.md) · [batch 61 — Hospitality & Travel AI](SPOTLIGHT-2026-09-27-BATCH61.md)
+
+Earlier: [batch 61 — Hospitality & Travel AI](SPOTLIGHT-2026-09-27-BATCH61.md)
 
 ## Batch 60 — Education & Training AI
 
@@ -59,7 +63,7 @@ Known overlapping pairs now cross-linked instead of duplicated: [it-asset-lifecy
 ## Deployment standard (updated Sep 27)
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and ±8 related apps. **GitHub Pages must be enabled (legacy, main, /) on every app repo** — otherwise the project path shadows the site directory and ziontechgroup.com/<slug>/ 404s. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
 
-Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Per-batch packs: [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch58.md](homepage-content-batch58.md) · [homepage-content-batch59.md](homepage-content-batch59.md) · [homepage-content-batch60.md](homepage-content-batch60.md) · [homepage-content-batch61.md](homepage-content-batch61.md). Full repository catalog: [CATALOG.md](CATALOG.md).
+Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Per-batch packs: [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch58.md](homepage-content-batch58.md) · [homepage-content-batch59.md](homepage-content-batch59.md) · [homepage-content-batch60.md](homepage-content-batch60.md) · [homepage-content-batch61.md](homepage-content-batch61.md) · [homepage-content-batch70.md](homepage-content-batch70.md) · [homepage-content-batch72.md](homepage-content-batch72.md). Full repository catalog: [CATALOG.md](CATALOG.md).
 
 Full source listing: https://github.com/Zion-support
 
