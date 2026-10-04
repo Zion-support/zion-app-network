@@ -1,6 +1,8 @@
-# Spotlight — Batch 69 (Oct 3, 2026): Infrastructure, Supply & Continuity AI
+# Spotlight — Batch 73 (Oct 4, 2026): Infrastructure, Supply & Continuity AI
 
 Eight AI apps for operations, infrastructure and supply-chain teams: track carbon, orchestrate clusters, forecast inventory, run procurement, plan capacity, monitor infrastructure, compare vendors and verify backups.
+
+(Note: this suite was briefly numbered "Batch 69" — renumbered to Batch 73 to avoid collision with Batch 69 Healthcare & Life Sciences AI, Oct 1.)
 
 | App | What it does | Live |
 |---|---|---|
@@ -16,6 +18,6 @@ Eight AI apps for operations, infrastructure and supply-chain teams: track carbo
 ## How they connect
 AI Infrastructure Monitor + AI Cluster Manager keep platforms healthy; AI Capacity Planner turns their signals into scaling plans; AI Inventory Forecaster and AI Procurement Copilot align stock and suppliers; AI Vendor Comparator picks the best partners; AI Carbon Tracker keeps growth sustainable; AI Backup Integrity guarantees continuity when anything fails.
 
-- Showcase page: https://ziontechgroup.com/zion-app-network/app-network-batch69-oct03.html
+- Showcase page: https://ziontechgroup.com/zion-app-network/app-network-batch73-oct03.html
 - Hub: https://github.com/Zion-support/zion-app-network
 - Repos: ai-carbon-tracker, ai-cluster-manager, ai-inventory-forecaster, ai-procurement-copilot, ai-capacity-planner, ai-infrastructure-monitor, ai-vendor-comparator, ai-backup-integrity (github.com/Zion-support)

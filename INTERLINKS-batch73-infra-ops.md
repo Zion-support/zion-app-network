@@ -1,6 +1,8 @@
-# Interlinks — Batch 69: Infrastructure, Supply & Continuity AI
+# Interlinks — Batch 73: Infrastructure, Supply & Continuity AI
 
-## Batch 69 apps
+(Renumbered from Batch 69 → 73 to avoid collision with Batch 69 Healthcare & Life Sciences AI.)
+
+## Batch 73 apps
 - https://ziontechgroup.com/ai-carbon-tracker/
 - https://ziontechgroup.com/ai-cluster-manager/
 - https://ziontechgroup.com/ai-inventory-forecaster/
@@ -24,7 +26,7 @@
 
 ## Hub & showcases
 - Hub: https://github.com/Zion-support/zion-app-network
-- Batch 69 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch69-oct03.html
-- Batch 67 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch67-sept27.html
-- Batch 68 spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-01-BATCH68.md
+- Batch 73 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch73-oct03.html
+- Batch 72 spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-03-BATCH72.md
+- Batch 69 (healthcare) showcase: https://ziontechgroup.com/zion-app-network/app-network-batch69-oct01.html
 - Network spotlight: https://ziontechgroup.com/zion-app-network/app-network-spotlight.html
