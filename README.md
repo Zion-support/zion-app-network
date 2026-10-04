@@ -1,6 +1,6 @@
 # Zion App Network — Master Directory
 
-**816+ interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
+**822+ interconnected AI apps, tools and field playbooks** by [Zion Tech Group](https://ziontechgroup.com/).
 
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 🔎 Discovery call: https://ziontechgroup.com/discovery/
@@ -11,6 +11,9 @@
 
 - 🔗 [INTERLINKS-MASTER.md](INTERLINKS-MASTER.md) — master interlink map: all apps, GitHub ↔ live pages
 - 🌐 [NETWORK-PULSE-2026-10-03.md](NETWORK-PULSE-2026-10-03.md) — homepage advertising pack (Oct 3)
+- ⚖️ Batch 74 — Legal Tech & Contract AI: [spotlight](SPOTLIGHT-2026-10-04-BATCH74.md) · [interlinks](INTERLINKS-batch74-legal.md) · [homepage pack](homepage-content-batch74.md) · [showcase](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
+- 🏗️ Batch 73 — Infrastructure, Supply & Continuity AI: [interlinks](INTERLINKS-batch73-infra-ops.md) · [homepage pack](homepage-content-batch73.md)
+- 🌱 Batch 72 — Energy & Sustainability AI: [spotlight](SPOTLIGHT-2026-10-03-BATCH72.md) · [interlinks](INTERLINKS-batch72-energy.md) · [homepage pack](homepage-content-batch72.md)
 - 🆕 Batch 70 — AI Platform & Engineering: [spotlight](SPOTLIGHT-2026-10-01-BATCH70.md) · [interlinks](INTERLINKS-batch70-platform.md) · [homepage pack](homepage-content-batch70.md)
 - 🏥 Batch 69 — Healthcare & Life Sciences AI: [interlinks](INTERLINKS-batch69-healthcare.md) · [homepage pack](homepage-content-batch69.md)
 - 🛠 Batch 64 — DevOps & Platform Engineering AI: [interlinks](INTERLINKS-batch64-devops.md) · [homepage pack](homepage-content-batch64.md)
@@ -65,7 +68,7 @@ Known overlapping pairs now cross-linked instead of duplicated: [it-asset-lifecy
 ## Deployment standard (updated Sep 27)
 Every app repo ships `index.html` (live page) + `README.md` linking to: homepage, /en/plans/, /discovery/, /tools/, this hub, and ±8 related apps. **GitHub Pages must be enabled (legacy, main, /) on every app repo** — otherwise the project path shadows the site directory and ziontechgroup.com/<slug>/ 404s. Directory regenerates monthly via the 'Zion App Network hub refresh' calendar automation.
 
-Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Per-batch packs: [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch58.md](homepage-content-batch58.md) · [homepage-content-batch59.md](homepage-content-batch59.md) · [homepage-content-batch60.md](homepage-content-batch60.md) · [homepage-content-batch61.md](homepage-content-batch61.md) · [homepage-content-batch64.md](homepage-content-batch64.md). Full repository catalog: [CATALOG.md](CATALOG.md). Master interlink map: [INTERLINKS-MASTER.md](INTERLINKS-MASTER.md).
+Homepage advertising pack: see [homepage-content.md](homepage-content.md) — copy-paste ready blocks for ziontechgroup.com. Per-batch packs: [homepage-content-batch53.md](homepage-content-batch53.md) · [homepage-content-batch54.md](homepage-content-batch54.md) · [homepage-content-batch55.md](homepage-content-batch55.md) · [homepage-content-batch58.md](homepage-content-batch58.md) · [homepage-content-batch59.md](homepage-content-batch59.md) · [homepage-content-batch60.md](homepage-content-batch60.md) · [homepage-content-batch61.md](homepage-content-batch61.md) · [homepage-content-batch64.md](homepage-content-batch64.md) · [homepage-content-batch72.md](homepage-content-batch72.md) · [homepage-content-batch73.md](homepage-content-batch73.md) · [homepage-content-batch74.md](homepage-content-batch74.md). Full repository catalog: [CATALOG.md](CATALOG.md). Master interlink map: [INTERLINKS-MASTER.md](INTERLINKS-MASTER.md).
 
 Full source listing: https://github.com/Zion-support
 
