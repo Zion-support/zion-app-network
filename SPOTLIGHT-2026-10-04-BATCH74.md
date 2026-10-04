@@ -1,26 +1,27 @@
-# 🛠️ SPOTLIGHT 2026-10-04 — Batch 74: Support & Reliability AI Suite
+# ⚖️ SPOTLIGHT — Batch 74: Legal Tech & Contract AI (Oct 4, 2026)
 
-Six interlinked apps that keep customer support fast, SLAs safe, and engineering healthy.
+Six new AI apps for legal teams, law firms, and compliance-driven enterprises.
 
-## The Apps
-1. **Support Ticket Triager** — classifies, prioritizes, and routes every incoming ticket in seconds. https://github.com/Zion-support/support-ticket-triager
-2. **SLA Breach Predictor** — forecasts which tickets and contracts are at risk of breaching SLA before it happens. https://github.com/Zion-support/sla-breach-predictor
-3. **Tech Debt Radar** — continuously scans your codebase and roadmap to surface costly technical debt. https://github.com/Zion-support/tech-debt-radar
-4. **Site Survey Planner** — plans and optimizes on-site technical surveys for field teams. https://github.com/Zion-support/site-survey-planner
+## The apps
+| App | Repo | What it does |
+|---|---|---|
+| Contract Clause Analyzer | https://github.com/Zion-support/contract-clause-analyzer | Extract, classify and risk-score clauses across contract portfolios |
+| Legal Doc Drafter | https://github.com/Zion-support/legal-doc-drafter | Generate NDAs, MSAs, DPAs, SOWs from structured intake |
+| Compliance Gap Scanner | https://github.com/Zion-support/compliance-gap-scanner | Map controls to GDPR/SOC 2/ISO 27001/HIPAA and surface gaps |
+| Privacy Request Handler | https://github.com/Zion-support/privacy-request-handler | Automate DSAR access/deletion/portability workflows |
+| Litigation Doc Reviewer | https://github.com/Zion-support/litigation-doc-reviewer | eDiscovery summarization, relevance & privilege scoring |
+| Regulation Change Tracker | https://github.com/Zion-support/regulation-change-tracker | Monitor regulatory change and map it to your policies |
 
-## Why this suite
-- Fewer escalations: triage + SLA prediction work together to defuse risk early.
-- Healthier platforms: Tech Debt Radar connects support signals to engineering priorities.
-- Better field ops: Site Survey Planner feeds accurate site data back into support workflows.
+## Why it matters
+Legal teams spend 40-60% of time on document review and contract admin. This suite cuts review cycles by up to 70%, reduces compliance exposure, and keeps policies aligned with fast-changing regulation.
 
-## Free Discovery
-Find out which of these apps fits your business in 2 minutes — always online, always free:
-https://ziontechgroup.com/app-network-discovery.html
-
-## Links
+## Interlinks
+- Interlink map: [INTERLINKS-batch74-legal.md](INTERLINKS-batch74-legal.md)
+- Homepage content pack: [homepage-content-batch74.md](homepage-content-batch74.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
-- Interlinks: INTERLINKS-batch74-support-reliability.md
-- Network hub: https://ziontechgroup.com/zion-app-network/
-- Homepage content: homepage-content-batch74.md
+- Network hub: https://github.com/Zion-support/zion-app-network
+
+## Free AI Discovery
+Not sure where to start? Our **free, online AI Discovery** questionnaire takes 5 minutes and instantly emails tailored results to you and our commercial team: https://ziontechgroup.com/discovery/
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
