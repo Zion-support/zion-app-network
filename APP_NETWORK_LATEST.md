@@ -1,57 +1,39 @@
-# 🆕 Zion AI App Network — Latest Updates (Oct 3, 2026)
+# 🆕 Zion AI App Network — Latest Updates (Oct 4, 2026)
 
-## 🌱 NEW: Batch 72 — Energy & Sustainability AI (Oct 3, 2026)
+## ⚖️ NEW: Batch 74 — Legal & Compliance AI (Oct 4, 2026)
+- [SPOTLIGHT-2026-10-04-BATCH74.md](SPOTLIGHT-2026-10-04-BATCH74.md) — 6 apps: Legal Contract Analyzer, Compliance Policy Writer, GDPR DSAR Autopilot, Litigation Hold Manager, Vendor Risk Assessor, Regulatory Change Radar
+- [INTERLINKS-batch74-legal.md](INTERLINKS-batch74-legal.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
+- Homepage content: [homepage-content-batch74.md](homepage-content-batch74.md)
+- 3 new repos created (legal-contract-analyzer, gdpr-dsar-autopilot, litigation-hold-manager); 3 existing repos reused and updated (compliance-policy-writer, vendor-risk-assessor, regulatory-change-radar); all 6 carry README + ZION_APP_NETWORK.md interlinks
+- Discovery pack: [DISCOVERY-BENEFITS.md](DISCOVERY-BENEFITS.md) + [DISCOVERY-AUTOMATION.md](DISCOVERY-AUTOMATION.md) + https://ziontechgroup.com/zion-app-network/app/discovery-showcase.html — Discovery advertised as always online & free; questionnaire → instant results email to client + commercial@ziontechgroup.com
+
+## 🏗️ Batch 73 — Infrastructure Ops AI (Oct 3-4, 2026)
+- [SPOTLIGHT-2026-10-04-BATCH73.md](SPOTLIGHT-2026-10-04-BATCH73.md) + [INTERLINKS-batch73-infra-ops.md](INTERLINKS-batch73-infra-ops.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch73-oct03.html
+- Homepage content: [homepage-content-batch73.md](homepage-content-batch73.md)
+- Fix: batch 73 was missing from this LATEST index — added Oct 4
+
+## 🌱 Batch 72 — Energy & Sustainability AI (Oct 3, 2026)
 - [SPOTLIGHT-2026-10-03-BATCH72.md](SPOTLIGHT-2026-10-03-BATCH72.md) — 6 apps: Energy Consumption Forecaster, Carbon Footprint Tracker, Solar ROI Optimizer, Grid Demand Balancer, ESG Report Builder, Building Efficiency Auditor
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch72-oct03.html
 - Homepage content: [homepage-content-batch72.md](homepage-content-batch72.md)
-- 4 new repos created (energy-consumption-forecaster, solar-roi-optimizer, grid-demand-balancer, building-efficiency-auditor); carbon-footprint-tracker & esg-report-builder reused and updated with interlinks
-- Fix: hub README featured section was stale (batch 61) — now features batch 72 with links to batches 71/70
 
-## 🤖 NEW: Batch 71 — AI Agent Engineering & Code Assistant Suite (Oct 3, 2026)
+## 🤖 Batch 71 — AI Agent Engineering & Code Assistant Suite (Oct 3, 2026)
 - [SPOTLIGHT-2026-10-03-BATCH71.md](SPOTLIGHT-2026-10-03-BATCH71.md) — 8 apps: AgentForge, Agent Contract Tester, Agent Contract Tests, Agent Handoff Designer, Agent Handoff Flow, Agent Observability, Agent Stack Builder, AI Code Assistant
 - [INTERLINKS-batch71-agent-engineering.md](INTERLINKS-batch71-agent-engineering.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch71-oct03.html
-- Homepage content: [homepage-content-batch71.md](homepage-content-batch71.md)
-- Fix: added missing ZION_APP_NETWORK.md interlinks to all 8 repos (previously uncovered)
-
-
-## 🛠️ NEW: Batch 70 — AI Platform & Engineering Suite (Oct 1, 2026)
-- [SPOTLIGHT-2026-10-01-BATCH70.md](SPOTLIGHT-2026-10-01-BATCH70.md) — 8 apps: Agent Orchestrator, Edge AI Platform, AI Edge Deployer, Model Router, RAG Eval Kit, PR Review Swarm, AI Threat Modeler, DevOps Automation
-- [INTERLINKS-batch70-platform.md](INTERLINKS-batch70-platform.md)
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
-- Blog: https://ziontechgroup.com/blog/ai-platform-engineering-suite/
-- Fix: added missing ZION_APP_NETWORK.md to zion-devops-automation
-
-## 🏥 NEW: Batch 69 — Healthcare & Life Sciences AI (Oct 1, 2026)
-- [SPOTLIGHT-2026-10-01-BATCH69.md](SPOTLIGHT-2026-10-01-BATCH69.md) — 6 apps: Clinical Documentation AI, Patient Engagement Copilot, Medical Billing Auditor, Remote Patient Monitoring AI, Care Plan Generator, Health Risk Screener
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch69-oct01.html
-- Blog: https://ziontechgroup.com/blog/healthcare-life-sciences-ai-suite/
-
-## 📚 Spotlights (new this wave)
-- [SPOTLIGHT-2026-09-30-Q4.md](SPOTLIGHT-2026-09-30-Q4.md) — Education AI, Energy & ESG, Space & Satellite, Platform/DevOps, Compliance
-- [SPOTLIGHT-2026-09-27-INDUSTRY-WAVE.md](SPOTLIGHT-2026-09-27-INDUSTRY-WAVE.md) — Real Estate, HR, Manufacturing, Legal, Hospitality, DevOps (50+ apps)
-- [SPOTLIGHT-2026-09-26-PLATFORM-SALES-FINANCE.md](SPOTLIGHT-2026-09-26-PLATFORM-SALES-FINANCE.md) — AI Platform/Agents, Sales, Finance/FinOps, Security, Data, Support (60+ apps)
-- [SPOTLIGHT-2026-09-26-FIELD-SERVICE.md](SPOTLIGHT-2026-09-26-FIELD-SERVICE.md) — Field Service AI suite (13 apps, 2 waves) + Zion Field delivery network
-- [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
+- [Batch 74 — Legal & Compliance AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
+- [Free AI Discovery showcase](https://ziontechgroup.com/zion-app-network/app/discovery-showcase.html)
+- [Batch 73 — Infrastructure Ops AI](https://ziontechgroup.com/zion-app-network/app-network-batch73-oct03.html)
 - [Batch 72 — Energy & Sustainability AI](https://ziontechgroup.com/zion-app-network/app-network-batch72-oct03.html)
 - [Q4 2026 Showcase](https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html)
-- [Industry & Platform Suites Showcase](https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html)
-- [Field Service AI Showcase](https://ziontechgroup.com/zion-app-network/app/network-field-service-showcase.html)
 
-## 🌍 Homepage blog posts (live)
-- [Inside the Zion AI App Network: 770+ apps](https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/)
-- [Six Industry AI Suites](https://ziontechgroup.com/blog/industry-ai-suites-sept-2026/)
-- [AI Platform, Sales, Finance, Security & Data](https://ziontechgroup.com/blog/ai-platform-sales-finance-suites/)
-- [Field Service AI Suite](https://ziontechgroup.com/blog/field-service-ai-suite/)
-- [Field Service AI Wave 2: Marketplace & Coverage](https://ziontechgroup.com/blog/field-service-ai-marketplace/)
-- [LLM Tooling & DevSecOps](https://ziontechgroup.com/blog/llm-tooling-devsecops-suite/)
-
-## 🔧 Interlink fixes (Oct 3, 2026)
-- Verified zion-rag-eval-kit and zion-model-router interlinks (fixed Oct 1 — confirmed present)
-- Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
-- Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
-- Audited 200 more repos (tail of org listing); remaining gaps: ~28 repos (e.g. site-survey-planner, sla-breach-predictor, support-ticket-triager, tech-debt-radar) — candidates for next-batch fixes
+## 🔧 Interlink fixes (Oct 4, 2026)
+- Batch 74: all 6 legal/compliance repos interlinked (README + ZION_APP_NETWORK.md)
+- LATEST index updated (batch 73 entry restored)
+- Pending from Oct 3 audit: ~28 repos still missing interlinks (e.g. site-survey-planner, sla-breach-predictor, support-ticket-triager, tech-debt-radar) — next-batch fix candidates
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
