@@ -1,20 +1,11 @@
-# Homepage Content — Batch 74: Legal & Compliance AI (Oct 4, 2026)
+# Homepage content — Batch 74: Support & Reliability AI (Oct 4, 2026)
 
-Copy-paste blocks for https://ziontechgroup.com homepage.
+## Blurb for ziontechgroup.com
 
-## Hero block
-**New: Legal & Compliance AI Suite** — Six AI apps that cut contract review time by 80%, keep policies audit-ready, automate GDPR/LGPD data requests, manage litigation holds, score vendor risk, and track regulatory change across 50+ regulators.
-→ Explore: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
+**New: Support & Reliability AI suite.** Four interlinked apps that keep your support fast, your SLAs safe, and your platform healthy: [Support Ticket Triager](https://ziontechgroup.com/support-ticket-triager/) routes every ticket in seconds; [SLA Breach Predictor](https://ziontechgroup.com/sla-breach-predictor/) warns you before a breach; [Tech Debt Radar](https://ziontechgroup.com/tech-debt-radar/) turns support pain into engineering priorities; [Site Survey Planner](https://ziontechgroup.com/site-survey-planner/) keeps field ops sharp.
 
-## App cards
-1. **Legal Contract Analyzer** — clause extraction, risk flags, redline suggestions. https://ziontechgroup.com/legal-contract-analyzer/
-2. **Compliance Policy Writer** — ISO 27001 / SOC 2 / GDPR / HIPAA / LGPD policy generation. https://ziontechgroup.com/compliance-policy-writer/
-3. **GDPR DSAR Autopilot** — never miss a 30-day DSAR deadline again. https://ziontechgroup.com/gdpr-dsar-autopilot/
-4. **Litigation Hold Manager** — defensible holds with court-ready audit trails. https://ziontechgroup.com/litigation-hold-manager/
-5. **Vendor Risk Assessor** — AI review of vendor SOC 2 reports + continuous monitoring. https://ziontechgroup.com/vendor-risk-assessor/
-6. **Regulatory Change Radar** — know which new rules hit your controls, first. https://ziontechgroup.com/regulatory-change-radar/
+🔎 **Free Discovery — always online, always free.** Answer 8 quick questions and get personalized app picks from our 770+ AI app network — results emailed instantly to you and our commercial team. Start here: https://ziontechgroup.com/app-network-discovery.html
 
-## Discovery promo strip (place directly under hero)
-**Not sure where AI fits your business?** Take our free AI Discovery — always online, always free. Answer a short questionnaire and receive your personalized opportunity report instantly — results go straight to you and our commercial team (commercial@ziontechgroup.com) for a same-day follow-up.
-→ Start free Discovery: https://ziontechgroup.com/discovery/
-→ See plans: https://ziontechgroup.com/en/plans/
+→ Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
+→ Spotlight: https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-04-BATCH74.md
+→ All apps: https://ziontechgroup.com/zion-app-network/
