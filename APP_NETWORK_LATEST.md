@@ -1,5 +1,12 @@
 # 🆕 Zion AI App Network — Latest Updates (Oct 4, 2026)
 
+## 🟢 Oct 4 (late evening) — DEPLOY PIPELINE FIXED, everything live
+- Root cause of stale site found: `scripts/prepare-pages-out.sh` (Continuous Pages Deploy) required the retired "Discovery $99" homepage marker and a Starter Stripe link inside the free Discovery page — every deploy failed since ~13:16 UTC.
+- Fixes: deploy guard now requires the free `/discovery/` link (commit fb2f5437); Discovery page got an optional Starter Stripe link while staying 100% free (commit b8420314); homepage `public/index.html` gained the "Zion AI App Network — 800+ apps" section (commit 810461e).
+- Deploy run 37227636283 = SUCCESS. Verified live 200: homepage, /discovery/, /app-network-discovery.html (was 404), /zion-app-network/, batch75 showcase.
+- Index sync: [APPS_INDEX-BATCHES-69-75.md](APPS_INDEX-BATCHES-69-75.md) — 44 repos across Batches 69–75 indexed (supplement until next full APPS_INDEX.md regeneration).
+- Tail-of-org interlink audit: 15/15 repos (sql-query-explainer … technician-scheduler-ai) already carry ZION_APP_NETWORK.md — clean.
+
 ## 🚀 Oct 4 (evening) — Homepage repaired, Discovery always free, interlink sweep
 - **Homepage fix:** `zion-support.github.io/index.html` was stored as invalid base64 blob (would serve gibberish) — rewritten as clean, valid HTML homepage.
 - **Discovery is always free & always online:** all "$99 Discovery" references removed from the homepage; new sections advertise the free Discovery benefits (8 questions, 2 min, instant personalized results, no signup/card, serverless 24/7).
@@ -55,6 +62,7 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
+- [Batch 75 — CX & Retention AI](https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html)
 - [Batch 74 — Legal Tech & Contract AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
 - [Batch 73 — Infrastructure, Supply & Continuity AI](https://ziontechgroup.com/zion-app-network/app-network-batch73-oct03.html)
 - [Batch 72 — Energy & Sustainability AI](https://ziontechgroup.com/zion-app-network/app-network-batch72-oct03.html)
@@ -76,6 +84,6 @@
 - Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
 - Batch 74: 6 new legal-tech repos ship interlinked README + ZION_APP_NETWORK.md from day one
 - Oct 4 evening: 5 more repos fixed (synthetic-data-lab, student-progress-radar, tutoring-copilot-ai, warranty-lens, website-carbon-estimator); 5 re-verified covered
-- Remaining gap candidates: continue tail-of-org audit (~20 repos) next session
+- Oct 4 late: tail-of-org audit (15 repos) — all covered; interlink coverage now complete across audited set
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
