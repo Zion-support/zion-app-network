@@ -1,5 +1,13 @@
 # Homepage Advertising Content Pack — Zion Tech Group Apps
-Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-26 (Batch 53 — FinOps & Cloud Cost Optimization featured; per-batch packs 22–53 available as homepage-content-batchNN.md).
+Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-10-03 (Batch 72 — Energy & Sustainability AI featured; per-batch packs available as homepage-content-batchNN.md).
+
+## 🌱 BLOCK 0 — Batch 72: Energy & Sustainability AI (NEW 2026-10-03)
+
+**Headline:** Cut energy costs. Ace ESG reporting. One interlinked AI suite.
+
+**Body:** Six live, interlinked apps: [Energy Consumption Forecaster](https://ziontechgroup.com/energy-consumption-forecaster/) · [Carbon Footprint Tracker](https://ziontechgroup.com/carbon-footprint-tracker/) · [Solar ROI Optimizer](https://ziontechgroup.com/solar-roi-optimizer/) · [Grid Demand Balancer](https://ziontechgroup.com/grid-demand-balancer/) · [ESG Report Builder](https://ziontechgroup.com/esg-report-builder/) · [Building Efficiency Auditor](https://ziontechgroup.com/building-efficiency-auditor/).
+**CTA:** [Explore the showcase](https://ziontechgroup.com/zion-app-network/app-network-batch72-oct03.html) · [See plans](https://ziontechgroup.com/en/plans/) · [Book Discovery](https://ziontechgroup.com/discovery/)
+
 
 ## 💸 BLOCK — Batch 53: FinOps & Cloud Cost Optimization (NEW 2026-09-26)
 
@@ -18,7 +26,7 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-26 (Batch
 
 **Headline:** Grow faster. Spend smarter. Every channel, one network.
 
-**Body:** Six new marketing and growth apps join the Zion App Network (now 734 apps). Allocate spend with [Ad Budget Optimizer](https://ziontechgroup.com/ad-budget-optimizer/), test pages with [Landing Page AB Tester](https://ziontechgroup.com/landing-page-ab-tester/), run webinars with [Webinar Funnel Hub](https://ziontechgroup.com/webinar-funnel-hub/), hear the market with [Social Listening Radar](https://ziontechgroup.com/social-listening-radar/), turn customers into advocates with [Referral Engine AI](https://ziontechgroup.com/referral-engine-ai/) and grow your list with [Newsletter Growth Copilot](https://ziontechgroup.com/newsletter-growth-copilot/).
+**Body:** Six new marketing and growth apps join the Zion App Network. Allocate spend with [Ad Budget Optimizer](https://ziontechgroup.com/ad-budget-optimizer/), test pages with [Landing Page AB Tester](https://ziontechgroup.com/landing-page-ab-tester/), run webinars with [Webinar Funnel Hub](https://ziontechgroup.com/webinar-funnel-hub/), hear the market with [Social Listening Radar](https://ziontechgroup.com/social-listening-radar/), turn customers into advocates with [Referral Engine AI](https://ziontechgroup.com/referral-engine-ai/) and grow your list with [Newsletter Growth Copilot](https://ziontechgroup.com/newsletter-growth-copilot/).
 
 **CTA:** [Explore the full network](https://github.com/Zion-support/zion-app-network) · [See plans](https://ziontechgroup.com/en/plans/) · [Book a discovery call](https://ziontechgroup.com/discovery/)
 
@@ -63,8 +71,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-26 (Batch
 ---
 
 ## Hero block
-**Headline:** One network. 734 AI apps. Zero friction.
-**Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR and growth at your fingertips — every app interconnected and ready to deploy.
+**Headline:** One network. 822 AI apps. Zero friction.
+**Subhead:** Zion Tech Group's App Network puts AI tools for field service, IT ops, finance, legal, HR, energy & sustainability and growth at your fingertips — every app interconnected and ready to deploy.
 **CTAs:** [View Plans & Pricing](https://ziontechgroup.com/en/plans/) · [Book a Discovery Call](https://ziontechgroup.com/discovery/) · [Explore the App Network](https://ziontechgroup.com/zion-app-network/)
 
 ## Featured new apps (batch 17)
@@ -150,8 +158,8 @@ Copy-paste ready blocks for https://ziontechgroup.com. Updated 2026-09-26 (Batch
 - 🤖 131 Zion AI suite apps
 - 🛠️ 157 platform & utilities
 - 🌍 277 field playbooks (countries, cities, industries)
-- 🆕 74 new featured apps (batches 9–21)
-- **Total: 734 apps** — directory: https://ziontechgroup.com/zion-app-network/
+- 🆕 100+ new featured apps (batches 9–72)
+- **Total: 822 apps** — directory: https://ziontechgroup.com/zion-app-network/
 
 ## Cross-link block (homepage footer)
 Explore: [AI Tools](https://ziontechgroup.com/tools/) · [App Network Hub](https://ziontechgroup.com/zion-app-network/) · [Plans](https://ziontechgroup.com/en/plans/) · [Discovery](https://ziontechgroup.com/discovery/) · [Blog](https://ziontechgroup.com/blog/)
