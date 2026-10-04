@@ -1,19 +1,26 @@
-# Discovery Automation Spec — Questionnaire → Instant Results Email
+# Discovery Automation — How results reach the client and commercial@ziontechgroup.com
 
-Goal: every https://ziontechgroup.com/discovery/ submission instantly emails results to the client AND commercial@ziontechgroup.com.
+Goal: **the moment a client submits the questionnaire, both the client and our commercial department receive the discovery results.**
 
-## Flow
-1. Client submits discovery questionnaire (12 questions, ~5 min)
-2. Backend webhook scores answers and renders the personalized report (HTML + PDF)
-3. Email 1 → client address: report + links to matched apps (ziontechgroup.com/<app>/)
-4. Email 2 → commercial@ziontechgroup.com: full answers, lead score, matched apps, report link
-5. Lead row created in Notion pipeline (status: New Discovery)
-6. Retries on failure with 60s SLA; ops alert after 3 failed retries
+## Architecture (always online, zero backend)
+1. **Questionnaire page**: `zion-network/discovery/index.html` → served at https://ziontechgroup.com/discovery/
+2. **Primary delivery**: on submit, the page POSTs JSON to `https://formsubmit.co/ajax/commercial@ziontechgroup.com` with:
+   - `_subject`: "New AI Discovery submission — <company>"
+   - `_cc`: the client's work email (so the client receives the same results instantly)
+   - all answers: name, email, company, industry, size, challenge, interest(s), timeline, plus the generated app recommendations
+3. **On-page instant report**: the page immediately renders the personalized recommendations client-side (no network dependency), so the user sees results even before the email arrives.
+4. **Fallback**: a `mailto:commercial@ziontechgroup.com?cc=<client>` link pre-filled with the full report is shown after submission — guarantees a copy even if the fetch is blocked by a corporate firewall/ad-blocker.
 
-## Requirements
-- Transactional email provider with template: discovery-results-v2
-- Idempotency key = submission UUID (no duplicate emails)
-- LGPD/GDPR consent checkbox captured and stored with the submission
+## Guarantees
+- **Always online**: static hosting (GitHub Pages), no server, no database.
+- **Always free**: FormSubmit free tier; no paid dependency.
+- **No lead loss**: dual-channel delivery (FormSubmit email + mailto fallback + on-page report).
 
-## Status
-Spec published 2026-10-04 in zion-app-network hub. Implementation tracked in Notion CEO Ops.
+## Multi-select fix (Oct 4, 2026)
+The interest field is a multi-select; the script now uses `FormData.getAll('interest')` so **all** selected interests are emailed and used for recommendations (previously only the first was captured).
+
+## Monitoring
+- Submissions land in the commercial@ziontechgroup.com inbox with subject "New AI Discovery submission".
+- Weekly: confirm a test submission round-trips to both inboxes.
+
+© 2026 Zion Tech Group
