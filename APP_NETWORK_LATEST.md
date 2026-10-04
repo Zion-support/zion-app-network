@@ -1,5 +1,12 @@
 # 🆕 Zion AI App Network — Latest Updates (Oct 4, 2026)
 
+## 🚀 Oct 4 (evening) — Homepage repaired, Discovery always free, interlink sweep
+- **Homepage fix:** `zion-support.github.io/index.html` was stored as invalid base64 blob (would serve gibberish) — rewritten as clean, valid HTML homepage.
+- **Discovery is always free & always online:** all "$99 Discovery" references removed from the homepage; new sections advertise the free Discovery benefits (8 questions, 2 min, instant personalized results, no signup/card, serverless 24/7).
+- **Lead flow:** every Discovery submission is emailed instantly to the client AND commercial@ziontechgroup.com (FormSubmit + _cc, mailto fallback) — zero lead loss. Questionnaires: https://ziontechgroup.com/discovery/ (PT-BR) and https://ziontechgroup.com/app-network-discovery.html (EN).
+- **App Network advertising on homepage:** new "Zion AI App Network — 800+ apps gratuitos" section linking the hub, batches 74/75, GitHub org and featured apps; nav + footer now link to /zion-app-network/.
+- **Interlink fixes (5 repos):** added missing ZION_APP_NETWORK.md to synthetic-data-lab, student-progress-radar, tutoring-copilot-ai, warranty-lens, website-carbon-estimator. site-survey-planner, sla-breach-predictor, support-ticket-triager, tech-debt-radar, water-usage-optimizer re-verified as already covered.
+
 ## ⚖️ NEW: Batch 74 — Legal Tech & Contract AI (Oct 4, 2026)
 - [SPOTLIGHT-2026-10-04-BATCH74.md](SPOTLIGHT-2026-10-04-BATCH74.md) — 6 apps: Contract Clause Analyzer, Legal Doc Drafter, Compliance Gap Scanner, Privacy Request Handler (DSAR), Litigation Doc Reviewer, Regulation Change Tracker
 - [INTERLINKS-batch74-legal.md](INTERLINKS-batch74-legal.md)
@@ -68,6 +75,7 @@
 - Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
 - Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
 - Batch 74: 6 new legal-tech repos ship interlinked README + ZION_APP_NETWORK.md from day one
-- Audited 200 more repos (tail of org listing); remaining gaps: ~28 repos (e.g. site-survey-planner, sla-breach-predictor, support-ticket-triager, tech-debt-radar) — candidates for next-batch fixes
+- Oct 4 evening: 5 more repos fixed (synthetic-data-lab, student-progress-radar, tutoring-copilot-ai, warranty-lens, website-carbon-estimator); 5 re-verified covered
+- Remaining gap candidates: continue tail-of-org audit (~20 repos) next session
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
