@@ -1,35 +1,27 @@
-# Interlinks — Batch 74: Legal Tech & Contract AI
+# INTERLINKS — Batch 74 — Legal Tech & Contract AI (Oct 4, 2026)
 
-## Batch 74 repos
-- https://github.com/Zion-support/contract-clause-analyzer
-- https://github.com/Zion-support/legal-doc-drafter
-- https://github.com/Zion-support/compliance-gap-scanner
-- https://github.com/Zion-support/privacy-request-handler
-- https://github.com/Zion-support/litigation-doc-reviewer
-- https://github.com/Zion-support/regulation-change-tracker
+Cross-links for the legal/compliance wave. Every repo carries a `ZION_APP_NETWORK.md` pointing back here.
 
-## Batch 74 app pages
-- https://ziontechgroup.com/contract-clause-analyzer/
-- https://ziontechgroup.com/legal-doc-drafter/
-- https://ziontechgroup.com/compliance-gap-scanner/
-- https://ziontechgroup.com/privacy-request-handler/
-- https://ziontechgroup.com/litigation-doc-reviewer/
-- https://ziontechgroup.com/regulation-change-tracker/
+## Apps
+- Contract Clause Analyzer — https://github.com/Zion-support/contract-clause-analyzer — https://ziontechgroup.com/contract-clause-analyzer/
+- Legal Doc Drafter — https://github.com/Zion-support/legal-doc-drafter — https://ziontechgroup.com/legal-doc-drafter/
+- Compliance Gap Scanner — https://github.com/Zion-support/compliance-gap-scanner — https://ziontechgroup.com/compliance-gap-scanner/
+- Privacy Request Handler — https://github.com/Zion-support/privacy-request-handler — https://ziontechgroup.com/privacy-request-handler/
+- Litigation Doc Reviewer — https://github.com/Zion-support/litigation-doc-reviewer — https://ziontechgroup.com/litigation-doc-reviewer/
+- Regulation Change Tracker — https://github.com/Zion-support/regulation-change-tracker — https://ziontechgroup.com/regulation-change-tracker/
+- Legal Contract Analyzer — https://github.com/Zion-support/legal-contract-analyzer — https://ziontechgroup.com/legal-contract-analyzer/
+- GDPR DSAR Autopilot — https://github.com/Zion-support/gdpr-dsar-autopilot — https://ziontechgroup.com/gdpr-dsar-autopilot/
+- Litigation Hold Manager — https://github.com/Zion-support/litigation-hold-manager — https://ziontechgroup.com/litigation-hold-manager/
 
-## Related existing apps
-- Contract Renewal Radar — https://ziontechgroup.com/contract-renewal-radar/
-- AI Compliance Suite — https://ziontechgroup.com/ai-compliance-suite/
-- Data Privacy Manager — https://ziontechgroup.com/data-privacy-manager/
-- AI Security Suite — https://ziontechgroup.com/ai-security-suite/
-- AI Governance Platform — https://ziontechgroup.com/ai-governance-platform/
+## Related network apps
+- AI Contract Guardian — https://ziontechgroup.com/zion-ai-contract-guardian/
+- Vendor Risk Assessor — https://ziontechgroup.com/vendor-risk-assessor/
+- Regulatory Change Radar — https://ziontechgroup.com/regulatory-change-radar/
 
-## Hub & showcases
-- Hub: https://github.com/Zion-support/zion-app-network
-- Batch 74 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
-- Batch 73 spotlight (infra/ops): https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS-batch73-infra-ops.md
-- Batch 72 showcase (energy): https://ziontechgroup.com/zion-app-network/app-network-batch72-oct03.html
-- Network spotlight: https://ziontechgroup.com/zion-app-network/app-network-spotlight.html
-
-## Discovery
-- Free online AI Discovery: https://ziontechgroup.com/discovery/
-- Plans: https://ziontechgroup.com/en/plans/
+## Hub
+- Spotlight: [SPOTLIGHT-2026-10-04-BATCH74.md](SPOTLIGHT-2026-10-04-BATCH74.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
+- Master interlinks: [INTERLINKS-MASTER.md](INTERLINKS-MASTER.md)
+- Directory: [APPS_INDEX.md](APPS_INDEX.md)
+- Free AI Discovery: https://ziontechgroup.com/discovery/ (results emailed instantly to the client and commercial@ziontechgroup.com)
+- Homepage: https://ziontechgroup.com
