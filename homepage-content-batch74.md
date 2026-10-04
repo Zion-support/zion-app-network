@@ -1,29 +1,30 @@
 # Homepage content pack — Batch 74 (Oct 4, 2026)
 
-Copy pack for https://ziontechgroup.com homepage advertising the new Batch 74 apps and the Free AI Discovery.
+Copy-paste block for the ziontechgroup.com homepage hero / apps section.
 
-## Section: Novidade (04 Out 2026): Legal, Compliance & CX AI
+## Hero
+**The Zion AI App Network just passed 800 free, open-source AI apps.**
+Batch 74 adds Legal Tech, Compliance, Customer Experience and Support & Reliability AI — every app live in your browser, no signup, no cost.
+[Browse the network](https://ziontechgroup.com/zion-app-network/) · [See Batch 74](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
 
-Lead: "15 novos apps gratuitos entram na Zion AI App Network — jurídico, compliance e experiência do cliente. Todos online, gratuitos e interligados."
+## New in Batch 74
+- **Contract Clause Analyzer** — flag risky clauses in seconds → https://ziontechgroup.com/contract-clause-analyzer/
+- **Compliance Gap Scanner** — map controls to GDPR, SOC 2, ISO 27001 → https://ziontechgroup.com/compliance-gap-scanner/
+- **GDPR DSAR Autopilot** — automate data subject requests → https://ziontechgroup.com/gdpr-dsar-autopilot/
+- **Support Sentiment Radar** — real-time customer sentiment → https://ziontechgroup.com/support-sentiment-radar/
+- **Churn Prediction AI** — stop churn before it happens → https://ziontechgroup.com/churn-prediction-ai/
+- **Support Ticket Triager** — classify and route tickets in real time → https://ziontechgroup.com/support-ticket-triager/
+- **SLA Breach Predictor** — see breaches before they happen → https://ziontechgroup.com/sla-breach-predictor/
+- **Tech Debt Radar** — visualize and prioritize technical debt → https://ziontechgroup.com/tech-debt-radar/
 
-Cards (Live app path / repo):
-1. Contract Clause Analyzer — cláusulas de risco extraídas e classificadas — /contract-clause-analyzer/ — Zion-support/contract-clause-analyzer
-2. Legal Doc Drafter — NDAs, MSAs e DPAs conformes em minutos — /legal-doc-drafter/ — Zion-support/legal-doc-drafter
-3. Compliance Gap Scanner — controles mapeados para GDPR, SOC 2, ISO 27001 — /compliance-gap-scanner/ — Zion-support/compliance-gap-scanner
-4. Privacy Request Handler — DSARs automatizados de ponta a ponta — /privacy-request-handler/ — Zion-support/privacy-request-handler
-5. Litigation Doc Reviewer — eDiscovery com scoring de relevância — /litigation-doc-reviewer/ — Zion-support/litigation-doc-reviewer
-6. Regulation Change Tracker — mudanças regulatórias mapeadas às suas políticas — /regulation-change-tracker/ — Zion-support/regulation-change-tracker
-7. Support Sentiment Radar — sentimento em tempo real nos canais de suporte — /support-sentiment-radar/ — Zion-support/support-sentiment-radar
-8. Onboarding Journey Optimizer — atrito no onboarding encontrado por IA — /onboarding-journey-optimizer/ — Zion-support/onboarding-journey-optimizer
-9. Customer Feedback Analyzer — reviews, tickets e pesquisas unificados — /customer-feedback-analyzer/ — Zion-support/customer-feedback-analyzer
-10. NPS Insight Copilot — verbatims de NPS viram drivers e tendências — /nps-insight-copilot/ — Zion-support/nps-insight-copilot
+## Free AI Discovery — always online, always free
+Answer 8 quick questions (~2 minutes) and get a personalized shortlist from 800+ AI apps **emailed instantly to you** — our commercial team (commercial@ziontechgroup.com) receives the same results to prepare an optional tailored plan.
+- 100% free, forever — no signup, no credit card
+- Instant results, instant email delivery
+- Personalized picks matched to your industry, challenge, company size and goals
 
-Buttons:
-- Showcase Batch 74 → /zion-app-network/app-network-batch74-oct04.html
-- Descoberta gratuita de IA → /discovery/
-- Todos os apps → /zion-app-network/
+👉 Start now: https://ziontechgroup.com/app-network-discovery.html
 
-## Discovery benefits blurb (homepage)
-"Descoberta de IA gratuita — sempre online, sempre grátis. 8 perguntas, 2 minutos: receba na hora, no seu e-mail, os apps ideais da rede Zion (800+ apps). Nossa equipe comercial (commercial@ziontechgroup.com) recebe os mesmos resultados e prepara um plano sob medida — só se você quiser."
-
-© 2026 Zion Tech Group
+## Why Zion
+- 800+ free AI micro-apps, all open source on GitHub: https://github.com/Zion-support/zion-app-network
+- Paid plans when you need custom builds: https://ziontechgroup.com/en/plans/
