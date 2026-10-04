@@ -1,31 +1,29 @@
-# 🧭 Zion AI Discovery — Benefits (Homepage Advertising Pack)
+# Free AI Discovery — Benefits (Zion Tech Group)
 
-The Zion AI Discovery is **always online and always free** at https://ziontechgroup.com/discovery/.
+The **Zion AI Discovery questionnaire** is the front door to the Zion AI App Network (800+ free, open-source AI apps). Live at **https://ziontechgroup.com/discovery/** — always online, always free.
 
-## Why advertise it on the homepage
-- Zero friction lead magnet: a 5-minute questionnaire, no signup wall
-- Instant value: personalized AI opportunity report generated on submission
-- Instant sales motion: every submission emails results to the client AND to commercial@ziontechgroup.com for same-day follow-up
-- Compounding SEO: discovery pages interlink with all 74 app batches
+## Benefits for the client
+1. **Free forever** — no signup, no credit card, no sales call required.
+2. **2 minutes, 8 questions** — name, work email, company, industry, size, biggest challenge, areas of interest, timeline.
+3. **Instant results** — the moment you submit, your personalized discovery report is generated on-page and emailed to you.
+4. **Personalized picks** — recommendations are matched to your interests from 800+ network apps (Legal & Compliance AI, CX & Retention AI, FinOps, SecOps, Data, Field Service and more).
+5. **Zero risk evaluation** — every recommended app links to a live demo page and its open-source GitHub repo.
+6. **Always online** — static, serverless delivery on GitHub Pages + FormSubmit; no backend to go down.
 
-## Homepage copy blocks
-### Hero strip
-> **Discover your AI advantage — free.** Answer 12 questions, get a personalized AI opportunity report instantly. No cost, no commitment, always available.
-> → https://ziontechgroup.com/discovery/
+## Benefits for Zion (commercial)
+- Every submission is emailed instantly to **commercial@ziontechgroup.com** with the client CC'd — zero-lead-loss.
+- Structured lead data: company, industry, size, challenge, interests, timeline.
+- Mailto fallback guarantees delivery even if the form endpoint is blocked.
 
-### Benefit bullets
-1. **Instant report** — results emailed to you the moment you finish
-2. **Expert follow-up** — our commercial team (commercial@ziontechgroup.com) receives your report simultaneously and reaches out the same day
-3. **Matched to 770+ apps** — your answers are mapped to the Zion AI App Network suites
-4. **Always free, always online** — 24/7, no sales call required first
+## Where it is advertised
+- Homepage: https://ziontechgroup.com (Discovery sections + app network sections)
+- Network hub: https://ziontechgroup.com/zion-app-network/
+- Discovery showcase: https://ziontechgroup.com/zion-app-network/app/discovery-showcase.html
+- Landing page: https://ziontechgroup.com/app-network-discovery.html
+- Every batch showcase and every app repo (ZION_APP_NETWORK.md interlinks)
 
-### Testimonial-style line
-> "The Discovery report told us exactly which three AI apps would pay for themselves in 90 days." — Operations Director, logistics client
+## Related
+- [DISCOVERY-AUTOMATION.md](DISCOVERY-AUTOMATION.md) — how the email automation works
+- [SPOTLIGHT-2026-10-04-BATCH74.md](SPOTLIGHT-2026-10-04-BATCH74.md)
 
-## Automation spec (questionnaire → instant results email)
-1. Form submit → webhook validates + scores answers
-2. Report renderer builds PDF/HTML personalized report
-3. Transactional email to **client address** with report attached/link
-4. CC/parallel send to **commercial@ziontechgroup.com** with full answers + lead score
-5. Fallback: if email fails, retry queue + Slack alert; SLA < 60s from submission
-6. Tracking: Notion lead database row created per submission
+© 2026 Zion Tech Group
