@@ -1,4 +1,11 @@
-# 🆕 Zion AI App Network — Latest Updates (Oct 4, 2026)
+# 🆕 Zion AI App Network — Latest Updates (Oct 5, 2026)
+
+## 🚀 Oct 5 — Batch 79: GovTech & Smart City AI (8 new repos, fully interlinked)
+- **8 new public repos created and seeded** with README + ZION_APP_NETWORK.md cross-links: [permit-application-triage](https://github.com/Zion-support/permit-application-triage), [smart-traffic-flow-optimizer](https://github.com/Zion-support/smart-traffic-flow-optimizer), [civic-sentiment-analyzer](https://github.com/Zion-support/civic-sentiment-analyzer), [public-budget-explorer-ai](https://github.com/Zion-support/public-budget-explorer-ai), [emergency-dispatch-prioritizer](https://github.com/Zion-support/emergency-dispatch-prioritizer), [infrastructure-asset-inspector](https://github.com/Zion-support/infrastructure-asset-inspector), [digital-service-navigator](https://github.com/Zion-support/digital-service-navigator), [grant-eligibility-matcher](https://github.com/Zion-support/grant-eligibility-matcher).
+- Spotlight: [SPOTLIGHT-2026-10-05-BATCH79.md](SPOTLIGHT-2026-10-05-BATCH79.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05.html
+- Index: [APPS_INDEX-BATCH-79.md](APPS_INDEX-BATCH-79.md)
+- **Discovery fix:** created /discovery/thanks.html (was 404) — thank-you page after questionnaire submission. Delivery confirmed: FormSubmit AJAX → commercial@ziontechgroup.com with client `_cc` + instant autoresponse. Discovery stays 100% free & always online (PT-BR /discovery/ + EN /app-network-discovery.html).
+- Homepage updated: Batch 79 spotlight card + network count 820+ → 830+.
 
 ## 🚀 Oct 4 (night) — Batch 76: Sales & Revenue AI + Discovery upgrade
 - **Batch 76 — Sales & Revenue AI:** 12 repos refreshed with full cross-linked ZION_APP_NETWORK.md (sales-call-analyzer, sales-forecast-ai, lead-score-copilot, outbound-sequencer-ai, proposal-builder-ai, quote-to-cash-accelerator, deal-coach-ai, win-loss-analyzer-ai, upsell-signal-scout, renewal-upsell-radar, revenue-leak-detector, pricing-signal-radar). Spotlight: [SPOTLIGHT-2026-10-04-BATCH76.md](SPOTLIGHT-2026-10-04-BATCH76.md) · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch76-oct04.html
@@ -67,6 +74,9 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
+- [Batch 79 — GovTech & Smart City AI](https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05.html)
+- [Batch 78 — HR, Energy & Sustainability AI](https://ziontechgroup.com/zion-app-network/app-network-batch78-oct04.html)
+- [Batch 77 — Space Ops & Infrastructure AI](https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04.html)
 - [Batch 76 — Sales & Revenue AI](https://ziontechgroup.com/zion-app-network/app-network-batch76-oct04.html)
 - [Batch 75 — CX & Retention AI](https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html)
 - [Batch 74 — Legal Tech & Contract AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
@@ -84,7 +94,7 @@
 - [Field Service AI Wave 2: Marketplace & Coverage](https://ziontechgroup.com/blog/field-service-ai-marketplace/)
 - [LLM Tooling & DevSecOps](https://ziontechgroup.com/blog/llm-tooling-devsecops-suite/)
 
-## 🔧 Interlink fixes (Oct 3–4, 2026)
+## 🔧 Interlink fixes (Oct 3–5, 2026)
 - Verified zion-rag-eval-kit and zion-model-router interlinks (fixed Oct 1 — confirmed present)
 - Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
 - Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
@@ -92,5 +102,6 @@
 - Oct 4 evening: 5 more repos fixed (synthetic-data-lab, student-progress-radar, tutoring-copilot-ai, warranty-lens, website-carbon-estimator); 5 re-verified covered
 - Oct 4 late: tail-of-org audit (15 repos) — all covered; interlink coverage now complete across audited set
 - Oct 4 night: Batch 76 — 12 sales/revenue repos refreshed with full sibling cross-links
+- Oct 5: Batch 79 — 8 new GovTech repos ship interlinked README + ZION_APP_NETWORK.md from day one; /discovery/thanks.html 404 fixed
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
