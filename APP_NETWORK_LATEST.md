@@ -1,4 +1,11 @@
-# 🆕 Zion AI App Network — Latest Updates (Oct 5, 2026)
+# 🚀 Zion AI App Network — Latest Updates (Oct 5, 2026)
+
+## 🧭 Oct 5 — Free AI Discovery × App Network showcase (live)
+- Showcase (live): https://ziontechgroup.com/zion-app-network/app/network-discovery-showcase.html — Discovery benefits + newest suites interlinked
+- Spotlight: [SPOTLIGHT-2026-10-05-DISCOVERY.md](SPOTLIGHT-2026-10-05-DISCOVERY.md)
+- Discovery verified: https://ziontechgroup.com/discovery/ → 200 OK, 100% free, always online; results emailed instantly to client + commercial@ziontechgroup.com (FormSubmit + _cc + mailto fallback)
+- Cross-showcase (live): https://ziontechgroup.com/zion-app-network/app/network-healthcare-platform-showcase.html — Batch 69 (Healthcare AI) × Batch 70 (AI Platform), 14 apps
+- Blog ads committed: /blog/healthcare-platform-ai-october-2026/ and /blog/free-ai-discovery/ — **Pages deploy jobs queued on GitHub Actions runners since Oct 3 23:03 UTC (validate-pages-artifact succeeds; deploy job never starts). Not a content issue — runner availability. Verify URLs next session.**
 
 ## 🚀 Oct 5 — Batch 79: GovTech & Smart City AI (8 new repos, fully interlinked)
 - **8 new public repos created and seeded** with README + ZION_APP_NETWORK.md cross-links: [permit-application-triage](https://github.com/Zion-support/permit-application-triage), [smart-traffic-flow-optimizer](https://github.com/Zion-support/smart-traffic-flow-optimizer), [civic-sentiment-analyzer](https://github.com/Zion-support/civic-sentiment-analyzer), [public-budget-explorer-ai](https://github.com/Zion-support/public-budget-explorer-ai), [emergency-dispatch-prioritizer](https://github.com/Zion-support/emergency-dispatch-prioritizer), [infrastructure-asset-inspector](https://github.com/Zion-support/infrastructure-asset-inspector), [digital-service-navigator](https://github.com/Zion-support/digital-service-navigator), [grant-eligibility-matcher](https://github.com/Zion-support/grant-eligibility-matcher).
@@ -12,7 +19,7 @@
 - **Discovery upgraded (always online, always free):** live questionnaire now advertises 820+ apps, Batch-76 links, added `_next` thank-you redirect (https://ziontechgroup.com/discovery/thanks.html) + honeypot spam guard. Delivery unchanged: FormSubmit → commercial@ziontechgroup.com with client in `_cc` + instant autoresponse + on-page recommendations.
 - **Homepage (ziontechgroup.com):** "Destaques recentes" card now leads with Batch 76; network count updated to 820+; Discovery benefits section confirmed live.
 
-## 🟢 Oct 4 (late evening) — DEPLOY PIPELINE FIXED, everything live
+## 🚀 Oct 4 (late evening) — DEPLOY PIPELINE FIXED, everything live
 - Root cause of stale site found: `scripts/prepare-pages-out.sh` (Continuous Pages Deploy) required the retired "Discovery $99" homepage marker and a Starter Stripe link inside the free Discovery page — every deploy failed since ~13:16 UTC.
 - Fixes: deploy guard now requires the free `/discovery/` link (commit fb2f5437); Discovery page got an optional Starter Stripe link while staying 100% free (commit b8420314); homepage `public/index.html` gained the "Zion AI App Network — 800+ apps" section (commit 810461e).
 - Deploy run 37227636283 = SUCCESS. Verified live 200: homepage, /discovery/, /app-network-discovery.html (was 404), /zion-app-network/, batch75 showcase.
@@ -31,7 +38,7 @@
 - [INTERLINKS-batch74-legal.md](INTERLINKS-batch74-legal.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
 - Homepage content: [homepage-content-batch74.md](homepage-content-batch74.md)
-- 6 new repos created with interlinked READMEs + ZION_APP_NETWORK.md
+- 6 new repos created with interlinked README + ZION_APP_NETWORK.md
 - Discovery upgrade: free online AI Discovery questionnaire now advertised across all new repos; results auto-sent to client + commercial@ziontechgroup.com
 
 ## 🏗️ NEW: Batch 73 — Infrastructure, Supply & Continuity AI (Oct 3, 2026)
@@ -53,8 +60,7 @@
 - Homepage content: [homepage-content-batch71.md](homepage-content-batch71.md)
 - Fix: added missing ZION_APP_NETWORK.md interlinks to all 8 repos (previously uncovered)
 
-
-## 🛠️ NEW: Batch 70 — AI Platform & Engineering Suite (Oct 1, 2026)
+## 🚀 NEW: Batch 70 — AI Platform & Engineering Suite (Oct 1, 2026)
 - [SPOTLIGHT-2026-10-01-BATCH70.md](SPOTLIGHT-2026-10-01-BATCH70.md) — 8 apps: Agent Orchestrator, Edge AI Platform, AI Edge Deployer, Model Router, RAG Eval Kit, PR Review Swarm, AI Threat Modeler, DevOps Automation
 - [INTERLINKS-batch70-platform.md](INTERLINKS-batch70-platform.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
@@ -74,6 +80,8 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
+- [Free AI Discovery × App Network](https://ziontechgroup.com/zion-app-network/app/network-discovery-showcase.html)
+- [Healthcare AI × AI Platform](https://ziontechgroup.com/zion-app-network/app/network-healthcare-platform-showcase.html)
 - [Batch 79 — GovTech & Smart City AI](https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05.html)
 - [Batch 78 — HR, Energy & Sustainability AI](https://ziontechgroup.com/zion-app-network/app-network-batch78-oct04.html)
 - [Batch 77 — Space Ops & Infrastructure AI](https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04.html)
@@ -86,7 +94,7 @@
 - [Industry & Platform Suites Showcase](https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html)
 - [Field Service AI Showcase](https://ziontechgroup.com/zion-app-network/app/network-field-service-showcase.html)
 
-## 🌍 Homepage blog posts (live)
+## 📰 Homepage blog posts (live)
 - [Inside the Zion AI App Network: 770+ apps](https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/)
 - [Six Industry AI Suites](https://ziontechgroup.com/blog/industry-ai-suites-sept-2026/)
 - [AI Platform, Sales, Finance, Security & Data](https://ziontechgroup.com/blog/ai-platform-sales-finance-suites/)
