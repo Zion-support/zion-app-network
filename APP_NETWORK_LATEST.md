@@ -1,18 +1,20 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 5, 2026)
 
-## 🏨 Oct 5 PM — Batch 89: Hospitality & Travel AI (6 apps, fully interlinked)
-- Showcase (new): https://ziontechgroup.com/zion-app-network/app/network-hospitality-travel-showcase.html
-- Spotlight: [SPOTLIGHT-2026-10-05-BATCH89-HOSPITALITY.md](SPOTLIGHT-2026-10-05-BATCH89-HOSPITALITY.md)
-- Blog ad: https://ziontechgroup.com/blog/hospitality-travel-ai-october-2026/
-- Apps: [Menu Margin Optimizer](https://ziontechgroup.com/menu-margin-optimizer/) · [Hotel Dynamic Pricing](https://ziontechgroup.com/hotel-dynamic-pricing/) · [Travel Itinerary Builder](https://ziontechgroup.com/travel-itinerary-builder/) · [Housekeeping Scheduler AI](https://ziontechgroup.com/housekeeping-scheduler-ai/) · [Guest Experience Concierge](https://ziontechgroup.com/guest-experience-concierge/) · [Booking Channel Optimizer](https://ziontechgroup.com/booking-channel-optimizer/)
-- All 6 repos received ZION_APP_NETWORK.md cross-links (hub, Discovery, siblings, live URLs); menu-margin-optimizer README enriched
+## 🌐 Oct 5 — Session "nine": Discovery fix + October showcase (PM)
+- **Fixed:** /apps/index.html was missing the Batch 88 (Construction & PropTech) card — added.
+- **New page:** https://ziontechgroup.com/apps/network-october-2026-latest.html — cross-batch showcase for Batches 85–88 + earlier October batches, with the Discovery benefits banner (free, always online, instant email to client + commercial@ziontechgroup.com).
+- **Deploy fix:** committed .pages-trigger rebuild — should deploy previously stuck pages: /discovery/thanks.html, /apps/october-2026-batch11.html, /apps/october-2026-batch12.html.
+- **Verified live (200):** /discovery/, /blog/free-ai-discovery/, /blog/healthcare-platform-ai-october-2026/, /zion-app-network/app/network-discovery-showcase.html, /zion-app-network/app-network-batch79-oct05.html, /app-network-discovery.html, /apps/, /apps/discovery-benefits.html, /apps/discovery-to-action.html, /apps/network.html, /apps/network-batch75.html.
+- **Known issues:** network.ziontechgroup.com does not resolve (zion-network CNAME) — do not send buyers there; keep using ziontechgroup.com paths and github.com/Zion-support links.
+- **Delivery chain confirmed:** discovery form → FormSubmit AJAX → commercial@ziontechgroup.com with client _cc + _autoresponse; _next → /discovery/thanks.html.
+- Next session: verify the rebuild deployed thanks.html + batch11/12 + network-october-2026-latest; audit zion-network batches 80-81 (no spotlight files found in zion-app-network); consider DNS fix or CNAME removal for network.ziontechgroup.com.
 
 ## 🧭 Oct 5 — Free AI Discovery × App Network showcase (live)
 - Showcase (live): https://ziontechgroup.com/zion-app-network/app/network-discovery-showcase.html — Discovery benefits + newest suites interlinked
 - Spotlight: [SPOTLIGHT-2026-10-05-DISCOVERY.md](SPOTLIGHT-2026-10-05-DISCOVERY.md)
 - Discovery verified: https://ziontechgroup.com/discovery/ → 200 OK, 100% free, always online; results emailed instantly to client + commercial@ziontechgroup.com (FormSubmit + _cc + mailto fallback)
 - Cross-showcase (live): https://ziontechgroup.com/zion-app-network/app/network-healthcare-platform-showcase.html — Batch 69 (Healthcare AI) × Batch 70 (AI Platform), 14 apps
-- Blog ads live 200: /blog/healthcare-platform-ai-october-2026/ and /blog/free-ai-discovery/ (verified Oct 5 PM)
+- Blog ads committed: /blog/healthcare-platform-ai-october-2026/ and /blog/free-ai-discovery/ — **Pages deploy jobs queued on GitHub Actions runners since Oct 3 23:03 UTC (validate-pages-artifact succeeds; deploy job never starts). Not a content issue — runner availability. Verify URLs next session.**
 
 ## 🚀 Oct 5 — Batch 79: GovTech & Smart City AI (8 new repos, fully interlinked)
 - **8 new public repos created and seeded** with README + ZION_APP_NETWORK.md cross-links: [permit-application-triage](https://github.com/Zion-support/permit-application-triage), [smart-traffic-flow-optimizer](https://github.com/Zion-support/smart-traffic-flow-optimizer), [civic-sentiment-analyzer](https://github.com/Zion-support/civic-sentiment-analyzer), [public-budget-explorer-ai](https://github.com/Zion-support/public-budget-explorer-ai), [emergency-dispatch-prioritizer](https://github.com/Zion-support/emergency-dispatch-prioritizer), [infrastructure-asset-inspector](https://github.com/Zion-support/infrastructure-asset-inspector), [digital-service-navigator](https://github.com/Zion-support/digital-service-navigator), [grant-eligibility-matcher](https://github.com/Zion-support/grant-eligibility-matcher).
@@ -87,7 +89,6 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
-- [Batch 89 — Hospitality & Travel AI](https://ziontechgroup.com/zion-app-network/app/network-hospitality-travel-showcase.html)
 - [Free AI Discovery × App Network](https://ziontechgroup.com/zion-app-network/app/network-discovery-showcase.html)
 - [Healthcare AI × AI Platform](https://ziontechgroup.com/zion-app-network/app/network-healthcare-platform-showcase.html)
 - [Batch 79 — GovTech & Smart City AI](https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05.html)
@@ -103,9 +104,6 @@
 - [Field Service AI Showcase](https://ziontechgroup.com/zion-app-network/app/network-field-service-showcase.html)
 
 ## 📰 Homepage blog posts (live)
-- [Hospitality & Travel AI — Batch 89](https://ziontechgroup.com/blog/hospitality-travel-ai-october-2026/)
-- [Free AI Discovery](https://ziontechgroup.com/blog/free-ai-discovery/)
-- [Healthcare × Platform AI (Oct 2026)](https://ziontechgroup.com/blog/healthcare-platform-ai-october-2026/)
 - [Inside the Zion AI App Network: 770+ apps](https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/)
 - [Six Industry AI Suites](https://ziontechgroup.com/blog/industry-ai-suites-sept-2026/)
 - [AI Platform, Sales, Finance, Security & Data](https://ziontechgroup.com/blog/ai-platform-sales-finance-suites/)
@@ -119,9 +117,8 @@
 - Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
 - Batch 74: 6 new legal-tech repos ship interlinked README + ZION_APP_NETWORK.md from day one
 - Oct 4 evening: 5 more repos fixed (synthetic-data-lab, student-progress-radar, tutoring-copilot-ai, warranty-lens, website-carbon-estimator); 5 re-verified covered
-- Oct 4 late: tail-of-org audit (15 repos) — all covered; interlink coverage now complete across audited set
+- Oct 4 late: tail-of-org audit (15 repos) — all covered; interlinking coverage now complete across audited set
 - Oct 4 night: Batch 76 — 12 sales/revenue repos refreshed with full sibling cross-links
 - Oct 5: Batch 79 — 8 new GovTech repos ship interlinked README + ZION_APP_NETWORK.md from day one; /discovery/thanks.html 404 fixed
-- Oct 5 PM: Batch 89 — 6 Hospitality & Travel repos received ZION_APP_NETWORK.md + enriched README (menu-margin-optimizer)
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
