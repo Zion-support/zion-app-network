@@ -1,5 +1,11 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 5, 2026)
 
+## 🛠️ Oct 5 (late night) — Batch 92: AI Prompting & Proposal Toolkit (4 apps, fully interlinked)
+- Spotlight: [SPOTLIGHT-2026-10-05-BATCH92.md](SPOTLIGHT-2026-10-05-BATCH92.md) · Interlinks: [INTERLINKS-batch92-prompt-proposal.md](INTERLINKS-batch92-prompt-proposal.md)
+- Showcase (durable): https://ziontechgroup.com/zion-app-network/app/network-batch92-showcase.html · Batch 91 mirror: https://ziontechgroup.com/zion-app-network/app/network-batch91-showcase.html
+- Apps: [AI Prompt Forge](https://ziontechgroup.com/zion-ai-prompt-forge/) · [AI RFP Responder](https://ziontechgroup.com/zion-ai-rfp-responder/) · [AI Ticket Triage](https://ziontechgroup.com/zion-ai-ticket-triage/) · [Synthetic Data Lab](https://ziontechgroup.com/synthetic-data-lab/) — all live pages verified 200
+- Fix: added missing ZION_APP_NETWORK.md to zion-ai-prompt-forge, zion-ai-rfp-responder, zion-ai-ticket-triage; refreshed synthetic-data-lab
+
 ## 🧑‍💻 Oct 5 (night) — Batch 91: Developer Productivity & Operations AI (4 apps, fully interlinked)
 - Spotlight: [SPOTLIGHT-2026-10-05-BATCH91.md](SPOTLIGHT-2026-10-05-BATCH91.md) · Interlinks: [INTERLINKS-batch91-dev-productivity.md](INTERLINKS-batch91-dev-productivity.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch91-oct05.html
@@ -99,7 +105,8 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
-- [Batch 91 — Developer Productivity & Ops AI](https://ziontechgroup.com/zion-app-network/app-network-batch91-oct05.html)
+- [Batch 92 — AI Prompting & Proposal Toolkit](https://ziontechgroup.com/zion-app-network/app/network-batch92-showcase.html)
+- [Batch 91 — Developer Productivity & Ops AI](https://ziontechgroup.com/zion-app-network/app/network-batch91-showcase.html)
 - [Batch 90 — Data Quality & CX AI](https://ziontechgroup.com/zion-app-network/app-network-batch90-oct05.html)
 - [Batch 89 — Hospitality & Travel AI](https://ziontechgroup.com/zion-app-network/app/network-hospitality-travel-showcase.html)
 - [Free AI Discovery × App Network](https://ziontechgroup.com/zion-app-network/app/network-discovery-showcase.html)
@@ -137,6 +144,7 @@
 - Oct 4 night: Batch 76 — 12 sales/revenue repos refreshed with full sibling cross-links
 - Oct 5: Batch 79 — 8 new GovTech repos ship interlinked README + ZION_APP_NETWORK.md from day one; /discovery/thanks.html 404 fixed
 - Oct 5 PM: Batch 89 — 6 Hospitality & Travel repos received ZION_APP_NETWORK.md + enriched README (menu-margin-optimizer)
+- Oct 5 late night: Batch 92 — 3 repos gained ZION_APP_NETWORK.md (prompt-forge, rfp-responder, ticket-triage); durable app/ showcases for 91/92
 - Oct 5 night: Batch 91 — 4 dev-productivity repos refreshed with sibling cross-links; APPS_INDEX-BATCHES-76-91.md sync bridge added
 - Oct 5 eve: Batch 90 — Pages enabled on data-quality-watchdog & customer-health-scoreboard; /discovery/thanks.html re-published
 
