@@ -1,5 +1,10 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 5, 2026)
 
+## 🎓 Oct 5 (late night II) — Batch 93: Education & Green Tech AI (4 apps, fully interlinked)
+- Spotlight: [SPOTLIGHT-2026-10-05-BATCH93.md](SPOTLIGHT-2026-10-05-BATCH93.md) · Interlinks: [INTERLINKS-batch93-education-green.md](INTERLINKS-batch93-education-green.md)
+- Showcase (durable): https://ziontechgroup.com/zion-app-network/app/network-batch93-showcase.html
+- Apps: [Student Progress Radar](https://ziontechgroup.com/student-progress-radar/) · [Tutoring Copilot AI](https://ziontechgroup.com/tutoring-copilot-ai/) · [Website Carbon Estimator](https://ziontechgroup.com/website-carbon-estimator/) · [Water Usage Optimizer](https://ziontechgroup.com/water-usage-optimizer/) — all live pages verified 200
+
 ## 🛠️ Oct 5 (late night) — Batch 92: AI Prompting & Proposal Toolkit (4 apps, fully interlinked)
 - Spotlight: [SPOTLIGHT-2026-10-05-BATCH92.md](SPOTLIGHT-2026-10-05-BATCH92.md) · Interlinks: [INTERLINKS-batch92-prompt-proposal.md](INTERLINKS-batch92-prompt-proposal.md)
 - Showcase (durable): https://ziontechgroup.com/zion-app-network/app/network-batch92-showcase.html · Batch 91 mirror: https://ziontechgroup.com/zion-app-network/app/network-batch91-showcase.html
@@ -105,6 +110,7 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
+- [Batch 93 — Education & Green Tech AI](https://ziontechgroup.com/zion-app-network/app/network-batch93-showcase.html)
 - [Batch 92 — AI Prompting & Proposal Toolkit](https://ziontechgroup.com/zion-app-network/app/network-batch92-showcase.html)
 - [Batch 91 — Developer Productivity & Ops AI](https://ziontechgroup.com/zion-app-network/app/network-batch91-showcase.html)
 - [Batch 90 — Data Quality & CX AI](https://ziontechgroup.com/zion-app-network/app-network-batch90-oct05.html)
@@ -144,6 +150,7 @@
 - Oct 4 night: Batch 76 — 12 sales/revenue repos refreshed with full sibling cross-links
 - Oct 5: Batch 79 — 8 new GovTech repos ship interlinked README + ZION_APP_NETWORK.md from day one; /discovery/thanks.html 404 fixed
 - Oct 5 PM: Batch 89 — 6 Hospitality & Travel repos received ZION_APP_NETWORK.md + enriched README (menu-margin-optimizer)
+- Oct 5 late night II: Batch 93 — 4 education/green repos refreshed with sibling cross-links; batch-76 landing sweep: all 12 pages verified 200
 - Oct 5 late night: Batch 92 — 3 repos gained ZION_APP_NETWORK.md (prompt-forge, rfp-responder, ticket-triage); durable app/ showcases for 91/92
 - Oct 5 night: Batch 91 — 4 dev-productivity repos refreshed with sibling cross-links; APPS_INDEX-BATCHES-76-91.md sync bridge added
 - Oct 5 eve: Batch 90 — Pages enabled on data-quality-watchdog & customer-health-scoreboard; /discovery/thanks.html re-published
