@@ -1,5 +1,11 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 5, 2026)
 
+## 🧑‍💻 Oct 5 (night) — Batch 91: Developer Productivity & Operations AI (4 apps, fully interlinked)
+- Spotlight: [SPOTLIGHT-2026-10-05-BATCH91.md](SPOTLIGHT-2026-10-05-BATCH91.md) · Interlinks: [INTERLINKS-batch91-dev-productivity.md](INTERLINKS-batch91-dev-productivity.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch91-oct05.html
+- Apps: [SQL Query Explainer](https://ziontechgroup.com/sql-query-explainer/) · [Technician Scheduler AI](https://ziontechgroup.com/technician-scheduler-ai/) · [AI Code Assistant](https://ziontechgroup.com/zion-ai-code-assistant/) · [Agent Observability](https://ziontechgroup.com/zion-agent-observability/) — all live pages verified 200
+- Index sync: [APPS_INDEX-BATCHES-76-91.md](APPS_INDEX-BATCHES-76-91.md) — supplement bridging batches 76–91 until next full APPS_INDEX.md regeneration
+
 ## 🛠️ Oct 5 (eve) — Batch 90: Data Quality & Customer Experience AI (4 apps, fully interlinked)
 - Spotlight: [SPOTLIGHT-2026-10-05-BATCH90.md](SPOTLIGHT-2026-10-05-BATCH90.md) · Interlinks: [INTERLINKS-batch90-data-quality-cx.md](INTERLINKS-batch90-data-quality-cx.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch90-oct05.html
@@ -93,6 +99,7 @@
 - [SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md](SPOTLIGHT-2026-09-24-LLM-TOOLING-DEVSECOPS.md) — LLM Tooling & DevSecOps (20+ apps)
 
 ## 🖥️ Live showcases
+- [Batch 91 — Developer Productivity & Ops AI](https://ziontechgroup.com/zion-app-network/app-network-batch91-oct05.html)
 - [Batch 90 — Data Quality & CX AI](https://ziontechgroup.com/zion-app-network/app-network-batch90-oct05.html)
 - [Batch 89 — Hospitality & Travel AI](https://ziontechgroup.com/zion-app-network/app/network-hospitality-travel-showcase.html)
 - [Free AI Discovery × App Network](https://ziontechgroup.com/zion-app-network/app/network-discovery-showcase.html)
@@ -130,6 +137,7 @@
 - Oct 4 night: Batch 76 — 12 sales/revenue repos refreshed with full sibling cross-links
 - Oct 5: Batch 79 — 8 new GovTech repos ship interlinked README + ZION_APP_NETWORK.md from day one; /discovery/thanks.html 404 fixed
 - Oct 5 PM: Batch 89 — 6 Hospitality & Travel repos received ZION_APP_NETWORK.md + enriched README (menu-margin-optimizer)
+- Oct 5 night: Batch 91 — 4 dev-productivity repos refreshed with sibling cross-links; APPS_INDEX-BATCHES-76-91.md sync bridge added
 - Oct 5 eve: Batch 90 — Pages enabled on data-quality-watchdog & customer-health-scoreboard; /discovery/thanks.html re-published
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
