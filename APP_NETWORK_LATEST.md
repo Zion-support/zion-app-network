@@ -1,14 +1,25 @@
+# APP NETWORK — LATEST (2026-10-06)
+
+## 🛒 NEW: Batch 99 · Retail & E-commerce AI — 4 new apps
+- [APPS_INDEX-BATCH-99.md](APPS_INDEX-BATCH-99.md) — Returns Reduction AI, Dynamic Pricing Retail AI, Review & Sentiment AI, Visual Merchandising AI
+- [INTERLINKS-batch99-retail.md](INTERLINKS-batch99-retail.md) — full sibling mesh + cross-batch links (Batch 89, pricing/inventory apps)
+- Spotlight: https://ziontechgroup.com/apps/october-2026-batch17.html
+- Live apps: https://ziontechgroup.com/returns-reduction-ai/ · https://ziontechgroup.com/dynamic-pricing-retail-ai/ · https://ziontechgroup.com/review-sentiment-ai/ · https://ziontechgroup.com/visual-merchandising-ai/
+- Homepage 'Destaques recentes' + Apps Network grid updated; Discovery questionnaire Retail & E-commerce recommendations now point to Batch 99
+- Also today: ZION_APP_NETWORK.md interlinks added to 7 older repos (water-usage-optimizer, student-progress-radar, tutoring-copilot-ai, website-carbon-estimator, zion-ai-prompt-forge, zion-ai-ticket-triage, synthetic-data-lab)
+
+---
+
 # 🚀 Zion AI App Network — Latest Updates (Oct 6, 2026)
 
-## 🏠 NEW: Batch 96 — Real Estate & Property AI (Oct 6, 2026)
-- [SPOTLIGHT-2026-10-06-BATCH96.md](SPOTLIGHT-2026-10-06-BATCH96.md) — 6 apps: Property Valuation AI, Lease Abstraction AI, Tenant Screening Copilot, Rental Listing Optimizer, Facility Maintenance Planner, Real Estate Market Radar
-- [INTERLINKS-batch96-real-estate.md](INTERLINKS-batch96-real-estate.md) — full mesh + cross-batch links (Q4 real-estate suite, Batches 72, 95, industry verticals suite)
-- [APPS_INDEX-BATCH-96.md](APPS_INDEX-BATCH-96.md)
-- Showcase: https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase.html
-- Homepage spotlight page: https://ziontechgroup.com/apps/batch96-real-estate-ai.html
-- Homepage content: [homepage-content-batch96.md](homepage-content-batch96.md)
-- Fix: ZION_APP_NETWORK.md added to tenant-screening-copilot and lease-abstraction-ai (previously uncovered); 3 new repos created with interlinks + index.html from day one
-- Discovery dual-delivery advertising (client + commercial@ziontechgroup.com) embedded in all new pages
+## 🏟️ NEW: Batch 98 — Sports, Venue & Entertainment AI (Oct 6, 2026)
+- [SPOTLIGHT-2026-10-06-BATCH98.md](SPOTLIGHT-2026-10-06-BATCH98.md) — 8 apps: Athlete Performance Analyzer, Injury Risk Predictor, Match Day Ops Planner, Fan Engagement AI, Ticket Dynamic Pricing, Venue Demand Forecaster, Team Performance Analytics, Sports Video Highlights
+- [INTERLINKS-batch98-sports-venue.md](INTERLINKS-batch98-sports-venue.md) — full mesh + cross-batch links (Batches 95, 75, 90)
+- [APPS_INDEX-BATCH-98.md](APPS_INDEX-BATCH-98.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html
+- Homepage content: [homepage-content-batch98.md](homepage-content-batch98.md)
+- Discovery dual-delivery advertising (client + commercial@ziontechgroup.com) included in all new pages
+
 
 ## 🏭 NEW: Batch 95 — Manufacturing & Industry 4.0 AI (Oct 6, 2026)
 - [SPOTLIGHT-2026-10-06-BATCH95.md](SPOTLIGHT-2026-10-06-BATCH95.md) — 6 apps: Predictive Maintenance AI, Quality Vision Inspector, Production Schedule Optimizer, OEE Dashboard AI, Supplier Risk Radar, Factory Energy Optimizer
@@ -58,7 +69,8 @@
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
 
 ## 🖥️ Live showcases
-- [Batch 96 — Real Estate & Property AI](https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase.html)
+- [Batch 99 — Retail & E-commerce AI](https://ziontechgroup.com/apps/october-2026-batch17.html)
+- [Batch 98 — Sports, Venue & Entertainment AI](https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html)
 - [Batch 95 — Manufacturing & Industry 4.0 AI](https://ziontechgroup.com/apps/october-2026-batch15.html)
 - [Batch 75 — HR & Workforce AI](https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html)
 - [Batch 74 — Legal Tech & Contract AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
@@ -67,11 +79,13 @@
 - [Q4 2026 Showcase](https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html)
 
 ## 🔧 Interlink fixes (Oct 3–6, 2026)
-- Batch 96: tenant-screening-copilot & lease-abstraction-ai gaps closed; 3 new repos ship interlinks + index.html from day one
+- Batch 99: 4 retail/e-commerce apps shipped with full sibling mesh + cross-batch links and Discovery CTAs
+- Batch 98: 8 sports/venue/entertainment apps interlinked with full mesh + cross-batch links and Discovery CTAs
 - Batch 95: 6 manufacturing apps shipped with full-mesh + cross-batch interlinks and Discovery CTAs
 - Batch 75: 6 HR/Workforce repos now carry ZION_APP_NETWORK.md interlinks (payroll-anomaly-detector gap closed)
 - Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
 - Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
 - Batch 74: 6 new legal-tech repos ship interlinked README + ZION_APP_NETWORK.md from day one
+- 7 legacy repos (water-usage-optimizer, student-progress-radar, tutoring-copilot-ai, website-carbon-estimator, zion-ai-prompt-forge, zion-ai-ticket-triage, synthetic-data-lab) received ZION_APP_NETWORK.md
 
 © 2026 Zion Tech Group — https://ziontechgroup.com
