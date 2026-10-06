@@ -1,30 +1,19 @@
-# Homepage Content — Batch 96 (2026-10-06)
+# Homepage content — Batch 96: Real Estate & Construction AI (Oct 6, 2026)
 
-Copy block for https://ziontechgroup.com homepage (apply to SPA source when Cloudflare Workers build is fixed; canonical copy lives here and in the live showcase page).
+Suggested homepage section copy for https://ziontechgroup.com:
 
----
+## 🏗️ New this week: Real Estate & Construction AI — Batch 96
+Six free, open-source AI apps for property and construction teams:
+- **Property Valuation AI** — automated valuations with comps and market-trend signals
+- **Construction Bid Estimator** — faster takeoffs and bid risk scoring
+- **Site Safety Vision** — PPE detection and hazard-zone alerts from site cameras
+- **Project Schedule Risk AI** — predict delays before they hit the critical path
+- **Lease Abstraction AI** — clauses, dates and rents extracted from any lease
+- **Facility Maintenance Predictor** — fix assets before they fail
 
-## 🏙️ New: Smart City & Sustainability Suite — 6 free apps
+Explore the batch: https://ziontechgroup.com/apps/october-2026-batch18.html
+Browse all apps: https://ziontechgroup.com/apps/
 
-**For municipalities, utilities and sustainability teams.** Every app is free and always online:
-
-- 🚦 [Traffic Flow Optimizer](https://ziontechgroup.com/traffic-flow-optimizer/) — AI signal timing that cuts congestion and emissions
-- ⚡ [Utility Outage Predictor](https://ziontechgroup.com/utility-outage-predictor/) — see outage risk before the storm arrives
-- 🏛️ [Citizen Request Triage](https://ziontechgroup.com/citizen-request-triage/) — every resident request routed right, automatically
-- 📋 [Permit Processing Copilot](https://ziontechgroup.com/permit-processing-copilot/) — faster permits, happier applicants
-- 💧 [Water Usage Optimizer](https://ziontechgroup.com/water-usage-optimizer/) — AI schedules that cut water waste
-- 🌱 [Website Carbon Estimator](https://ziontechgroup.com/website-carbon-estimator/) — your digital footprint, measured and reduced
-
-👉 [Explore the full suite showcase](https://ziontechgroup.com/zion-app-network/app/network-govtech-sustainability-showcase.html)
-
-## 🧭 Why our Discovery is different
-
-- **Always online, always free** — 24/7, no credit card, no sales-call gatekeeping
-- **Instant written report** — process map, hours-leaked estimate and matched free apps, computed from your own answers
-- **Instant email delivery** — your results are sent to you and commercial@ziontechgroup.com the moment you finish the questionnaire
-- **You keep the report** — paid implementation is optional and only after you see value
-
-[Start your free Discovery →](https://ziontechgroup.com/discovery/) | [Browse 100+ free apps →](https://ziontechgroup.com/zion-app-network/)
-
----
-© 2026 Zion Tech Group
+## 🎯 Free AI Discovery — always online, always free
+Answer 8 quick questions and get your readiness report **instantly on-screen**, with the same result emailed to **you** and our commercial team (commercial@ziontechgroup.com) the moment you submit. No meeting required. Optional paid implementation starts at $2,500 — Discovery itself stays free forever.
+Start here: https://ziontechgroup.com/discovery/
