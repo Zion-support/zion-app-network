@@ -1,4 +1,14 @@
-# 🆕 Zion AI App Network — Latest Updates (Oct 6, 2026)
+# 🚀 Zion AI App Network — Latest Updates (Oct 6, 2026)
+
+## 🏭 NEW: Batch 95 — Manufacturing & Industry 4.0 AI (Oct 6, 2026)
+- [SPOTLIGHT-2026-10-06-BATCH95.md](SPOTLIGHT-2026-10-06-BATCH95.md) — 6 apps: Predictive Maintenance AI, Quality Vision Inspector, Production Schedule Optimizer, OEE Dashboard AI, Supplier Risk Radar, Factory Energy Optimizer
+- [INTERLINKS-batch95-manufacturing.md](INTERLINKS-batch95-manufacturing.md) — full mesh + cross-batch links (Batches 72, 82, 85, 86, 87, 75, 1)
+- [APPS_INDEX-BATCH-95.md](APPS_INDEX-BATCH-95.md)
+- Showcase: https://ziontechgroup.com/apps/october-2026-batch15.html
+- Spotlight page: https://ziontechgroup.com/apps/spotlight-2026-10-06.html
+- Homepage content: [homepage-content-batch95.md](homepage-content-batch95.md)
+- Discovery v2 dual-delivery advertising added to all new pages (client + commercial@ziontechgroup.com)
+
 
 ## 👥 NEW: Batch 75 — HR & Workforce AI (Oct 6, 2026)
 - [SPOTLIGHT-2026-10-04-BATCH75.md](SPOTLIGHT-2026-10-04-BATCH75.md) — 6 apps: Shift Scheduler AI, Recruiting Screening AI, Employee Sentiment Pulse, HR Onboarding Copilot, Payroll Anomaly Detector, Skills Gap Analyzer
@@ -38,6 +48,7 @@
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
 
 ## 🖥️ Live showcases
+- [Batch 95 — Manufacturing & Industry 4.0 AI](https://ziontechgroup.com/apps/october-2026-batch15.html)
 - [Batch 75 — HR & Workforce AI](https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html)
 - [Batch 74 — Legal Tech & Contract AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
 - [Batch 73 — Infrastructure, Supply & Continuity AI](https://ziontechgroup.com/zion-app-network/app-network-batch73-oct03.html)
@@ -45,6 +56,7 @@
 - [Q4 2026 Showcase](https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html)
 
 ## 🔧 Interlink fixes (Oct 3–6, 2026)
+- Batch 95: 6 manufacturing apps shipped with full-mesh + cross-batch interlinks and Discovery CTAs
 - Batch 75: 6 HR/Workforce repos now carry ZION_APP_NETWORK.md interlinks (payroll-anomaly-detector gap closed)
 - Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
 - Batch 72: 6 energy/sustainability repos now carry index.html + ZION_APP_NETWORK.md interlinks
