@@ -1,35 +1,24 @@
-# 🚀 SPOTLIGHT — Batch 75: Customer Experience & Legal/Compliance AI (2026-10-04)
+# SPOTLIGHT — 2026-10-04 — Batch 75: HR & Workforce AI
 
-Thirteen new interlinked apps join the Zion AI App Network: four customer-experience intelligence apps and nine legal, privacy & compliance apps. Network total: **809 assets** (796 + 13).
+Batch 75 ships the **HR & Workforce AI** wave of the Zion AI App Network: six interlinked apps covering the full employee lifecycle — hiring, onboarding, scheduling, engagement, payroll integrity and skills. Every app is free to try online, open-source, and interlinked with the rest of the network.
 
-## Customer Experience Intelligence
-| App | Live | Repo |
+## 👥 Batch 75 — HR & Workforce AI
+| App | Repo | Live |
 |---|---|---|
-| Customer Feedback Analyzer — unify reviews, tickets & surveys into actionable insight | https://ziontechgroup.com/customer-feedback-analyzer/ | https://github.com/Zion-support/customer-feedback-analyzer |
-| NPS Insight Copilot — verbatims → drivers, trends & action plans | https://ziontechgroup.com/nps-insight-copilot/ | https://github.com/Zion-support/nps-insight-copilot |
-| Onboarding Journey Optimizer — find friction, lift activation | https://ziontechgroup.com/onboarding-journey-optimizer/ | https://github.com/Zion-support/onboarding-journey-optimizer |
-| Support Sentiment Radar — real-time sentiment across support channels | https://ziontechgroup.com/support-sentiment-radar/ | https://github.com/Zion-support/support-sentiment-radar |
+| Shift Scheduler AI — demand-based shift scheduling, labor-cost optimization and fairness rules | https://github.com/Zion-support/shift-scheduler-ai | https://ziontechgroup.com/shift-scheduler-ai/ |
+| Recruiting Screening AI — fair, explainable candidate screening and interview scheduling | https://github.com/Zion-support/recruiting-screening-ai | https://ziontechgroup.com/recruiting-screening-ai/ |
+| Employee Sentiment Pulse — continuous engagement pulses, eNPS tracking and attrition early-warning | https://github.com/Zion-support/employee-sentiment-pulse | https://ziontechgroup.com/employee-sentiment-pulse/ |
+| HR Onboarding Copilot — automated onboarding journeys, checklists and 30-60-90 plans | https://github.com/Zion-support/hr-onboarding-copilot | https://ziontechgroup.com/hr-onboarding-copilot/ |
+| Payroll Anomaly Detector — overtime spikes, ghost employees and tax mismatch detection | https://github.com/Zion-support/payroll-anomaly-detector | https://ziontechgroup.com/payroll-anomaly-detector/ |
+| Skills Gap Analyzer — map team skills vs strategy and plan upskilling paths | https://github.com/Zion-support/skills-gap-analyzer | https://ziontechgroup.com/skills-gap-analyzer/ |
 
-## Legal, Privacy & Compliance
-| App | Live | Repo |
-|---|---|---|
-| GDPR DSAR Autopilot — data subject requests end-to-end | https://ziontechgroup.com/gdpr-dsar-autopilot/ | https://github.com/Zion-support/gdpr-dsar-autopilot |
-| Legal Contract Analyzer — AI contract review & risk flags | https://ziontechgroup.com/legal-contract-analyzer/ | https://github.com/Zion-support/legal-contract-analyzer |
-| Litigation Hold Manager — defensible holds & custodian tracking | https://ziontechgroup.com/litigation-hold-manager/ | https://github.com/Zion-support/litigation-hold-manager |
-| Legal Doc Drafter — compliant NDAs, MSAs, DPAs, SOWs | https://ziontechgroup.com/legal-doc-drafter/ | https://github.com/Zion-support/legal-doc-drafter |
-| Compliance Gap Scanner — controls mapped to GDPR, SOC 2, ISO 27001, HIPAA | https://ziontechgroup.com/compliance-gap-scanner/ | https://github.com/Zion-support/compliance-gap-scanner |
-| Privacy Request Handler — access, deletion & portability automation | https://ziontechgroup.com/privacy-request-handler/ | https://github.com/Zion-support/privacy-request-handler |
-| Contract Clause Analyzer — flag risky clauses portfolio-wide | https://ziontechgroup.com/contract-clause-analyzer/ | https://github.com/Zion-support/contract-clause-analyzer |
-| Regulation Change Tracker — regulatory updates mapped to controls | https://ziontechgroup.com/regulation-change-tracker/ | https://github.com/Zion-support/regulation-change-tracker |
-| Litigation Doc Reviewer — eDiscovery summarization & privilege detection | https://ziontechgroup.com/litigation-doc-reviewer/ | https://github.com/Zion-support/litigation-doc-reviewer |
+## 🔗 Interlinks
+- [INTERLINKS-batch75-hr-workforce.md](INTERLINKS-batch75-hr-workforce.md)
+- Live showcase: https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html
+- Homepage pack: [homepage-content-batch75.md](homepage-content-batch75.md)
+- Master directory: [APPS_INDEX.md](APPS_INDEX.md) · [CATALOG.md](CATALOG.md) · [INTERLINKS-MASTER.md](INTERLINKS-MASTER.md)
 
-## Interlinks
-All 13 repos carry ZION_APP_NETWORK.md (home / master directory / hub / live URL / related apps / discovery CTA). Landing pages (index.html) created this session for the 8 repos missing them.
+## 🧭 Free AI Discovery (always online, always free)
+Not sure which apps fit your business? Fill the 2-minute questionnaire at https://ziontechgroup.com/discovery-questionnaire.html — personalized results are emailed instantly to you and to our commercial team (commercial@ziontechgroup.com) for an optional tailored plan. See [DISCOVERY.md](DISCOVERY.md) and [DISCOVERY-BENEFITS.md](DISCOVERY-BENEFITS.md).
 
-## Discovery tie-in
-Every landing page and this spotlight advertise the **free, always-online AI Discovery**: https://ziontechgroup.com/discovery/ — questionnaire results are emailed instantly to the client and to commercial@ziontechgroup.com for same-day follow-up.
-
-Showcase page: https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html
-
----
-© 2026 Zion Tech Group
+© 2026 Zion Tech Group — https://ziontechgroup.com
