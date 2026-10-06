@@ -1,14 +1,24 @@
-# Homepage content — Batch 98 (Voice & Communications AI)
+# Homepage content — Batch 98 (Sports, Venue & Entertainment AI)
 
-Ready-to-paste block for https://ziontechgroup.com (see index.html "Destaques recentes"):
+## New: AI for Sports, Venues & Entertainment
 
-**PT-BR**
-> Novo: **Batch 98 — Voice & Communications AI** (4 apps interligados: smart call routing, call intelligence, voicemail triage, meeting intelligence). Rede agora com 874+ apps gratuitos e open-source.
-> Links: [Batch 98](/apps/october-2026-batch98.html) · [Smart Call Routing AI](/smart-call-routing-ai/) · [Call Intelligence Hub](/call-intelligence-hub/) · [Voicemail Triage AI](/voicemail-triage-ai/) · [Meeting Intelligence AI](/meeting-intelligence-ai/)
+Zion Tech Group's app network now covers the full sports & live-events stack — from athlete health to stadium revenue:
 
-**EN**
-> New: **Batch 98 — Voice & Communications AI** (4 interlinked apps: smart call routing, call intelligence, voicemail triage, meeting intelligence). Network now at 874+ free, open-source apps.
+- **Athlete Performance Analyzer** — wearable + match data into insights: https://ziontechgroup.com/athlete-performance-analyzer/
+- **Injury Risk Predictor** — keep your roster healthy: https://ziontechgroup.com/injury-risk-predictor/
+- **Match Day Ops Planner** — flawless game-day operations: https://ziontechgroup.com/match-day-ops-planner/
+- **Fan Engagement AI** — grow loyalty with personalized journeys: https://ziontechgroup.com/fan-engagement-ai/
+- **Ticket Dynamic Pricing** — maximize gate revenue: https://ziontechgroup.com/ticket-dynamic-pricing/
+- **Venue Demand Forecaster** — right-size staffing & inventory: https://ziontechgroup.com/venue-demand-forecaster/
+- **Team Performance Analytics** — tactical edge from data: https://ziontechgroup.com/team-performance-analytics/
+- **Sports Video Highlights** — auto-generated reels for every channel: https://ziontechgroup.com/sports-video-highlights/
 
-Discovery CTA (always online, always free): /discovery/ — results emailed instantly to the client and to commercial@ziontechgroup.com.
+## Why our free Discovery?
+🧭 **https://ziontechgroup.com/discovery/ — always online, always free.**
+1. **Free forever** — no cost, no credit card, no commitment.
+2. **Always online** — 24/7 self-service; no need to book a call.
+3. **Instant results** — your personalized AI discovery report is generated the moment you submit.
+4. **Dual delivery** — results are emailed immediately to **you** and to our commercial team at **commercial@ziontechgroup.com**, so a tailored follow-up happens fast.
+5. **Actionable** — recommendations map to 800+ live apps in the Zion AI App Network: https://github.com/Zion-support/zion-app-network
 
-© 2026 Zion Tech Group
+👉 Start now: https://ziontechgroup.com/discovery/
