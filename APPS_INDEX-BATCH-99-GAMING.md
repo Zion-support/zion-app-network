@@ -1,6 +1,6 @@
 # APPS INDEX — Batch 99: Gaming & Esports AI (2026-10-06)
 
-NOTE: Batch 99 number was earlier also applied to referral-program-ai / landing-page-ab-coach (Growth batch). Pending registry cleanup — candidates: renumber Growth items to Batch 102. Tracked in Notion War Room.
+Registry conflict RESOLVED: referral-program-ai & landing-page-ab-coach renumbered to **Batch 102 — Growth & CRO AI** (see APPS_INDEX-BATCH-102.md).
 
 | App | Repo | Live page | Focus |
 |---|---|---|---|
