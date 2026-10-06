@@ -183,5 +183,39 @@ Global field-dispatch network: country desks, city satellites, and vertical play
 - [learning-outcome-dashboard](https://github.com/Zion-support/learning-outcome-dashboard) — learning outcome dashboards for institutions — https://ziontechgroup.com/learning-outcome-dashboard/
 - [tutoring-session-analyzer](https://github.com/Zion-support/tutoring-session-analyzer) — tutoring session analytics & improvement tips — https://ziontechgroup.com/tutoring-session-analyzer/
 
+## Batch 102 — Professional Services & MSP Growth AI (4 apps, Oct 2026)
+
+- [proposal-pricing-copilot](https://github.com/Zion-support/proposal-pricing-copilot) — AI proposal pricing & margin-optimized quotes for MSPs — https://ziontechgroup.com/proposal-pricing-copilot/
+- [engagement-margin-radar](https://github.com/Zion-support/engagement-margin-radar) — engagement profitability, scope creep & margin drift tracking — https://ziontechgroup.com/engagement-margin-radar/
+- [resource-bench-optimizer](https://github.com/Zion-support/resource-bench-optimizer) — technician bench utilization & dispatch scheduling — https://ziontechgroup.com/resource-bench-optimizer/
+- [client-health-score-ai](https://github.com/Zion-support/client-health-score-ai) — client health scoring, churn risk & upsell signals — https://ziontechgroup.com/client-health-score-ai/
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch102.html
+
+## Batch 103 — Legal, Finance & Onboarding AI (4 apps, Oct 2026)
+
+- [vendor-risk-sentinel](https://github.com/Zion-support/vendor-risk-sentinel) — third-party vendor risk scoring & compliance alerts — https://ziontechgroup.com/vendor-risk-sentinel/
+- [invoice-dispute-resolver](https://github.com/Zion-support/invoice-dispute-resolver) — invoice dispute triage & billing escalation workflow — https://ziontechgroup.com/invoice-dispute-resolver/
+- [onboarding-flow-optimizer](https://github.com/Zion-support/onboarding-flow-optimizer) — onboarding funnel analytics, drop-off prediction & activation nudges — https://ziontechgroup.com/onboarding-flow-optimizer/
+- [contract-clause-guardian](https://github.com/Zion-support/contract-clause-guardian) — clause risk, renewal traps & obligation tracking — https://ziontechgroup.com/contract-clause-guardian/
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch103.html
+
+## Batch 104 — Cybersecurity & SOC AI (4 apps, Oct 2026)
+
+- [phishing-triage-ai](https://github.com/Zion-support/phishing-triage-ai) — phishing email triage & response prioritization — https://ziontechgroup.com/phishing-triage-ai/
+- [soc-alert-summarizer](https://github.com/Zion-support/soc-alert-summarizer) — SOC alert summarization & clustering — https://ziontechgroup.com/soc-alert-summarizer/
+- [security-posture-score-ai](https://github.com/Zion-support/security-posture-score-ai) — continuous security posture scoring & remediation roadmaps — https://ziontechgroup.com/security-posture-score-ai/
+- [vulnerability-priority-radar](https://github.com/Zion-support/vulnerability-priority-radar) — vulnerability prioritization by exploitability & business context — https://ziontechgroup.com/vulnerability-priority-radar/
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch104.html
+
+## Batch 105 — Growth & CRO AI (2 apps, Oct 2026)
+
+- [referral-program-ai](https://github.com/Zion-support/referral-program-ai) — referral incentive design, fraud checks & advocate matching — https://ziontechgroup.com/referral-program-ai/
+- [landing-page-ab-coach](https://github.com/Zion-support/landing-page-ab-coach) — CRO suggestions & experiment plans for landing pages — https://ziontechgroup.com/landing-page-ab-coach/
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch105.html
+
 ---
 *Maintained by Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
