@@ -1,15 +1,15 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 6, 2026)
 
-## 🏗️ NEW: Batch 96 — Real Estate & Construction AI (Oct 6, 2026)
-- [SPOTLIGHT-2026-10-06-BATCH96.md](SPOTLIGHT-2026-10-06-BATCH96.md) — 6 apps: Property Valuation AI, Construction Bid Estimator, Site Safety Vision, Project Schedule Risk AI, Lease Abstraction AI, Facility Maintenance Predictor
-- [INTERLINKS-batch96-real-estate-construction.md](INTERLINKS-batch96-real-estate-construction.md) — full mesh + cross-batch links (Batches 95, 97, 98, 74)
-- [APPS_INDEX-BATCH-96.md](APPS_INDEX-BATCH-96.md)
-- Showcase: https://ziontechgroup.com/apps/october-2026-batch18.html
-- Homepage content: [homepage-content-batch96.md](homepage-content-batch96.md)
-- 6 new public repos created with full-mesh ZION_APP_NETWORK.md interlinks from day one
-- Fix: /discovery/thanks 404 resolved (removed file/dir conflict); Discovery dual-delivery verified (client + commercial@ziontechgroup.com via FormSubmit AJAX)
+## 🏟️ NEW: Batch 98 — Sports, Venue & Entertainment AI (Oct 6, 2026)
+- [SPOTLIGHT-2026-10-06-BATCH98.md](SPOTLIGHT-2026-10-06-BATCH98.md) — 8 apps: Athlete Performance Analyzer, Injury Risk Predictor, Match Day Ops Planner, Fan Engagement AI, Ticket Dynamic Pricing, Venue Demand Forecaster, Team Performance Analytics, Sports Video Highlights
+- [INTERLINKS-batch98-sports-venue.md](INTERLINKS-batch98-sports-venue.md) — full mesh + cross-batch links (Batches 95, 75, 90)
+- [APPS_INDEX-BATCH-98.md](APPS_INDEX-BATCH-98.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html
+- Homepage content: [homepage-content-batch98.md](homepage-content-batch98.md)
+- Discovery dual-delivery advertising (client + commercial@ziontechgroup.com) included in all new pages
 
-## 🏭 Batch 95 — Manufacturing & Industry 4.0 AI (Oct 6, 2026)
+
+## 🏭 NEW: Batch 95 — Manufacturing & Industry 4.0 AI (Oct 6, 2026)
 - [SPOTLIGHT-2026-10-06-BATCH95.md](SPOTLIGHT-2026-10-06-BATCH95.md) — 6 apps: Predictive Maintenance AI, Quality Vision Inspector, Production Schedule Optimizer, OEE Dashboard AI, Supplier Risk Radar, Factory Energy Optimizer
 - [INTERLINKS-batch95-manufacturing.md](INTERLINKS-batch95-manufacturing.md) — full mesh + cross-batch links (Batches 72, 82, 85, 86, 87, 75, 1)
 - [APPS_INDEX-BATCH-95.md](APPS_INDEX-BATCH-95.md)
@@ -18,7 +18,8 @@
 - Homepage content: [homepage-content-batch95.md](homepage-content-batch95.md)
 - Discovery v2 dual-delivery advertising added to all new pages (client + commercial@ziontechgroup.com)
 
-## 🧑‍💼 Batch 75 — HR & Workforce AI (Oct 6, 2026)
+
+## 👥 NEW: Batch 75 — HR & Workforce AI (Oct 6, 2026)
 - [SPOTLIGHT-2026-10-04-BATCH75.md](SPOTLIGHT-2026-10-04-BATCH75.md) — 6 apps: Shift Scheduler AI, Recruiting Screening AI, Employee Sentiment Pulse, HR Onboarding Copilot, Payroll Anomaly Detector, Skills Gap Analyzer
 - [INTERLINKS-batch75-hr-workforce.md](INTERLINKS-batch75-hr-workforce.md) — full-mesh interlinks across all 6 repos
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html
@@ -31,7 +32,7 @@
 - [INTERLINKS-batch74-legal.md](INTERLINKS-batch74-legal.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html
 - Homepage content: [homepage-content-batch74.md](homepage-content-batch74.md)
-- 6 new repos created with interlinked README + ZION_APP_NETWORK.md
+- 6 new repos created with interlinked READMEs + ZION_APP_NETWORK.md
 - Discovery upgrade: free online AI Discovery questionnaire now advertised across all new repos; results auto-sent to client + commercial@ziontechgroup.com
 
 ## 🏗️ Batch 73 — Infrastructure, Supply & Continuity AI (Oct 3, 2026)
@@ -45,7 +46,7 @@
 - Homepage content: [homepage-content-batch72.md](homepage-content-batch72.md)
 
 ## 🤖 Batch 71 — AI Agent Engineering & Code Assistant Suite (Oct 3, 2026)
-- [SPOTLIGHT-2026-10-03-BATCH71.md](SPOTLIGHT-2026-10-03-BATCH71.md) — 8 apps: Agent Forge, Agent Contract Tester, Agent Contract Tests, Agent Handoff Designer, Agent Handoff Flow, Agent Observability, Agent Stack Builder, AI Code Assistant
+- [SPOTLIGHT-2026-10-03-BATCH71.md](SPOTLIGHT-2026-10-03-BATCH71.md) — 8 apps: AgentForge, Agent Contract Tester, Agent Contract Tests, Agent Handoff Designer, Agent Handoff Flow, Agent Observability, Agent Stack Builder, AI Code Assistant
 - [INTERLINKS-batch71-agent-engineering.md](INTERLINKS-batch71-agent-engineering.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch71-oct03.html
 - Homepage content: [homepage-content-batch71.md](homepage-content-batch71.md)
@@ -55,8 +56,8 @@
 - [INTERLINKS-batch70-platform.md](INTERLINKS-batch70-platform.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
 
-## 📺 Live showcases
-- [Batch 96 — Real Estate & Construction AI](https://ziontechgroup.com/apps/october-2026-batch18.html)
+## 🖥️ Live showcases
+- [Batch 98 — Sports, Venue & Entertainment AI](https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html)
 - [Batch 95 — Manufacturing & Industry 4.0 AI](https://ziontechgroup.com/apps/october-2026-batch15.html)
 - [Batch 75 — HR & Workforce AI](https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html)
 - [Batch 74 — Legal Tech & Contract AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
@@ -65,7 +66,7 @@
 - [Q4 2026 Showcase](https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html)
 
 ## 🔧 Interlink fixes (Oct 3–6, 2026)
-- Batch 96: 6 real-estate/construction apps shipped with full-mesh + cross-batch interlinks and Discovery CTAs
+- Batch 98: 8 sports/venue/entertainment apps interlinked with full mesh + cross-batch links and Discovery CTAs
 - Batch 95: 6 manufacturing apps shipped with full-mesh + cross-batch interlinks and Discovery CTAs
 - Batch 75: 6 HR/Workforce repos now carry ZION_APP_NETWORK.md interlinks (payroll-anomaly-detector gap closed)
 - Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
