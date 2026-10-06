@@ -1,14 +1,14 @@
-# Zion App Network — LATEST (updated 2026-10-06, session rain)
+# Zion App Network — LATEST (updated 2026-10-06)
 
 **Total: 436 apps** across 103 batches.
 
-## Newest: Batch 103 — Cybersecurity & Compliance AI
+## Newest: Batch 103 — Legal, Finance & Onboarding AI
 | App | Repo | Live page |
 |---|---|---|
-| Phishing Triage AI | https://github.com/Zion-support/phishing-triage-ai | https://ziontechgroup.com/phishing-triage-ai/ |
-| Vulnerability Priority Radar | https://github.com/Zion-support/vulnerability-priority-radar | https://ziontechgroup.com/vulnerability-priority-radar/ |
-| SOC Alert Summarizer | https://github.com/Zion-support/soc-alert-summarizer | https://ziontechgroup.com/soc-alert-summarizer/ |
-| Security Posture Score AI | https://github.com/Zion-support/security-posture-score-ai | https://ziontechgroup.com/security-posture-score-ai/ |
+| Vendor Risk Sentinel | https://github.com/Zion-support/vendor-risk-sentinel | https://ziontechgroup.com/vendor-risk-sentinel/ |
+| Invoice Dispute Resolver | https://github.com/Zion-support/invoice-dispute-resolver | https://ziontechgroup.com/invoice-dispute-resolver/ |
+| Onboarding Flow Optimizer | https://github.com/Zion-support/onboarding-flow-optimizer | https://ziontechgroup.com/onboarding-flow-optimizer/ |
+| Contract Clause Guardian | https://github.com/Zion-support/contract-clause-guardian | https://ziontechgroup.com/contract-clause-guardian/ |
 
 Previous: Batch 102 (Professional Services & MSP Growth AI, 432) — see APPS_INDEX-BATCH-102.md.
 
