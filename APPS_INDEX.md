@@ -295,5 +295,47 @@ Spotlight: [SPOTLIGHT-2026-09-27-BATCH59.md](SPOTLIGHT-2026-09-27-BATCH59.md) ·
 
 Spotlight: [SPOTLIGHT-2026-10-01-BATCH68.md](SPOTLIGHT-2026-10-01-BATCH68.md) · Homepage pack: [homepage-content-batch68.md](homepage-content-batch68.md) · Showcase: https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase.html · Blog: https://ziontechgroup.com/blog/green-energy-education-ai-suite/
 
+## Batch 102 — Professional Services & MSP Growth AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [proposal-pricing-copilot](https://github.com/Zion-support/proposal-pricing-copilot) | AI proposal pricing and margin-optimized quotes for MSPs | https://ziontechgroup.com/proposal-pricing-copilot/ |
+| [engagement-margin-radar](https://github.com/Zion-support/engagement-margin-radar) | Engagement profitability, scope creep and margin drift tracking | https://ziontechgroup.com/engagement-margin-radar/ |
+| [resource-bench-optimizer](https://github.com/Zion-support/resource-bench-optimizer) | Technician bench utilization and dispatch scheduling | https://ziontechgroup.com/resource-bench-optimizer/ |
+| [client-health-score-ai](https://github.com/Zion-support/client-health-score-ai) | Client health scoring, churn risk and upsell signals | https://ziontechgroup.com/client-health-score-ai/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch102.html
+
+## Batch 103 — Legal, Finance & Onboarding AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [vendor-risk-sentinel](https://github.com/Zion-support/vendor-risk-sentinel) | Third-party vendor risk scoring and compliance alerts | https://ziontechgroup.com/vendor-risk-sentinel/ |
+| [invoice-dispute-resolver](https://github.com/Zion-support/invoice-dispute-resolver) | Invoice dispute triage and billing escalation workflow | https://ziontechgroup.com/invoice-dispute-resolver/ |
+| [onboarding-flow-optimizer](https://github.com/Zion-support/onboarding-flow-optimizer) | Onboarding funnel analytics, drop-off prediction, activation nudges | https://ziontechgroup.com/onboarding-flow-optimizer/ |
+| [contract-clause-guardian](https://github.com/Zion-support/contract-clause-guardian) | Clause risk, renewal traps and obligation tracking | https://ziontechgroup.com/contract-clause-guardian/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch103.html
+
+## Batch 104 — Cybersecurity & SOC AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [phishing-triage-ai](https://github.com/Zion-support/phishing-triage-ai) | Phishing email triage and response prioritization | https://ziontechgroup.com/phishing-triage-ai/ |
+| [soc-alert-summarizer](https://github.com/Zion-support/soc-alert-summarizer) | SOC alert summarization and clustering | https://ziontechgroup.com/soc-alert-summarizer/ |
+| [security-posture-score-ai](https://github.com/Zion-support/security-posture-score-ai) | Continuous security posture scoring with remediation roadmaps | https://ziontechgroup.com/security-posture-score-ai/ |
+| [vulnerability-priority-radar](https://github.com/Zion-support/vulnerability-priority-radar) | Vulnerability prioritization by exploitability and business context | https://ziontechgroup.com/vulnerability-priority-radar/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch104.html
+
+## Batch 105 — Growth & CRO AI (2)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [referral-program-ai](https://github.com/Zion-support/referral-program-ai) | Referral incentive design, fraud checks, advocate matching | https://ziontechgroup.com/referral-program-ai/ |
+| [landing-page-ab-coach](https://github.com/Zion-support/landing-page-ab-coach) | CRO suggestions and experiment plans for landing pages | https://ziontechgroup.com/landing-page-ab-coach/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch105.html
+
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
