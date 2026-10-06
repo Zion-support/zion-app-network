@@ -1,27 +1,25 @@
-# Homepage content — Batch 101 · Agriculture & Food AI (copy-paste ready)
+# HOMEPAGE CONTENT — Batch 101 (Insurance & Risk AI) + Discovery benefits
 
-Use on https://ziontechgroup.com/ (homepage) and /apps/.
+Copy-paste-ready blocks for https://ziontechgroup.com homepage.
 
-## Block A — Hero badge
-**New: Agriculture & Food AI — 6 apps, from satellite yield forecasts to recall scoping in minutes.** Explore the network → https://ziontechgroup.com/apps/network.html
+## Hero-adjacent banner (Discovery benefits)
+**🔎 Free AI Discovery — online, instant, no call required.**
+Answer a 3-minute questionnaire and get your AI-readiness results emailed to you instantly (and to our commercial team so we can follow up with a tailored plan). No cost, no commitment.
+👉 Start: https://ziontechgroup.com/discovery/
 
-## Block B — Section
-### 🌾 Agriculture & Food AI — Batch 101
-From field to shelf, our newest apps help growers, producers and processors:
-- **Crop Yield Predictor** — field-level forecasts from satellite, weather & soil data → https://ziontechgroup.com/crop-yield-predictor/
-- **Precision Irrigation AI** — up to 40% water savings with zone-level scheduling → https://ziontechgroup.com/precision-irrigation-ai/
-- **Livestock Health Monitor** — detect illness 3–5 days before clinical signs → https://ziontechgroup.com/livestock-health-monitor/
-- **Harvest Market Pricing AI** — sell-window alerts against commodity forecasts → https://ziontechgroup.com/harvest-market-pricing-ai/
-- **Food Safety Compliance AI** — audit-ready HACCP logs, recall risk alerts → https://ziontechgroup.com/food-safety-compliance-ai/
-- **Farm to Shelf Traceability** — recall scoping in minutes, provenance premiums → https://ziontechgroup.com/farm-to-shelf-traceability/
+Benefits bullets:
+- ✅ 100% free & online — results in minutes, straight to your inbox
+- ✅ Personalized AI opportunity map across 828+ Zion apps
+- ✅ Instant copy to commercial@ziontechgroup.com for fast follow-up
+- ✅ Upgrade path to the $99 / R$99 7-day process diagnostic when you're ready
 
-## Block C — Discovery benefits (advertise everywhere)
-### 🔎 Free AI Discovery — always online, always free
-- 5-minute questionnaire, instant personalized report
-- Results emailed to **you** and to our commercial team (commercial@ziontechgroup.com) the moment you submit — no waiting
-- Recommendations mapped to 820+ apps in the Zion AI App Network
-- No credit card, no gate: https://ziontechgroup.com/discovery/
+## New apps strip (Batch 101 — Insurance & Risk AI)
+**🛡️ New: AI for Insurance & Risk teams**
+- Claims Triage Copilot — FNOL triage in seconds → https://ziontechgroup.com/claims-triage-copilot/
+- Underwriting Risk Radar — score every submission → https://ziontechgroup.com/underwriting-risk-radar/
+- Policy Servicing AI — COIs & endorsements automated → https://ziontechgroup.com/policy-servicing-ai/
+- Insurance Fraud Sentinel — SIU-grade fraud detection → https://ziontechgroup.com/insurance-fraud-sentinel/
+- Broker Renewal Copilot — never miss a renewal → https://ziontechgroup.com/broker-renewal-copilot/
+- Loss Control Inspector — AI photo inspections → https://ziontechgroup.com/loss-control-inspector/
 
-## Block D — SEO meta suggestion
-Title: Zion Tech Group — 820+ AI Apps, Free AI Discovery & Global IT Field Services
-Description: Explore 820+ interconnected AI apps incl. new Agriculture & Food AI batch. Free AI Discovery questionnaire with instant results for you and our commercial team.
+Explore the full network: https://ziontechgroup.com/apps/network.html
