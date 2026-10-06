@@ -1,19 +1,14 @@
-# Homepage content — Batch 99: Construction & PropTech AI (Oct 6, 2026)
+# Homepage advertising pack — Batch 99 (paste into ziontechgroup.com)
 
-Suggested homepage section copy for https://ziontechgroup.com:
+## BLOCK A — Hero strip (EN)
+New: **Batch 99 — Marketing & Growth AI**. Six free apps to grow pipeline: SEO Content Optimizer, Ad Spend Optimizer, Email Subject Lab, Social Listening Radar, Landing Page A/B Coach and Referral Program AI. Explore: https://ziontechgroup.com/apps/october-2026-batch99.html — or take the free 5-minute Discovery: https://ziontechgroup.com/discovery/
 
-## 🏗️ New this week: Construction & PropTech AI — Batch 99
-Six free, open-source AI apps for construction and property teams:
-- **Property Valuation AI** — automated valuations with comps and market-trend signals
-- **Construction Bid Estimator** — faster takeoffs and bid risk scoring
-- **Site Safety Vision** — PPE detection and hazard-zone alerts from site cameras
-- **Project Schedule Risk AI** — predict delays before they hit the critical path
-- **Lease Abstraction AI** — clauses, dates and rents extracted from any lease
-- **Facility Maintenance Predictor** — fix assets before they fail
+## BLOCK B — Discovery benefits (advertise everywhere)
+- Always online & always free — 24/7, no signup, no sales call required.
+- Instant results — personalized shortlist emailed to you the moment you submit, and to commercial@ziontechgroup.com for same-day follow-up.
+- Matched to 828+ free apps across every industry suite.
+- Feeds the ROI calculator so savings are quantified before any paid engagement.
+Start: https://ziontechgroup.com/discovery/
 
-Explore the batch: https://ziontechgroup.com/apps/october-2026-batch18.html
-Browse all apps: https://ziontechgroup.com/apps/
-
-## 🎯 Free AI Discovery — always online, always free
-Answer 8 quick questions and get your readiness report **instantly on-screen**, with the same result emailed to **you** and our commercial team (commercial@ziontechgroup.com) the moment you submit. No meeting required. Optional paid implementation starts at $2,500 — Discovery itself stays free forever.
-Start here: https://ziontechgroup.com/discovery/
+## BLOCK C — Card (PT-BR)
+**Batch 99 — Marketing & Growth AI**: 6 novos apps gratuitos e interligados (SEO, mídia paga, e-mail, social listening, CRO e indicações). Abrir: https://ziontechgroup.com/apps/october-2026-batch99.html

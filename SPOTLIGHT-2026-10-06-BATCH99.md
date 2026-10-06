@@ -1,15 +1,13 @@
-# SPOTLIGHT — 2026-10-06 · Batch 99 Retail & E-commerce AI
+# SPOTLIGHT — Batch 99 · Marketing & Growth AI (2026-10-06)
 
-Live spotlight page: https://ziontechgroup.com/apps/october-2026-batch17.html
+Six new free apps for growth teams, fully interlinked across the Zion AI App Network (now **828+ apps**).
 
-## Apps
-1. **Returns Reduction AI** — https://ziontechgroup.com/returns-reduction-ai/ — predict & prevent returns, automate RMA triage with fraud flags.
-2. **Dynamic Pricing Retail AI** — https://ziontechgroup.com/dynamic-pricing-retail-ai/ — elasticity-aware pricing with MAP/floor guardrails.
-3. **Review & Sentiment AI** — https://ziontechgroup.com/review-sentiment-ai/ — aspect-based sentiment, defect early-warning, reply drafting.
-4. **Visual Merchandising AI** — https://ziontechgroup.com/visual-merchandising-ai/ — planogram & storefront layout optimization.
+1. **SEO Content Optimizer** — briefs, internal links, SERP gaps. https://ziontechgroup.com/seo-content-optimizer/
+2. **Ad Spend Optimizer** — pacing, channel mix, ROAS. https://ziontechgroup.com/ad-spend-optimizer/
+3. **Email Subject Lab** — generate/score/A-B test subject lines. https://ziontechgroup.com/email-subject-lab/
+4. **Social Listening Radar** — mentions, sentiment, trends. https://ziontechgroup.com/social-listening-radar/
+5. **Landing Page A/B Coach** — CRO audit + experiment backlog. https://ziontechgroup.com/landing-page-ab-coach/
+6. **Referral Program AI** — incentives, advocate matching, fraud checks. https://ziontechgroup.com/referral-program-ai/
 
-## Why it matters
-Returns, pricing and merchandising are the three biggest margin levers in retail; this suite attacks all three with free, open, interlinked apps.
-
-## CTA
-Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/ — results emailed instantly to client + commercial@ziontechgroup.com.
+Showcase page: https://ziontechgroup.com/apps/october-2026-batch99.html
+Free Discovery (always online, instant email results to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
