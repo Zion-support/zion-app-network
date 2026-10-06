@@ -1,4 +1,4 @@
-# 🔗 INTERLINKS — Batch 96: Real Estate & Construction AI
+# 🔗 INTERLINKS — Batch 99: Construction & PropTech AI
 
 ## Full mesh (every repo links to every other repo via ZION_APP_NETWORK.md)
 - https://github.com/Zion-support/zion-property-valuation-ai
