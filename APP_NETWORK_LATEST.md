@@ -1,20 +1,14 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 6, 2026)
 
-## 🎙️ NEW: Batch 98 — Voice & Communications AI (Oct 6, 2026)
-- [SPOTLIGHT-2026-10-06-BATCH98.md](SPOTLIGHT-2026-10-06-BATCH98.md) — 4 apps: Smart Call Routing AI, Call Intelligence Hub, Voicemail Triage AI, Meeting Intelligence AI (+ companion Voice Agent Studio)
-- [APPS_INDEX-BATCH-98.md](APPS_INDEX-BATCH-98.md) · [INTERLINKS-batch98-voice-comms.md](INTERLINKS-batch98-voice-comms.md) — full-mesh + cross-batch interlinks
-- New public repos: smart-call-routing-ai, call-intelligence-hub, voicemail-triage-ai, meeting-intelligence-ai (README + NETWORK.md + landing page each)
-- Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html
-- Homepage: Batch 98 card + Voice & Communications use-case trail + network total raised to 874+; Discovery benefits (free forever, always online, instant dual delivery to client + commercial@ziontechgroup.com) re-advertised
-- App landing pages live: /smart-call-routing-ai/ · /call-intelligence-hub/ · /voicemail-triage-ai/ · /meeting-intelligence-ai/
-- Homepage copy: [homepage-content-batch98.md](homepage-content-batch98.md)
-
-## 🌐 NEW: October 2026 Cross-Showcase (Oct 6, 2026)
-- [SPOTLIGHT-2026-10-06-CROSS-SHOWCASE.md](SPOTLIGHT-2026-10-06-CROSS-SHOWCASE.md) — one page uniting Batches 97 (Smart Cities & GovTech), 95 (Manufacturing & Industry 4.0), 75 (HR & Workforce) and 74 (Legal Tech & Contract AI)
-- [INTERLINKS-october-2026-cross-showcase.md](INTERLINKS-october-2026-cross-showcase.md) — full link map + cross-batch related sets
-- Showcase: https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase.html
-- Homepage feature: https://ziontechgroup.com/app-network-october-2026.html — advertises the network + all free Discovery benefits, linked to every showcase
-- Discovery v2 dual-delivery advertising on all new pages (client + commercial@ziontechgroup.com, instant email on questionnaire submit)
+## 🏠 NEW: Batch 96 — Real Estate & Property AI (Oct 6, 2026)
+- [SPOTLIGHT-2026-10-06-BATCH96.md](SPOTLIGHT-2026-10-06-BATCH96.md) — 6 apps: Property Valuation AI, Lease Abstraction AI, Tenant Screening Copilot, Rental Listing Optimizer, Facility Maintenance Planner, Real Estate Market Radar
+- [INTERLINKS-batch96-real-estate.md](INTERLINKS-batch96-real-estate.md) — full mesh + cross-batch links (Q4 real-estate suite, Batches 72, 95, industry verticals suite)
+- [APPS_INDEX-BATCH-96.md](APPS_INDEX-BATCH-96.md)
+- Showcase: https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase.html
+- Homepage spotlight page: https://ziontechgroup.com/apps/batch96-real-estate-ai.html
+- Homepage content: [homepage-content-batch96.md](homepage-content-batch96.md)
+- Fix: ZION_APP_NETWORK.md added to tenant-screening-copilot and lease-abstraction-ai (previously uncovered); 3 new repos created with interlinks + index.html from day one
+- Discovery dual-delivery advertising (client + commercial@ziontechgroup.com) embedded in all new pages
 
 ## 🏭 NEW: Batch 95 — Manufacturing & Industry 4.0 AI (Oct 6, 2026)
 - [SPOTLIGHT-2026-10-06-BATCH95.md](SPOTLIGHT-2026-10-06-BATCH95.md) — 6 apps: Predictive Maintenance AI, Quality Vision Inspector, Production Schedule Optimizer, OEE Dashboard AI, Supplier Risk Radar, Factory Energy Optimizer
@@ -25,7 +19,8 @@
 - Homepage content: [homepage-content-batch95.md](homepage-content-batch95.md)
 - Discovery v2 dual-delivery advertising added to all new pages (client + commercial@ziontechgroup.com)
 
-## 🤥 NEW: Batch 75 — HR & Workforce AI (Oct 6, 2026)
+
+## 👥 NEW: Batch 75 — HR & Workforce AI (Oct 6, 2026)
 - [SPOTLIGHT-2026-10-04-BATCH75.md](SPOTLIGHT-2026-10-04-BATCH75.md) — 6 apps: Shift Scheduler AI, Recruiting Screening AI, Employee Sentiment Pulse, HR Onboarding Copilot, Payroll Anomaly Detector, Skills Gap Analyzer
 - [INTERLINKS-batch75-hr-workforce.md](INTERLINKS-batch75-hr-workforce.md) — full-mesh interlinks across all 6 repos
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html
@@ -62,9 +57,8 @@
 - [INTERLINKS-batch70-platform.md](INTERLINKS-batch70-platform.md)
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
 
-## 🔥 Live showcases
-- [Batch 98 — Voice & Communications AI](https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html)
-- [October 2026 Cross-Showcase](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase.html)
+## 🖥️ Live showcases
+- [Batch 96 — Real Estate & Property AI](https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase.html)
 - [Batch 95 — Manufacturing & Industry 4.0 AI](https://ziontechgroup.com/apps/october-2026-batch15.html)
 - [Batch 75 — HR & Workforce AI](https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html)
 - [Batch 74 — Legal Tech & Contract AI](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
@@ -73,8 +67,7 @@
 - [Q4 2026 Showcase](https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html)
 
 ## 🔧 Interlink fixes (Oct 3–6, 2026)
-- Batch 98: 4 new voice/comms repos shipped with README + NETWORK.md full-mesh interlinks + landing pages from day one
-- Cross-showcase: 4 flagship batches interlinked on one page + homepage feature + Discovery CTAs
+- Batch 96: tenant-screening-copilot & lease-abstraction-ai gaps closed; 3 new repos ship interlinks + index.html from day one
 - Batch 95: 6 manufacturing apps shipped with full-mesh + cross-batch interlinks and Discovery CTAs
 - Batch 75: 6 HR/Workforce repos now carry ZION_APP_NETWORK.md interlinks (payroll-anomaly-detector gap closed)
 - Batch 71: added ZION_APP_NETWORK.md to 8 previously-uncovered agent-engineering repos
