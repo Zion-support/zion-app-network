@@ -1,8 +1,21 @@
 # Zion App Network — LATEST (updated 2026-10-07)
 
-**Total: 458 apps** across 110 batches.
+**Total: 464 apps** across 111 batches.
 
-## Newest: Batch 110 — Healthcare & Clinic AI
+## Newest: Batch 111 — Agriculture & FoodTech AI
+| App | Repo |
+|---|---|
+| Crop Yield Predictor | https://github.com/Zion-support/zion-crop-yield-predictor |
+| Livestock Health Monitor | https://github.com/Zion-support/zion-livestock-health-monitor |
+| Irrigation Optimizer AI | https://github.com/Zion-support/zion-irrigation-optimizer-ai |
+| Food Safety Inspector | https://github.com/Zion-support/zion-food-safety-inspector |
+| Farm Market Forecaster | https://github.com/Zion-support/zion-farm-market-forecaster |
+| Restaurant Waste Reducer | https://github.com/Zion-support/zion-restaurant-waste-reducer |
+
+Overview: https://ziontechgroup.com/zion-app-network/app-network-batch111-oct07.html
+Full mesh interlinks: INTERLINKS-batch111-agriculture-foodtech.md
+
+## Batch 110 — Healthcare & Clinic AI
 | App | Repo | Live page |
 |---|---|---|
 | Patient No-Show Predictor | https://github.com/Zion-support/patient-no-show-predictor | https://ziontechgroup.com/patient-no-show-predictor/ |
@@ -21,6 +34,18 @@ Overview: https://ziontechgroup.com/apps/october-2026-batch110-healthcare-ai.htm
 | Tailings Dam Monitor | https://github.com/Zion-support/tailings-dam-monitor | https://ziontechgroup.com/tailings-dam-monitor/ |
 
 Overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
+
+## Batch 106 — Construction & PropTech AI
+| App | Repo |
+|---|---|
+| Property Valuation AI | https://github.com/Zion-support/zion-property-valuation-ai |
+| Construction Bid Estimator | https://github.com/Zion-support/zion-construction-bid-estimator |
+| Site Safety Vision | https://github.com/Zion-support/zion-site-safety-vision |
+| Project Schedule Risk AI | https://github.com/Zion-support/zion-project-schedule-risk |
+| Lease Abstraction AI | https://github.com/Zion-support/zion-lease-abstraction-ai |
+| Facility Maintenance Predictor | https://github.com/Zion-support/zion-facility-maintenance-predictor |
+
+Overview: https://ziontechgroup.com/zion-app-network/app-network-batch106-oct06.html
 
 Discovery: https://ziontechgroup.com/discovery/ — always online, always free, instant results to client + commercial@ziontechgroup.com.
 Homepage: https://ziontechgroup.com | Apps: https://ziontechgroup.com/apps/ | Hub: https://zion-support.github.io/zion-app-network/
