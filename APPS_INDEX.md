@@ -4,7 +4,7 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Total repositories: 796**
+**Total repositories: 800**
 
 ## AI Apps (15)
 
@@ -336,6 +336,17 @@ Overview: https://ziontechgroup.com/apps/october-2026-batch104.html
 | [landing-page-ab-coach](https://github.com/Zion-support/landing-page-ab-coach) | CRO suggestions and experiment plans for landing pages | https://ziontechgroup.com/landing-page-ab-coach/ |
 
 Overview: https://ziontechgroup.com/apps/october-2026-batch105.html
+
+## Batch 106 — HR & People Ops AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [talent-acquisition-copilot](https://github.com/Zion-support/talent-acquisition-copilot) | Recruiting funnel analytics, candidate scoring, interview scheduling | https://ziontechgroup.com/talent-acquisition-copilot/ |
+| [employee-attrition-predictor](https://github.com/Zion-support/employee-attrition-predictor) | Flight-risk scoring, retention playbooks, engagement signals | https://ziontechgroup.com/employee-attrition-predictor/ |
+| [skills-gap-navigator](https://github.com/Zion-support/skills-gap-navigator) | Skills inventory, gap analysis, learning paths, succession heatmaps | https://ziontechgroup.com/skills-gap-navigator/ |
+| [shift-scheduling-copilot](https://github.com/Zion-support/shift-scheduling-copilot) | Demand-based rosters, labor-law compliance, overtime cost control | https://ziontechgroup.com/shift-scheduling-copilot/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch106-hr-people-ai.html
 
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
