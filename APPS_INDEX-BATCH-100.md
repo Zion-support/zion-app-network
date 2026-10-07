@@ -1,11 +1,15 @@
-# Apps Index — Batch 100: Field Services & MSP AI (2026-10-06)
+# Batch 100 — Gaming & Esports AI (2026-10-07)
 
-| # | App | Repo | Live | Pitch |
-|---|---|---|---|---|
-| 1 | Ticket Triage Copilot | Zion-support/zion-ticket-triage-copilot | https://ziontechgroup.com/zion-ticket-triage-copilot/ | Auto-classify, prioritize P1–P4, draft replies; −40–60% cost per ticket |
-| 2 | SLA Breach Predictor | Zion-support/zion-sla-breach-predictor | https://ziontechgroup.com/zion-sla-breach-predictor/ | Predict and prevent SLA breaches before they happen |
-| 3 | Field Dispatch Optimizer | Zion-support/zion-field-dispatch-optimizer | https://ziontechgroup.com/zion-field-dispatch-optimizer/ | AI dispatch & routing: right tech, right part, right time |
-| 4 | RFQ Quote Assistant | Zion-support/zion-rfq-quote-assistant | https://ziontechgroup.com/zion-rfq-quote-assistant/ | RFQs and tickets to accurate quotes in minutes |
+6 interlinked apps. All repos public under https://github.com/Zion-support.
 
-Interlinks: [INTERLINKS-batch100-field-msp.md](INTERLINKS-batch100-field-msp.md) · Spotlight: [SPOTLIGHT-2026-10-06-BATCH100.md](SPOTLIGHT-2026-10-06-BATCH100.md)
-Discovery (free, online): https://ziontechgroup.com/discovery/
+| App | GitHub | Live |
+|---|---|---|
+| Esports Match Predictor | https://github.com/Zion-support/esports-match-predictor | https://ziontechgroup.com/esports-match-predictor/ |
+| Tournament Bracket AI | https://github.com/Zion-support/tournament-bracket-ai | https://ziontechgroup.com/tournament-bracket-ai/ |
+| Game Balancing Lab | https://github.com/Zion-support/game-balancing-lab | https://ziontechgroup.com/game-balancing-lab/ |
+| Stream Highlight AI | https://github.com/Zion-support/stream-highlight-ai | https://ziontechgroup.com/stream-highlight-ai/ |
+| Player Toxicity Guard | https://github.com/Zion-support/player-toxicity-guard | https://ziontechgroup.com/player-toxicity-guard/ |
+| Esports Sponsor ROI | https://github.com/Zion-support/esports-sponsor-roi | https://ziontechgroup.com/esports-sponsor-roi/ |
+
+Showcase: https://ziontechgroup.com/apps/october-2026-batch100.html
+Discovery (free, always online): https://ziontechgroup.com/discovery/
