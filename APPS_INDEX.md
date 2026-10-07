@@ -348,5 +348,38 @@ Overview: https://ziontechgroup.com/apps/october-2026-batch105.html
 
 Overview: https://ziontechgroup.com/apps/october-2026-batch106-hr-people-ai.html
 
+## Batch 107 — Education & EdTech AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [student-success-predictor](https://github.com/Zion-support/student-success-predictor) | Early-warning risk scoring from LMS/attendance signals, intervention playbooks | https://ziontechgroup.com/student-success-predictor/ |
+| [admissions-copilot-ai](https://github.com/Zion-support/admissions-copilot-ai) | Applicant scoring, enrollment yield forecasting, counselor follow-ups | https://ziontechgroup.com/admissions-copilot-ai/ |
+| [curriculum-planner-ai](https://github.com/Zion-support/curriculum-planner-ai) | Demand-driven course planning, accreditation mapping, faculty load balancing | https://ziontechgroup.com/curriculum-planner-ai/ |
+| [alumni-engagement-ai](https://github.com/Zion-support/alumni-engagement-ai) | Donor propensity scoring, campaign personalization, event turnout forecasting | https://ziontechgroup.com/alumni-engagement-ai/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch107-edtech-ai.html
+
+## Batch 108 — Travel, Aviation & Tourism AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [flight-disruption-copilot](https://github.com/Zion-support/flight-disruption-copilot) | Automated rebooking, EU261/ANAC compensation workflows, crew & passenger alerts | https://ziontechgroup.com/flight-disruption-copilot/ |
+| [dynamic-pricing-engine-travel](https://github.com/Zion-support/dynamic-pricing-engine-travel) | Demand forecasts, competitor rates and event-signal pricing for hotels & airlines | https://ziontechgroup.com/dynamic-pricing-engine-travel/ |
+| [itinerary-ai-concierge](https://github.com/Zion-support/itinerary-ai-concierge) | Personalized itineraries, upsell offers and 24/7 traveler support | https://ziontechgroup.com/itinerary-ai-concierge/ |
+| [hotel-review-sentinel](https://github.com/Zion-support/hotel-review-sentinel) | OTA review sentiment, reputation management, AI response drafting | https://ziontechgroup.com/hotel-review-sentinel/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch108-travel-ai.html
+
+## Batch 109 — Mining & Metals AI (4)
+
+| Repository | What it does | Live app |
+|---|---|---|
+| [mine-safety-sentinel](https://github.com/Zion-support/mine-safety-sentinel) | Worker safety monitoring, hazard detection, incident prediction | https://ziontechgroup.com/mine-safety-sentinel/ |
+| [ore-grade-predictor](https://github.com/Zion-support/ore-grade-predictor) | Ore grade prediction from drill & sensor data for mine planning | https://ziontechgroup.com/ore-grade-predictor/ |
+| [mining-fleet-optimizer](https://github.com/Zion-support/mining-fleet-optimizer) | Haul fleet dispatch, fuel optimization, predictive maintenance | https://ziontechgroup.com/mining-fleet-optimizer/ |
+| [tailings-dam-monitor](https://github.com/Zion-support/tailings-dam-monitor) | Tailings dam monitoring — piezometer/InSAR signals, GISTM compliance alerts | https://ziontechgroup.com/tailings-dam-monitor/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
+
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
