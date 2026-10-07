@@ -13,4 +13,6 @@
 - Batch 99 = Marketing & Growth AI (this lane) → /apps/october-2026-batch99.html
 - Batch 100 = Manufacturing & Industry 4.0 AI → /apps/october-2026-batch100.html
 - Batch 100b = Gaming & Esports AI (this lane) → /apps/october-2026-batch100-gaming-esports.html
+- Batch 101 = Agriculture & Food AI (homepage lane) → /apps/october-2026-batch101.html
+- Batch 102 = Insurance & Risk AI (Kleber CEO lane, 2026-10-07) → showcase /zion-app-network/app-network-batch101-oct06.html (legacy slug) + hub files APPS_INDEX-BATCH-101.md, INTERLINKS-batch101-insurance-risk.md, SPOTLIGHT-2026-10-06-BATCH101.md, homepage-content-batch101.md; repos: claims-triage-copilot, underwriting-risk-radar, policy-servicing-ai, insurance-fraud-sentinel, broker-renewal-copilot, loss-control-inspector; homepage section id=batch102-h.
 - Earlier Healthcare & Media/Marketing 'Batch 100' pages were overwritten by later lanes before this registry existed — content recoverable from git history (ddf2024d, cfdbdc4a) if lanes want unique slugs.
