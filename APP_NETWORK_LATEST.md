@@ -1,33 +1,26 @@
-# Zion App Network — LATEST (updated 2026-10-06)
+# Zion App Network — LATEST (updated 2026-10-07)
 
-**Total: 448 apps** across 106 batches.
+**Total: 458 apps** across 110 batches.
 
-## Newest: Batch 106 — Construction & PropTech AI
-| App | Repo |
-|---|---|
-| Property Valuation AI | https://github.com/Zion-support/zion-property-valuation-ai |
-| Construction Bid Estimator | https://github.com/Zion-support/zion-construction-bid-estimator |
-| Site Safety Vision | https://github.com/Zion-support/zion-site-safety-vision |
-| Project Schedule Risk AI | https://github.com/Zion-support/zion-project-schedule-risk |
-| Lease Abstraction AI | https://github.com/Zion-support/zion-lease-abstraction-ai |
-| Facility Maintenance Predictor | https://github.com/Zion-support/zion-facility-maintenance-predictor |
-
-Overview: https://ziontechgroup.com/apps/october-2026-batch106-construction.html
-Full mesh interlinks: INTERLINKS-batch106-construction-proptech.md
-Fix this batch: /discovery/thanks.html 404 resolved (removed file/dir conflict); Discovery dual-delivery verified (client + commercial@ziontechgroup.com via FormSubmit AJAX).
-
-## Batch 105 — Growth & CRO AI
+## Newest: Batch 110 — Healthcare & Clinic AI
 | App | Repo | Live page |
 |---|---|---|
-| Referral Program AI | https://github.com/Zion-support/referral-program-ai | https://ziontechgroup.com/referral-program-ai/ |
-| Landing Page A/B Coach | https://github.com/Zion-support/landing-page-ab-coach | https://ziontechgroup.com/landing-page-ab-coach/ |
+| Patient No-Show Predictor | https://github.com/Zion-support/patient-no-show-predictor | https://ziontechgroup.com/patient-no-show-predictor/ |
+| Clinical Documentation Copilot | https://github.com/Zion-support/clinical-documentation-copilot | https://ziontechgroup.com/clinical-documentation-copilot/ |
+| Bed Flow Optimizer | https://github.com/Zion-support/bed-flow-optimizer | https://ziontechgroup.com/bed-flow-optimizer/ |
+| Medical Billing Denials AI | https://github.com/Zion-support/medical-billing-denials-ai | https://ziontechgroup.com/medical-billing-denials-ai/ |
 
-Overview: https://ziontechgroup.com/apps/october-2026-growth-cro.html
+Overview: https://ziontechgroup.com/apps/october-2026-batch110-healthcare-ai.html
 
-## Batch 104 — Cybersecurity & SOC AI
+## Batch 109 — Mining & Metals AI (interlinks + landing pages fixed 2026-10-07)
 | App | Repo | Live page |
 |---|---|---|
-| Phishing Triage AI | https://github.com/Zion-support/phishing-triage-ai | https://ziontechgroup.com/phishing-triage-ai/ |
-| SOC Alert Summarizer | https://github.com/Zion-support/soc-alert-summarizer | https://ziontechgroup.com/soc-alert-summarizer/ |
-| Security Posture Score AI | https://github.com/Zion-support/security-posture-score-ai | https://ziontechgroup.com/security-posture-score-ai/ |
-| Vulnerability Priority Radar | https://github.com/Zion-support/vulnerability-priority-radar | https://ziontechgroup.com/vulnerability-priority-radar/ |
+| Mine Safety Sentinel | https://github.com/Zion-support/mine-safety-sentinel | https://ziontechgroup.com/mine-safety-sentinel/ |
+| Ore Grade Predictor | https://github.com/Zion-support/ore-grade-predictor | https://ziontechgroup.com/ore-grade-predictor/ |
+| Mining Fleet Optimizer | https://github.com/Zion-support/mining-fleet-optimizer | https://ziontechgroup.com/mining-fleet-optimizer/ |
+| Tailings Dam Monitor | https://github.com/Zion-support/tailings-dam-monitor | https://ziontechgroup.com/tailings-dam-monitor/ |
+
+Overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
+
+Discovery: https://ziontechgroup.com/discovery/ — always online, always free, instant results to client + commercial@ziontechgroup.com.
+Homepage: https://ziontechgroup.com | Apps: https://ziontechgroup.com/apps/ | Hub: https://zion-support.github.io/zion-app-network/
