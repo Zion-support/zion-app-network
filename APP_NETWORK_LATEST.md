@@ -1,8 +1,21 @@
 # Zion App Network — LATEST (updated 2026-10-07)
 
-**Total: 464 apps** across 111 batches.
+**Total: 470 apps** across 112 batches.
 
-## Newest: Batch 111 — Agriculture & FoodTech AI
+## Newest: Batch 112 — Telecom & Connectivity AI
+| App | Repo |
+|---|---|
+| Network Outage Predictor | https://github.com/Zion-support/zion-network-outage-predictor |
+| Cell Tower Optimizer | https://github.com/Zion-support/zion-cell-tower-optimizer |
+| Bandwidth Demand Forecaster | https://github.com/Zion-support/zion-bandwidth-demand-forecaster |
+| 5G Rollout Planner | https://github.com/Zion-support/zion-5g-rollout-planner |
+| Churn Signal Radar | https://github.com/Zion-support/zion-churn-signal-radar |
+| Spectrum Usage Analyzer | https://github.com/Zion-support/zion-spectrum-usage-analyzer |
+
+Overview: https://ziontechgroup.com/zion-app-network/app-network-batch112-oct07.html
+Full mesh interlinks: INTERLINKS-batch112-telecom-connectivity.md
+
+## Batch 111 — Agriculture & FoodTech AI
 | App | Repo |
 |---|---|
 | Crop Yield Predictor | https://github.com/Zion-support/zion-crop-yield-predictor |
@@ -13,7 +26,6 @@
 | Restaurant Waste Reducer | https://github.com/Zion-support/zion-restaurant-waste-reducer |
 
 Overview: https://ziontechgroup.com/zion-app-network/app-network-batch111-oct07.html
-Full mesh interlinks: INTERLINKS-batch111-agriculture-foodtech.md
 
 ## Batch 110 — Healthcare & Clinic AI
 | App | Repo | Live page |
@@ -24,16 +36,6 @@ Full mesh interlinks: INTERLINKS-batch111-agriculture-foodtech.md
 | Medical Billing Denials AI | https://github.com/Zion-support/medical-billing-denials-ai | https://ziontechgroup.com/medical-billing-denials-ai/ |
 
 Overview: https://ziontechgroup.com/apps/october-2026-batch110-healthcare-ai.html
-
-## Batch 109 — Mining & Metals AI (interlinks + landing pages fixed 2026-10-07)
-| App | Repo | Live page |
-|---|---|---|
-| Mine Safety Sentinel | https://github.com/Zion-support/mine-safety-sentinel | https://ziontechgroup.com/mine-safety-sentinel/ |
-| Ore Grade Predictor | https://github.com/Zion-support/ore-grade-predictor | https://ziontechgroup.com/ore-grade-predictor/ |
-| Mining Fleet Optimizer | https://github.com/Zion-support/mining-fleet-optimizer | https://ziontechgroup.com/mining-fleet-optimizer/ |
-| Tailings Dam Monitor | https://github.com/Zion-support/tailings-dam-monitor | https://ziontechgroup.com/tailings-dam-monitor/ |
-
-Overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
 
 ## Batch 106 — Construction & PropTech AI
 | App | Repo |
