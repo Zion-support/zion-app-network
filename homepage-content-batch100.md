@@ -1,7 +1,7 @@
-# Homepage advertising pack — Batch 100 (paste into ziontechgroup.com)
+# Homepage advertising pack — Batch 100b (paste into ziontechgroup.com)
 
 ## BLOCK A — Hero strip (EN)
-New: **Batch 100 — Gaming & Esports AI**. Six free apps for studios, tournament ops, streamers and sponsors: Esports Match Predictor, Tournament Bracket AI, Game Balancing Lab, Stream Highlight AI, Player Toxicity Guard, Esports Sponsor ROI. Explore: https://ziontechgroup.com/apps/october-2026-batch100.html — free 5-minute Discovery: https://ziontechgroup.com/discovery/
+New: **Batch 100b — Gaming & Esports AI**. Six free apps for studios, tournament ops, streamers and sponsors: Esports Match Predictor, Tournament Bracket AI, Game Balancing Lab, Stream Highlight AI, Player Toxicity Guard, Esports Sponsor ROI. Explore: https://ziontechgroup.com/apps/october-2026-batch100-gaming-esports.html — free 5-minute Discovery: https://ziontechgroup.com/discovery/
 
 ## BLOCK B — Discovery benefits (advertise everywhere)
 - Always online & always free — 24/7, no signup, no sales call required.
@@ -11,4 +11,4 @@ New: **Batch 100 — Gaming & Esports AI**. Six free apps for studios, tournamen
 Start: https://ziontechgroup.com/discovery/
 
 ## BLOCK C — Card (PT-BR)
-**Batch 100 — Gaming & Esports AI**: 6 novos apps gratuitos e interligados (previsão de partidas, brackets, balanceamento, highlights, moderação e ROI de patrocínio). Abrir: https://ziontechgroup.com/apps/october-2026-batch100.html
+**Batch 100b — Gaming & Esports AI**: 6 novos apps gratuitos e interligados (previsão de partidas, brackets, balanceamento, highlights, moderação e ROI de patrocínio). Abrir: https://ziontechgroup.com/apps/october-2026-batch100-gaming-esports.html

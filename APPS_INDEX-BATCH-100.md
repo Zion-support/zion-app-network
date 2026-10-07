@@ -1,4 +1,6 @@
-# Batch 100 — Gaming & Esports AI (2026-10-07)
+# Batch 100b — Gaming & Esports AI (2026-10-07)
+
+NOTE: 'Batch 100' slug was concurrently used by another lane for Manufacturing & Industry 4.0 (and earlier Healthcare/Media pages). This lane's suite is registered as **Batch 100b — Gaming & Esports AI** with unique showcase slug. See [COORDINATION-batch-numbering.md](COORDINATION-batch-numbering.md).
 
 6 interlinked apps. All repos public under https://github.com/Zion-support.
 
@@ -11,5 +13,5 @@
 | Player Toxicity Guard | https://github.com/Zion-support/player-toxicity-guard | https://ziontechgroup.com/player-toxicity-guard/ |
 | Esports Sponsor ROI | https://github.com/Zion-support/esports-sponsor-roi | https://ziontechgroup.com/esports-sponsor-roi/ |
 
-Showcase: https://ziontechgroup.com/apps/october-2026-batch100.html
+Showcase: https://ziontechgroup.com/apps/october-2026-batch100-gaming-esports.html
 Discovery (free, always online): https://ziontechgroup.com/discovery/

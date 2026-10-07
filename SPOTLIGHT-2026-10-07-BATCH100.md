@@ -1,6 +1,6 @@
-# SPOTLIGHT — Batch 100 · Gaming & Esports AI (2026-10-07)
+# SPOTLIGHT — Batch 100b · Gaming & Esports AI (2026-10-07)
 
-Six new free apps for studios, tournament operators, streamers and sponsors — fully interlinked across the Zion AI App Network (now **834+ apps**).
+Six new free apps for studios, tournament operators, streamers and sponsors — fully interlinked across the Zion AI App Network (**834+ apps**).
 
 1. **Esports Match Predictor** — draft analysis, form curves, upset alerts. https://ziontechgroup.com/esports-match-predictor/
 2. **Tournament Bracket AI** — seeding, scheduling, fairness. https://ziontechgroup.com/tournament-bracket-ai/
@@ -9,5 +9,5 @@ Six new free apps for studios, tournament operators, streamers and sponsors — 
 5. **Player Toxicity Guard** — chat moderation, community health. https://ziontechgroup.com/player-toxicity-guard/
 6. **Esports Sponsor ROI** — exposure analytics, valuation. https://ziontechgroup.com/esports-sponsor-roi/
 
-Showcase: https://ziontechgroup.com/apps/october-2026-batch100.html
+Showcase: https://ziontechgroup.com/apps/october-2026-batch100-gaming-esports.html
 Free Discovery (always online, instant email to you + commercial@ziontechgroup.com): https://ziontechgroup.com/discovery/
