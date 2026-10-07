@@ -1,28 +1,23 @@
-# Zion AI Discovery — Product Spec & Benefits (Oct 4, 2026)
+# Zion AI Discovery — product behavior and benefits
 
-**URL:** https://ziontechgroup.com/discovery/ — always online, always free.
+Reviewed: 7 October 2026.
 
-## What it is
-A free online questionnaire that generates a personalized AI discovery report for any business — instantly.
+**Start:** https://ziontechgroup.com/discovery/ — free, online and self-service; no payment or mandatory meeting to view the report.
 
-## Benefits (advertise on homepage)
-1. **Free forever** — zero cost, zero commitment, no credit card.
-2. **Always online** — 24/7 self-service; no need to book a call.
-3. **Instant results** — the report is generated as soon as the questionnaire is submitted.
-4. **Dual delivery** — results are emailed immediately to:
-   - the **client** (the email entered in the questionnaire), and
-   - our **commercial team** at commercial@ziontechgroup.com, so a tailored follow-up happens fast.
-5. **Actionable** — recommendations map directly to 770+ live apps in the Zion AI App Network (https://github.com/Zion-support/zion-app-network).
+## Benefits
+- Approximately five minutes, with business context and process questions.
+- Immediate browser-generated report: indicative readiness, a rough capacity-value scenario, recommended apps, and baseline/owner/stop-rule guidance.
+- The same full result is submitted for email delivery to the client and commercial@ziontechgroup.com, with Carlos copied.
+- Copy/download are available immediately; manual prefilled-email fallback is available if submission fails.
+- App links are recommendations to explore, not evidence of audited capability, guaranteed live uptime, or an authorization to implement.
 
-## Delivery automation (required behavior)
-1. Client submits the questionnaire at /discovery/.
-2. System generates the discovery report.
-3. Email #1 → client email with full results + recommended apps links.
-4. Email #2 → commercial@ziontechgroup.com with the same results + lead details for follow-up.
-5. SLA: both emails dispatched immediately on submission (as soon as the questionnaire is filled).
+## Delivery wording to use in homepage/app content
+“Discovery is free and online. See your report immediately on-screen; submission requests email delivery to you and Zion Commercial. Delivery to inboxes depends on the provider. Copy or download the report at any time.”
 
-## Status
-- Discovery endpoint: online & free (verify weekly).
-- Homepage advertising block: see homepage-content-batch74.md ("Why our free Discovery?" section).
+Avoid “guaranteed instant email”, “zero lead loss”, “770+ verified live apps”, or unsupported app counts. Provider acceptance and actual inbox receipt are different states.
 
-© 2026 Zion Tech Group — https://ziontechgroup.com
+## Commercial boundary
+The readiness score is a heuristic, not a technical audit. Capacity value uses explicit assumptions (US$45/hour and 40% potentially automatable), not measured savings or pricing. Discovery does not purchase, dispatch or book anything. Optional paid consulting/implementation is separate; confirm scope and all-in costs, minimum 40% COST markup and applicable taxes before a quote, and require client written confirmation plus PO before commitment.
+
+## Operations
+See [Discovery Automation runbook](DISCOVERY-AUTOMATION.md) for exact fields, source paths, recipients, recovery, duplicate handling and approved end-to-end verification. Existing source/deployment copies must stay aligned. Any real test submission or publication requires specific approval.
