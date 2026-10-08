@@ -1,6 +1,6 @@
 # SPOTLIGHT — 2026-10-08 · Batch 127 Retail & E-commerce AI
 
-Live showcase (5 languages, DESIGN-PATTERN v2): https://ziontechgroup.com/apps/october-2026-batch17.html · [-pt](https://ziontechgroup.com/apps/october-2026-batch17-pt.html) · [-es](https://ziontechgroup.com/apps/october-2026-batch17-es.html) · [-fr](https://ziontechgroup.com/apps/october-2026-batch17-fr.html) · [-de](https://ziontechgroup.com/apps/october-2026-batch17-de.html)
+Showcase (5 languages, DESIGN-PATTERN v2): https://ziontechgroup.com/apps/october-2026-batch17.html (-pt/-es/-fr/-de)
 
 ## Apps
 1. **Returns Reduction AI** — https://ziontechgroup.com/returns-reduction-ai/ — predict & prevent returns, automate RMA triage with fraud flags.
