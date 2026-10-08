@@ -14,11 +14,11 @@
 ## Status
 | Content | en | pt-BR | es | fr | de |
 |---|---|---|---|---|---|
-| Batch 98 Sports showcase (hub + live /apps/october-2026-batch128-sports-venue*) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Batch 100 Manufacturing showcase (/apps/october-2026-batch100*) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Batch 90 Sports, Fitness & Fan Engagement (/apps/october-2026-batch90-sports-fitness*) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Batches 70–97 (rest), 99, 101+ showcases | ✅ | ⏳ backlog | ⏳ backlog | ⏳ backlog | ⏳ backlog |
+| Batch 99 Logistics (hub + /apps/october-2026-batch129-logistics-ai*) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Batch 98 Sports (hub + /apps/october-2026-batch128-sports-venue*) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Batch 100 Manufacturing (/apps/october-2026-batch100*) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Batches 70–97, 101+ showcases | ✅ | ⏳ backlog | ⏳ backlog | ⏳ backlog | ⏳ backlog |
 
-Backlog: translate remaining batch showcases using [DESIGN_PATTERN.md](DESIGN_PATTERN.md) as the canonical layout; add language switcher to EN originals when touched. Next candidates: batch99, batch101–114, batch96-real-estate.
+Backlog: translate remaining batch showcases using [DESIGN_PATTERN.md](DESIGN_PATTERN.md); add language switcher to EN originals when touched.
 
 © 2026 Zion Tech Group
