@@ -1,9 +1,19 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 8, 2026)
 
-## 🌍 NEW: Full 5-language standard (EN · PT · ES · FR · DE) (Oct 8, 2026)
+## 🛒 NEW: Batch 127 — Retail & E-commerce AI (Oct 8, 2026)
+- [APPS_INDEX-BATCH-127.md](APPS_INDEX-BATCH-127.md) — 4 apps: Returns Reduction AI, Dynamic Pricing Retail AI, Review & Sentiment AI, Visual Merchandising AI
+- [INTERLINKS-batch127-retail.md](INTERLINKS-batch127-retail.md) — full sibling mesh + cross-batch links (Batch 89, pricing/inventory apps)
+- [SPOTLIGHT-2026-10-08-BATCH127.md](SPOTLIGHT-2026-10-08-BATCH127.md)
+- Showcase (5 languages, DESIGN-PATTERN v2): [EN](https://ziontechgroup.com/apps/october-2026-batch17.html) · [PT](https://ziontechgroup.com/apps/october-2026-batch17-pt.html) · [ES](https://ziontechgroup.com/apps/october-2026-batch17-es.html) · [FR](https://ziontechgroup.com/apps/october-2026-batch17-fr.html) · [DE](https://ziontechgroup.com/apps/october-2026-batch17-de.html)
+- Live apps: https://ziontechgroup.com/returns-reduction-ai/ · https://ziontechgroup.com/dynamic-pricing-retail-ai/ · https://ziontechgroup.com/review-sentiment-ai/ · https://ziontechgroup.com/visual-merchandising-ai/
+- ⚠️ Renumbered: this suite was briefly labeled Batch 99 (2026-10-06); Batch 99 is Marketing & Growth AI from a parallel session — all repos, homepage, discovery page and hub docs now say Batch 127
+- Homepage: Batch 127 card + Retail & E-commerce trail; Discovery page: Batch 127 card + Retail recs point to the new apps
+- Also: ZION_APP_NETWORK.md added to 7 legacy repos (water-usage-optimizer, student-progress-radar, tutoring-copilot-ai, website-carbon-estimator, zion-ai-prompt-forge, zion-ai-ticket-triage, synthetic-data-lab)
+
+## 🌍 Full 5-language standard (EN · PT · ES · FR · DE) (Oct 8, 2026)
 - October 2026 Cross-Showcase and homepage feature now fully translated in all 5 network languages with langbar nav + hreflang alternates
 - [DESIGN-PATTERN.md](DESIGN-PATTERN.md) v2 — consolidated design/translation pattern updated to the 5-language standard
-- [APPS_INDEX-BATCHES-92-113.md](APPS_INDEX-BATCHES-92-113.md) — NEW master rollup: every batch index, spotlight, interlinks doc and showcase for batches 92–113 in one table
+- [APPS_INDEX-BATCHES-92-113.md](APPS_INDEX-BATCHES-92-113.md) — master rollup: every batch index, spotlight, interlinks doc and showcase for batches 92–113 in one table
 - Cross-showcase: [EN](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase.html) · [PT](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase-pt.html) · [ES](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase-es.html) · [FR](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase-fr.html) · [DE](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase-de.html)
 - Homepage feature: [EN](https://ziontechgroup.com/app-network-october-2026.html) · [PT](https://ziontechgroup.com/app-network-october-2026-pt.html) · [ES](https://ziontechgroup.com/app-network-october-2026-es.html) · [FR](https://ziontechgroup.com/app-network-october-2026-fr.html) · [DE](https://ziontechgroup.com/app-network-october-2026-de.html)
 - Discovery guides in 5 languages: /apps/discovery-showcase.html · -pt · -es · -fr · -de
@@ -49,6 +59,7 @@
 - Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch70-oct01.html
 
 ## 🔥 Live showcases
+- [Batch 127 — Retail & E-commerce AI](https://ziontechgroup.com/apps/october-2026-batch17.html) (5 languages)
 - [October 2026 Cross-Showcase](https://ziontechgroup.com/zion-app-network/app/network-october-2026-cross-showcase.html) (5 languages)
 - [Batches 92–113 Rollup](APPS_INDEX-BATCHES-92-113.md)
 - [Batch 98 showcase — 5 languages](https://ziontechgroup.com/zion-app-network/app-network-batch98-oct06.html)
