@@ -1,9 +1,9 @@
-# 🎨 Zion App Network — Consolidated Design & Content Pattern (2026-10-06)
+# 🎨 Zion App Network — Consolidated Design & Content Pattern (2026-10-08, v2)
 
 All new published pages (showcases, cross-showcases, homepage feature pages) MUST follow this single pattern so the whole network looks, reads and navigates the same.
 
 ## 1. Structure (in order)
-1. `<nav class="langbar">` — language switcher: English · Português · Español, one link per published translation, `active` class on current language
+1. `<nav class="langbar">` — language switcher with ALL FIVE languages: English · Português · Español · Français · Deutsch, one link per published translation, `active` class on current language
 2. `<header>` — gradient banner, H1 with emoji, one-paragraph pitch, 1–2 CTA buttons (Discovery CTA always present)
 3. Suite/batch `<section>`s — H2 with emoji + `.cards` grid of `.card` items (title, 1-sentence description, Live app + Repo links)
 4. **Discovery benefits `<section>`** — always present, always the 6 canonical benefits + the commercial banner (dual-delivery to client + commercial@ziontechgroup.com)
@@ -23,11 +23,13 @@ All new published pages (showcases, cross-showcases, homepage feature pages) MUS
 - Cards: white, 1px #e2e8f0 border, 12px radius, subtle shadow
 - CTAs: primary #1e3a8a (homepage) / #6366f1 (hub), `.green` #059669 for Discovery, `.sky`/`.alt` #0ea5e9
 - H2 accent: 3px bottom border (#0ea5e9 homepage / #6366f1 hub)
+- Langbar: dark #0f172a bar, links #7dd3fc, active white bold
 
-## 4. Translations
-- Languages: **en** (canonical), **pt-BR** (`-pt` suffix), **es** (`-es` suffix)
-- Same file name with suffix, e.g. `app-network-october-2026.html` / `-pt.html` / `-es.html`
-- Every translated page carries `<link rel="alternate" hreflang>` for all three + langbar nav
+## 4. Translations — FIVE languages (standard since 2026-10-08)
+- Languages: **en** (canonical, no suffix), **pt-BR** (`-pt`), **es** (`-es`), **fr** (`-fr`), **de** (`-de`)
+- Same file name with suffix, e.g. `app-network-october-2026.html` / `-pt.html` / `-es.html` / `-fr.html` / `-de.html`
+- Every translated page carries `<link rel="alternate" hreflang>` for all five + the 5-language langbar nav
+- Discovery guides already exist in all five: https://ziontechgroup.com/apps/discovery-showcase.html · -pt.html · -es.html · -fr.html · -de.html — link the matching-language guide from translated pages
 - Translate headings, descriptions, benefits and CTAs; keep app proper names and URLs unchanged
 
 ## 5. Discovery rules (non-negotiable)
@@ -37,6 +39,7 @@ All new published pages (showcases, cross-showcases, homepage feature pages) MUS
 ## 6. Deployment
 - Public web content only goes in repos that serve on the custom domain: `zion-support.github.io` (public/) and `zion-app-network` (served at /zion-app-network/)
 - Repo-root .md files in zion-support.github.io are NOT publicly served — publish HTML under public/
-- After committing, verify 200 with curl; Pages deploys can take several minutes
+- Pages deploy lag is ~5–8 minutes after commit — always verify 200 with curl after waiting
+- CATALOG.md (~52KB) and APPS_INDEX.md (~45KB) are too large to rewrite via API each session — consolidate via rollup files (e.g. APPS_INDEX-BATCHES-92-113.md) instead
 
 © 2026 Zion Tech Group
