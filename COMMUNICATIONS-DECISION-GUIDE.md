@@ -1,8 +1,8 @@
-# Communications workflow comparison — five-language guide
+# Communications workflow comparison — EN / PT / ES / FR / DE
 
-Compare four connected workflows, choose one measured problem and prepare a human-reviewed pilot. The guide covers when to explore each workflow, what to measure, and the human checks required before any integration.
+A free guide for choosing one communications problem, a measured baseline, a success metric and a human-reviewed pilot. It links the four app pages, their source repositories, the local workflow lab and canonical free Discovery.
 
-## Guide languages
+## Guide routes
 
 - [English](https://ziontechgroup.com/apps/communications-decision-guide.html)
 - [Português](https://ziontechgroup.com/pt/apps/communications-decision-guide.html)
@@ -10,29 +10,20 @@ Compare four connected workflows, choose one measured problem and prepare a huma
 - [Français](https://ziontechgroup.com/fr/apps/communications-decision-guide.html)
 - [Deutsch](https://ziontechgroup.com/de/apps/communications-decision-guide.html)
 
-## App paths and source repositories
+## Connected apps and tools
 
-| Workflow | Public page | Source |
-|---|---|---|
-| Smart Call Routing AI | https://ziontechgroup.com/smart-call-routing-ai/ | https://github.com/Zion-support/smart-call-routing-ai |
-| Call Intelligence Hub | https://ziontechgroup.com/call-intelligence-hub/ | https://github.com/Zion-support/call-intelligence-hub |
-| Voicemail Triage AI | https://ziontechgroup.com/voicemail-triage-ai/ | https://github.com/Zion-support/voicemail-triage-ai |
-| Meeting Intelligence AI | https://ziontechgroup.com/meeting-intelligence-ai/ | https://github.com/Zion-support/meeting-intelligence-ai |
+[Smart Call Routing AI](https://ziontechgroup.com/smart-call-routing-ai/) · [Call Intelligence Hub](https://ziontechgroup.com/call-intelligence-hub/) · [Voicemail Triage AI](https://ziontechgroup.com/voicemail-triage-ai/) · [Meeting Intelligence AI](https://ziontechgroup.com/meeting-intelligence-ai/)
 
-Use /pt/, /es/, /fr/ or /de/ before the app slug for translated pages. English app entry points are project-hosted Pages sites; their index.html must stay consistent with the main site's translated renderer. HTTP 200 alone is not enough: check the lab marker, form, related links and language metadata.
+[Free workflow lab](https://ziontechgroup.com/apps/communications-workflow-lab.html) · [Free Discovery](https://ziontechgroup.com/discovery/) · [Homepage](https://ziontechgroup.com/) · [Network map](https://ziontechgroup.com/apps/network.html) · [Master catalog](CATALOG.md) · [Master index](APPS_INDEX.md) · [Publication standard](PUBLICATION_STANDARD.md)
 
-## Free Discovery and connected tools
+## Scope and capability
 
-[Always-free online Discovery](https://ziontechgroup.com/discovery/) · [Local workflow lab](https://ziontechgroup.com/apps/communications-workflow-lab.html) · [Network map](https://ziontechgroup.com/apps/network.html) · [Master catalog](CATALOG.md) · [Master index](APPS_INDEX.md) · [Publication standard](PUBLICATION_STANDARD.md) · [Homepage](https://ziontechgroup.com/)
+The pages provide guidance and a functional browser-only pilot worksheet, not operational phone routing, transcription, CRM integration or AI-model execution. The worksheet does not automatically send or save entered data. Use synthetic examples; validate consent, access and retention before real-data integrations.
 
-Discovery shows results immediately and submits the same report for delivery to the validated client email and commercial@ziontechgroup.com. Provider acceptance is not proof of inbox receipt. Copy/download/manual fallback remain available. No payment is required.
+Discovery stays online and free. Its report appears immediately and the same result is submitted for email delivery to the validated client address and commercial@ziontechgroup.com. Provider acceptance is not proof of inbox receipt; copy/download/manual fallback remain available. Actual two-inbox delivery must be tested separately with a designated recipient.
 
-## Capability and privacy
+## Publication evidence
 
-The worksheet generates a draft locally in the browser and exports text. It does not automatically send or persist worksheet answers. The published app pages do not run operational AI, route calls, transcribe audio or connect a CRM. Use synthetic examples; validate consent and access rights separately before real data or integration.
+[Renderer](https://github.com/Zion-support/zion-support.github.io/blob/main/scripts/render-communications-decision.cjs) · [Offline and GET-only live tests](https://github.com/Zion-support/zion-support.github.io/blob/main/scripts/test-communications-decision.cjs) · [Site release commit](https://github.com/Zion-support/zion-support.github.io/commit/33b68be6aebe3a5c56624eab20d3852d39cd7877)
 
-## Implementation and verification
-
-[Idempotent comparison renderer](https://github.com/Zion-support/zion-support.github.io/blob/main/scripts/render-communications-decision.cjs) · [Worksheet regression tests](https://github.com/Zion-support/zion-support.github.io/blob/main/scripts/test-communications-lab.cjs) · [Publication manifest](https://ziontechgroup.com/apps/communications-publication.json)
-
-Scope: five guide pages and reciprocal navigation across 35 related pages (five homepages, five Discovery showcases and 25 workflow/app pages). Other app cohorts and network-wide translation coverage remain a staged audit backlog.
+[40-route publication manifest](https://ziontechgroup.com/apps/communications-publication.json) describes this scoped release, not the entire apps network. English app roots are independent project Pages and must be checked separately from the main-site artifact. Never claim that a successful commit proves live deployment or that all repositories are functional/translatable.
