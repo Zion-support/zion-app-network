@@ -1,0 +1,39 @@
+name: Consolidate approved communications catalog
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/consolidate-communications.py
+      - .github/workflows/consolidate-communications.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: communications-catalog-sync
+  cancel-in-progress: false
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Apply additive catalog updates and truthful Discovery messaging
+        run: python3 scripts/consolidate-communications.py
+      - name: Validate idempotency
+        run: |
+          sha256sum CATALOG.md APPS_INDEX.md index.html > /tmp/communications-before.sha
+          python3 scripts/consolidate-communications.py
+          sha256sum --check /tmp/communications-before.sha
+      - name: Commit only scoped content files
+        run: |
+          if git diff --quiet -- CATALOG.md APPS_INDEX.md index.html; then
+            echo 'Approved content is already consolidated.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add CATALOG.md APPS_INDEX.md index.html
+          git commit -m 'fix(content): sync communications apps and correct Discovery promises'
+          git push origin HEAD:main
