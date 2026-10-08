@@ -1,0 +1,13 @@
+{
+  "reviewed_on": "2026-10-08",
+  "scope": "two public workflow concept pages",
+  "languages": ["en", "pt-BR", "es", "fr", "de"],
+  "entries": [
+    {"slug":"aml-screening-ai","name":"AML Screening AI","url":"https://ziontechgroup.com/aml-screening-ai/","source":"https://github.com/Zion-support/aml-screening-ai","publication_status":"http_200_observed","functionality_status":"concept_page_only_verified","live_engine_verified":false},
+    {"slug":"fraud-transaction-monitor","name":"Fraud Transaction Monitor","url":"https://ziontechgroup.com/fraud-transaction-monitor/","source":"https://github.com/Zion-support/fraud-transaction-monitor","publication_status":"http_200_observed","functionality_status":"concept_page_only_verified","live_engine_verified":false}
+  ],
+  "guide":"https://ziontechgroup.com/apps/risk-review-guide.html",
+  "discovery":"https://ziontechgroup.com/discovery/",
+  "network_wide_translation_verified":false,
+  "email_inbox_delivery_verified":false
+}
