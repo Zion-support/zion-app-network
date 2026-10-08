@@ -234,3 +234,16 @@ Free [Discovery](https://ziontechgroup.com/discovery/) provides an instant on-sc
 Discovery guides: [EN](https://ziontechgroup.com/apps/discovery-showcase.html) · [PT-BR](https://ziontechgroup.com/apps/discovery-showcase-pt.html) · [ES](https://ziontechgroup.com/apps/discovery-showcase-es.html) · [FR](https://ziontechgroup.com/apps/discovery-showcase-fr.html) · [DE](https://ziontechgroup.com/apps/discovery-showcase-de.html).
 
 Related repositories link back through NETWORK.md. This additive update does not establish a verified network-wide app count.
+
+## Finance Discovery paths — source review 2026-10-08
+
+These entries describe inspected concepts, not certified production apps. Existing count statements were not recalculated.
+
+| App | Public concept | Source | Capability status |
+|---|---|---|---|
+| Cash Flow Forecaster | [Explore](https://ziontechgroup.com/cash-flow-forecaster/) | [GitHub](https://github.com/Zion-support/cash-flow-forecaster) | Documented treasury concept; no forecast engine verified |
+| AR Collections Copilot | [Explore](https://ziontechgroup.com/ar-collections-copilot/) | [GitHub](https://github.com/Zion-support/ar-collections-copilot) | Documented receivables concept; no collections engine verified |
+| AML Screening AI | [Explore](https://ziontechgroup.com/aml-screening-ai/) | [GitHub](https://github.com/Zion-support/aml-screening-ai) | Informational AML review concept; not verified live screening |
+| Fraud Transaction Monitor | [Explore](https://ziontechgroup.com/fraud-transaction-monitor/) | [GitHub](https://github.com/Zion-support/fraud-transaction-monitor) | Informational transaction review concept; not verified live fraud scoring |
+
+[Benefits and translation matrix](DISCOVERY_CONSOLIDATION_2026-10-08.md) · [Content standard](CONTENT_PUBLICATION_STANDARD.md) · [Workflow guide](https://ziontechgroup.com/apps/discovery-workflow-paths.html) · [Free Discovery](https://ziontechgroup.com/discovery/).
