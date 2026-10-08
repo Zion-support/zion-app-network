@@ -1,0 +1,39 @@
+name: Sync Finance Discovery Catalog
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync-finance-discovery-catalog.cjs'
+      - '.github/workflows/sync-finance-discovery-catalog.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: finance-discovery-catalog
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Add missing source-status entries
+        run: node scripts/sync-finance-discovery-catalog.cjs
+      - name: Verify idempotence
+        run: |
+          cp CATALOG.md /tmp/catalog.once
+          cp APPS_INDEX.md /tmp/index.once
+          node scripts/sync-finance-discovery-catalog.cjs
+          cmp CATALOG.md /tmp/catalog.once
+          cmp APPS_INDEX.md /tmp/index.once
+      - name: Commit only the two master documents
+        run: |
+          if git diff --quiet -- CATALOG.md APPS_INDEX.md; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add CATALOG.md APPS_INDEX.md
+          git commit -m 'docs: synchronize finance Discovery source-status entries'
+          git push origin HEAD:main
