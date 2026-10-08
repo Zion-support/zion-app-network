@@ -1,6 +1,6 @@
 # Insurance catalog supplement — verified repository status
 
-This supplement repairs discovery for three repositories omitted from the legacy master files. It does not claim that documentation-only repositories are functioning AI apps. Merge these entries into APPS_INDEX.md and CATALOG.md while preserving other agents' edits.
+This supplement repairs discovery for three repositories omitted from the legacy master files. It does not claim that documentation-only repositories are functioning AI apps. The three entries have now been merged into APPS_INDEX.md and CATALOG.md by the consistency repair.
 
 | Concept | Planning page | Source | Implementation status |
 |---|---|---|---|
@@ -17,3 +17,7 @@ The [Insurance Evidence Workbench](https://ziontechgroup.com/apps/insurance-evid
 [Homepage](https://ziontechgroup.com/) · [Free Discovery](https://ziontechgroup.com/discovery/) · [Network](https://ziontechgroup.com/zion-app-network/) · [Insurance guide](https://ziontechgroup.com/apps/insurance-finance-guide.html)
 
 Discovery is free and online. Its report appears immediately; email is submitted to the client and commercial@ziontechgroup.com. Provider acceptance is not proof of inbox delivery. Use synthetic examples and require qualified human review for any insurance pilot.
+
+
+<!--insurance-master-merge:2026-10-08-catalog-insurance-v1-->
+Master catalog merge complete: all three concept repositories are linked in both files. Existing repository links were preserved and the legacy hub includes the five-language workbench card.

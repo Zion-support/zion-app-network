@@ -1,6 +1,12 @@
 # Zion App Network — Master Catalog
 
-796 repositories in the Zion Tech Group network. Hubs, AI micro-apps, tools, and the global Zion Field satellite network.
+<!--insurance-catalog-note:start-->
+[Insurance catalog status](CATALOG-INSURANCE-EVIDENCE.md) · [Free local evidence workbench](https://ziontechgroup.com/apps/insurance-evidence-workbench.html) · [Free Discovery](https://ziontechgroup.com/discovery/)
+
+Insurance entries below are documentation concepts, not functioning AI engines. The linked workbench is a local checklist, with no model inference, document upload or regulated decision. Legacy category counts are snapshots; a repository link is not evidence of a working app.
+<!--insurance-catalog-note:end-->
+
+This catalog contains 480 unique linked repositories. It includes documentation concepts, tools and field playbooks; this is not a verified count of functioning apps.
 
 ## Network Hubs
 
@@ -247,3 +253,10 @@ These entries describe inspected concepts, not certified production apps. Existi
 | Fraud Transaction Monitor | [Explore](https://ziontechgroup.com/fraud-transaction-monitor/) | [GitHub](https://github.com/Zion-support/fraud-transaction-monitor) | Informational transaction review concept; not verified live fraud scoring |
 
 [Benefits and translation matrix](DISCOVERY_CONSOLIDATION_2026-10-08.md) · [Content standard](CONTENT_PUBLICATION_STANDARD.md) · [Workflow guide](https://ziontechgroup.com/apps/discovery-workflow-paths.html) · [Free Discovery](https://ziontechgroup.com/discovery/).
+
+
+## Insurance workflow concepts — documentation, not deployed AI
+
+- [Policy Comparison AI](https://github.com/Zion-support/policy-comparison-ai) — Policy-comparison workflow concept; no AI engine implemented. [Planning page](https://ziontechgroup.com/policy-comparison-ai/).
+- [Underwriting Copilot AI](https://github.com/Zion-support/underwriting-copilot-ai) — Underwriting-intake workflow concept; no AI engine implemented. [Planning page](https://ziontechgroup.com/underwriting-copilot-ai/).
+- [Claims Automation AI](https://github.com/Zion-support/claims-automation-ai) — Claims-evidence workflow concept; no AI engine implemented. [Planning page](https://ziontechgroup.com/claims-automation-ai/).
