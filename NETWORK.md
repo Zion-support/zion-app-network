@@ -2,6 +2,11 @@
 
 Master directory and interlink hub for all Zion Tech Group AI apps.
 
+## Choose, compare and test apps — 8 October 2026
+[Maintained learning paths](LEARNING_PATHS.md) · [English guide](https://ziontechgroup.com/apps/network-learning-paths.html) · [Português](https://ziontechgroup.com/pt/apps/network-learning-paths.html) · [Español](https://ziontechgroup.com/es/apps/network-learning-paths.html) · [Français](https://ziontechgroup.com/fr/apps/network-learning-paths.html) · [Deutsch](https://ziontechgroup.com/de/apps/network-learning-paths.html)
+
+Explore capacity/cost, governance/reliability and communications with a baseline, human review and a stop rule. Historical counts below are dated snapshots, not a current verified inventory or proof that every app is functional, translated or interlinked. Use the [publication coverage report](https://ziontechgroup.com/apps/network-publication-coverage.json) for the website artifact's known language-route gaps; independent repositories require a separate audit.
+
 - 📓 [CATALOG.md](CATALOG.md) — all repos grouped by category
 - [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub) · [zion-network](https://github.com/Zion-support/zion-network) · [zion-portal](https://github.com/Zion-support/zion-portal) · [zion-tools](https://github.com/Zion-support/zion-tools)
 - [agents](https://github.com/Zion-support/agents) · [ai-services](https://github.com/Zion-support/ai-services) · [tools](https://github.com/Zion-support/tools)
