@@ -1,0 +1,15 @@
+# Treasury concept translation release — 8 October 2026
+
+Scope: Cash Flow Forecaster and AR Collections Copilot, with existing AML/Fraud translations preserved. Audit found eight PT-BR/ES/FR/DE treasury routes returning 404. New renderer fills these routes and provides five localized suite guides and homepage promotions. English project roots receive equivalent language navigation, canonical/hreflang and guide links via separate source releases.
+
+Guide: [EN](https://ziontechgroup.com/apps/treasury-review.html) · [PT-BR](https://ziontechgroup.com/pt/apps/treasury-review.html) · [ES](https://ziontechgroup.com/es/apps/treasury-review.html) · [FR](https://ziontechgroup.com/fr/apps/treasury-review.html) · [DE](https://ziontechgroup.com/de/apps/treasury-review.html).
+
+[Cash Flow Forecaster](https://ziontechgroup.com/cash-flow-forecaster/) · [AR Collections Copilot](https://ziontechgroup.com/ar-collections-copilot/) · [AML](https://ziontechgroup.com/aml-screening-ai/) · [Fraud](https://ziontechgroup.com/fraud-transaction-monitor/) · [Free Discovery](https://ziontechgroup.com/discovery/) · [Homepage](https://ziontechgroup.com/).
+
+All treasury copy explicitly describes informational concepts, not implemented forecasting or collections engines. No bank/ERP connection, automated messaging, payments, compliance certification or production security controls are demonstrated. Use synthetic data, named reviewers, reconciled baselines and stop rules. No financial, legal or credit advice.
+
+[Main source release](https://github.com/Zion-support/zion-support.github.io/commit/33a322f7fcbba4bba4da6a3689299c63bbd0a9d8) adds scripts/render-treasury-network.cjs to the existing static pipeline. It reuses translated Discovery contract text from content/discovery-showcase.json and replaces five obsolete experiment-planner delivery paragraphs which claimed Carlos was copied. Existing planner scripts and homepage forms are asserted unchanged. The older experiment renderer still contains obsolete literals; this final publication stage corrects its output and rejects residual Carlos copy. A later source cleanup should retire the duplicated literals entirely.
+
+[Publication manifest](https://ziontechgroup.com/apps/treasury-publication.json) lists 15 concept/guide pages, five homepage promotions and five delivery-copy checks. Offline repeated-render checks passed canonical/six hreflang, no forms/extra recipients, one promotion and preservation of previous readiness sections. Source commits do not prove deployment: verify marker 2026-10-08-ship on actual routes before calling any page live.
+
+Current Discovery recipients remain validated client plus commercial@ziontechgroup.com; no unrelated automatic copy. Instant local reports and provider acceptance do not prove inbox receipt. No form or mail was submitted in this release. Broader network translations/interlinks and catalogue totals remain incomplete. Record deployment, exact live checks, blockers and the next audit cohort in Notion and Supermemory.
