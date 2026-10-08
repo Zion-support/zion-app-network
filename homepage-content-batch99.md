@@ -1,14 +1,23 @@
-# Homepage advertising pack — Batch 99 (paste into ziontechgroup.com)
+# Homepage content — Batch 99 (Logistics & Supply Chain AI)
 
-## BLOCK A — Hero strip (EN)
-New: **Batch 99 — Marketing & Growth AI**. Six free apps to grow pipeline: SEO Content Optimizer, Ad Spend Optimizer, Email Subject Lab, Social Listening Radar, Landing Page A/B Coach and Referral Program AI. Explore: https://ziontechgroup.com/apps/october-2026-batch99.html — or take the free 5-minute Discovery: https://ziontechgroup.com/discovery/
+## New: AI for Logistics & Supply Chain
 
-## BLOCK B — Discovery benefits (advertise everywhere)
-- Always online & always free — 24/7, no signup, no sales call required.
-- Instant results — personalized shortlist emailed to you the moment you submit, and to commercial@ziontechgroup.com for same-day follow-up.
-- Matched to 828+ free apps across every industry suite.
-- Feeds the ROI calculator so savings are quantified before any paid engagement.
-Start: https://ziontechgroup.com/discovery/
+Seven interlinked apps to cut costs and keep goods flowing:
 
-## BLOCK C — Card (PT-BR)
-**Batch 99 — Marketing & Growth AI**: 6 novos apps gratuitos e interligados (SEO, mídia paga, e-mail, social listening, CRO e indicações). Abrir: https://ziontechgroup.com/apps/october-2026-batch99.html
+- **Route Optimization AI** — optimal routes & fleet plans: https://ziontechgroup.com/route-optimization-ai/
+- **Freight Rate Forecaster** — forecast freight rates by lane: https://ziontechgroup.com/freight-rate-forecaster/
+- **Delivery Exception Copilot** — resolve disruptions fast: https://ziontechgroup.com/delivery-exception-copilot/
+- **Warehouse Slotting Optimizer** — faster picks, better space usage: https://ziontechgroup.com/warehouse-slotting-optimizer/
+- **Stockout Predictor** — prevent stockouts before they happen: https://ziontechgroup.com/stockout-predictor/
+- **Demand Sensing Forecaster** — real-time demand signals: https://ziontechgroup.com/demand-sensing-forecaster/
+- **Spare Parts Forecaster** — right parts, right place: https://ziontechgroup.com/spare-parts-forecaster/
+
+## Why our free Discovery?
+🧭 **https://ziontechgroup.com/discovery/ — always online, always free.**
+1. **Free forever** — no cost, no credit card, no commitment.
+2. **Always online** — 24/7 self-service; no call needed.
+3. **Instant results** — personalized AI discovery report generated on submission.
+4. **Dual delivery** — emailed immediately to **you** and **commercial@ziontechgroup.com** for a fast tailored follow-up.
+5. **Actionable** — recommendations map to 800+ live apps: https://github.com/Zion-support/zion-app-network
+
+👉 Start now: https://ziontechgroup.com/discovery/

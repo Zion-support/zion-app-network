@@ -1,15 +1,13 @@
-# Batch 99 — Marketing & Growth AI (2026-10-06)
+# APPS_INDEX — Batch 99 (Logistics & Supply Chain AI)
 
-6 interlinked apps. All repos public under https://github.com/Zion-support.
+| App | Repo | Live | One-liner |
+|-----|------|------|-----------|
+| Route Optimization AI | https://github.com/Zion-support/route-optimization-ai | https://ziontechgroup.com/route-optimization-ai/ | Optimal routes & fleet plans |
+| Freight Rate Forecaster | https://github.com/Zion-support/freight-rate-forecaster | https://ziontechgroup.com/freight-rate-forecaster/ | Forecast freight rates by lane |
+| Delivery Exception Copilot | https://github.com/Zion-support/delivery-exception-copilot | https://ziontechgroup.com/delivery-exception-copilot/ | Resolve delivery disruptions fast |
+| Warehouse Slotting Optimizer | https://github.com/Zion-support/warehouse-slotting-optimizer | https://ziontechgroup.com/warehouse-slotting-optimizer/ | Optimal product placement |
+| Stockout Predictor | https://github.com/Zion-support/stockout-predictor | https://ziontechgroup.com/stockout-predictor/ | Predict & prevent stockouts |
+| Demand Sensing Forecaster | https://github.com/Zion-support/demand-sensing-forecaster | https://ziontechgroup.com/demand-sensing-forecaster/ | Real-time demand signals |
+| Spare Parts Forecaster | https://github.com/Zion-support/spare-parts-forecaster | https://ziontechgroup.com/spare-parts-forecaster/ | Right parts, right place, right time |
 
-| App | GitHub | Live |
-|---|---|---|
-| SEO Content Optimizer | https://github.com/Zion-support/seo-content-optimizer | https://ziontechgroup.com/seo-content-optimizer/ |
-| Ad Spend Optimizer | https://github.com/Zion-support/ad-spend-optimizer | https://ziontechgroup.com/ad-spend-optimizer/ |
-| Email Subject Lab | https://github.com/Zion-support/email-subject-lab | https://ziontechgroup.com/email-subject-lab/ |
-| Social Listening Radar | https://github.com/Zion-support/social-listening-radar | https://ziontechgroup.com/social-listening-radar/ |
-| Landing Page A/B Coach | https://github.com/Zion-support/landing-page-ab-coach | https://ziontechgroup.com/landing-page-ab-coach/ |
-| Referral Program AI | https://github.com/Zion-support/referral-program-ai | https://ziontechgroup.com/referral-program-ai/ |
-
-Showcase: https://ziontechgroup.com/apps/october-2026-batch99.html
-Discovery (free, always online): https://ziontechgroup.com/discovery/
+Spotlight: [SPOTLIGHT-2026-10-08-BATCH99.md](SPOTLIGHT-2026-10-08-BATCH99.md) · Interlinks: [INTERLINKS-batch99-logistics.md](INTERLINKS-batch99-logistics.md) · Master index: [APPS_INDEX.md](APPS_INDEX.md)
