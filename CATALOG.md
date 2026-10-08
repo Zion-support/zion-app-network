@@ -219,3 +219,18 @@ Overview: https://ziontechgroup.com/apps/october-2026-batch105.html
 
 ---
 *Maintained by Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+
+## Communications suite — consolidated 2026-10-08
+
+Free [Discovery](https://ziontechgroup.com/discovery/) provides an instant on-screen report and submits it for email delivery to the client and commercial@ziontechgroup.com. Inbox delivery remains unverified.
+
+| App | Live page | Source |
+|---|---|---|
+| Smart Call Routing AI | [Explore](https://ziontechgroup.com/smart-call-routing-ai/) | [GitHub](https://github.com/Zion-support/smart-call-routing-ai) |
+| Call Intelligence Hub | [Explore](https://ziontechgroup.com/call-intelligence-hub/) | [GitHub](https://github.com/Zion-support/call-intelligence-hub) |
+| Voicemail Triage AI | [Explore](https://ziontechgroup.com/voicemail-triage-ai/) | [GitHub](https://github.com/Zion-support/voicemail-triage-ai) |
+| Meeting Intelligence AI | [Explore](https://ziontechgroup.com/meeting-intelligence-ai/) | [GitHub](https://github.com/Zion-support/meeting-intelligence-ai) |
+
+Discovery guides: [EN](https://ziontechgroup.com/apps/discovery-showcase.html) · [PT-BR](https://ziontechgroup.com/apps/discovery-showcase-pt.html) · [ES](https://ziontechgroup.com/apps/discovery-showcase-es.html) · [FR](https://ziontechgroup.com/apps/discovery-showcase-fr.html) · [DE](https://ziontechgroup.com/apps/discovery-showcase-de.html).
+
+Related repositories link back through NETWORK.md. This additive update does not establish a verified network-wide app count.
