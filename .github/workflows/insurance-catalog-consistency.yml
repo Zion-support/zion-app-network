@@ -1,0 +1,43 @@
+name: Insurance Catalog Consistency
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/repair-insurance-catalog.cjs'
+      - 'scripts/test-insurance-catalog.cjs'
+      - '.github/workflows/insurance-catalog-consistency.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: insurance-catalog-repair
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test catalog preservation and idempotence
+        run: node scripts/test-insurance-catalog.cjs
+      - name: Repair named master files and translated hub card
+        run: node scripts/repair-insurance-catalog.cjs
+      - name: Commit only reviewed catalog files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add APPS_INDEX.md CATALOG.md index.html CATALOG-INSURANCE-EVIDENCE.md
+          if git diff --cached --quiet; then
+            echo 'Catalogs already consistent; no commit needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'docs(network): merge verified insurance concepts and translated workbench navigation'
+          # Fail on concurrent branch updates; never force-push or drop another agent commit.
+          git push origin HEAD:main
