@@ -1,0 +1,21 @@
+{
+  "checked_at_utc": "2026-10-09T03:05:21.850880+00:00",
+  "release": "2026-10-09-b112-v1",
+  "pass": true,
+  "html_routes": 25,
+  "css_assets": 3,
+  "publication_manifest_verified": true,
+  "hub_source_commit": "255fd3db985b3732546c0e9da5741e79d6aab4c6",
+  "homepage_route_fix_commit": "327e33238f1cba80e1422211283fd91d6091114c",
+  "homepage_deploy_run": 37877358843,
+  "homepage_deploy_conclusion": "success",
+  "hub_paths": ["/zion-app-network/app-network-batch112-oct07.html", "/zion-app-network/app-network-batch112-oct07-pt.html", "/zion-app-network/app-network-batch112-oct07-es.html", "/zion-app-network/app-network-batch112-oct07-fr.html", "/zion-app-network/app-network-batch112-oct07-de.html"],
+  "site_paths": ["/apps/october-2026-batch112-telecom.html", "/apps/october-2026-batch112-telecom.pt-br.html", "/apps/october-2026-batch112-telecom.es.html", "/apps/october-2026-batch112-telecom.fr.html", "/apps/october-2026-batch112-telecom.de.html"],
+  "home_paths": ["/en/", "/", "/es/", "/fr/", "/de/"],
+  "field_paths": ["/apps/field-service-evidence-guide.html", "/apps/field-service-evidence-guide.pt-br.html", "/apps/field-service-evidence-guide.es.html", "/apps/field-service-evidence-guide.fr.html", "/apps/field-service-evidence-guide.de.html"],
+  "workbench_paths": ["/apps/insurance-evidence-workbench.html", "/pt/apps/insurance-evidence-workbench.html", "/es/apps/insurance-evidence-workbench.html", "/fr/apps/insurance-evidence-workbench.html", "/de/apps/insurance-evidence-workbench.html"],
+  "stylesheets": ["/assets/css/site.css", "/assets/css/apps-pattern.css", "/zion-app-network/batch113-pattern.css"],
+  "checks": ["HTTP 200 and document locale", "Guide canonical and reciprocal hreflang", "Five-language switch links", "Distinct translated guide headings", "Six component repository links", "Localized Discovery", "Insurance and Field Service guide links", "Hub/site return links", "No unexpected guide forms", "No unsupported all-live or instant inbox-delivery claims", "Exactly one same-language promotion on each home/field/workbench page", "CSS HTTP 200 and MIME", "Manifest source commit and all five workbench paths"],
+  "errors": [],
+  "scope": "Scoped publication and navigation only; not implemented AI, full human translation quality, browser interaction, whole-network completeness or paired inbox receipt"
+}
