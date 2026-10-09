@@ -1,0 +1,11 @@
+{
+  "checked_at_utc": "2026-10-09T02:39:17.836475+00:00",
+  "pass": true,
+  "scope": "15 HTML routes and 3 same-origin stylesheets; not full-network, browser execution, app functionality or paired inbox receipt",
+  "checks": ["HTTP 200", "HTML MIME", "Expected final route", "Document locale", "Main heading", "Canonical and reciprocal hreflang for 10 guides", "Language switcher links", "Distinct guide headings", "Localized Discovery link", "No unexpected guide forms", "Homepage same-language insurance and field interlinks", "Field evidence gate marker", "Stylesheet HTTP 200 and CSS MIME"],
+  "homepage_routes": ["/", "/en/", "/es/", "/fr/", "/de/"],
+  "field_routes": ["/apps/field-service-evidence-guide.html", "/apps/field-service-evidence-guide.pt-br.html", "/apps/field-service-evidence-guide.es.html", "/apps/field-service-evidence-guide.fr.html", "/apps/field-service-evidence-guide.de.html"],
+  "insurance_routes": ["/zion-app-network/app-network-batch113-oct07.html", "/zion-app-network/app-network-batch113-oct07-pt.html", "/zion-app-network/app-network-batch113-oct07-es.html", "/zion-app-network/app-network-batch113-oct07-fr.html", "/zion-app-network/app-network-batch113-oct07-de.html"],
+  "stylesheets": ["/assets/css/apps-pattern.css", "/assets/css/site.css", "/zion-app-network/batch113-pattern.css"],
+  "errors": []
+}
