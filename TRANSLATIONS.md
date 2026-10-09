@@ -1,24 +1,13 @@
-# 🌍 Translations Policy & Status (Oct 8, 2026)
+# Translation policy
 
-## Supported languages (match ziontechgroup.com hreflang set)
-`en` (default), `pt-BR`, `es`, `fr`, `de` (+ `x-default` → en)
+Supported locales: en, pt-BR, es, fr, de; x-default points to English. Product names may remain unchanged; descriptions, navigation, CTAs and limitations must be translated.
 
-## Rules
-1. Every public showcase/spotlight page ships in all 5 languages at release time.
-2. Naming: hub `app-network-batchNN-<date>[-pt|-es|-fr|-de].html`; live site `public/apps/october-2026-batchNN[.pt-br|.es|.fr|.de].html` (site convention).
-3. Each variant sets `<html lang="…">` and carries hreflang alternates to all 5 variants.
-4. App product names stay in English; value props, CTAs, Discovery block and navigation are translated.
-5. Language switcher nav on top of every page: 🌐 EN · PT · ES · FR · DE.
-6. **Deploy rule:** ziontechgroup.com publishes ONLY from `public/**` (Simple Static Deploy workflow, push trigger + cron */5min). Root-level commits never go live.
+Every translated static page must have its own canonical, reciprocal five-locale hreflang set and working language switcher. Hub convention: `app-network-batchNN-date[-pt|-es|-fr|-de].html`. Website conventions may differ; inspect the production renderer before changing routes.
 
-## Status
-| Content | en | pt-BR | es | fr | de |
-|---|---|---|---|---|---|
-| Batch 99 Logistics (hub + /apps/october-2026-batch129-logistics-ai*) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Batch 98 Sports (hub + /apps/october-2026-batch128-sports-venue*) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Batch 100 Manufacturing (/apps/october-2026-batch100*) | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Batches 70–97, 101+ showcases | ✅ | ⏳ backlog | ⏳ backlog | ⏳ backlog | ⏳ backlog |
+The homepage repository publishes `public/**` plus artifact-only renderers. Root-level website HTML is not automatically published. The separate zion-app-network GitHub Pages repository serves its own pages.
 
-Backlog: translate remaining batch showcases using [DESIGN_PATTERN.md](DESIGN_PATTERN.md); add language switcher to EN originals when touched.
+## Single coverage authority
 
-© 2026 Zion Tech Group
+Use [TRANSLATIONS-STATUS.md](TRANSLATIONS-STATUS.md) for coverage evidence. This policy no longer contains a competing status table. Older status claims were inconsistent and are not proof of current publication. Distinguish source existence, HTTP publication, translated body, link validation and actual functionality. A 200 response alone is insufficient.
+
+Full-network translation is NOT complete. Verify release-specific routes and continue the paginated repository/route inventory. Do not renumber colliding batches or infer a suite identity from a filename.
