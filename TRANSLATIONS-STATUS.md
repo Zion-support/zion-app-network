@@ -37,3 +37,14 @@ The historical 9 October snapshot above is preserved. [Pilot tool-path release](
 | Existing benefits/workflow pilot backlinks | 200 + links | 200 + links | 200 + links | 200 + links | 200 + links | Ten existing pages retain one same-language guide backlink each. |
 
 27 independent no-cache route checks and 52 local safety/idempotence/negative assertions passed. [Exact production manifest](https://ziontechgroup.com/apps/pilot-tool-paths-publication.json). Forms, scripts, checkout links, delivery recipients and workflow definitions were preserved. No real form submission or mail was sent. Full-network body translation, human language review, browser interactions and paired inbox delivery remain incomplete.
+
+## Verified continuation — 10 October 2026 — four pilot guide primary bodies
+
+[Body translation release](PILOT-GUIDE-BODY-PARITY-2026-10-10.md) is LIVE via [deployment 38061365804](https://github.com/Zion-support/zion-support.github.io/actions/runs/38061365804), completed SUCCESS, deploy job 114240234178 finished 14:56:26 UTC. Supersedes the earlier short-companion primary-body coverage gap only; prior snapshots remain historical evidence.
+
+| Surface | en | pt-BR | es | fr | de | Evidence |
+|---|---|---|---|---|---|---|
+| Discovery-to-Pilot primary body | Original unchanged | 200 + complete section coverage | 200 + complete section coverage | 200 + complete section coverage | 200 + complete section coverage | Four benefit cards, four tool paths, nine h2 headings and fourteen checklist items per localized guide; production bodies exactly match immutable tested translations. Not native-language editorial certification. |
+| Previous homepage promotions and guide selectors | Preserved | Preserved | Preserved | Preserved | Preserved | Five homepages retain one promotion each; five guides retain one selector/five language links/six alternates. Ten existing benefits/workflow backlinks rechecked. |
+
+49 portable regressions and 46 unique fresh no-cache live-route checks passed. [Exact body publication manifest](https://ziontechgroup.com/apps/pilot-guide-body-parity-publication.json). Same-language First Win/benefits/questionnaire/plans destinations are linked; English-only planning/catalog resources remain explicitly EN. No forms, recipients, pricing, checkout links, app logic or workflow definitions changed. Native-language review, mobile/browser interactions, complete production-route inventory, independently hosted app coverage and paired inbox receipt remain unfinished.
