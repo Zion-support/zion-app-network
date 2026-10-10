@@ -1,0 +1,17 @@
+{
+  "source_ref": "2274991ce0bd14ea552bc4113f98e26e263dec02",
+  "scope": "167 immediate public/apps HTML source routes only; generated, prefix-language and other network routes excluded",
+  "http": "All 167 final responses returned 200 after following redirects",
+  "declared_languages": {"en":147,"pt-BR":8,"es":4,"fr":4,"de":4},
+  "exact_policy_metadata_locale_set_complete": 12,
+  "exact_policy_metadata_locale_set_incomplete": 155,
+  "missing_canonical": 40,
+  "missing_h1": 1,
+  "pages_without_internal_navigation": 0,
+  "internal_edges_within_scanned_set_including_self_links": 1193,
+  "alias_release": "field-alias-integrity-2026-10-10-v2",
+  "alias_guides_verified": 9,
+  "deployment_run": 38020428184,
+  "deployment_conclusion": "success",
+  "limitations": ["Metadata keys do not prove translated body quality or absence of translated variants","Not a whole-network production-route inventory","Interactive functionality was not tested","Not every outgoing link destination was requested"]
+}
