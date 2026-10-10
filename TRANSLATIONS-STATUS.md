@@ -25,3 +25,15 @@ Accessible GitHub repository enumeration is complete at this audit snapshot: 1,2
 Full production route inventory remains partial. Before Telecom release, hub source naming heuristics counted 160 HTML files and 12 complete five-language families; public/apps source subtree contained 167 HTML files, excluding artifact renderers and other routes. These historic source counts must not be confused with current live coverage.
 
 The Telecom release QA covered 25 HTML routes, 3 CSS assets and one publication manifest. Distinct translated headings and body-source integrity were checked; not a full human translation review, browser interaction test, whole-network certification or paired inbox receipt proof. The six Telecom repositories contain documentation/interlink/license files but no implementation code at audit. Next: complete bounded production route inventory, extend body-level coverage and reciprocal-link matrices, then backfill remaining suites without duplicating verified releases.
+
+## Verified continuation — 10 October 2026 — pilot tool paths
+
+The historical 9 October snapshot above is preserved. [Pilot tool-path release](PILOT-TOOL-PATHS-2026-10-10.md) deployed successfully via [run 38055610601](https://github.com/Zion-support/zion-support.github.io/actions/runs/38055610601); deploy job completed 13:27:52 UTC.
+
+| Surface | en | pt-BR | es | fr | de | Evidence |
+|---|---|---|---|---|---|---|
+| Homepage pilot tool-path content | 200 + localized cards | 200 + localized cards | 200 + localized cards | 200 + localized cards | 200 + localized cards | One owned promotion, four cards and matching locale-guide CTA per page. Linked tool destinations are explicitly English-language resources. |
+| Discovery-to-Pilot guide language navigation | 200 + navigation QA | 200 + navigation QA | 200 + navigation QA | 200 + navigation QA | 200 + navigation QA | One five-language selector, one current-language marker and six alternates per guide. Original/companion body content preserved, not full semantic parity certification. |
+| Existing benefits/workflow pilot backlinks | 200 + links | 200 + links | 200 + links | 200 + links | 200 + links | Ten existing pages retain one same-language guide backlink each. |
+
+27 independent no-cache route checks and 52 local safety/idempotence/negative assertions passed. [Exact production manifest](https://ziontechgroup.com/apps/pilot-tool-paths-publication.json). Forms, scripts, checkout links, delivery recipients and workflow definitions were preserved. No real form submission or mail was sent. Full-network body translation, human language review, browser interactions and paired inbox delivery remain incomplete.
