@@ -1,0 +1,13 @@
+{
+  "source_commit": "2274991ce0bd14ea552bc4113f98e26e263dec02",
+  "scope": "167 HTML routes directly listed in public/apps; generated, prefix and other routes excluded",
+  "http_status_counts": {"200": 167},
+  "declared_language_counts": {"en": 147, "pt-BR": 8, "es": 4, "fr": 4, "de": 4},
+  "with_canonical": 127,
+  "with_any_hreflang": 30,
+  "with_all_five_plus_default": 12,
+  "in_scope_directed_edges": 1048,
+  "reciprocal_directed_edges": 378,
+  "body_translation_and_capability": "not certified",
+  "detailed_report": "https://backend.composio.dev/api/v3/sl/k8yhgKbISx"
+}
