@@ -36,3 +36,15 @@ Controlled client/Commercial inbox round-trip; complete source/build-generated l
 
 ## Mining master merge — 11 October 2026
 [Catalog sync run](https://github.com/Zion-support/zion-app-network/actions/runs/38170619979) completed successfully. Four Mining concept repositories were merged non-destructively; all 480 pre-existing repository links were retained, giving 484 unique source links in this document. This is not a verified working-app count. [Source merge commit](https://github.com/Zion-support/zion-app-network/commit/c4a152fa7fa7bacc324b37a3d2dc9518b2bf7160).
+
+## Productivity and review catalog — 11 October 2026
+
+Release: **catalog-productivity-review-2026-10-11-v1**. The original catalog and navigation above are preserved.
+
+- [English: local tools and review resources](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#en)
+- [Português: ferramentas locais e recursos de revisão](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#pt)
+- [Español: herramientas locales y recursos de revisión](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#es)
+- [Français : outils locaux et ressources de relecture](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#fr)
+- [Deutsch: lokale Werkzeuge und Prüfressourcen](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#de)
+
+Six existing page families × five languages: Agent Brief, Admissions Essay Reviewer, AI Access Reviewer, AI Email Drafter, AI Meeting Notes Copilot and Incident Response. Three local browser tools plus three editorial/planning resources—not six verified AI integrations. The catalog contains thirty page links, five same-language verification-guide links and scoped evidence. Existing website releases and homepage cards are not republished by this documentation update. [Coverage record](https://ziontechgroup.com/zion-app-network/TRANSLATIONS-STATUS.html). Full-network and mobile/native-speaker/accessibility audits remain open.

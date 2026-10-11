@@ -15,7 +15,7 @@ This is the single coverage authority; TRANSLATIONS.md defines policy only. Not 
 Evidence: [Batch 112 release record](BATCH112-RELEASE-2026-10-09.md), [machine-readable summary](batch112-live-verification-2026-10-09.json), [prior release record](RELEASE-VERIFICATION-2026-10-09.md), [prior read-only verifier](scripts/verify-network-release.py).
 
 ## Routes
-Hub Telecom: `/zion-app-network/app-network-batch112-oct07.html` plus `-pt`, `-es`, `-fr`, `-de` before `.html`.
+Hub Telecom: `/zion-app-network/app-network-batch112-oct07.html` plus `-pt`, `-es`, `-fr`, `-es`, `-de` before `.html`.
 Website Telecom: `/apps/october-2026-batch112-telecom.html` plus `.pt-br`, `.es`, `.fr`, `.de` before `.html`.
 Field guide: `/apps/field-service-evidence-guide.html` and the same website suffix convention.
 Insurance workbench: `/apps/insurance-evidence-workbench.html` and `/pt/apps/insurance-evidence-workbench.html`, `/es/apps/insurance-evidence-workbench.html`, `/fr/apps/insurance-evidence-workbench.html`, `/de/apps/insurance-evidence-workbench.html`.
@@ -82,3 +82,22 @@ Fresh no-cache acceptance at 2026-10-11 16:24:07 UTC passed 42 unique routes and
 Native browser verified archive expansion/collapse, capability-guide navigation and return, and all five headings. Observed viewport: innerWidth 1512px, document clientWidth 1497px, no section overflow at that width. Resizing unavailable: mobile and 1280px certification remain open. HTTP/fixture evidence is authoritative for exact card labels; the automated browser summary misstated two card names, so those names are not accepted as evidence.
 
 Exact locale-prefix report-workbench routes returned 404 and are excluded from new cards. Investigate canonical route mappings before treating them as absent translations. Full-network translation/body/functionality/interlink audits and native editorial review remain incomplete. No email, form submission, purchase or dispatch was made.
+
+## Verified continuation — 11 October 2026 — productivity and review catalog
+
+Release: **catalog-productivity-review-2026-10-11-v1**. [Five-language catalog](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html) · [Catalog navigation](https://ziontechgroup.com/zion-app-network/CATALOG-NAVIGATION.html). Historical snapshots above are preserved; this section adds scoped evidence for two already published website releases.
+
+| Surface | en | pt-BR | es | fr | de | Capability boundary |
+|---|---|---|---|---|---|---|
+| Agent Brief | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | Local six-field composer; not autonomous agent execution. |
+| Admissions Essay Reviewer | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | Manual-review rubric; no implemented essay processor or admission guarantee. |
+| AI Access Reviewer | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | Human-approved planning resource; no account integration or automatic revocation. |
+| AI Email Drafter | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | Local four-template browser tool; no model inference or email sending. |
+| AI Meeting Notes Copilot | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | Local keyword rules; no audio transcription or semantic AI. |
+| Incident Response | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | 200 + metadata | Service-planning guide; no live detection, monitoring or containment. |
+
+Thirty existing page editions rechecked HTTP200 with expected declared languages, canonical URLs and six alternates. Fully translated page-body publication is documented by the prior artifact releases, not inferred from this route-only recheck: [legacy-three manifest](https://ziontechgroup.com/apps/legacy-three-locales-release.json), [source 2286a815](https://github.com/Zion-support/zion-support.github.io/commit/2286a81587b2f5ce17096677b6b9d219fd3b5338), [deployment 38175138922](https://github.com/Zion-support/zion-support.github.io/actions/runs/38175138922); [productivity/incident manifest](https://ziontechgroup.com/apps/productivity-incident-release.json), [source dc2065bb](https://github.com/Zion-support/zion-support.github.io/commit/dc2065bb56382a25446c68bcec52051ed8c4c0c6), [deployment 38180024602](https://github.com/Zion-support/zion-support.github.io/actions/runs/38180024602).
+
+Real desktop browser audit exercised English/Portuguese email drafts, support acknowledgement and blank-input handling; Portuguese recap classification passed with actual newline characters and an Alex owner. A preceding delimiter ambiguity was resolved, not recorded as a runtime defect. Planning limits and reciprocal Portuguese verification-guide links were observed. Actual viewport1512×770, document client/scroll width1497; limited local-control focus checks, not complete keyboard/accessibility certification. Mobile resizing unavailable. [Browser and hub audit](https://backend.composio.dev/api/v3/sl/L2iv5Oy3nc).
+
+Current [artifact coverage manifest](https://ziontechgroup.com/apps/network-publication-coverage.json) reports46five-language groups and15730gap groups after scoped reconciliation; previous aggregate file counts are historical. These are not implemented-AI-app totals or a fresh full-network census. The new catalog is one page with five translated sections and thirty localized page links, not five separate catalog URLs. No website runtime, form, delivery recipient, price, workflow or existing homepage promotion is changed by this hub-documentation consolidation. Full-network, native-speaker, mobile, assistive-technology, independently hosted repository and paired email-inbox receipt verification remain unfinished.
