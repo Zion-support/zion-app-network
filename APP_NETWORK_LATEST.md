@@ -1,4 +1,13 @@
-# 🚀 Zion AI App Network — Latest Updates (Oct 9, 2026)
+# 🚀 Zion AI App Network — Latest Updates (Oct 11, 2026)
+
+## Pilot Planner — five-language publication batch
+[Complete guide in five languages](PILOT-PLANNER-2026-10-11.md) · [Canonical route register](CATALOG-PILOT-PLANNER.md).
+
+[English](https://ziontechgroup.com/en/automation-pilot-planner/) · [Português](https://ziontechgroup.com/automation-pilot-planner/) · [Español](https://ziontechgroup.com/es/automation-pilot-planner/) · [Français](https://ziontechgroup.com/fr/automation-pilot-planner/) · [Deutsch](https://ziontechgroup.com/de/automation-pilot-planner/).
+
+Local 30-day draft, not AI execution or implementation approval. Rascunho local de 30 dias, sem execução de IA ou autorização de implementação. Borrador local de 30 días, sin ejecución de IA ni autorización. Brouillon local de 30 jours, sans exécution d’IA ni autorisation. Lokaler 30-Tage-Entwurf, keine KI-Ausführung oder Umsetzungsfreigabe.
+
+Offline QA passed; [activation deployment](https://github.com/Zion-support/zion-support.github.io/actions/runs/38150233568) and native browser verification must be checked separately. Scope is this planner, not the entire network. Testes locais aprovados; verificar publicação e navegador separadamente. Pruebas locales aprobadas; comprobar publicación y navegador aparte. Tests locaux réussis ; publication et navigateur à vérifier séparément. Lokale Tests bestanden; Veröffentlichung und Browser separat prüfen.
 
 ## Field Service Evidence Guide — five-language release
 Homepage repository [commit a32bdff](https://github.com/Zion-support/zion-support.github.io/commit/a32bdff39c09bf09dfc498a2469d8171ec9145bd) adds full guide translations, language navigation, shared design, homepage promotions and reciprocal hosted-tool links.
