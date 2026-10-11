@@ -28,3 +28,21 @@ Generated publication: 15 interactive tool pages, five guides and five localized
 [Free Discovery](https://ziontechgroup.com/discovery/) · [Finance & Insurance guide](https://ziontechgroup.com/apps/finance-insurance-paths.html) · [Network hub](https://ziontechgroup.com/zion-app-network/) · [Homepage](https://ziontechgroup.com/)
 
 Discovery remains free. Its local report is instant; email submission is not proof of inbox receipt. This release does not send a Discovery email test.
+
+## Localized SLA worked examples — verified 11 October 2026
+
+Choose the same-language calculator and reproduce the synthetic scenario above:
+
+| Language | Worked example | App verification guide |
+|---|---|---|
+| English | [Check the example](https://ziontechgroup.com/sla-calculator/#sla-worked-example) | [Choose and verify an app](https://ziontechgroup.com/apps/app-verification-guide.html) |
+| Português (Brasil) | [Conferir o exemplo](https://ziontechgroup.com/pt/sla-calculator/#sla-worked-example) | [Escolher e verificar um app](https://ziontechgroup.com/pt/apps/app-verification-guide.html) |
+| Español | [Comprobar el ejemplo](https://ziontechgroup.com/es/sla-calculator/#sla-worked-example) | [Elegir y verificar una app](https://ziontechgroup.com/es/apps/app-verification-guide.html) |
+| Français | [Vérifier l’exemple](https://ziontechgroup.com/fr/sla-calculator/#sla-worked-example) | [Choisir et vérifier une application](https://ziontechgroup.com/fr/apps/app-verification-guide.html) |
+| Deutsch | [Beispiel prüfen](https://ziontechgroup.com/de/sla-calculator/#sla-worked-example) | [Eine App auswählen und prüfen](https://ziontechgroup.com/de/apps/app-verification-guide.html) |
+
+Release `sla-evidence-2026-10-11-v1` is published: [website commit](https://github.com/Zion-support/zion-support.github.io/commit/4f79edbff8917f280062355aacc7a6283e477505), [successful deployment](https://github.com/Zion-support/zion-support.github.io/actions/runs/38173388857), [live manifest](https://ziontechgroup.com/apps/sla-evidence-publication.json), [reproducible verifier](https://github.com/Zion-support/zion-support.github.io/blob/4f79edbff8917f280062355aacc7a6283e477505/scripts/render-sla-evidence.cjs).
+
+Fresh read-only production verification passed five calculator/example pages, five verification guides and five homepage promotions, plus 71 unique internal destinations. Checks included the manifest marker, runtime SHA-256 integrity, localized calculation/error recovery, one owned example per calculator, canonical metadata, six alternate-language tags, language links and reciprocal navigation. Existing homepage promotions were extended rather than duplicated. The published calculator runtime was already correct; the release also reconciled the obsolete static fallback.
+
+These checks do not certify native-language quality, real browser visual/keyboard accessibility, every network translation, every app implementation or Discovery inbox receipt. Remaining work: bounded source/build-generated localization and capability inventory, reciprocal-link matrix, and desktop/mobile/keyboard/native-speaker review. Preserve working canonical aliases and concurrent releases; do not recreate this release.
