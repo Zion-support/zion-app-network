@@ -63,3 +63,22 @@ The historical 9 October snapshot above is preserved. [Pilot tool-path release](
 27 unique fresh HTTP routes/assets passed: five guides, five workbenches, five canonical homepages, five scripts, five field guides, one manifest and one hub. [Publication manifest](https://ziontechgroup.com/apps/supplier-guidance-publication.json). Guide render is idempotent and asserts form/script preservation. No calculator core, tax/pricing policy, approval gate, recipient, payment or workflow definition changed.
 
 Native browser viewport was actually 1512px (document client width 1497px); resizing is unsupported. Do not claim new 390px/1280px viewport or assistive-technology certification. Native-speaker review and full-network route/body/capability/interlink coverage remain unfinished. The historical snapshots above are preserved; this continuation is scoped supplier evidence, not whole-network certification.
+
+## Verified continuation — 11 October 2026 — consolidated homepage app paths
+
+[Release record](HOME-APP-PATHS-2026-10-11.md) · [Final verification](HOME-APP-PATHS-VERIFIED-2026-10-11.md) · [Multilingual entry guide](https://ziontechgroup.com/zion-app-network/home-app-paths.html).
+
+Website source e8ad62d added the scoped release. Its first run deployed successfully but failed a post-deploy alias-equality regression: canonical Field Service guides gained return links after aliases had been copied. The gate was preserved. Correction [bead76a9](https://github.com/Zion-support/zion-support.github.io/commit/bead76a9a5382864c27bff225440c54e468ce41f) reruns the existing alias finalizer after consolidation. [Deployment 38155089572](https://github.com/Zion-support/zion-support.github.io/actions/runs/38155089572) completed SUCCESS. Hub guide commit 2326b87e deployed via successful run 38154818663.
+
+| Surface | en | pt-BR | es | fr | de | Evidence |
+|---|---|---|---|---|---|---|
+| New homepage app-path section | 200 + exact tested content | 200 + exact tested content | 200 + exact tested content | 200 + exact tested content | 200 + exact tested content | Six resource cards, capability labels, five language links and localized limitations/delivery wording per homepage. This new section is fully localized; historical archive entries are not recertified. |
+| Same-site resource return links | 200 + five returns | 200 + five returns | 200 + five returns | 200 + five returns | 200 + five returns | 25 pages link to the corresponding homepage section; script/form blocks preserved. Standalone ROI calculator linked but not rewritten. |
+| Field-guide canonical/alias pairs | Canonical checked | 200 + byte parity | 200 + byte parity | 200 + byte parity | 200 + byte parity | Four alias pairs are byte-identical and match final-integrity SHA256 values after the correction. |
+| New network entry guide | 200 + section | 200 + section | 200 + section | 200 + section | 200 + section | One multilingual HTML page with five language sections and six destinations per section; not five separate localized URLs. |
+
+Fresh no-cache acceptance at 2026-10-11 16:24:07 UTC passed 42 unique routes and 212 assertions. [Publication manifest](https://ziontechgroup.com/apps/home-app-paths-publication.json). Six English and eleven Portuguese repeated promotions, plus six in each other locale, remain unchanged in a native expandable archive. All original homepage hrefs and inspected forms/scripts are preserved.
+
+Native browser verified archive expansion/collapse, capability-guide navigation and return, and all five headings. Observed viewport: innerWidth 1512px, document clientWidth 1497px, no section overflow at that width. Resizing unavailable: mobile and 1280px certification remain open. HTTP/fixture evidence is authoritative for exact card labels; the automated browser summary misstated two card names, so those names are not accepted as evidence.
+
+Exact locale-prefix report-workbench routes returned 404 and are excluded from new cards. Investigate canonical route mappings before treating them as absent translations. Full-network translation/body/functionality/interlink audits and native editorial review remain incomplete. No email, form submission, purchase or dispatch was made.
