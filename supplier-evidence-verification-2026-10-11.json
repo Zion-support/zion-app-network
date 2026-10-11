@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-11T10:23:59.879064+00:00",
+  "release_commit": "3b5275e6d36bcfdbdc374cadc5628ca0d8f8d380",
+  "static_deploy": 38131544801,
+  "static_deploy_conclusion": "success",
+  "status": "PASS",
+  "http_200_routes": 23,
+  "workbench_locales": ["en", "pt-BR", "es", "fr", "de"],
+  "supplier_to_field_returns": 25,
+  "localized_homepage_promotions": 5,
+  "field_reciprocal_promotions": 5,
+  "canonical_and_five_language_alternates": "pass",
+  "live_chromium_all_five_locales": {"example": "pass", "comparison": "pass", "download_matches_report": "pass", "stale_export_invalidation": "pass", "localized_errors": "pass", "owner_review_warning": "pass", "mobile_horizontal_overflow": "none", "javascript_errors": [], "outbound_submissions": []},
+  "core_source_blob": "70634ac8c6c38f14b96ac15edf7f07fca845504f",
+  "calculation_core_changed": false,
+  "full_network_complete": false,
+  "scope": "Supplier evidence release only; not whole-network functionality, translation or paired inbox delivery certification"
+}
