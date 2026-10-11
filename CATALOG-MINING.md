@@ -22,4 +22,4 @@ This supplement documents four app concepts already listed in APPS_INDEX.md. It 
 
 Do not use these concepts for emergency response, dam-stability decisions, regulatory certification, safety approvals or autonomous equipment control. Qualified professionals and validated systems remain necessary.
 
-Legacy master CATALOG.md still requires a non-destructive merge of these four entries. This supplement closes the navigation/documentation gap without deleting unrelated catalog content.
+The four entries were merged non-destructively into CATALOG.md on 11 October 2026. All pre-existing repository links were preserved. This supplement retains the detailed capability limits and five-language guide navigation; it does not certify operational AI.

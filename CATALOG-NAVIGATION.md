@@ -4,7 +4,7 @@ One navigation entry point for the legacy catalog, maintained index, suite suppl
 
 ## Catalog sources
 - [Master app index](APPS_INDEX.md): app and repository entries; validate each destination and implementation before use.
-- [Legacy catalog](CATALOG.md): preserved category and batch history. Four Mining entries still need a non-destructive merge here.
+- [Legacy catalog](CATALOG.md): preserved category and batch history. All four Mining concepts are now linked here with explicit documentation-only capability limits.
 - [Mining & Metals supplement](CATALOG-MINING.md): four documented concepts, app/source links and five translated guides.
 - [Communications supplement](CATALOG-COMMUNICATIONS.md): Communications navigation and validation guidance.
 - [Public app directory](https://ziontechgroup.com/apps/) · [Network map](https://ziontechgroup.com/apps/network.html) · [Registry explorer](https://ziontechgroup.com/zion-network/registry-explorer.html)
@@ -32,4 +32,7 @@ Beginnen Sie mit [kostenlosem Online-Discovery](https://ziontechgroup.com/de/dis
 - Four Mining repositories currently provide documentation and interlinks, not validated operational AI or certified monitoring. Do not use them for emergencies, dam-stability decisions or autonomous equipment control.
 
 ## Open work
-Controlled client/Commercial inbox round-trip; legacy catalog merge; complete source/build-generated language coverage; app functionality and browser-level accessibility audit. No real questionnaire or email was submitted during verification. Discovery remains free, without purchases, paid engagements or dispatch commitments.
+Controlled client/Commercial inbox round-trip; complete source/build-generated language coverage; app functionality and browser-level accessibility audit. No real questionnaire or email was submitted during verification. Discovery remains free, without purchases, paid engagements or dispatch commitments.
+
+## Mining master merge — 11 October 2026
+[Catalog sync run](https://github.com/Zion-support/zion-app-network/actions/runs/38170619979) completed successfully. Four Mining concept repositories were merged non-destructively; all 480 pre-existing repository links were retained, giving 484 unique source links in this document. This is not a verified working-app count. [Source merge commit](https://github.com/Zion-support/zion-app-network/commit/c4a152fa7fa7bacc324b37a3d2dc9518b2bf7160).
