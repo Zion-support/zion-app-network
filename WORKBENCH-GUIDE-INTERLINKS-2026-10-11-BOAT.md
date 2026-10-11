@@ -29,3 +29,11 @@ The sandbox still fails, so no local Node regression was executed. The concurren
 No shared homepage renderer, form, recipient, pricing, checkout, app logic or workflow definition changed. Homepage matching-language Workbench links and pilot-guide-to-Workbench backlinks are still deferred; do not overwrite generated homepage or guide files. Linked tools can be mixed-language. Native-language editorial, visual/mobile/keyboard and app-interaction review remain open. This is not a whole-network translation or functionality certification.
 
 Resume from the newest verified CEO checkpoint and exact Supermemory document for session boat; retain the prior wash handoff and release history. Require fresh file SHA/parent inspection immediately before future writes to avoid repeating the same-file race.
+
+## Final verified outcome — supersedes pending deployment snapshot
+
+Scheduled run **38163221824 independently returned completed/success** for exact `c84d913b7282da554724d707b86893fb1af46d81`, updated `2026-10-11T18:22:36Z`. This is success for the deployment, not all repository CI. Earlier push runs 38163210916 and 38163114222 were observed cancelled; no manual cancellation or rerun here.
+
+Independent public retrieval with a fresh verification query returned `source=crawled/status=success` and the newly added heading **Continue from the report to a responsible pilot** on the [English page](https://ziontechgroup.com/apps/discovery-report-workbench.html#workbench-pilot-guide-paths). The extractor omitted navigation and the new section paragraphs/links. This establishes new-content publication, not exact full-body, live DOM metadata, reciprocal selector or visual/browser certification. Source navigation and target reachability are separately evidenced; all four locale Workbenches and five pilot-guide destinations were successfully retrieved.
+
+CEO board contains a verified native four-column release-gate table under a timestamped source snapshot plus final deployment outcome. Resume from Supermemory document **KyoigHrsyoKFPEHorqGW6V**, custom ID `apps-network-checkpoint-2026-10-11-boat`, container `zion-apps-network`; final content processing/readback follows and must be checked before assuming indexed synthesis. Homepage integration, guide return links and standalone regression execution remain open.
