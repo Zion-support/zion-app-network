@@ -1,0 +1,31 @@
+{
+  "release":"workbench-navigation-2026-10-11-v1",
+  "website_commit":"51cd16363defdb98ac8e867952f3069f24e8d9d3",
+  "deployment":{"url":"https://github.com/Zion-support/zion-support.github.io/actions/runs/38163091751","status":"completed","conclusion":"success","updated_at":"2026-10-11T18:19:34Z","pages_step_completed_at":"2026-10-11T18:19:20Z"},
+  "browser_tasks":{"navigation":"12d649fd-fa3d-451a-879a-35eea9f1618a","html_matrix":"00973ce5-dccd-452d-93f6-15b3322bbe4d","both_finished_successfully":true},
+  "evidence_type":"Normalized summary of returned browser JavaScript fetch/DOMParser matrix; no-store fetches of five production pages",
+  "shared_alternate_map":{"en":"https://ziontechgroup.com/apps/discovery-report-workbench.html","pt-BR":"https://ziontechgroup.com/pt/apps/discovery-report-workbench.html","es":"https://ziontechgroup.com/es/apps/discovery-report-workbench.html","fr":"https://ziontechgroup.com/fr/apps/discovery-report-workbench.html","de":"https://ziontechgroup.com/de/apps/discovery-report-workbench.html","x-default":"https://ziontechgroup.com/apps/discovery-report-workbench.html"},
+  "pages":[
+    {"path":"/apps/discovery-report-workbench.html","lang":"en","http_status":200,"self_canonical":true,"alternate_count":6,"alternate_map_matches":true,"selector_anchor_count":5,"selector_targets_match":true,"current_lang":"en","current_count":1,"h1_count":1,"h2_count":6,"card_count":9,"form_count":0,"script_count":0,"guide_href":"/apps/free-discovery-to-pilot-guide.html","focus_visible_css":true},
+    {"path":"/pt/apps/discovery-report-workbench.html","lang":"pt-BR","http_status":200,"self_canonical":true,"alternate_count":6,"alternate_map_matches":true,"selector_anchor_count":5,"selector_targets_match":true,"current_lang":"pt-BR","current_count":1,"h1_count":1,"h2_count":6,"card_count":9,"form_count":0,"script_count":0,"guide_href":"/pt/apps/free-discovery-to-pilot-guide.html","focus_visible_css":true},
+    {"path":"/es/apps/discovery-report-workbench.html","lang":"es","http_status":200,"self_canonical":true,"alternate_count":6,"alternate_map_matches":true,"selector_anchor_count":5,"selector_targets_match":true,"current_lang":"es","current_count":1,"h1_count":1,"h2_count":6,"card_count":9,"form_count":0,"script_count":0,"guide_href":"/es/apps/free-discovery-to-pilot-guide.html","focus_visible_css":true},
+    {"path":"/fr/apps/discovery-report-workbench.html","lang":"fr","http_status":200,"self_canonical":true,"alternate_count":6,"alternate_map_matches":true,"selector_anchor_count":5,"selector_targets_match":true,"current_lang":"fr","current_count":1,"h1_count":1,"h2_count":6,"card_count":9,"form_count":0,"script_count":0,"guide_href":"/fr/apps/free-discovery-to-pilot-guide.html","focus_visible_css":true},
+    {"path":"/de/apps/discovery-report-workbench.html","lang":"de","http_status":200,"self_canonical":true,"alternate_count":6,"alternate_map_matches":true,"selector_anchor_count":5,"selector_targets_match":true,"current_lang":"de","current_count":1,"h1_count":1,"h2_count":6,"card_count":9,"form_count":0,"script_count":0,"guide_href":"/de/apps/free-discovery-to-pilot-guide.html","focus_visible_css":true}
+  ],
+  "english_marker":"workbench-navigation-2026-10-11-v1",
+  "english_guide_button_label":"Read the reversible pilot guide",
+  "english_spanish_english_navigation_verified":true,
+  "desktop_keyboard_focus_observed":true,
+  "viewport":{"innerWidth":1512,"clientWidth":1497,"scrollWidth":1497,"horizontalOverflow":false},
+  "mobile_tested":false,
+  "mobile_limit":"window.resizeTo(390,844) did not resize the actual browser",
+  "repository_node_checker_executed":false,
+  "repository_node_checker_wired_to_ci":false,
+  "new_forms_or_emails_submitted":false,
+  "homepage_renderer_modified":false,
+  "native_editorial_review":false,
+  "full_network_complete":false,
+  "record":"WORKBENCH-NAVIGATION-2026-10-11.md",
+  "ceo_board":"https://app.notion.com/p/3f5b94b0eaf7818291d4fa512ae5d8a1",
+  "resume_memory_document":"CnHBuE8arjQUCeDg9ydcSf"
+}
