@@ -1,0 +1,30 @@
+{
+  "release": "discovery-workbench-locales-2026-10-11-v1",
+  "session": "wash",
+  "website_commit": "c856f45418c1c790bd910df9f591a687ef8d07c7",
+  "deployment_url": "https://github.com/Zion-support/zion-support.github.io/actions/runs/38162593694",
+  "deployment_status": "completed",
+  "deployment_conclusion": "success",
+  "deployment_updated_at": "2026-10-11T18:12:24Z",
+  "pages_deploy_step_completed_at": "2026-10-11T18:12:01Z",
+  "public_verification": "Independent public-page extraction with new verification query; crawled success and distinct localized titles/introductions/cards. Extractor omitted some content; no exact full-body certification.",
+  "pages": [
+    {"locale":"pt-BR","url":"https://ziontechgroup.com/pt/apps/discovery-report-workbench.html","source_blob":"f06175d7fae8d142e361acd8474222d0cb24bd7a","retrieval":"crawled-success"},
+    {"locale":"es","url":"https://ziontechgroup.com/es/apps/discovery-report-workbench.html","source_blob":"483d72d7ad1e77fe9979e199fb04f06f524cb063","retrieval":"crawled-success"},
+    {"locale":"fr","url":"https://ziontechgroup.com/fr/apps/discovery-report-workbench.html","source_blob":"b15229f19a7dc92f7d01e93e7416d843e98a46ee","retrieval":"crawled-success"},
+    {"locale":"de","url":"https://ziontechgroup.com/de/apps/discovery-report-workbench.html","source_blob":"3a33a0c0c04bbc05c158999979238e063c0bc001","retrieval":"crawled-success"}
+  ],
+  "source_readback": "Immutable source SHAs match commit response; no local byte hashing because sandbox unavailable",
+  "record": "DISCOVERY-WORKBENCH-LOCALES-2026-10-11.md",
+  "ceo_board": "https://app.notion.com/p/3f5b94b0eaf7818291d4fa512ae5d8a1",
+  "resume_memory_document": "oU4PVH6wUE9XCRaCpAbVkA",
+  "homepage_renderer_modified": false,
+  "english_reciprocal_selector_complete": false,
+  "new_workbench_regression_executed": false,
+  "browser_mobile_verified": false,
+  "native_editorial_review": false,
+  "email_submitted": false,
+  "full_network_complete": false,
+  "next": ["Restore test environment", "Integrate matching-language homepage cards and English selector using current build-owned sources", "Add guide backlinks and durable regression tests", "Review native language, keyboard/mobile and tool interactions"],
+  "historical_pending_snapshots_superseded": true
+}
