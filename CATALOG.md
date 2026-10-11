@@ -6,7 +6,7 @@
 Insurance entries below are documentation concepts, not functioning AI engines. The linked workbench is a local checklist, with no model inference, document upload or regulated decision. Legacy category counts are snapshots; a repository link is not evidence of a working app.
 <!--insurance-catalog-note:end-->
 
-This catalog contains 480 unique linked repositories. It includes documentation concepts, tools and field playbooks; this is not a verified count of functioning apps.
+This catalog contains 484 unique linked repositories. It includes documentation concepts, tools and field playbooks; this is not a verified count of functioning apps.
 
 ## Network Hubs
 
@@ -260,3 +260,17 @@ These entries describe inspected concepts, not certified production apps. Existi
 - [Policy Comparison AI](https://github.com/Zion-support/policy-comparison-ai) — Policy-comparison workflow concept; no AI engine implemented. [Planning page](https://ziontechgroup.com/policy-comparison-ai/).
 - [Underwriting Copilot AI](https://github.com/Zion-support/underwriting-copilot-ai) — Underwriting-intake workflow concept; no AI engine implemented. [Planning page](https://ziontechgroup.com/underwriting-copilot-ai/).
 - [Claims Automation AI](https://github.com/Zion-support/claims-automation-ai) — Claims-evidence workflow concept; no AI engine implemented. [Planning page](https://ziontechgroup.com/claims-automation-ai/).
+
+
+## Mining & Metals — documented concepts, not validated AI
+
+The repositories provide documentation and network links; public destinations are landing pages. Do not use them for emergency response, dam-stability decisions, regulatory certification, safety approvals or autonomous equipment control. Qualified review and validated systems remain necessary.
+
+| Concept | Landing page | Source |
+|---|---|---|
+| Mine Safety Sentinel | [Explore](https://ziontechgroup.com/mine-safety-sentinel/) | [GitHub](https://github.com/Zion-support/mine-safety-sentinel) |
+| Ore Grade Predictor | [Explore](https://ziontechgroup.com/ore-grade-predictor/) | [GitHub](https://github.com/Zion-support/ore-grade-predictor) |
+| Mining Fleet Optimizer | [Explore](https://ziontechgroup.com/mining-fleet-optimizer/) | [GitHub](https://github.com/Zion-support/mining-fleet-optimizer) |
+| Tailings Dam Monitor | [Explore](https://ziontechgroup.com/tailings-dam-monitor/) | [GitHub](https://github.com/Zion-support/tailings-dam-monitor) |
+
+[Mining supplement and five translated guides](CATALOG-MINING.md) · [Catalog navigation](CATALOG-NAVIGATION.md) · [Free Discovery](https://ziontechgroup.com/discovery/).
