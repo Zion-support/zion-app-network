@@ -1,9 +1,7 @@
-# Agriculture concept release — 11 October 2026
+# Agriculture & FoodTech — approved five-language release
 
-User confirmed this bounded release. Replaces unsupported live-AI and guaranteed dual-email claims on the historical English showcase; adds complete PT-BR, ES, FR, DE bodies with responsive styling, six repository links, matching Discovery/Planner/Field Evidence routes and reciprocal hub/site navigation.
+The six inspected component repositories each contain LICENSE, README.md and ZION_APP_NETWORK.md; no implementation files were found in those untruncated trees. The showcases now describe documented concepts, not working prediction/inspection/control products. No claim is made about implementations outside these repositories.
 
-Audit: all six component repository trees contained only LICENSE, README.md and ZION_APP_NETWORK.md. No implementation was found in those inspected snapshots; not a claim about all possible external implementations. Pages describe documented concepts, not veterinary, food safety, irrigation or financial decision systems.
+Complete EN/PT-BR/ES/FR/DE bodies share _data/agriculture111.json and _includes/agriculture111.html, rendered by the existing legacy GitHub Pages main-root Jekyll build. Existing English showcase URL retained; four locale URLs added. Canonical/six alternates, reciprocal language links, six repository references, matching Discovery/Planner/Field Evidence links and shared responsive styling included. Unsupported all-live and guaranteed dual-email claims removed; no questionnaire or email code changed.
 
-Five source pages each have six alternate links, one current-language marker, six concept cards, three pilot steps, capability and delivery limitations, and no forms/scripts. Node/fixture/live checks for the website renderer and final publication evidence remain pending until observed. Native-speaker, real mobile and whole-network certification are outside this release.
-
-Production website mirrors will be generated from this pinned hub commit. Homepage form/script/delivery/pricing behavior must be preserved. No form submission, email, paid inference or new schedule.
+Local Liquid fixture tests passed all five locale bodies, metadata, six cards/repositories and absence of forms/scripts. This record does NOT yet certify deployment: fresh GitHub Pages build and live checks must be observed and recorded. Website mirrors and five homepage promotions are the next dependency, sourced from this pinned translation data. Full-network coverage and native-language/mobile/assistive-technology certification remain incomplete.
