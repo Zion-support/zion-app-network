@@ -1,0 +1,18 @@
+{
+  "release": "supplier-comparison-2026-10-11-v1",
+  "websiteCommit": "d9946d0cab4ccf474e7faf7cf20e65584c1a6ea2",
+  "deployment": {"run": 38169062825, "job": 114557623133, "status": "completed", "conclusion": "success", "completedAt": "2026-10-11T19:44:31Z"},
+  "immutableBlobs": {"renderer": "37b83d9cbe14b8eb9f3e5d4cb5c4e0be6f34495a", "workflow": "76be5f698b528e66d85054b4f74e3e61f04104a1"},
+  "languages": ["en", "pt-BR", "es", "fr", "de"],
+  "newContent": {"calculators": 5, "reviewGuides": 5, "canonicalHomepages": 5, "comparisonRowsPerTable": 9, "fictional": true},
+  "offline": {"pages": 15, "negativeCases": 31, "idempotence": true, "outsideOwnedBlockBytesPreservedPages": 15, "formsScriptsPreserved": true, "missingDestinationFailsBeforeWrites": true},
+  "existingContracts": {"fixturePages": 20, "negativeCases": 43, "freshLiveRoutesAndAssets": 31, "result": "PASS"},
+  "publication": {"freshHtmlRoutes": 15, "manifestVerified": true, "checkedAt": "2026-10-11T19:45:03.873Z", "result": "PASS"},
+  "nativeBrowser": {"engine": "Chromium", "actualViewportWidths": [390, 1280], "livePageViewportCases": 30, "sectionWithinViewport": true, "keyboardFocusableTableScroll": true, "reportDownloadsCheckedLocales": 5, "staleExportCheckedLocales": 5, "invalidInputCheckedLocales": 5, "scriptErrors": [], "outboundSubmissions": []},
+  "preserved": ["calculator code", "forms", "recipients", "approval gates", "tax/pricing policy", "pilot primary bodies", "previous publications"],
+  "wholeNetworkComplete": false,
+  "nativeEditorialReviewComplete": false,
+  "screenReaderCertified": false,
+  "pairedInboxReceiptCertified": false,
+  "canonicalCoverageAuthorityAppend": "pending"
+}
