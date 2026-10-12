@@ -86,3 +86,31 @@ Source network contracts: [SQL](https://github.com/Zion-support/sql-query-explai
 [Website source release](https://github.com/Zion-support/zion-support.github.io/commit/3cf7a7d91ed167021d3b5b310e86cdd1db1912b4) preserves SQL detection rules and scorecard thresholds in a localized implementation. Synthetic SQL blank/unrecognized/injection-text checks, fifteen differential clause tests and all twenty-one score states passed before publication. Deployment and fresh production byte/route/runtime verification are separate gates; inspect the manifest and current CEO board rather than assuming a source commit proves publication.
 
 One catalog with five sections, not five catalog URLs. Complete network translation/functionality/interlink coverage, real mobile/keyboard/assistive-technology and native-language review remain open. Code Assistant is excluded from this batch and needs a separate canonical/capability review. No actual database query, email, questionnaire, purchase, reservation, production change or dispatch was submitted during these tests.
+
+## Practical review and source reconciliation — 12 October 2026
+
+Supplement: **devops-review-promotion-2026-10-12-v1**. This adds practical copy inside the existing Batch 91 homepage promotion; it does not add another app, another promotion or new AI functionality. [Website source commit](https://github.com/Zion-support/zion-support.github.io/commit/8882496046f7fe9e357a6bd2656989f06b2f5c90) · [Publication manifest](https://ziontechgroup.com/apps/devops-review-promotion.json). Check current deployment and live markers separately; a commit alone is not proof of publication.
+
+### English — practical review
+
+Inspect one fictional SQL clause; identify one evidenced agent-control gap, owner and review date; prepare technician skills, access, availability and written scope. Hints are not execution plans, a checklist is not an audit, and planning is not dispatch. [Existing homepage promotion](https://ziontechgroup.com/en/) · [Verification guide](https://ziontechgroup.com/apps/app-verification-guide.html).
+
+### Português — revisão prática
+
+Confira uma cláusula SQL fictícia; identifique uma lacuna de controle com evidência, responsável e data de revisão; prepare competências, acesso, disponibilidade e escopo escrito da visita. Dicas não são planos de execução, checklist não é auditoria e planejamento não é despacho. [Promoção existente](https://ziontechgroup.com/) · [Guia de verificação](https://ziontechgroup.com/pt/apps/app-verification-guide.html).
+
+### Español — revisión práctica
+
+Revise una cláusula SQL ficticia; identifique una brecha de control con evidencia, responsable y fecha de revisión; prepare habilidades, acceso, disponibilidad y alcance escrito. Las sugerencias no son planes de ejecución, una lista no es auditoría y planificar no moviliza técnicos. [Promoción existente](https://ziontechgroup.com/es/) · [Guía de verificación](https://ziontechgroup.com/es/apps/app-verification-guide.html).
+
+### Français — revue pratique
+
+Examinez une clause SQL fictive ; identifiez une lacune de contrôle étayée, un responsable et une date de revue ; préparez compétences, accès, disponibilité et périmètre écrit. Les conseils ne sont pas des plans d’exécution, une liste n’est pas un audit et la préparation ne mobilise personne. [Promotion existante](https://ziontechgroup.com/fr/) · [Guide de vérification](https://ziontechgroup.com/fr/apps/app-verification-guide.html).
+
+### Deutsch — praktische Prüfung
+
+Prüfen Sie eine erfundene SQL-Klausel; bestimmen Sie eine belegte Kontrolllücke, einen Verantwortlichen und einen Prüftermin; bereiten Sie Fähigkeiten, Zugang, Verfügbarkeit und schriftlichen Umfang vor. Hinweise sind keine Ausführungspläne, Checklisten keine Audits und Planung keine Entsendung. [Bestehende Promotion](https://ziontechgroup.com/de/) · [Prüfleitfaden](https://ziontechgroup.com/de/apps/app-verification-guide.html).
+
+Reconciled English repository editions now distinguish their source snapshot from the maintained five-language website and use common reciprocal navigation. Existing SQL and scorecard scripts are preserved, not replaced with model or database calls: [SQL source repair](https://github.com/Zion-support/sql-query-explainer/commit/82a8a8915fd509414ef29487166c55cc3427fce2) · [Scorecard source repair](https://github.com/Zion-support/zion-agent-observability/commit/dbe6049c9e0aa06c1ca981c1686dfbbb881e66c7) · [Scheduling source repair](https://github.com/Zion-support/technician-scheduler-ai/commit/e47ddb3604b90975596b220fde3f11b59d4e55df).
+
+These are three bounded source repairs and five localized editorial additions, not fleet-wide readiness or native-language/accessibility certification. Existing release history above is preserved.
