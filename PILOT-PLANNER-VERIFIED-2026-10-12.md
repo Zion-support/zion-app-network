@@ -25,3 +25,8 @@ Exactly one owned planner promotion per checked peer page; destination points to
 Scoped reachability/markup checks only, not native browser interaction tests, exhaustive network translation, supplier capability certification, email inbox receipt or continuous monitoring. Earlier failed activation run 38150233568 does not describe the current verified live page state. Do not recreate already-published planner promotions.
 
 Próxima etapa: testar interações nativas e preservar os cinco idiomas, sem afirmar tradução integral da rede. Siguiente paso: probar interacciones nativas, sin afirmar traducción de toda la red. Étape suivante : tester les interactions natives, sans certifier tout le réseau. Nächster Schritt: native Interaktionen prüfen, ohne vollständige Netzwerkübersetzung zu behaupten.
+
+## Final deployment verification — COMPLETE
+Supersedes the pending-completion snapshot above. [Deployment job 114816245489](https://github.com/Zion-support/zion-support.github.io/actions/runs/38250792533/job/114816245489) completed SUCCESS at12October2026 12:46:49UTC. All51reported steps succeeded, including the newly added Read-only live five-language Pilot Planner publication checks step. Source head8c6aff574d7015413765856f6bebd8f207653259; no rerun, force push or cancellation.
+
+Independent post-deployment no-cache GET-only recheck passed41/41 at12:48:22.604UTC with the same planner release, route/locale/promotion/manifest/style assertions. This approved QA/documentation batch is complete. Scope limits above remain unchanged; no global-network, native-interaction or inbox-delivery certification.
