@@ -104,3 +104,67 @@ Fügen Sie keine Geheimnisse, privaten Kundendaten oder vertraulichen Mitschrift
 - Real desktop browser checks exercised English/Portuguese email drafts and blank-input recovery, Portuguese recap classification with actual newline characters, planning-guide limits and reciprocal guide links. Observed viewport: 1512×770; document client/scroll width1497. Limited control focus checks were performed; not a complete keyboard/accessibility audit. Initial recap ambiguity was resolved by an actual-newline DOM test, not a runtime patch.
 - [Audit and resume evidence](https://backend.composio.dev/api/v3/sl/L2iv5Oy3nc) · [Existing release verification](https://backend.composio.dev/api/v3/sl/DeCeMJ3t8B).
 - One catalog page with five translated sections, not five separate catalog URLs. Mobile resizing was unavailable. Native-speaker, mobile, assistive-technology, independently hosted repository and full-network capability/translation/interlink coverage remain open. No real email or server form was submitted.
+
+## Worked productivity workflow — 12 October 2026
+
+Release: **productivity-workflow-2026-10-12-v1**. [EN](#workflow-en) · [PT-BR](#workflow-pt) · [ES](#workflow-es) · [FR](#workflow-fr) · [DE](#workflow-de).
+
+<a id="workflow-en"></a>
+### English — from notes to a reviewed draft
+
+**Fictional input:** “Decision: test one support checklist. Action: Alex reviews the checklist on Friday.” This is a manual sequence, not an automatic integration between apps.
+
+1. **Recap:** open [Meeting Notes](https://ziontechgroup.com/ai-meeting-notes-copilot/), use the fictional notes and inspect the keyword-based categories. Confirm the decision, Alex’s ownership and the intended calendar date yourself; keywords cannot establish meaning or commitments.
+2. **Brief:** manually transfer verified facts to [Agent Brief](https://ziontechgroup.com/agent-brief/). Record one task, owner, permitted input, expected output, reviewer and stop rule in the available fields. This local composer does not execute an agent.
+3. **Draft:** open [Email Drafter](https://ziontechgroup.com/ai-email-drafter/), choose a suitable local template and manually enter the approved context. Compare its draft with the verified brief; it neither calls a model nor sends email.
+4. **Human review:** use the [App Verification Guide](https://ziontechgroup.com/apps/app-verification-guide.html). Check facts, recipient, date, privacy and authority before any separately approved action. Stop if a fact is ambiguous, a deadline is invented or approval is missing.
+
+**Measure, do not promise:** compare preparation time and factual corrections with your own baseline; record reviewer acceptance, not a guaranteed saving. Use only fictional or authorized sanitized data. Copy only when requested. [Return to the English homepage](https://ziontechgroup.com/en/) · [Full English catalog](#en).
+
+<a id="workflow-pt"></a>
+### Português — das notas a um rascunho revisado
+
+**Entrada fictícia:** “Decisão: testar um checklist de suporte. Ação: Alex revisa o checklist na sexta-feira.” A sequência é manual, não uma integração automática entre apps.
+
+1. **Resumo:** abra o [Copiloto de atas](https://ziontechgroup.com/pt/ai-meeting-notes-copilot/), use as notas fictícias e confira as categorias por palavras-chave. Confirme pessoalmente a decisão, a responsabilidade de Alex e a data pretendida; palavras-chave não comprovam significado ou compromisso.
+2. **Briefing:** transfira manualmente os fatos verificados para o [Briefing de agente](https://ziontechgroup.com/pt/agent-brief/). Registre uma tarefa, responsável, entrada permitida, saída esperada, revisor e regra de parada nos campos disponíveis. O compositor local não executa agentes.
+3. **Rascunho:** abra o [Redator de e-mails](https://ziontechgroup.com/pt/ai-email-drafter/), escolha um modelo local adequado e insira manualmente o contexto aprovado. Compare o texto com o briefing; a ferramenta não chama modelos nem envia e-mails.
+4. **Revisão humana:** use o [Guia de verificação](https://ziontechgroup.com/pt/apps/app-verification-guide.html). Confira fatos, destinatário, data, privacidade e autoridade antes de uma ação aprovada separadamente. Pare se houver ambiguidade, prazo inventado ou falta de aprovação.
+
+**Meça, não prometa:** compare tempo de preparação e correções factuais com sua própria linha de base; registre a aceitação do revisor, não economia garantida. Use apenas dados fictícios ou anonimizados e autorizados. Copie somente quando solicitado. [Voltar à página inicial](https://ziontechgroup.com/) · [Catálogo em português](#pt).
+
+<a id="workflow-es"></a>
+### Español — de las notas a un borrador revisado
+
+**Entrada ficticia:** “Decisión: probar una lista de soporte. Acción: Alex revisa la lista el viernes.” La secuencia es manual, no una integración automática entre aplicaciones.
+
+1. **Resumen:** abra el [Copiloto de notas](https://ziontechgroup.com/es/ai-meeting-notes-copilot/), use las notas ficticias y revise las categorías por palabras clave. Confirme personalmente la decisión, la responsabilidad de Alex y la fecha prevista; las palabras clave no demuestran significado ni compromiso.
+2. **Brief:** transfiera manualmente los hechos verificados al [Brief de agente](https://ziontechgroup.com/es/agent-brief/). Registre una tarea, responsable, entrada permitida, salida esperada, revisor y regla de parada en los campos disponibles. El compositor local no ejecuta agentes.
+3. **Borrador:** abra el [Redactor de correos](https://ziontechgroup.com/es/ai-email-drafter/), elija una plantilla local adecuada e introduzca manualmente el contexto aprobado. Compare el texto con el brief; la herramienta no consulta modelos ni envía correos.
+4. **Revisión humana:** use la [Guía de verificación](https://ziontechgroup.com/es/apps/app-verification-guide.html). Compruebe hechos, destinatario, fecha, privacidad y autoridad antes de una acción autorizada por separado. Deténgase ante una ambigüedad, un plazo inventado o falta de aprobación.
+
+**Mida, no prometa:** compare tiempo de preparación y correcciones factuales con su propia referencia; registre la aceptación del revisor, no un ahorro garantizado. Use únicamente datos ficticios o anonimizados y autorizados. Copie solo cuando se solicite. [Volver al inicio](https://ziontechgroup.com/es/) · [Catálogo en español](#es).
+
+<a id="workflow-fr"></a>
+### Français — des notes à un brouillon relu
+
+**Entrée fictive :** « Décision : tester une liste de contrôle du support. Action : Alex relit la liste vendredi. » La séquence est manuelle, pas une intégration automatique entre applications.
+
+1. **Synthèse :** ouvrez le [Copilote de réunion](https://ziontechgroup.com/fr/ai-meeting-notes-copilot/), utilisez les notes fictives et vérifiez les catégories fondées sur des mots-clés. Confirmez vous-même la décision, la responsabilité d’Alex et la date prévue ; les mots-clés ne prouvent ni sens ni engagement.
+2. **Brief :** transférez manuellement les faits vérifiés dans le [Brief d’agent](https://ziontechgroup.com/fr/agent-brief/). Notez une tâche, un responsable, les données permises, le résultat attendu, un relecteur et une règle d’arrêt dans les champs disponibles. Ce composeur local n’exécute pas d’agent.
+3. **Brouillon :** ouvrez le [Rédacteur de courriels](https://ziontechgroup.com/fr/ai-email-drafter/), choisissez un modèle local adapté et saisissez manuellement le contexte approuvé. Comparez le texte au brief ; l’outil ne sollicite pas de modèle et n’envoie pas de courriel.
+4. **Relecture humaine :** utilisez le [Guide de vérification](https://ziontechgroup.com/fr/apps/app-verification-guide.html). Vérifiez faits, destinataire, date, confidentialité et autorité avant une action autorisée séparément. Arrêtez-vous en cas d’ambiguïté, d’échéance inventée ou d’approbation manquante.
+
+**Mesurez, ne promettez pas :** comparez temps de préparation et corrections factuelles à votre propre référence ; consignez l’acceptation du relecteur, pas une économie garantie. Utilisez uniquement des données fictives ou anonymisées et autorisées. Copiez seulement sur demande. [Retour à l’accueil](https://ziontechgroup.com/fr/) · [Catalogue en français](#fr).
+
+<a id="workflow-de"></a>
+### Deutsch — von Notizen zum geprüften Entwurf
+
+**Erfundene Eingabe:** „Entscheidung: eine Support-Checkliste testen. Aufgabe: Alex prüft die Checkliste am Freitag.“ Dies ist eine manuelle Abfolge, keine automatische Integration zwischen Anwendungen.
+
+1. **Zusammenfassung:** öffnen Sie [Besprechungsnotizen](https://ziontechgroup.com/de/ai-meeting-notes-copilot/), verwenden Sie die erfundenen Notizen und prüfen Sie die schlüsselwortbasierten Kategorien. Bestätigen Sie Entscheidung, Zuständigkeit von Alex und vorgesehenes Datum selbst; Schlüsselwörter belegen weder Bedeutung noch Zusage.
+2. **Briefing:** übertragen Sie geprüfte Fakten manuell in das [Agentenbriefing](https://ziontechgroup.com/de/agent-brief/). Halten Sie eine Aufgabe, Verantwortlichen, erlaubte Eingaben, erwartetes Ergebnis, Prüfer und Stoppregel in den verfügbaren Feldern fest. Dieses lokale Werkzeug führt keine Agenten aus.
+3. **Entwurf:** öffnen Sie den [E-Mail-Entwurf](https://ziontechgroup.com/de/ai-email-drafter/), wählen Sie eine passende lokale Vorlage und geben Sie den genehmigten Kontext manuell ein. Vergleichen Sie den Text mit dem Briefing; das Werkzeug fragt kein Modell ab und versendet keine E-Mail.
+4. **Menschliche Prüfung:** nutzen Sie den [Prüfleitfaden](https://ziontechgroup.com/de/apps/app-verification-guide.html). Prüfen Sie Fakten, Empfänger, Datum, Datenschutz und Befugnis vor einer gesondert genehmigten Handlung. Stoppen Sie bei Unklarheit, erfundener Frist oder fehlender Freigabe.
+
+**Messen statt versprechen:** vergleichen Sie Vorbereitungszeit und sachliche Korrekturen mit Ihrer eigenen Ausgangslage; dokumentieren Sie die Zustimmung des Prüfers, keine garantierte Ersparnis. Nutzen Sie nur erfundene oder anonymisierte und freigegebene Angaben. Kopieren Sie nur auf Anfrage. [Zur Startseite](https://ziontechgroup.com/de/) · [Deutscher Katalog](#de).
