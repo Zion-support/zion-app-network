@@ -1,0 +1,16 @@
+{
+  "release": "supplier-coverage-reconciliation-2026-10-12-v1",
+  "session": "came",
+  "comparisonLiveCheckedAt": "2026-10-11T23:59:05.194Z",
+  "comparison": {"htmlRoutes":15,"manifestVerified":true,"negativeFixtureCases":31,"exactLocalizedBlocks":true},
+  "pilotPaths": {"uniqueRoutesAndAssets":31,"fixturePages":20,"negativeCases":43,"result":"PASS"},
+  "originalCalculationTests": {"passed":8,"failed":0},
+  "productionScriptSyntheticDOM": {"locales":["en","pt-BR","es","fr","de"],"assertions":63,"result":"PASS","checks":["example resets all evidence declarations","download equals visible report","localized download filename","localized validation","two-supplier state","stale export disabled","owner-review state","complete cost and separate client tax"],"realSubmission":false,"visualBrowserQA":false},
+  "websiteDeployment": {"run":38169062825,"head":"d9946d0cab4ccf474e7faf7cf20e65584c1a6ea2","status":"completed","conclusion":"success"},
+  "websiteSourceChangedInThisSession":false,
+  "historicalCoveragePreserved":true,
+  "fullNetworkComplete":false,
+  "nativeEditorialReviewComplete":false,
+  "screenReaderSafariComplete":false,
+  "pairedDiscoveryInboxReceiptVerified":false
+}
