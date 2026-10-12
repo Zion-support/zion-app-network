@@ -1,4 +1,4 @@
-# Translation coverage — verified 9 October 2026
+# Translation coverage — scoped verified releases
 
 This is the single coverage authority; TRANSLATIONS.md defines policy only. Not listed means unverified, not necessarily absent. Source naming, HTTP publication, translated body and actual functionality are separate evidence levels.
 
