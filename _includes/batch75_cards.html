@@ -1,0 +1,21 @@
+<style>
+#batch75-review .b75-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1rem;padding:0;list-style:none}
+#batch75-review .b75-card{border:1px solid #64748b;border-radius:12px;padding:1rem;min-width:0;overflow-wrap:anywhere}
+#batch75-review a:focus-visible,#batch75-review summary:focus-visible{outline:3px solid #2563eb;outline-offset:3px}
+#batch75-review nav a{display:inline-block;padding:.45rem}
+#batch75-review summary{cursor:pointer;padding:1rem 0;font-weight:700}
+#batch75-review h4{margin-top:0}
+</style>
+<section id="batch75-review" data-batch75-review="20261014-grew" aria-labelledby="batch75-title">
+<h2 id="batch75-title">Batch 75 · English · Português · Español · Français · Deutsch</h2>
+<nav aria-label="Batch 75 languages">{% for locale in site.data.batch75_review.locales %}<a lang="{{ locale.lang }}" href="#batch75-{{ locale.key }}">{{ locale.name }}</a>{% endfor %}</nav>
+{% for locale in site.data.batch75_review.locales %}
+<details id="batch75-{{ locale.key }}" lang="{{ locale.lang }}" open>
+<summary>{{ locale.title | escape }}</summary>
+<p>{{ locale.intro | escape }}</p>
+<nav aria-label="{{ locale.title | escape }}"><a href="{{ locale.home }}">{{ locale.homeLabel }}</a> · <a href="#network-start-here">{{ locale.hubLabel }}</a> · <a href="{{ locale.discovery }}">{{ locale.discoveryLabel }}</a> · <a href="https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html">{{ locale.showcase }}</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-04-BATCH75.md">{{ locale.doc }}</a></nav>
+<ul class="b75-grid">{% for item in site.data.batch75_review.entries %}
+<li class="b75-card" id="batch75-{{ locale.key }}-{{ forloop.index }}"><h4>{{ item.name | escape }}</h4><p>{{ item.descriptions[locale.key] | escape }}</p><p>{% if item.http == 200 %}{{ locale.ok | escape }}{% else %}{{ locale.bad | escape }}{% endif %}</p><p><a href="{{ item.url }}">{{ locale.route }} — {{ item.name | escape }}</a> · <a href="{{ item.repo }}">{{ locale.repoLabel }} — {{ item.name | escape }}</a></p><nav aria-label="{{ locale.related }} — {{ item.name | escape }}"><a href="#batch75-{{ locale.key }}">{{ locale.related }}</a> · <a href="#network-start-here">{{ locale.hubLabel }}</a></nav></li>
+{% endfor %}</ul></details>
+{% endfor %}
+</section>
