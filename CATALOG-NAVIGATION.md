@@ -106,3 +106,60 @@ Explorez les outils et guides publiés. Consignez un responsable, une référenc
 Entdecken Sie veröffentlichte Werkzeuge und Leitfäden. Dokumentieren Sie Verantwortliche, Ausgangswerte, Prüftermin und Abbruchregel vor der Umsetzung. Ein Eintrag belegt keine funktionierende KI; ältere Katalogbeschreibungen können unübersetzt bleiben.
 
 [Startseite](https://ziontechgroup.com/de/) · [Kostenloses Discovery](https://ziontechgroup.com/de/discovery/) · [Pilotleitfaden](https://ziontechgroup.com/de/apps/discovery-first-win-guide.html) · [Katalog (gemischte Sprachen)](https://ziontechgroup.com/zion-app-network/CATALOG.md)
+
+
+## Resource navigation consolidation — 14 October 2026
+
+Release: **productivity-navigation-2026-10-14-v1**. Existing catalog entries and release history are preserved. Six resources, not six implemented AI integrations.
+
+[English](#resource-path-en) · [Português](#resource-path-pt) · [Español](#resource-path-es) · [Français](#resource-path-fr) · [Deutsch](#resource-path-de)
+
+<a id="resource-path-en"></a>
+
+### English — six resource paths
+
+Use local tools for draft preparation; use review and planning guides for human decisions. This is a manual resource network, not automatic integration.
+
+[Agent Brief](https://ziontechgroup.com/agent-brief/) · [Admissions Essay Reviewer](https://ziontechgroup.com/admissions-essay-reviewer/) · [AI Access Reviewer](https://ziontechgroup.com/ai-access-reviewer/) · [AI Email Drafter](https://ziontechgroup.com/ai-email-drafter/) · [AI Meeting Notes Copilot](https://ziontechgroup.com/ai-meeting-notes-copilot/) · [Incident Response](https://ziontechgroup.com/ai-incident-response/)
+
+[Capabilities and worked example](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#en) · [Homepage](https://ziontechgroup.com/en/#app-paths-home) · [Free Discovery](https://ziontechgroup.com/discovery/)
+
+<a id="resource-path-pt"></a>
+
+### Português — seis caminhos de recursos
+
+Use ferramentas locais para preparar rascunhos; use guias de revisão e planejamento para decisões humanas. Esta rede conecta recursos manualmente, não integrações automáticas.
+
+[Briefing de agente](https://ziontechgroup.com/pt/agent-brief/) · [Revisão de redações de admissão](https://ziontechgroup.com/pt/admissions-essay-reviewer/) · [Revisão de acessos](https://ziontechgroup.com/pt/ai-access-reviewer/) · [Redator de e-mails](https://ziontechgroup.com/pt/ai-email-drafter/) · [Copiloto de atas](https://ziontechgroup.com/pt/ai-meeting-notes-copilot/) · [Resposta a incidentes](https://ziontechgroup.com/pt/ai-incident-response/)
+
+[Capacidades e exemplo prático](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#pt) · [Página inicial](https://ziontechgroup.com/#app-paths-home) · [Discovery gratuito](https://ziontechgroup.com/pt/discovery/)
+
+<a id="resource-path-es"></a>
+
+### Español — seis rutas de recursos
+
+Use herramientas locales para preparar borradores y guías de revisión y planificación para decisiones humanas. Es una red de recursos manuales, no una integración automática.
+
+[Brief de agente](https://ziontechgroup.com/es/agent-brief/) · [Revisión de ensayos de admisión](https://ziontechgroup.com/es/admissions-essay-reviewer/) · [Revisión de accesos](https://ziontechgroup.com/es/ai-access-reviewer/) · [Redactor de correos](https://ziontechgroup.com/es/ai-email-drafter/) · [Copiloto de notas](https://ziontechgroup.com/es/ai-meeting-notes-copilot/) · [Respuesta a incidentes](https://ziontechgroup.com/es/ai-incident-response/)
+
+[Capacidades y ejemplo práctico](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#es) · [Inicio](https://ziontechgroup.com/es/#app-paths-home) · [Discovery gratuito](https://ziontechgroup.com/es/discovery/)
+
+<a id="resource-path-fr"></a>
+
+### Français — six parcours de ressources
+
+Utilisez les outils locaux pour préparer des brouillons et les guides de relecture et de préparation pour les décisions humaines. Ce réseau de ressources est manuel, pas une intégration automatique.
+
+[Brief d’agent](https://ziontechgroup.com/fr/agent-brief/) · [Relecture de dossiers d’admission](https://ziontechgroup.com/fr/admissions-essay-reviewer/) · [Revue des accès](https://ziontechgroup.com/fr/ai-access-reviewer/) · [Rédacteur de courriels](https://ziontechgroup.com/fr/ai-email-drafter/) · [Copilote de réunion](https://ziontechgroup.com/fr/ai-meeting-notes-copilot/) · [Réponse aux incidents](https://ziontechgroup.com/fr/ai-incident-response/)
+
+[Capacités et exemple pratique](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#fr) · [Accueil](https://ziontechgroup.com/fr/#app-paths-home) · [Discovery gratuit](https://ziontechgroup.com/fr/discovery/)
+
+<a id="resource-path-de"></a>
+
+### Deutsch — sechs Ressourcenpfade
+
+Nutzen Sie lokale Werkzeuge für Entwürfe und Prüf- oder Planungsleitfäden für menschliche Entscheidungen. Dies ist ein manuelles Ressourcennetz, keine automatische Integration.
+
+[Agentenbriefing](https://ziontechgroup.com/de/agent-brief/) · [Prüfung von Zulassungsessays](https://ziontechgroup.com/de/admissions-essay-reviewer/) · [Zugriffsprüfung](https://ziontechgroup.com/de/ai-access-reviewer/) · [E-Mail-Entwurf](https://ziontechgroup.com/de/ai-email-drafter/) · [Besprechungsnotizen](https://ziontechgroup.com/de/ai-meeting-notes-copilot/) · [Incident Response](https://ziontechgroup.com/de/ai-incident-response/)
+
+[Funktionen und Praxisbeispiel](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#de) · [Startseite](https://ziontechgroup.com/de/#app-paths-home) · [Kostenloses Discovery](https://ziontechgroup.com/de/discovery/)
