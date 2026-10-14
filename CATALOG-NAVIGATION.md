@@ -163,3 +163,38 @@ Nutzen Sie lokale Werkzeuge für Entwürfe und Prüf- oder Planungsleitfäden f�
 [Agentenbriefing](https://ziontechgroup.com/de/agent-brief/) · [Prüfung von Zulassungsessays](https://ziontechgroup.com/de/admissions-essay-reviewer/) · [Zugriffsprüfung](https://ziontechgroup.com/de/ai-access-reviewer/) · [E-Mail-Entwurf](https://ziontechgroup.com/de/ai-email-drafter/) · [Besprechungsnotizen](https://ziontechgroup.com/de/ai-meeting-notes-copilot/) · [Incident Response](https://ziontechgroup.com/de/ai-incident-response/)
 
 [Funktionen und Praxisbeispiel](https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#de) · [Startseite](https://ziontechgroup.com/de/#app-paths-home) · [Kostenloses Discovery](https://ziontechgroup.com/de/discovery/)
+
+
+## Field-ticket planning paths — 14 October 2026
+
+Release: **field-ticket-types-2026-10-14-v1**. Five complete editorial guide editions, not an automated dispatcher. Existing catalog history, country prices and checkout destinations are preserved.
+
+<a id="field-ticket-en"></a>
+
+### English — scope before booking
+
+[Field Ticket Types](https://ziontechgroup.com/apps/field-ticket-types.html) compares break/fix, IMAC, imaging waves, time and materials, and dedicated personnel with backfill. Confirm owner, access, parts, costs, client approval and separate Zion authorization before intervention. [Homepage](https://ziontechgroup.com/en/). [Tickets](https://ziontechgroup.com/zion-field-tickets/), [Taiwan](https://ziontechgroup.com/zion-field-taiwan/) and [Senegal](https://ziontechgroup.com/zion-field-senegal/) destinations may remain English. This is not whole-network language or availability certification.
+
+<a id="field-ticket-pt"></a>
+
+### Português — escopo antes da reserva
+
+[Tipos de chamados de campo](https://ziontechgroup.com/pt/apps/field-ticket-types.html) compara reparo, IMAC, imagens em lote, tempo e materiais e equipe dedicada com substituição. Confirme responsável, acesso, peças, custos, aprovação do cliente e autorização separada da Zion antes de intervenção. [Página inicial](https://ziontechgroup.com/). [Chamados](https://ziontechgroup.com/zion-field-tickets/), [Taiwan](https://ziontechgroup.com/zion-field-taiwan/) e [Senegal](https://ziontechgroup.com/zion-field-senegal/) podem continuar em inglês. Não constitui certificação de idiomas ou disponibilidade de toda a rede.
+
+<a id="field-ticket-es"></a>
+
+### Español — alcance antes de reservar
+
+[Tipos de solicitudes de campo](https://ziontechgroup.com/es/apps/field-ticket-types.html) compara reparación, IMAC, imágenes por lotes, tiempo y materiales y personal dedicado con suplencia. Confirme responsable, acceso, piezas, costes, aprobación del cliente y autorización separada de Zion antes de intervenir. [Inicio](https://ziontechgroup.com/es/). [Solicitudes](https://ziontechgroup.com/zion-field-tickets/), [Taiwán](https://ziontechgroup.com/zion-field-taiwan/) y [Senegal](https://ziontechgroup.com/zion-field-senegal/) pueden seguir en inglés. No certifica idiomas ni disponibilidad de toda la red.
+
+<a id="field-ticket-fr"></a>
+
+### Français — périmètre avant réservation
+
+[Types d’interventions sur site](https://ziontechgroup.com/fr/apps/field-ticket-types.html) compare réparation, IMAC, images en lot, temps et matériel et personnel dédié avec relève. Confirmez responsable, accès, pièces, coûts, accord client et autorisation distincte de Zion avant intervention. [Accueil](https://ziontechgroup.com/fr/). [Interventions](https://ziontechgroup.com/zion-field-tickets/), [Taïwan](https://ziontechgroup.com/zion-field-taiwan/) et [Sénégal](https://ziontechgroup.com/zion-field-senegal/) peuvent rester en anglais. Ce guide ne certifie ni langues ni disponibilité de tout le réseau.
+
+<a id="field-ticket-de"></a>
+
+### Deutsch — Umfang vor der Buchung
+
+[Vor-Ort-Auftragsarten](https://ziontechgroup.com/de/apps/field-ticket-types.html) vergleicht Reparatur, IMAC, Image-Lose, Zeit und Material sowie Personal mit Vertretung. Bestätigen Sie Verantwortung, Zugang, Teile, Kosten, Kundenfreigabe und separate Zion-Freigabe vor dem Einsatz. [Startseite](https://ziontechgroup.com/de/). [Aufträge](https://ziontechgroup.com/zion-field-tickets/), [Taiwan](https://ziontechgroup.com/zion-field-taiwan/) und [Senegal](https://ziontechgroup.com/zion-field-senegal/) können englisch bleiben. Keine Bestätigung aller Netzwerksprachen oder der Verfügbarkeit.
