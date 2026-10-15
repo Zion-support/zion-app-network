@@ -1,5 +1,12 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 15, 2026)
 
+## Trusted Hiring & Claims 2026 — restored 404s interlinked (15 Oct 2026, continuation)
+[EN](https://ziontechgroup.com/zion-app-network/app/network-trusted-hiring-claims-2026-showcase.html) · [PT](https://ziontechgroup.com/zion-app-network/app/network-trusted-hiring-claims-2026-showcase-pt.html) · [ES](https://ziontechgroup.com/zion-app-network/app/network-trusted-hiring-claims-2026-showcase-es.html) · [FR](https://ziontechgroup.com/zion-app-network/app/network-trusted-hiring-claims-2026-showcase-fr.html) · [DE](https://ziontechgroup.com/zion-app-network/app/network-trusted-hiring-claims-2026-showcase-de.html) · [Spotlight](SPOTLIGHT-2026-10-15-TRUSTED-HIRING-CLAIMS.md) · [Interlinks](INTERLINKS-trusted-hiring-claims-2026.md) · [Addendum](APPS_INDEX-ADDENDUM-TRUSTED-HIRING-CLAIMS-2026.md) · [Homepage copy](homepage-content-trusted-hiring-claims-2026.md)
+
+Restored talent-acquisition-copilot + zion-claims-triage-ai (both now HTTP 200, labelled documented concepts) and interlinked 15 live apps in the consolidated 5-language pattern. Production hold unchanged: PRs 71599/71573/71561 in zion-support.github.io not merged (awaiting user naming them); PR 71543 conflicted, do not merge.
+
+---
+
 ## Growth, Media & Experience 2026 + 12-repo Pages fix (15 Oct 2026, session else)
 [EN](https://ziontechgroup.com/zion-app-network/app/network-growth-media-experience-2026-showcase.html) · [PT](https://ziontechgroup.com/zion-app-network/app/network-growth-media-experience-2026-showcase-pt.html) · [ES](https://ziontechgroup.com/zion-app-network/app/network-growth-media-experience-2026-showcase-es.html) · [FR](https://ziontechgroup.com/zion-app-network/app/network-growth-media-experience-2026-showcase-fr.html) · [DE](https://ziontechgroup.com/zion-app-network/app/network-growth-media-experience-2026-showcase-de.html) · [Spotlight](SPOTLIGHT-2026-10-15-GROWTH-MEDIA-EXPERIENCE.md) · [Interlinks + remaining 404 list](INTERLINKS-growth-media-experience-2026.md) · [Addendum](APPS_INDEX-ADDENDUM-GROWTH-MEDIA-EXPERIENCE-2026.md) · [Homepage copy](homepage-content-growth-media-experience-2026.md)
 
