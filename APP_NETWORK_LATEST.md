@@ -1,5 +1,12 @@
 # 🚀 Zion AI App Network — Latest Updates (Oct 15, 2026)
 
+## Restored C–E 2026 — 12 restored, 12 verified + translation fix (15 Oct 2026, continuation)
+[EN](https://ziontechgroup.com/zion-app-network/app/network-restored-c-e-2026-showcase.html) · [PT](https://ziontechgroup.com/zion-app-network/app/network-restored-c-e-2026-showcase-pt.html) · [ES](https://ziontechgroup.com/zion-app-network/app/network-restored-c-e-2026-showcase-es.html) · [FR](https://ziontechgroup.com/zion-app-network/app/network-restored-c-e-2026-showcase-fr.html) · [DE](https://ziontechgroup.com/zion-app-network/app/network-restored-c-e-2026-showcase-de.html) · [Spotlight](SPOTLIGHT-2026-10-15-RESTORED-C-E.md) · [Interlinks + remaining 29](INTERLINKS-restored-c-e-2026.md) · [Addendum](APPS_INDEX-ADDENDUM-RESTORED-C-E-2026.md) · [Homepage copy](homepage-content-restored-c-e-2026.md)
+
+Pages enabled (legacy main /) on 12 C–E repos; landings added where missing. Verified HTTP 200 (12/12): campaign-brief-builder, campus-energy-planner, case-law-research-copilot, churn-signal-radar, civic-sentiment-analyzer, claim-denial-appealer, claims-triage-copilot, class-schedule-optimizer, client-billing-narrative-ai, clinic-inventory-tracker, compliance-evidence-collector, concessions-demand-forecaster. Also fixed PT/ES/FR/DE Restored A–E wording (pending → verified). 29 A–E repos remain 404; F–Z audit incomplete. Hub index promotion now v4 with 10 showcase families. Production hold unchanged: PRs 71599/71573/71561 not merged (awaiting user naming them); PR 71543 conflicted, do not merge.
+
+---
+
 ## Restored A–E 2026 — 12 restored, 12 verified (15 Oct 2026, continuation)
 [EN](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase.html) · [PT](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-pt.html) · [ES](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-es.html) · [FR](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-fr.html) · [DE](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-de.html) · [Spotlight](SPOTLIGHT-2026-10-15-RESTORED-A-E.md) · [Interlinks + remaining 41](INTERLINKS-restored-a-e-2026.md) · [Addendum](APPS_INDEX-ADDENDUM-RESTORED-A-E-2026.md) · [Homepage copy](homepage-content-restored-a-e-2026.md)
 
