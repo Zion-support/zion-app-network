@@ -13,8 +13,8 @@ Pages enabled (legacy main /, SSL approved ziontechgroup.com exp 2026-12-11) on 
 ## Verified live (HTTP 200 at publication)
 attrition-risk-radar, audience-sentiment-radar, audit-readiness-copilot, audit-trail-analyzer, brand-mention-monitor, brief-draft-copilot, broker-renewal-copilot, call-quality-assurance-ai, call-transcription-analytics, call-transcription-copilot.
 
-## Pending recheck (do NOT claim live)
-athlete-performance-analyzer and call-quality-monitor: Pages site reports status errored after enable + landing commit (commits 76c8036 / 367f648). Recheck Pages build, fix error, then verify HTTP 200 before promoting.
+## Initially pending, now verified
+athlete-performance-analyzer and call-quality-monitor initially reported Pages status errored after enable + landing commit (commits 76c8036 / 367f648), then recovered on recheck — both verified HTTP 200 with the restored landing live. All 12 in this batch are now live.
 
 ## Honest scope
 These are published network resources. Inspect each repository README for documented status before planning a pilot. Publication is not proof of AI functionality or production readiness. 41 A–E repos remain dead (see INTERLINKS-restored-a-e-2026.md); F–Z audit not complete; whole network is NOT complete.
