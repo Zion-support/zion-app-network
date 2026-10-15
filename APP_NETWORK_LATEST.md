@@ -1,5 +1,14 @@
 # 🛰️ Zion AI App Network — Latest Updates (Oct 15, 2026)
 
+## People & Workforce 2026 — 18 live-verified (15 Oct 2026, session safe-2)
+[EN](https://ziontechgroup.com/zion-app-network/app/network-people-workforce-2026-showcase.html) · PT/ES/FR/DE variants · [Spotlight](SPOTLIGHT-2026-10-15-PEOPLE-WORKFORCE.md) · [Interlinks](INTERLINKS-people-workforce-2026.md) · [Homepage copy](homepage-content-people-workforce-2026.md)
+
+Hub v15 live; v16 adds People & Workforce. Production hold unchanged: PRs 71599/71573/71561 not merged (awaiting user naming them); PR 71543 conflicted, do not merge. Publication is not proof of AI functionality.
+
+---
+
+# 🛰️ Zion AI App Network — Latest Updates (Oct 15, 2026)
+
 ## Legal, Compliance & Care Operations 2026 — 15 live-verified (15 Oct 2026, session safe)
 [EN](https://ziontechgroup.com/zion-app-network/app/network-legal-care-2026-showcase.html) · PT/ES/FR/DE variants · [Spotlight](SPOTLIGHT-2026-10-15-LEGAL-CARE.md)
 
