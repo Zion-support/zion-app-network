@@ -1,0 +1,7 @@
+# SPOTLIGHT 2026-10-15 — Restored Tail 2026 (session rear-2)
+
+Resumed from rear. Hub promoted v12->v13 (commit 0e76941, index sha 0792c3d) adding Restored Pages 2026 li — verified pattern preserved.
+Tail audit (245 has_pages unknown beyond search 1000): 51 field already covered by full field audit (277/277: first140 90 path-200 + many subdomain-redirect, remaining137 133 path-200, 4 subdomain-301 hpe/imac/islands/languages). Non-field tail 194: 183 live 200, 1 URLError, 11 dead (10 path-404 + zion-cyber-ai subdomain).
+Restored: Pages enabled legacy main / on 11 (zion-fraud-signal-detector, zion-project-schedule-risk, zion-questionnaire-insight-engine, zion-renewable-yield-optimizer, zion-spectrum-usage-analyzer, zion-subrogation-finder, employee-attrition-predictor, property-marketing-automation, rent-pricing-optimizer, zion-farm-market-forecaster, zion-cyber-ai cname cyber-ai.ziontechgroup.com status built). 4 already live after enablement; 6 new landings (fraud d9743c2, schedule d4c804e, questionnaire a75b626, spectrum 8d8a23c, attrition c645d6e, rent aac59b2); cyber-ai path 301 to subdomain (sandbox DNS cannot resolve subdomain, Pages built).
+Showcase: app/network-restored-tail-2026-showcase.html + pt/es/fr/de.
+Production hold unchanged: PRs 71599/71573/71561 not merged (awaiting user naming them); PR 71543 conflicted do not merge. Publication is not proof of AI functionality.
