@@ -21,3 +21,11 @@ Guidance marker: `supplier-guidance-2026-10-11-v1`. Workbench marker remains `su
 Minimum 40% markup, separate client taxes, written client confirmation, applicable PO and separate Zion authorization remain mandatory. A checked declaration is not source evidence or purchase/dispatch authorization. No input uploads, persistent storage, email, bookings or orders were added. Fictional example taxes are not recommended rates.
 
 [Prior supplier release evidence](SUPPLIER-EVIDENCE-RELEASE-2026-10-11.md). [Guidance source commit](https://github.com/Zion-support/zion-support.github.io/commit/ffb4a174619fcd9345e8db8ddd5dfa5275ac688e). Full-network consolidation and translation remain unfinished.
+
+## Compare planning, supplier review and field evidence
+
+One companion page with five complete translated sections and reciprocal catalog links:
+
+[English](task-paths.html#en) · [Português](task-paths.html#pt) · [Español](task-paths.html#es) · [Français](task-paths.html#fr) · [Deutsch](task-paths.html#de).
+
+These are decision guides and existing local tools, not newly implemented AI applications. Homepage promotion changes remain in the separate website draft PR71599 and are not implied live by this catalog entry.
