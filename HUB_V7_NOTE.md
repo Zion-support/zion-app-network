@@ -1,0 +1,3 @@
+# Hub v7 note
+
+Hub index.html promotion to oct15-2026-v7 (add Restored D-E 2026 li after Restored C-E) was prepared and diff-verified (16 lines) in session good 2026-10-15. Direct index.html commit via API failed validation in that session due to payload formatting; apply by editing index.html: change data-hub-showcases oct15-2026-v4 to oct15-2026-v7 and insert after the Restored C-E li: <li><a href="/zion-app-network/app/network-restored-d-e-2026-showcase.html">Restored D-E 2026</a> - PT/ES/FR/DE -pt/-es/-fr/-de variants</li> before </ul>. Live hub at verification time still v4. ES/FR/DE D-E showcases expanded to full 29 tables in commits a8fdb3e, ef4d771, cdfe3c1 and verified live.
