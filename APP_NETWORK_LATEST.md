@@ -1,3 +1,10 @@
+# 🛰️ Zion AI App Network — Latest Updates (Oct 18, 2026 — correction)
+
+## Correction — Restored A–E showcase metadata (18 Oct 2026)
+The five Restored A–E showcase pages (EN/PT/ES/FR/DE) previously said ten apps were verified HTTP 200 with two Pages builds pending recheck. All twelve are now verified HTTP 200 — including athlete-performance-analyzer and call-quality-monitor, recovered after initially errored Pages builds — re-verified 18 Oct 2026. Pages: [EN](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase.html) · [PT](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-pt.html) · [ES](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-es.html) · [FR](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-fr.html) · [DE](https://ziontechgroup.com/zion-app-network/app/network-restored-a-e-2026-showcase-de.html). Production note: PR71599, PR71573 and PR71561 were merged into Zion-support/zion-support.github.io main on 2026-10-18 (in that order); PR71543 was not merged. Publication is not proof of AI functionality.
+
+---
+
 # 🛰️ Zion AI App Network — Latest Updates (Oct 15, 2026)
 
 ## People & Workforce 2026 — 18 live-verified (15 Oct 2026, session safe-2)
