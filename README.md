@@ -24,3 +24,9 @@ The workbench records six evidence-planning fields, identifies missing fields an
 - 🎮 Batch 100b — Gaming & Esports AI: [spotlight](SPOTLIGHT-2026-10-07-BATCH100.md) · [interlinks](INTERLINKS-batch100-gaming-esports.md) · [homepage pack](homepage-content-batch100.md) · [showcase](https://ziontechgroup.com/apps/october-2026-batch100-gaming-esports.html)
 - 📣 Batch 99 — Marketing & Growth AI: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99-marketing-growth.md) · [homepage pack](homepage-content-batch99.md) · [showcase](https://ziontechgroup.com/apps/october-2026-batch99.html)
 - ⚖️ Batch 74 — Legal Tech & Contract AI: [spotlight](SPOTLIGHT-2026-10-04-BATCH74.md) · [interlinks](INTERLINKS-batch74-legal.md) · [homepage pack](homepage-content-batch74.md) · [showcase](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
+
+## Recent app clusters — Q4 2026
+
+[Explore the recent telecom and agriculture cluster guide](https://ziontechgroup.com/zion-app-network/app-network-q4-2026-recent-clusters.html): contextual links for Churn Signal Radar, Cell Tower Optimizer, Spectrum Usage Analyzer and Crop Yield Predictor. The guide links each concept to its GitHub repository, batch context and free Discovery path.
+
+These are documented concepts and repository references, not claims of production AI engines or measured outcomes. Review implementation status and human-authorization requirements before selecting a pilot.
