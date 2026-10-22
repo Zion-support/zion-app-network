@@ -28,6 +28,11 @@ class GuardTests(TestCase):
         report=guard.scan_patch(diff)
         self.assertEqual(report["finding_count"],1)
         self.assertEqual(report["findings"][0]["rule"],"private-hubspot-record")
+    def test_workflow_triggers_cover_every_scanned_extension(self):
+        workflow = Path(__file__).parents[1] / ".github/workflows/public-content-privacy-guard.yml"
+        text = workflow.read_text(encoding="utf-8")
+        for suffix in guard.CONTENT_SUFFIXES:
+            self.assertIn("'**/*" + suffix + "'", text, "Missing trigger for " + suffix)
     def test_invalid_commit_sha_rejected(self):
         with self.assertRaises(ValueError):
             guard.get_patch(".", "main", "HEAD")
