@@ -1,0 +1,37 @@
+name: Public content privacy diff guard
+on:
+  pull_request:
+    paths:
+      - '**/*.html'
+      - '**/*.htm'
+      - '**/*.md'
+      - '**/*.json'
+      - '**/*.txt'
+      - '**/*.xml'
+      - '**/*.js'
+      - '**/*.css'
+      - '**/*.yaml'
+      - '**/*.yml'
+      - 'scripts/public_content_privacy_guard.py'
+      - 'scripts/test_public_content_privacy_guard.py'
+      - '.github/workflows/public-content-privacy-guard.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Offline privacy guard regression tests
+        run: python3 -m unittest discover -s scripts -p 'test_public_content_privacy_guard.py' -v
+      - name: Inspect only added PR lines
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: python3 scripts/public_content_privacy_guard.py --base "$BASE_SHA" --head "$HEAD_SHA"
