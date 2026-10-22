@@ -1,10 +1,23 @@
 name: Read-only multilingual release QA
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/verify-network-release.py'
+      - 'scripts/test_verify_network_release.py'
+      - '.github/workflows/scoped-release-qa.yml'
 permissions:
   contents: read
 jobs:
+  offline-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test multilingual release logic without network
+        run: python3 -m unittest discover -s scripts -p 'test_verify_network_release.py' -v
   verify:
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
