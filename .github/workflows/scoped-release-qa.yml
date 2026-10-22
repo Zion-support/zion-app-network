@@ -1,34 +1,55 @@
 name: Read-only multilingual release QA
-on:
-  workflow_dispatch:
+
+"on":
   pull_request:
     paths:
+      - 'app-network-operations-reliability-2026*.html'
+      - 'app-network-operations-evidence-checklist-2026*.html'
       - 'scripts/verify-network-release.py'
       - 'scripts/test_verify_network_release.py'
       - '.github/workflows/scoped-release-qa.yml'
+  workflow_run:
+    workflows:
+      - pages build and deployment
+    types: [completed]
+  schedule:
+    - cron: '29 13 * * 3'
+  workflow_dispatch:
+
 permissions:
   contents: read
+
+concurrency:
+  group: scoped-multilingual-release-qa-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   offline-contract:
+    if: ${{ github.event_name != 'workflow_run' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 4
     steps:
-      - uses: actions/checkout@v4
-      - name: Test multilingual release logic without network
-        run: python3 -m unittest discover -s scripts -p 'test_verify_network_release.py' -v
-  verify:
-    if: github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
-          python-version: '3.12'
-      - name: Check published language paths, interlinks and stylesheets
-        run: python scripts/verify-network-release.py --output release-verification.json
-      - uses: actions/upload-artifact@v4
+          persist-credentials: false
+      - name: Test 25-route multilingual release logic without network
+        run: python3 -m unittest discover -s scripts -p 'test_verify_network_release.py' -v
+
+  verify:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
+          persist-credentials: false
+      - name: Check 25 published language paths, interlinks and stylesheets
+        run: python3 scripts/verify-network-release.py --output release-verification.json
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         if: always()
         with:
-          name: multilingual-release-verification
+          name: multilingual-release-verification-${{ github.run_id }}
           path: release-verification.json
+          if-no-files-found: error
+          retention-days: 30
