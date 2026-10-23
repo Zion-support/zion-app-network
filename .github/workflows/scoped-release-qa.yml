@@ -7,6 +7,8 @@ name: Read-only multilingual release QA
       - 'app-network-operations-evidence-checklist-2026*.html'
       - 'scripts/verify-network-release.py'
       - 'scripts/test_verify_network_release.py'
+      - 'scripts/verify_network_source_contract.py'
+      - 'scripts/test_verify_network_source_contract.py'
       - '.github/workflows/scoped-release-qa.yml'
   workflow_run:
     workflows:
@@ -34,6 +36,10 @@ jobs:
           persist-credentials: false
       - name: Test 25-route multilingual release logic without network
         run: python3 -m unittest discover -s scripts -p 'test_verify_network_release.py' -v
+      - name: Test source-contract checker
+        run: python3 -m unittest discover -s scripts -p 'test_verify_network_source_contract.py' -v
+      - name: Validate current Operations/Evidence source files
+        run: python3 scripts/verify_network_source_contract.py
 
   verify:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
