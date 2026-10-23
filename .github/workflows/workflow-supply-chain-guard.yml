@@ -5,11 +5,13 @@ name: Workflow supply-chain guard
     paths:
       - '.github/workflows/**'
       - 'scripts/workflow_supply_chain_guard.py'
+      - 'scripts/test_workflow_supply_chain_guard.py'
   push:
     branches: [main]
     paths:
       - '.github/workflows/**'
       - 'scripts/workflow_supply_chain_guard.py'
+      - 'scripts/test_workflow_supply_chain_guard.py'
   schedule:
     - cron: '47 14 * * 4'
   workflow_dispatch:
@@ -29,4 +31,7 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           persist-credentials: false
-      - run: python3 scripts/workflow_supply_chain_guard.py
+      - name: Run offline supply-chain guard regression tests
+        run: python3 -m unittest discover -s scripts -p 'test_workflow_supply_chain_guard.py' -v
+      - name: Validate pinned actions and reviewed write scopes
+        run: python3 scripts/workflow_supply_chain_guard.py
