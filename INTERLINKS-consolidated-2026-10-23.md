@@ -1,23 +1,13 @@
-# Interlinks — Consolidated Network 2026-10-23
+# Interlinks — Consolidated 2026-10-23
 
-## Hub ↔ Homepage ↔ Discovery ↔ Apps
-- Hub EN/PT/ES/FR/DE: https://ziontechgroup.com/zion-app-network/app-network-consolidated-2026-10-23.html (suffixes -pt, -es, -fr, -de)
-- Homepage spotlight EN/PT/ES/FR/DE: https://ziontechgroup.com/app-network-spotlight-2026-10-23.html (suffixes -pt, -es, -fr, -de)
-- Homepage: https://ziontechgroup.com/ · EN https://ziontechgroup.com/en/ · ES https://ziontechgroup.com/es/ · FR https://ziontechgroup.com/fr/ · DE https://ziontechgroup.com/de/
-- Discovery: https://ziontechgroup.com/discovery/ · PT-BR https://ziontechgroup.com/pt-br/discovery/ · ES https://ziontechgroup.com/es/discovery/ · FR https://ziontechgroup.com/fr/discovery/ · DE https://ziontechgroup.com/de/discovery/
+Every new page follows DESIGN-PATTERN.md: 5-language langbar EN/PT-BR/ES/FR/DE, header+CTA, cards, Discovery benefits, Explore the Network, footer.
 
-## App → Live → Repo
-- Workflow Automator: https://ziontechgroup.com/zion-ai-workflow-automator/ → https://github.com/Zion-support/zion-ai-workflow-automator
-- Zion Tools: https://ziontechgroup.com/zion-tools/ → https://github.com/Zion-support/zion-tools
-- LLM Bench: https://zion-support.github.io/zion-llm-bench/ → https://github.com/Zion-support/zion-llm-bench
-- Content Studio: https://zion-support.github.io/zion-content-studio/ → https://github.com/Zion-support/zion-content-studio
-- Project Master: https://zion-support.github.io/zion-project-master/ → https://github.com/Zion-support/zion-project-master
-- AI Regs Radar: https://zion-support.github.io/zion-ai-regs-radar/ → https://github.com/Zion-support/zion-ai-regs-radar
-- DevSec Checklist: https://zion-support.github.io/zion-devsec-checklist/ → https://github.com/Zion-support/zion-devsec-checklist
-- Edge AI Platform: https://zion-support.github.io/zion-edge-ai-platform/ → https://github.com/Zion-support/zion-edge-ai-platform
-- AI Voice Assistant: https://zion-support.github.io/zion-ai-voice-assistant/ → https://github.com/Zion-support/zion-ai-voice-assistant
-- Field Playbooks: https://ziontechgroup.com/zion-field-playbooks/ → https://github.com/Zion-support/zion-field-playbooks
-- Case Studies: https://ziontechgroup.com/case-studies/
-- Apps directory: https://ziontechgroup.com/apps/
+Hub family: https://ziontechgroup.com/zion-app-network/app-network-consolidated-2026-10-23.html plus -pt -es -fr -de
+Homepage family: https://ziontechgroup.com/apps/showcase-2026-10-23-consolidated.html plus -pt -es -fr -de
+Each hub page links to its same-language homepage twin; each homepage page links back to its hub twin. All link to same-language Discovery, hub, GitHub hub, Apps Network Guide 2026 and Case Studies.
 
-Reciprocal NETWORK-2026-10-23.md files were added to the flagship app repositories above, linking back to this hub, the homepage spotlight and sister apps.
+Fix: subdomain homepages from repo metadata (llmbench, project-master, content-studio, airegs, devsec, voice-assistant, edge-ai .ziontechgroup.com) returned 000 on 2026-10-23, so Live links use verified 200 GitHub Pages mirrors zion-support.github.io/<repo>/ and ziontechgroup.com paths. Re-check subdomains before switching back.
+
+Translations coverage: Hub 2026-10-23 EN source, PT-BR/ES/FR/DE fully translated headings, descriptions, benefits, CTAs; Homepage showcase 2026-10-23 same. Other showcases unverified — backfill batches 70-97 and 99-113 per DESIGN-PATTERN section 7 is next.
+
+© 2026 Zion Tech Group
