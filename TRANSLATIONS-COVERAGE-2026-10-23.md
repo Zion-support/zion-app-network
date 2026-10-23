@@ -1,11 +1,11 @@
 # Translation coverage — 2026-10-23 consolidated family
 
-Authority note: TRANSLATIONS.md defines policy; TRANSLATIONS-STATUS.md is the scoped verified authority. This file adds the 2026-10-23 family only. Not listed = unverified, not necessarily absent.
-
-| Surface | EN | PT-BR | ES | FR | DE | Evidence |
+| Surface | en | pt-BR | es | fr | de |
 |---|---|---|---|---|---|
-| Consolidated showcase 2026-10-23 (hub) | source | translated | translated | translated | translated | Same pattern/CSS/langbar; canonical + hreflang en/pt-BR/es/fr/de/x-default on every page; full body translated (headings, cards, benefits, pilot steps, footer navigation) |
-| Homepage spotlight 2026-10-23 | source | translated | translated | translated | translated | Same pattern in zion-support.github.io; localized Discovery links per language |
-| NETWORK-2026-10-23.md in flagship repos | source | — | — | — | — | English interlink file; hub/homepage pages carry the translations |
+| Hub consolidated 2026-10-23 | source | translated | translated | translated | translated |
+| Homepage showcase 2026-10-23 | source | translated | translated | translated | translated |
+| Other showcases/apps | unverified | unverified | unverified | unverified | unverified |
 
-Languages available across the published site: EN, PT-BR, ES, FR, DE. All pages in the 2026-10-23 family exist in all five. Older showcases remain as recorded in TRANSLATIONS-STATUS.md — full-network body-level parity is still unfinished and is not claimed here.
+Same suffix pattern -pt/-es/-fr/-de, full hreflang + 5-language langbar, translated headings/descriptions/benefits/CTAs, app names/URLs unchanged. Next: verify live 200 for all 10 routes, then backfill batch showcases 70-97 and 99-113.
+
+© 2026 Zion Tech Group
