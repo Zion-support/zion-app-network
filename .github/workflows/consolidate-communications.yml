@@ -1,5 +1,10 @@
 name: Consolidate approved communications catalog
 on:
+  pull_request:
+    paths:
+      - 'scripts/consolidate-communications.py'
+      - 'scripts/test-consolidate-communications.py'
+      - '.github/workflows/consolidate-communications.yml'
   push:
     branches: [main]
     paths:
@@ -8,12 +13,53 @@ on:
       - .github/workflows/consolidate-communications.yml
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
+
 concurrency:
-  group: communications-catalog-sync
-  cancel-in-progress: false
+  group: communications-catalog-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
+  validate:
+    if: github.event_name == 'pull_request'
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout read-only PR source
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Offline Liquid, legacy HTML and failure-mode fixtures
+        run: python3 -m unittest discover -s scripts -p 'test-consolidate-communications.py' -v
+      - name: Test real catalog and Liquid homepage on disposable copies
+        shell: bash
+        run: |
+          set -euo pipefail
+          tmp="$(mktemp -d)"
+          trap 'rm -rf "$tmp"' EXIT
+          cp CATALOG.md APPS_INDEX.md index.html "$tmp/"
+          (
+            cd "$tmp"
+            python3 "$GITHUB_WORKSPACE/scripts/consolidate-communications.py"
+            sha256sum CATALOG.md APPS_INDEX.md index.html > before.sha
+            python3 "$GITHUB_WORKSPACE/scripts/consolidate-communications.py"
+            sha256sum --check before.sha
+            python3 - <<'PY'
+          from pathlib import Path
+          text=Path('index.html').read_text(encoding='utf-8')
+          assert text.count('id="communications-suite"') == 1
+          assert '{% capture communicationsSuite %}' in text
+          assert "opsEvidence2026 | replace: '</body>', communicationsSuite }}" in text
+          print('PASS: Liquid homepage idempotent, existing captures preserved')
+          PY
+          )
+
   consolidate:
+    if: github.event_name != 'pull_request'
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
