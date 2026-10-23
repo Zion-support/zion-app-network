@@ -68,6 +68,12 @@ class WorkflowSupplyChainTests(TestCase):
     def test_quoted_action_with_trailing_comment(self):
         self.assertEqual(self.check("jobs:\n  a:\n    uses: 'sample/ci@" + 'f'*40 + "' # pinned\n"), [])
 
+    def test_trailing_comments_cannot_bypass_write_scope_check(self):
+        self.assertTrue(any('issues: write' in s for s in self.check('permissions:\n  issues: write # harmless-looking note\n')))
+
+    def test_trailing_comments_cannot_bypass_write_all_check(self):
+        self.assertTrue(any('write-all' in s for s in self.check('permissions: write-all # comment\n')))
+
     def test_empty_directory_does_not_pass(self):
         self.assertTrue(any('No workflow' in s for s in guard.scan_workflows(self.directory, {})))
 

@@ -32,7 +32,7 @@ def yaml_structure_lines(text):
     """Yield non-comment lines outside YAML literal/folded scalar bodies."""
     scalar_indent = None
     for number, line in enumerate(text.splitlines(), 1):
-        stripped = line.strip()
+        stripped = re.split(r'\s+#', line.strip(), maxsplit=1)[0].rstrip()
         indent = len(line) - len(line.lstrip(' '))
         if scalar_indent is not None:
             if not stripped or indent > scalar_indent:
