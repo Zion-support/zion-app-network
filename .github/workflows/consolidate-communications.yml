@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - scripts/consolidate-communications.py
+      - scripts/test-consolidate-communications.py
       - .github/workflows/consolidate-communications.yml
   workflow_dispatch:
 permissions:
@@ -19,6 +20,8 @@ jobs:
         with:
           ref: main
           fetch-depth: 1
+      - name: Test standalone and Liquid hub edits offline
+        run: python3 -m unittest discover -s scripts -p 'test-consolidate-communications.py' -v
       - name: Apply additive catalog updates and truthful Discovery messaging
         run: python3 scripts/consolidate-communications.py
       - name: Validate idempotency
