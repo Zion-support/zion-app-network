@@ -43,7 +43,7 @@ def get(url):
 def localized_discovery(i):
     return '/discovery/' if i==0 else '/' + ('pt' if i==1 else LANGS[i]) + '/discovery/'
 
-def run(site):
+def run(site, release_sha='', source_run_id=''):
     site=site.rstrip('/')
     errors=[]; assets=set(); headings={k:[] for k in FAMILIES}
     def check(item):
@@ -99,14 +99,25 @@ def run(site):
             asset_results.append({'url':asset,'status':status,'mime':mime,'pass':valid})
         except Exception as exc:
             errors.append(asset+': '+str(exc))
-    return {'checked_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'scope':'25 HTML routes and same-origin stylesheets; read-only; no browser execution, forms or inbox checks','pass':not errors,'pages':results,'assets':asset_results,'errors':errors}
+    return {
+        'checked_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        'scope':'25 HTML routes and same-origin stylesheets; read-only; no browser execution, forms or inbox checks',
+        'release_sha':release_sha,
+        'source_run_id':str(source_run_id or ''),
+        'pass':not errors,
+        'pages':results,
+        'assets':asset_results,
+        'errors':errors,
+    }
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--site',default='https://ziontechgroup.com')
     parser.add_argument('--output',default='release-verification.json')
+    parser.add_argument('--release-sha',default='')
+    parser.add_argument('--source-run-id',default='')
     args=parser.parse_args()
-    report=run(args.site)
+    report=run(args.site,args.release_sha,args.source_run_id)
     with open(args.output,'w',encoding='utf-8') as output: json.dump(report,output,ensure_ascii=False,indent=2)
     print(('PASS' if report['pass'] else 'FAIL')+': 25 scoped HTML routes, '+str(len(report['assets']))+' stylesheets')
     for error in report['errors']: print(error)
