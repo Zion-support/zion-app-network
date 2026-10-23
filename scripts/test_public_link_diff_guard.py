@@ -163,6 +163,17 @@ class LinkGuardTests(TestCase):
             self.assertIn("public_link_diff_guard.py", text)
             self.assertIn("test_public_link_diff_guard.py", text)
             self.assertNotIn("schedule:", text)
+            self.assertIn("cancel-in-progress: ${{ github.event_name == 'pull_request' }}", text)
+            self.assertIn("github.event.pull_request.number || github.ref", text)
+
+    def test_supply_chain_checks_never_cancel_main_or_scheduled_runs(self):
+        workflow = Path(__file__).parents[1] / ".github/workflows/workflow-supply-chain-guard.yml"
+        if workflow.exists():
+            text = workflow.read_text(encoding="utf-8")
+            self.assertIn("schedule:", text)
+            self.assertIn("branches: [main]", text)
+            self.assertIn("cancel-in-progress: ${{ github.event_name == 'pull_request' }}", text)
+            self.assertIn("workflow-supply-chain-guard-${{ github.event_name }}", text)
 
 
 if __name__ == "__main__":
