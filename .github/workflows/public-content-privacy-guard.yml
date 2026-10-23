@@ -24,6 +24,12 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+
+# Reuse the existing workflow: cancel only superseded PR checks, never manual runs.
+concurrency:
+  group: public-content-privacy-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   guard:
     runs-on: ubuntu-latest
