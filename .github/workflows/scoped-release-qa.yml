@@ -10,6 +10,16 @@ name: Read-only multilingual release QA
       - 'scripts/verify_network_source_contract.py'
       - 'scripts/test_verify_network_source_contract.py'
       - '.github/workflows/scoped-release-qa.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'app-network-operations-reliability-2026*.html'
+      - 'app-network-operations-evidence-checklist-2026*.html'
+      - 'scripts/verify-network-release.py'
+      - 'scripts/test_verify_network_release.py'
+      - 'scripts/verify_network_source_contract.py'
+      - 'scripts/test_verify_network_source_contract.py'
+      - '.github/workflows/scoped-release-qa.yml'
   workflow_run:
     workflows:
       - pages build and deployment
