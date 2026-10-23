@@ -61,7 +61,10 @@ jobs:
           ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
           persist-credentials: false
       - name: Check 25 published language paths, interlinks and stylesheets
-        run: python3 scripts/verify-network-release.py --output release-verification.json
+        env:
+          RELEASE_SHA: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
+          SOURCE_RUN_ID: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.id || github.run_id }}
+        run: python3 scripts/verify-network-release.py --output release-verification.json --release-sha "$RELEASE_SHA" --source-run-id "$SOURCE_RUN_ID"
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         if: always()
         with:
