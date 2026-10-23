@@ -92,6 +92,66 @@ class LinkGuardTests(TestCase):
         self.assertEqual(report["status"], "pass")
         self.assertEqual(report["local_links_checked"], 2)
 
+    def test_multiline_href_added_below_unchanged_opening_tag(self):
+        self.write("multi.html", '<a\n  href="missing-target.html">New</a>\n')
+        patch = """+++ b/multi.html
+@@ -1,2 +1,2 @@
+ <a
++  href="missing-target.html">New</a>
+"""
+        result = guard.check_patch(self.root, patch)
+        self.assertEqual(result["status"], "blocked")
+        self.assertEqual(result["findings"][0],
+                         {"path": "multi.html", "line": 2, "rule": "missing-local-target"})
+
+    def test_multiline_attribute_value_only_is_checked(self):
+        self.write("continued.html", '<a href=\n "absent.html">New</a>\n')
+        patch = """+++ b/continued.html
+@@ -1,2 +1,2 @@
+ <a href=
++ "absent.html">New</a>
+"""
+        result = guard.check_patch(self.root, patch)
+        self.assertEqual(result["status"], "blocked")
+        self.assertEqual(result["findings"][0]["line"], 2)
+
+    def test_unchanged_multiline_href_ignores_changed_text(self):
+        self.write("legacy.html", '<a\n href="old-missing.html">\nUpdated text\n</a>\n')
+        patch = """+++ b/legacy.html
+@@ -1,4 +1,4 @@
+ <a
+ href="old-missing.html">
++Updated text
+ </a>
+"""
+        result = guard.check_patch(self.root, patch)
+        self.assertEqual(result["status"], "pass")
+        self.assertEqual(result["local_links_checked"], 0)
+
+    def test_data_note_cannot_spoof_href_location(self):
+        self.write("safe.html", """<a data-note='href="false.html"'
+ href='index.html'>OK</a>
+""")
+        patch = """+++ b/safe.html
+@@ -1,2 +1,2 @@
+ <a data-note='href="false.html"'
++ href='index.html'>OK</a>
+"""
+        result = guard.check_patch(self.root, patch)
+        self.assertEqual(result["status"], "pass")
+        self.assertEqual(result["local_links_checked"], 1)
+
+    def test_changing_data_href_does_not_reaudit_legacy_href(self):
+        self.write("custom.html", '<a href="old-missing.html"\n data-href="new-text">OK</a>\n')
+        patch = """+++ b/custom.html
+@@ -1,2 +1,2 @@
+ <a href="old-missing.html"
++ data-href="new-text">OK</a>
+"""
+        result = guard.check_patch(self.root, patch)
+        self.assertEqual(result["status"], "pass")
+        self.assertEqual(result["local_links_checked"], 0)
+
     def test_invalid_commits_fail_closed(self):
         with self.assertRaises(ValueError):
             guard.get_patch(self.root, "main", "HEAD")

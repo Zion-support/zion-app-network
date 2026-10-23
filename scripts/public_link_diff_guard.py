@@ -24,6 +24,9 @@ HUNK = re.compile(r"^@@ -\d+(?:,\d+)? \+(\d+)(?:,\d+)? @@")
 MARKDOWN_LINK = re.compile(r"!?\[[^\]\n]*\]\(\s*<?([^\s)>]+)>?", re.I)
 MARKDOWN_REF = re.compile(r"^\s{0,3}\[[^\]]+\]:\s*<?([^\s>]+)>?", re.I)
 MAX_FILE_BYTES = 2_000_000
+# Parse complete raw HTML attribute lexemes, excluding fake href= strings
+# embedded in unrelated quoted attribute values.
+ATTR_LEXEME = re.compile(r'''([^\s=/>]+)(?:\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+))?''', re.S)
 
 
 def added_line_numbers(patch):
@@ -60,10 +63,27 @@ class LinkParser(HTMLParser):
             self.anchors.add(values["id"])
         if tag == "a" and values.get("name"):
             self.anchors.add(values["name"])
-        if tag in {"a", "area", "link", "img", "script", "source", "iframe"}:
-            for name in ("href", "src"):
-                if values.get(name):
-                    self.links.append((self.getpos()[0], values[name]))
+        if tag not in {"a", "area", "link", "img", "script", "source", "iframe"}:
+            return
+
+        # HTMLParser reports only the beginning of a multiline start tag.
+        # Identify the exact href/src attribute span to check changed lines.
+        raw = self.get_starttag_text() or ""
+        first_line = self.getpos()[0]
+        locations = {}
+        for token in ATTR_LEXEME.finditer(raw):
+            name = token.group(1).lower()
+            if name not in {"href", "src"}:
+                continue
+            first = first_line + raw.count("\n", 0, token.start())
+            last = first_line + raw.count("\n", 0, token.end())
+            locations.setdefault(name, []).append((first, last))
+        for name in ("href", "src"):
+            if values.get(name):
+                first, last = locations.get(
+                    name, [(first_line, first_line + raw.count("\n"))]
+                )[0]
+                self.links.append((first, last, values[name]))
 
 
 def markdown_links(body, changed):
@@ -171,7 +191,11 @@ def check_patch(repo, patch):
         if source.suffix.lower() in {".html", ".htm"}:
             parser = LinkParser()
             parser.feed(body)
-            links = [(line, url) for line, url in parser.links if line in changed]
+            links = []
+            for first, last, url in parser.links:
+                touched = [line for line in range(first, last + 1) if line in changed]
+                if touched:
+                    links.append((touched[0], url))
         else:
             links = list(markdown_links(body, changed))
 
