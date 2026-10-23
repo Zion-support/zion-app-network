@@ -30,8 +30,21 @@ function repairHub(source){
  assert(source.includes('</body>'),'Hub body missing');
  const block='<!--insurance-evidence-hub:start--><section id="insurance-evidence-hub" data-catalog-release="'+version+'">'+Object.entries(copy).map(([l,c])=>{const prefix=l==='en'?'':'/'+l;return '<details lang="'+(l==='pt'?'pt-BR':l)+'" '+(l==='en'?'open':'')+'><summary>'+esc(c[0])+'</summary><p>'+esc(c[1])+'</p><p><a class="cta" href="https://ziontechgroup.com'+prefix+'/apps/insurance-evidence-workbench.html">'+esc(c[2])+'</a> · <a href="https://ziontechgroup.com'+prefix+'/discovery/">'+esc(c[3])+'</a></p></details>';}).join('')+'<p><a href="https://ziontechgroup.com/policy-comparison-ai/">Policy Comparison AI</a> · <a href="https://ziontechgroup.com/underwriting-copilot-ai/">Underwriting Copilot AI</a> · <a href="https://ziontechgroup.com/claims-automation-ai/">Claims Automation AI</a></p></section><!--insurance-evidence-hub:end-->';
  let result;
- if(source.includes('<!--insurance-evidence-hub:start-->'))result=source.replace(/<!--insurance-evidence-hub:start-->[\s\S]*?<!--insurance-evidence-hub:end-->/,block);
- else{assert(/<h2\b/.test(source),'Hub section anchor missing');result=source.replace(/<h2\b/,block+'\n<h2');}
+ // The Jekyll/Liquid hub deliberately leaves a *single* start marker at the
+ // end of start_here; the matching end marker does not exist until our first
+ // insertion. Do not confuse the Liquid replace expression with a completed
+ // HTML block, and never consume adjacent Liquid captures.
+ const start='<!--insurance-evidence-hub:start-->';
+ const end='<!--insurance-evidence-hub:end-->';
+ const liquidSlot='</section>'+start+'{% endcapture %}';
+ if(source.includes(liquidSlot)&&!source.includes(end)){
+   result=source.replace(liquidSlot,'</section>'+block+'{% endcapture %}');
+ }else if(source.includes(start)&&source.includes(end)){
+   result=source.replace(/<!--insurance-evidence-hub:start-->[\s\S]*?<!--insurance-evidence-hub:end-->/,block);
+ }else{
+   assert(/<h2\b/.test(source),'Hub section anchor missing');
+   result=source.replace(/<h2\b/,block+'\n<h2');
+ }
  assert.equal((result.match(/id="insurance-evidence-hub"/g)||[]).length,1);
  for(const old of source.matchAll(/href="([^"]+)"/g))assert(result.includes('href="'+old[1]+'"'),'Existing navigation lost');
  return result;
