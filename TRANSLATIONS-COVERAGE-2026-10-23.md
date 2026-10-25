@@ -7,6 +7,6 @@
 | App-to-Pilot Paths 2026 | source | translated | translated | translated | translated |
 | Other showcases/apps | unverified | unverified | unverified | unverified | unverified |
 
-Same suffix pattern -pt/-es/-fr/-de, full hreflang + 5-language langbar, translated headings/descriptions/benefits/CTAs, app names/URLs unchanged. New 2026-10-24 App-to-Pilot family is fully translated and reciprocally linked from the consolidated showcase family. Next: verify live 200 for the consolidated + pilot-path routes, then backfill older showcases.
+The current App-to-Pilot family uses EN (unsuffixed) and -pt-br/-es/-fr/-de; all five pages have a self-canonical, reciprocal hreflang links plus x-default, accessible language navigation and skip link, complete localized disclaimers, and a privacy-first human-reviewed pilot checklist. The 2026-10-23 consolidated canonical family now uses -pt-br for Portuguese, with the older -pt alias retained and canonicalized. Legacy showcases/apps are not certified as fully translated. New 2026-10-24 App-to-Pilot family is fully translated and reciprocally linked from the consolidated showcase family. Next: verify live 200 for the consolidated + pilot-path routes, then backfill older showcases.
 
 © 2026 Zion Tech Group
