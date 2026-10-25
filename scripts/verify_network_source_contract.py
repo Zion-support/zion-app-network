@@ -92,7 +92,7 @@ def verify(root:Path):
                 errors.append(f'{filename}: wrong or missing x-default')
             absolute={urljoin(expected,href) for href in page.links}
             for target in routes:
-                if SITE+target not in absolute:
+                if target != route and SITE+target not in absolute:
                     errors.append(f'{filename}: missing language switch to {target}')
             if SITE+localized_discovery(i) not in absolute:
                 errors.append(f'{filename}: missing localized Discovery link')

@@ -100,7 +100,7 @@ def run(site, release_sha='', source_run_id=''):
                 if page.canonical != [site+route]: issues.append('Wrong or duplicate canonical')
                 for lang,target in zip(LANGS,family):
                     if page.alternates.get(lang) != [site+target]: issues.append('Wrong or duplicate hreflang: '+lang)
-                    if site+target not in urls: issues.append('Missing language switch: '+lang)
+                    if target != route and site+target not in urls: issues.append('Missing language switch: '+lang)
                 if page.alternates.get('x-default') != [site+family[0]]: issues.append('Wrong x-default')
                 if page.forms: issues.append('Unexpected form in informational guide')
                 if site+localized_discovery(i) not in urls: issues.append('Missing localized Discovery link')

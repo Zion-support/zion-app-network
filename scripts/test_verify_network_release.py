@@ -39,7 +39,7 @@ def page(route,bad_alternate=False,missing_interlink=False,missing_support_link=
     if bad_alternate and group=='ops' and i==2: alt[3]=('fr',SITE+'/incorrect-fr')
     alternates=''.join('<link rel="alternate" hreflang="%s" href="%s">'%(lang,target) for lang,target in alt)
     alternates+='<link rel="alternate" hreflang="x-default" href="%s">'%(SITE+family[0])
-    links=list(family)+[release_qa.localized_discovery(i)]
+    links=[target for target in family if target != route]+[release_qa.localized_discovery(i)]
     if group=='batch': links.append(release_qa.FIELD[i])
     if group=='ops' and not missing_interlink: links.append(release_qa.EVIDENCE[i])
     if group=='evidence': links.append(release_qa.OPS[i])
@@ -80,6 +80,18 @@ class OfflineReleaseQATests(TestCase):
         with patch.object(release_qa,'get',side_effect=lambda u: fake_fetch(u,paid_discovery=True)): report=release_qa.run(SITE)
         self.assertFalse(report['pass'])
         self.assertTrue(any('Missing free/no-payment promise' in e for e in report['errors']))
+
+    def test_missing_foreign_language_fails_closed(self):
+        def broken(u):
+            result=fake_fetch(u)
+            if urlparse(u).path==release_qa.OPS[0]:
+                s,final,mime,body=result
+                body=body.replace('<a href="%s">Go</a>'%release_qa.OPS[4],'')
+                return s,final,mime,body
+            return result
+        with patch.object(release_qa,'get',side_effect=broken): report=release_qa.run(SITE)
+        self.assertFalse(report['pass'])
+        self.assertTrue(any('Missing language switch: de' in e for e in report['errors']))
 
     def test_missing_ops_evidence_interlink_fails_closed(self):
         with patch.object(release_qa,'get',side_effect=lambda u: fake_fetch(u,missing_interlink=True)): report=release_qa.run(SITE)
