@@ -48,6 +48,25 @@ class SourceContractTests(TestCase):
         td,root=self.fixture(mutate)
         try: self.assertTrue(any('canonical must be exactly' in e for e in mod.verify(root)))
         finally: td.cleanup()
+    def test_current_language_label_without_self_link_is_valid(self):
+        def mutate(family,i,filename,body):
+            _,route=mod.FAMILIES[family][i]
+            return body.replace(f'<a href="{route}">{mod.LANGS[i]}</a>',
+                                f'<span aria-current="page">{mod.LANGS[i]}</span>')
+        td,root=self.fixture(mutate)
+        try: self.assertEqual(mod.verify(root),[])
+        finally: td.cleanup()
+
+    def test_missing_foreign_language_switch_fails(self):
+        def mutate(family,i,filename,body):
+            if family=='ops' and i==0:
+                target=mod.FAMILIES[family][4][1]
+                return body.replace(f'<a href="{target}">{mod.LANGS[4]}</a>','')
+            return body
+        td,root=self.fixture(mutate)
+        try: self.assertTrue(any('missing language switch to' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
     def test_missing_interlink_fails(self):
         def mutate(family,i,filename,body):
             if family=='ops' and i==1:
