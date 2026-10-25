@@ -11,7 +11,28 @@ FIELD = ['/apps/field-service-evidence-guide' + s + '.html' for s in ['', '.pt-b
 BATCH = ['/zion-app-network/app-network-batch113-oct07' + s + '.html' for s in ['', '-pt', '-es', '-fr', '-de']]
 OPS = ['/zion-app-network/app-network-operations-reliability-2026' + s + '.html' for s in ['', '-pt-br', '-es', '-fr', '-de']]
 EVIDENCE = ['/zion-app-network/app-network-operations-evidence-checklist-2026' + s + '.html' for s in ['', '-pt-br', '-es', '-fr', '-de']]
-FAMILIES = {'field': FIELD, 'batch': BATCH, 'ops': OPS, 'evidence': EVIDENCE}
+SUFFIX = ['', '-pt-br', '-es', '-fr', '-de']
+SUPPORT = ['/zion-app-network/app-network-sept26-support' + s + '.html' for s in SUFFIX]
+FIELD_DIRECTORY = ['/zion-app-network/app-network-sept26-support-field' + s + '.html' for s in SUFFIX]
+EQUIPMENT = ['/zion-app-network/equipment-lifecycle-decision-guide-2026' + s + '.html' for s in SUFFIX]
+PILOT = ['/zion-app-network/app-to-pilot-paths-2026' + s + '.html' for s in SUFFIX]
+DISCOVERY = ['/discovery/', '/pt/discovery/', '/es/discovery/', '/fr/discovery/', '/de/discovery/']
+FREE_HEADINGS = [
+    'Free AI & Automation Discovery',
+    'Discovery gratuito de IA e automação',
+    'Discovery gratuito de IA y automatización',
+    'Discovery IA et automatisation gratuit',
+    'Kostenlose KI- und Automatisierungs-Discovery',
+]
+FREE_STATEMENTS = [
+    'No payment or meeting is required.',
+    'Nenhum pagamento ou reunião é necessário.',
+    'No se requiere pago ni reunión.',
+    "Aucun paiement ni rendez-vous n'est requis.",
+    'Keine Zahlung und kein Termin erforderlich.',
+]
+FAMILIES = {'field': FIELD, 'batch': BATCH, 'ops': OPS, 'evidence': EVIDENCE,
+            'support': SUPPORT, 'fielddir': FIELD_DIRECTORY, 'equipment': EQUIPMENT, 'pilot': PILOT}
 
 class Page(HTMLParser):
     def __init__(self, text):
@@ -41,7 +62,7 @@ def get(url):
         return response.status,response.geturl(),response.headers.get_content_type(),response.read().decode('utf-8',errors='replace')
 
 def localized_discovery(i):
-    return '/discovery/' if i==0 else '/' + ('pt' if i==1 else LANGS[i]) + '/discovery/'
+    return DISCOVERY[i]
 
 def run(site, release_sha='', source_run_id=''):
     site=site.rstrip('/')
@@ -64,6 +85,16 @@ def run(site, release_sha='', source_run_id=''):
                 if 'data-batch113-promo=' not in text: issues.append('Missing insurance promotion')
                 if site+FIELD[locale_index] not in urls: issues.append('Missing same-language field guide')
                 if site+BATCH[locale_index] not in urls: issues.append('Missing same-language insurance showcase')
+            elif group=='discovery':
+                if page.canonical != [site+route]: issues.append('Wrong or duplicate free Discovery canonical')
+                for lang,target in zip(LANGS,DISCOVERY):
+                    if page.alternates.get(lang) != [site+target]: issues.append('Wrong or duplicate Discovery hreflang: '+lang)
+                    if site+target not in urls: issues.append('Missing Discovery language switch: '+lang)
+                if page.alternates.get('x-default') != [site+DISCOVERY[0]]: issues.append('Wrong Discovery x-default')
+                if page.forms != 1: issues.append('Free Discovery must have exactly one questionnaire')
+                if FREE_HEADINGS[i] not in ' '.join(page.heading): issues.append('Wrong free Discovery heading')
+                if FREE_STATEMENTS[i] not in text: issues.append('Missing free/no-payment promise')
+                if 'buy.stripe.com' in text.lower(): issues.append('Paid checkout found in free Discovery')
             else:
                 family=FAMILIES[group]
                 if page.canonical != [site+route]: issues.append('Wrong or duplicate canonical')
@@ -77,10 +108,17 @@ def run(site, release_sha='', source_run_id=''):
                 if group=='batch' and site+FIELD[i] not in urls: issues.append('Missing field guide interlink')
                 if group=='ops' and site+EVIDENCE[i] not in urls: issues.append('Missing Evidence checklist interlink')
                 if group=='evidence' and site+OPS[i] not in urls: issues.append('Missing Operations hub interlink')
+                if group=='support' and site+FIELD_DIRECTORY[i] not in urls: issues.append('Missing Field directory interlink')
+                if group=='fielddir':
+                    for name,target in [('Support',SUPPORT[i]),('Equipment',EQUIPMENT[i]),('Pilot',PILOT[i])]:
+                        if site+target not in urls: issues.append('Missing '+name+' interlink from Field directory')
+                if group=='equipment' and site+PILOT[i] not in urls: issues.append('Missing Pilot interlink from Equipment')
+                if group=='pilot' and site+EQUIPMENT[i] not in urls: issues.append('Missing Equipment interlink from Pilot')
             return {'group':group,'route':route,'status':status,'lang':page.lang,'heading':' '.join(page.heading),'errors':issues,'assets':[urljoin(site+route,p) for p in page.styles]}
         except Exception as exc:
             return {'group':group,'route':route,'errors':[str(exc)],'assets':[]}
-    groups=[('home',HOME),('field',FIELD),('batch',BATCH),('ops',OPS),('evidence',EVIDENCE)]
+    groups=[('home',HOME),('field',FIELD),('batch',BATCH),('ops',OPS),('evidence',EVIDENCE),
+            ('support',SUPPORT),('fielddir',FIELD_DIRECTORY),('equipment',EQUIPMENT),('pilot',PILOT),('discovery',DISCOVERY)]
     items=[(g,i,p) for g,paths in groups for i,p in enumerate(paths)]
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
         results=list(pool.map(check,items))
@@ -101,7 +139,7 @@ def run(site, release_sha='', source_run_id=''):
             errors.append(asset+': '+str(exc))
     return {
         'checked_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        'scope':'25 HTML routes and same-origin stylesheets; read-only; no browser execution, forms or inbox checks',
+        'scope':'50 HTML routes and same-origin stylesheets; GET-only, no browser execution or form submissions; Discovery form structure is inspected',
         'release_sha':release_sha,
         'source_run_id':str(source_run_id or ''),
         'pass':not errors,
@@ -119,6 +157,6 @@ if __name__=='__main__':
     args=parser.parse_args()
     report=run(args.site,args.release_sha,args.source_run_id)
     with open(args.output,'w',encoding='utf-8') as output: json.dump(report,output,ensure_ascii=False,indent=2)
-    print(('PASS' if report['pass'] else 'FAIL')+': 25 scoped HTML routes, '+str(len(report['assets']))+' stylesheets')
+    print(('PASS' if report['pass'] else 'FAIL')+': 50 scoped HTML routes, '+str(len(report['assets']))+' stylesheets')
     for error in report['errors']: print(error)
     raise SystemExit(0 if report['pass'] else 1)
