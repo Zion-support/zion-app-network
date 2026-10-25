@@ -8,6 +8,10 @@ Interconnected apps, tools, workflow concepts and field playbooks by [Zion Tech 
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 - 🗂️ [Master index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Insurance catalog supplement](CATALOG-INSURANCE-EVIDENCE.md)
 
+## Discovery guide — five-language release review
+
+[Review-only interlink map](INTERLINKS-discovery-spotlight-20261013.md) · [Website draft PR #71556](https://github.com/Zion-support/zion-support.github.io/pull/71556). English, Português, Español, Français and Deutsch guides use the same structure and distinguish immediate browser reports from non-guaranteed inbox delivery. New localized routes and homepage promotions are **draft-only, not verified live**. Do not publish these links as released until the website release and fresh route checks succeed.
+
 ## Insurance evidence network — five languages
 
 [Read the network guide](https://ziontechgroup.com/zion-app-network/insurance-evidence-network.html): English, Português, Español, Français and Deutsch, with language-specific links to Discovery, planning pages and the functioning local evidence checklist.
