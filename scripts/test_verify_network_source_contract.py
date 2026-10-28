@@ -30,7 +30,7 @@ def html(family,i):
         ids=['calculate','copy','brief','total','floor','add','currency','labor',
              'travel','parts','tax','other','country','asset','service','window']
         extra=''.join(f'<span id="{element}"></span>' for element in ids)
-        extra+='<script>let minimum=total*1.4; let markup=total*.4;</script>'
+        extra+='<script>const minimum=Math.ceil(total*1.4*100)/100; const increment=minimum-total;</script>'
     return f'<html lang="{mod.LANGS[i]}"><head><link rel="canonical" href="{mod.SITE}{route}">{alts}</head><body><h1>{family} {mod.LANGS[i]}</h1>{links}{extra}</body></html>'
 
 class SourceContractTests(TestCase):
