@@ -147,7 +147,7 @@ class SourceContractTests(TestCase):
         try:
             file=root/'CATALOG-NAVIGATION.md'
             file.write_text(file.read_text().replace('id="start-here-de"','id="missing-de"'))
-            self.assertTrue(any('missing language anchor de' in e for e in mod.verify(root)))
+            self.assertTrue(any('missing existing language anchor de' in e for e in mod.verify(root)))
         finally: td.cleanup()
 
     def test_duplicate_catalog_html_source_is_rejected(self):
