@@ -38,6 +38,25 @@ class SourceContractTests(TestCase):
                 if mutate:
                     body=mutate(family,i,filename,body)
                 (root/filename).write_text(body,encoding='utf-8')
+        routes=['en','pt','es','fr','de']
+        catalog_url=mod.SITE+'/zion-app-network/CATALOG-NAVIGATION.html'
+        blocks=[]
+        for i,slug in enumerate(routes):
+            blocks.append(
+                f'<article id="start-here-{slug}" lang="{mod.LANGS[i]}">'
+                f'<a href="directory-{slug}.html">Directory</a>'
+                f'<a href="{mod.FAMILIES["quote"][i][1]}">Quote</a>'
+                f'<a href="{mod.localized_discovery(i)}">Discovery</a></article>'
+            )
+        catalog=(
+            f'<html lang="en"><head><link rel="canonical" href="{catalog_url}"></head>'
+            '<body><h1>Catalog</h1>'+''.join(blocks)+'</body></html>'
+        )
+        (root/'CATALOG-NAVIGATION.html').write_text(catalog,encoding='utf-8')
+        task='<html lang="en"><body><h1>Tasks</h1>'+(
+            '<a href="/zion-app-network/supplier-evidence.html">Evidence</a>'*5
+        )+'</body></html>'
+        (root/'task-paths.html').write_text(task,encoding='utf-8')
         return td,root
     def test_valid_family_passes(self):
         td,root=self.fixture()
@@ -111,6 +130,24 @@ class SourceContractTests(TestCase):
             return body
         td,root=self.fixture(mutate)
         try: self.assertTrue(any('network operation' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
+    def test_catalog_requires_all_language_anchors(self):
+        td,root=self.fixture()
+        try:
+            file=root/'CATALOG-NAVIGATION.html'
+            file.write_text(file.read_text().replace('id="start-here-de"','id="missing-de"'))
+            self.assertTrue(any('missing language anchor de' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
+    def test_supplier_links_must_target_real_hub(self):
+        td,root=self.fixture()
+        try:
+            file=root/'task-paths.html'
+            file.write_text(file.read_text().replace(
+                '/zion-app-network/supplier-evidence.html',
+                '/zion-app-network/CATALOG-SUPPLIER-EVIDENCE.html'))
+            self.assertTrue(any('legacy unresolved supplier catalog' in e for e in mod.verify(root)))
         finally: td.cleanup()
 
 if __name__=='__main__': main()
