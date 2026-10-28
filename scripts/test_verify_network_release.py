@@ -48,6 +48,8 @@ def page(route,bad_alternate=False,missing_interlink=False,missing_support_link=
     if group=='equipment': links.append(release_qa.PILOT[i])
     if group=='pilot': links.append(release_qa.EQUIPMENT[i])
     if group=='quote': links.extend([release_qa.OPS[i],release_qa.EVIDENCE[i],release_qa.PILOT[i]])
+    if group=='batch96': links.append(release_qa.Q4[i])
+    if group=='q4': links.append(release_qa.BATCH96[i])
     marker='<section data-field-evidence-gates="1"></section>' if group=='field' else ''
     if group=='quote':
         marker='<button id="calculate">Calculate</button><textarea id="brief"></textarea><script>total*1.4; total*.4;</script>'
@@ -65,9 +67,9 @@ def fake_fetch(url,bad_alternate=False,outage=None,missing_interlink=False,missi
     return 200,url,'text/html',page(route,bad_alternate,missing_interlink,missing_support_link,paid_discovery)
 
 class OfflineReleaseQATests(TestCase):
-    def test_all_55_pages_and_css_pass_valid_fixture(self):
+    def test_all_65_pages_and_css_pass_valid_fixture(self):
         with patch.object(release_qa,'get',side_effect=fake_fetch): report=release_qa.run(SITE)
-        self.assertTrue(report['pass'],report['errors']); self.assertEqual(len(report['pages']),55); self.assertEqual(len(report['assets']),1)
+        self.assertTrue(report['pass'],report['errors']); self.assertEqual(len(report['pages']),65); self.assertEqual(len(report['assets']),1)
     def test_mismatched_hreflang_fails_closed(self):
         with patch.object(release_qa,'get',side_effect=lambda u: fake_fetch(u,bad_alternate=True)): report=release_qa.run(SITE)
         self.assertFalse(report['pass']); self.assertTrue(any('Wrong or duplicate hreflang: fr' in e for e in report['errors']))
@@ -121,5 +123,18 @@ class OfflineReleaseQATests(TestCase):
         with patch.object(release_qa,'get',side_effect=broken): report=release_qa.run(SITE)
         self.assertFalse(report['pass'])
         self.assertTrue(any('Missing Pilot interlink from Field quote' in e for e in report['errors']))
+
+    def test_showcase_reciprocal_link_missing_fails(self):
+        def broken(url):
+            response=fake_fetch(url)
+            if urlparse(url).path==release_qa.Q4[3]:
+                status,final,mime,body=response
+                return status,final,mime,body.replace(
+                    '<a href="%s">Go</a>'%release_qa.BATCH96[3],'')
+            return response
+        with patch.object(release_qa,'get',side_effect=broken):
+            report=release_qa.run(SITE)
+        self.assertFalse(report['pass'])
+        self.assertTrue(any('Missing related Batch96 showcase interlink' in e for e in report['errors']))
 
 if __name__=='__main__': main()
