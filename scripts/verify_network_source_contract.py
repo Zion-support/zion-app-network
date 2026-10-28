@@ -134,8 +134,10 @@ def verify(root:Path):
                     errors.append(f'{filename}: missing calculator element IDs: {sorted(absent)}')
                 if page.forms or page.external_scripts:
                     errors.append(f'{filename}: quote worksheet must not include forms or external scripts')
-                if 'total*1.4' not in path.read_text(encoding='utf-8') or 'total*.4' not in path.read_text(encoding='utf-8'):
-                    errors.append(f'{filename}: minimum 40% markup calculation is missing')
+                raw=path.read_text(encoding='utf-8')
+                if ('total*1.4' not in raw or 'Math.ceil(' not in raw or
+                        'minimum-total' not in raw):
+                    errors.append(f'{filename}: safe minimum 40% markup calculation is missing')
                 for blocked in ('fetch(', 'XMLHttpRequest', 'sendBeacon(', 'WebSocket('):
                     if blocked in path.read_text(encoding='utf-8'):
                         errors.append(f'{filename}: network operation {blocked} is not allowed')
