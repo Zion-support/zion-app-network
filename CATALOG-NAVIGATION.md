@@ -198,3 +198,15 @@ Release: **field-ticket-types-2026-10-14-v1**. Five complete editorial guide edi
 ### Deutsch — Umfang vor der Buchung
 
 [Vor-Ort-Auftragsarten](https://ziontechgroup.com/de/apps/field-ticket-types.html) vergleicht Reparatur, IMAC, Image-Lose, Zeit und Material sowie Personal mit Vertretung. Bestätigen Sie Verantwortung, Zugang, Teile, Kosten, Kundenfreigabe und separate Zion-Freigabe vor dem Einsatz. [Startseite](https://ziontechgroup.com/de/). [Aufträge](https://ziontechgroup.com/zion-field-tickets/), [Taiwan](https://ziontechgroup.com/zion-field-taiwan/) und [Senegal](https://ziontechgroup.com/zion-field-senegal/) können englisch bleiben. Keine Bestätigung aller Netzwerksprachen oder der Verfügbarkeit.
+
+## Field Service Quote Readiness — release review (28 October 2026)
+
+These five local-only cost-planning resources are part of [PR #39](https://github.com/Zion-support/zion-app-network/pull/39). A GitHub branch or green offline tests do **not** certify public availability; check the destination after deployment. They do not submit data, issue a binding quote, purchase hardware or dispatch a technician. Verify supplier all-in costs and the minimum 40% markup, and obtain the client's written confirmation, PO number and separate Zion release before commitments.
+
+- [English — quote worksheet](field-quote-readiness-2026.html)
+- [Português — preparação de cotação](field-quote-readiness-2026-pt-br.html)
+- [Español — preparación de cotización](field-quote-readiness-2026-es.html)
+- [Français — préparation du devis](field-quote-readiness-2026-fr.html)
+- [Deutsch — Angebotsprüfung](field-quote-readiness-2026-de.html)
+
+**Public-route discrepancy:** a read-only website check on 28 October 2026 returned a paid **Discovery $99** page at **/discovery/** and 404 for the four translated Discovery routes. Therefore do **not** claim that the free multilingual self-assessment is publicly working until the website release owner resolves and verifies these routes. This warning supersedes earlier aspirational free-Discovery language in this catalog; it is not a price change or authorization to send checkout links.

@@ -12,6 +12,10 @@ BATCH = ['/zion-app-network/app-network-batch113-oct07' + s + '.html' for s in [
 OPS = ['/zion-app-network/app-network-operations-reliability-2026' + s + '.html' for s in ['', '-pt-br', '-es', '-fr', '-de']]
 EVIDENCE = ['/zion-app-network/app-network-operations-evidence-checklist-2026' + s + '.html' for s in ['', '-pt-br', '-es', '-fr', '-de']]
 SUFFIX = ['', '-pt-br', '-es', '-fr', '-de']
+QUOTE = ['/zion-app-network/field-quote-readiness-2026' + s + '.html' for s in SUFFIX]
+SHOW_SUFFIX = ['', '-pt', '-es', '-fr', '-de']
+BATCH96 = ['/zion-app-network/app/network-batch96-showcase' + s + '.html' for s in SHOW_SUFFIX]
+Q4 = ['/zion-app-network/app/network-q4-2026-showcase' + s + '.html' for s in SHOW_SUFFIX]
 SUPPORT = ['/zion-app-network/app-network-sept26-support' + s + '.html' for s in SUFFIX]
 FIELD_DIRECTORY = ['/zion-app-network/app-network-sept26-support-field' + s + '.html' for s in SUFFIX]
 EQUIPMENT = ['/zion-app-network/equipment-lifecycle-decision-guide-2026' + s + '.html' for s in SUFFIX]
@@ -32,7 +36,7 @@ FREE_STATEMENTS = [
     'Keine Zahlung und kein Termin erforderlich.',
 ]
 FAMILIES = {'field': FIELD, 'batch': BATCH, 'ops': OPS, 'evidence': EVIDENCE,
-            'support': SUPPORT, 'fielddir': FIELD_DIRECTORY, 'equipment': EQUIPMENT, 'pilot': PILOT}
+            'support': SUPPORT, 'fielddir': FIELD_DIRECTORY, 'equipment': EQUIPMENT, 'pilot': PILOT, 'quote': QUOTE, 'batch96': BATCH96, 'q4': Q4}
 
 class Page(HTMLParser):
     def __init__(self, text):
@@ -114,11 +118,25 @@ def run(site, release_sha='', source_run_id=''):
                         if site+target not in urls: issues.append('Missing '+name+' interlink from Field directory')
                 if group=='equipment' and site+PILOT[i] not in urls: issues.append('Missing Pilot interlink from Equipment')
                 if group=='pilot' and site+EQUIPMENT[i] not in urls: issues.append('Missing Equipment interlink from Pilot')
+                if group=='batch96' and site+Q4[i] not in urls:
+                    issues.append('Missing related Q4 showcase interlink')
+                if group=='q4' and site+BATCH96[i] not in urls:
+                    issues.append('Missing related Batch96 showcase interlink')
+                if group=='quote':
+                    if 'id="calculate"' not in text or 'id="brief"' not in text:
+                        issues.append('Field quote calculation controls missing')
+                    if 'total*1.4' not in text or 'Math.ceil(' not in text or 'minimum-total' not in text:
+                        issues.append('Field quote 40% markup logic missing')
+                    for name,target in [('Operations',OPS[i]),('Evidence',EVIDENCE[i]),('Pilot',PILOT[i])]:
+                        if site+target not in urls:
+                            issues.append('Missing '+name+' interlink from Field quote')
+                    if 'fetch(' in text or 'XMLHttpRequest' in text or 'sendBeacon(' in text:
+                        issues.append('Unexpected network capability in local-only Field quote')
             return {'group':group,'route':route,'status':status,'lang':page.lang,'heading':' '.join(page.heading),'errors':issues,'assets':[urljoin(site+route,p) for p in page.styles]}
         except Exception as exc:
             return {'group':group,'route':route,'errors':[str(exc)],'assets':[]}
     groups=[('home',HOME),('field',FIELD),('batch',BATCH),('ops',OPS),('evidence',EVIDENCE),
-            ('support',SUPPORT),('fielddir',FIELD_DIRECTORY),('equipment',EQUIPMENT),('pilot',PILOT),('discovery',DISCOVERY)]
+            ('support',SUPPORT),('fielddir',FIELD_DIRECTORY),('equipment',EQUIPMENT),('pilot',PILOT),('quote',QUOTE),('batch96',BATCH96),('q4',Q4),('discovery',DISCOVERY)]
     items=[(g,i,p) for g,paths in groups for i,p in enumerate(paths)]
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
         results=list(pool.map(check,items))
@@ -139,7 +157,7 @@ def run(site, release_sha='', source_run_id=''):
             errors.append(asset+': '+str(exc))
     return {
         'checked_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        'scope':'50 HTML routes and same-origin stylesheets; GET-only, no browser execution or form submissions; Discovery form structure is inspected',
+        'scope':str(len(items))+' HTML routes and same-origin stylesheets; GET-only, no browser execution or form submissions; Discovery form structure is inspected',
         'release_sha':release_sha,
         'source_run_id':str(source_run_id or ''),
         'pass':not errors,
@@ -157,6 +175,6 @@ if __name__=='__main__':
     args=parser.parse_args()
     report=run(args.site,args.release_sha,args.source_run_id)
     with open(args.output,'w',encoding='utf-8') as output: json.dump(report,output,ensure_ascii=False,indent=2)
-    print(('PASS' if report['pass'] else 'FAIL')+': 50 scoped HTML routes, '+str(len(report['assets']))+' stylesheets')
+    print(('PASS' if report['pass'] else 'FAIL')+': '+str(len(report['pages']))+' scoped HTML routes, '+str(len(report['assets']))+' stylesheets')
     for error in report['errors']: print(error)
     raise SystemExit(0 if report['pass'] else 1)

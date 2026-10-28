@@ -26,6 +26,27 @@ FAMILIES={
         ('app-network-operations-evidence-checklist-2026-fr.html','/zion-app-network/app-network-operations-evidence-checklist-2026-fr.html'),
         ('app-network-operations-evidence-checklist-2026-de.html','/zion-app-network/app-network-operations-evidence-checklist-2026-de.html'),
     ],
+    'quote':[
+        ('field-quote-readiness-2026.html','/zion-app-network/field-quote-readiness-2026.html'),
+        ('field-quote-readiness-2026-pt-br.html','/zion-app-network/field-quote-readiness-2026-pt-br.html'),
+        ('field-quote-readiness-2026-es.html','/zion-app-network/field-quote-readiness-2026-es.html'),
+        ('field-quote-readiness-2026-fr.html','/zion-app-network/field-quote-readiness-2026-fr.html'),
+        ('field-quote-readiness-2026-de.html','/zion-app-network/field-quote-readiness-2026-de.html'),
+    ],
+    'batch96':[
+        ('app/network-batch96-showcase.html','/zion-app-network/app/network-batch96-showcase.html'),
+        ('app/network-batch96-showcase-pt.html','/zion-app-network/app/network-batch96-showcase-pt.html'),
+        ('app/network-batch96-showcase-es.html','/zion-app-network/app/network-batch96-showcase-es.html'),
+        ('app/network-batch96-showcase-fr.html','/zion-app-network/app/network-batch96-showcase-fr.html'),
+        ('app/network-batch96-showcase-de.html','/zion-app-network/app/network-batch96-showcase-de.html'),
+    ],
+    'q4':[
+        ('app/network-q4-2026-showcase.html','/zion-app-network/app/network-q4-2026-showcase.html'),
+        ('app/network-q4-2026-showcase-pt.html','/zion-app-network/app/network-q4-2026-showcase-pt.html'),
+        ('app/network-q4-2026-showcase-es.html','/zion-app-network/app/network-q4-2026-showcase-es.html'),
+        ('app/network-q4-2026-showcase-fr.html','/zion-app-network/app/network-q4-2026-showcase-fr.html'),
+        ('app/network-q4-2026-showcase-de.html','/zion-app-network/app/network-q4-2026-showcase-de.html'),
+    ],
 }
 
 class Page(HTMLParser):
@@ -35,11 +56,20 @@ class Page(HTMLParser):
         self.canonical=[]
         self.alternates={}
         self.links=[]
+        self.ids=set()
+        self.external_scripts=[]
+        self.forms=0
         self.h1=[]
         self.in_h1=False
         self.feed(text)
     def handle_starttag(self,tag,attrs):
         a=dict(attrs)
+        if a.get('id'):
+            self.ids.add(a['id'])
+        if tag=='form':
+            self.forms += 1
+        if tag=='script' and a.get('src'):
+            self.external_scripts.append(a['src'])
         if tag=='html':
             self.lang=a.get('lang','')
         elif tag=='a' and a.get('href'):
@@ -96,6 +126,27 @@ def verify(root:Path):
                     errors.append(f'{filename}: missing language switch to {target}')
             if SITE+localized_discovery(i) not in absolute:
                 errors.append(f'{filename}: missing localized Discovery link')
+            if family=='quote':
+                required={'calculate','copy','brief','total','floor','add','currency',
+                          'labor','travel','parts','tax','other','country','asset','service','window'}
+                absent=required-page.ids
+                if absent:
+                    errors.append(f'{filename}: missing calculator element IDs: {sorted(absent)}')
+                if page.forms or page.external_scripts:
+                    errors.append(f'{filename}: quote worksheet must not include forms or external scripts')
+                raw=path.read_text(encoding='utf-8')
+                if ('total*1.4' not in raw or 'Math.ceil(' not in raw or
+                        'minimum-total' not in raw):
+                    errors.append(f'{filename}: safe minimum 40% markup calculation is missing')
+                for blocked in ('fetch(', 'XMLHttpRequest', 'sendBeacon(', 'WebSocket('):
+                    if blocked in path.read_text(encoding='utf-8'):
+                        errors.append(f'{filename}: network operation {blocked} is not allowed')
+                for route_name,route_target in (
+                    ('Operations',FAMILIES['ops'][i][1]),
+                    ('Evidence',FAMILIES['evidence'][i][1]),
+                    ('Pilot','/zion-app-network/app-to-pilot-paths-2026'+(['','-pt-br','-es','-fr','-de'][i])+'.html')):
+                    if SITE+route_target not in absolute:
+                        errors.append(f'{filename}: missing {route_name} interlink')
 
     for family,values in headings.items():
         if len(values)==5 and len(set(values))!=5:
@@ -113,6 +164,45 @@ def verify(root:Path):
                 errors.append(f'{FAMILIES["ops"][i][0]}: missing matching Evidence checklist interlink')
             if ops_url not in evidence_links:
                 errors.append(f'{FAMILIES["evidence"][i][0]}: missing matching Operations interlink')
+    # CATALOG-NAVIGATION.md already builds to CATALOG-NAVIGATION.html in Pages.
+    # Do not create a second .html source with the same public output route.
+    catalog=root/'CATALOG-NAVIGATION.md'
+    if not catalog.is_file():
+        errors.append('CATALOG-NAVIGATION.md: missing canonical catalog source')
+    else:
+        source=catalog.read_text(encoding='utf-8')
+        for i,slug in enumerate(['en','pt','es','fr','de']):
+            if f'<a id="start-here-{slug}"></a>' not in source:
+                errors.append('CATALOG-NAVIGATION.md: missing existing language anchor '+slug)
+            quote_name=FAMILIES['quote'][i][0]
+            if f']({quote_name})' not in source:
+                errors.append('CATALOG-NAVIGATION.md: missing quote worksheet link '+slug)
+        if 'Public-route discrepancy:' not in source:
+            errors.append('CATALOG-NAVIGATION.md: missing current Discovery route warning')
+    if (root/'CATALOG-NAVIGATION.html').exists():
+        errors.append('CATALOG-NAVIGATION.html: duplicate HTML source would conflict with existing markdown-generated route')
+
+    paths=root/'task-paths.html'
+    if not paths.is_file():
+        errors.append('task-paths.html: missing source')
+    else:
+        body=paths.read_text(encoding='utf-8')
+        task=Page(body)
+        target='/zion-app-network/supplier-evidence.html'
+        if task.links.count(target)<5:
+            errors.append('task-paths.html: multilingual supplier evidence interlinks incomplete')
+        if '/zion-app-network/CATALOG-SUPPLIER-EVIDENCE.html' in task.links:
+            errors.append('task-paths.html: legacy unresolved supplier catalog link remains')
+    for i in range(5):
+        batch=parsed.get(('batch96',i))
+        q4=parsed.get(('q4',i))
+        if batch and q4:
+            batch_url=SITE+FAMILIES['batch96'][i][1]
+            q4_url=SITE+FAMILIES['q4'][i][1]
+            if q4_url not in {urljoin(batch_url,x) for x in batch.links}:
+                errors.append(f'{FAMILIES["batch96"][i][0]}: missing matching Q4 showcase interlink')
+            if batch_url not in {urljoin(q4_url,x) for x in q4.links}:
+                errors.append(f'{FAMILIES["q4"][i][0]}: missing matching Batch96 showcase interlink')
     return errors
 
 if __name__=='__main__':
@@ -124,4 +214,4 @@ if __name__=='__main__':
         for error in errors:
             print('ERROR:',error)
         raise SystemExit(1)
-    print('PASS: source contract for 10 Operations/Evidence locale files')
+    print('PASS: 25 locale files plus canonical markdown catalog and Supplier Task Paths')
