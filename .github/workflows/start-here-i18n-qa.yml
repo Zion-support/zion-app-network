@@ -1,0 +1,28 @@
+name: Start Here i18n QA
+on:
+  pull_request:
+    paths:
+      - 'app-network-start-here-2026*.html'
+      - 'index.html'
+      - 'tests/test_start_here_i18n.py'
+      - '.github/workflows/start-here-i18n-qa.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'app-network-start-here-2026*.html'
+      - 'index.html'
+      - 'tests/test_start_here_i18n.py'
+      - '.github/workflows/start-here-i18n-qa.yml'
+permissions:
+  contents: read
+jobs:
+  i18n-contract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout read-only source
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Verify five-language Start Here parity and interlinks
+        run: python3 -m unittest tests.test_start_here_i18n -v
