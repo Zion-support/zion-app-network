@@ -131,9 +131,11 @@ class FieldQuoteReleaseTests(unittest.TestCase):
         self.assertEqual(hub.count('{% capture fieldQuote2026 %}'), 1)
         self.assertEqual(hub.count("field-quote-readiness-2026\" aria-labelledby"), 1)
         self.assertIn("| replace: '</body>', fieldQuote2026", hub)
+        # Buyer Journey may also link the worksheet; validate uniqueness inside its own hub section.
+        field_section = hub.split("{% capture fieldQuote2026 %}", 1)[1].split("{% endcapture %}", 1)[0]
         for filename in ALL_FILES:
             with self.subTest(filename=filename):
-                self.assertEqual(hub.count("/zion-app-network/" + filename), 1)
+                self.assertEqual(field_section.count("/zion-app-network/" + filename), 1)
         self.assertIn("minimum 40% markup", hub)
         self.assertIn("No booking, dispatch, purchase", hub)
 

@@ -78,7 +78,7 @@ class ScorecardContract(unittest.TestCase):
         self.assertIn('values.every(v=>Number.isInteger(v)&&v>=0&&v<=4)', code)
     def test_hub_has_all_language_links(self):
         hub = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn("evidenceScorecard2026 }}", hub)
+        self.assertEqual(hub.count("| replace: '</body>', evidenceScorecard2026"), 1)
         for lang, suffix in LOCALES:
             self.assertIn("/zion-app-network/" + NAME + suffix + ".html", hub)
         self.assertEqual(hub.count("{% capture evidenceScorecard2026 %}"), 1)
