@@ -18,7 +18,16 @@ def html(family,i):
     alts+=f'<link rel="alternate" hreflang="x-default" href="{mod.SITE}{routes[0]}">'
     links=''.join(f'<a href="{target}">{lang}</a>' for lang,target in zip(mod.LANGS,routes))
     links+=f'<a href="{mod.localized_discovery(i)}">Discovery</a><a href="{other_route}">Sibling</a>'
-    return f'<html lang="{mod.LANGS[i]}"><head><link rel="canonical" href="{mod.SITE}{route}">{alts}</head><body><h1>{family} {mod.LANGS[i]}</h1>{links}</body></html>'
+    extra=''
+    if family=='quote':
+        evidence=mod.FAMILIES['evidence'][i][1]
+        pilot='/zion-app-network/app-to-pilot-paths-2026'+(['','-pt-br','-es','-fr','-de'][i])+'.html'
+        links+=f'<a href="{evidence}">Evidence</a><a href="{pilot}">Pilot</a>'
+        ids=['calculate','copy','brief','total','floor','add','currency','labor',
+             'travel','parts','tax','other','country','asset','service','window']
+        extra=''.join(f'<span id="{element}"></span>' for element in ids)
+        extra+='<script>let minimum=total*1.4; let markup=total*.4;</script>'
+    return f'<html lang="{mod.LANGS[i]}"><head><link rel="canonical" href="{mod.SITE}{route}">{alts}</head><body><h1>{family} {mod.LANGS[i]}</h1>{links}{extra}</body></html>'
 
 class SourceContractTests(TestCase):
     def fixture(self,mutate=None):
@@ -75,6 +84,33 @@ class SourceContractTests(TestCase):
             return body
         td,root=self.fixture(mutate)
         try: self.assertTrue(any('missing matching Evidence' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
+    def test_quote_rejects_broken_40_percent_markup(self):
+        def mutate(family,i,filename,body):
+            if family=='quote' and i==3:
+                return body.replace('total*1.4','total*1.3')
+            return body
+        td,root=self.fixture(mutate)
+        try: self.assertTrue(any('minimum 40% markup' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
+    def test_quote_requires_localized_free_discovery(self):
+        def mutate(family,i,filename,body):
+            if family=='quote' and i==1:
+                return body.replace('href="/pt/discovery/"','href="/discovery/"')
+            return body
+        td,root=self.fixture(mutate)
+        try: self.assertTrue(any('missing localized Discovery' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
+    def test_quote_blocks_network_operations(self):
+        def mutate(family,i,filename,body):
+            if family=='quote' and i==4:
+                return body.replace('</script>','fetch("https://example.com")</script>')
+            return body
+        td,root=self.fixture(mutate)
+        try: self.assertTrue(any('network operation' in e for e in mod.verify(root)))
         finally: td.cleanup()
 
 if __name__=='__main__': main()
