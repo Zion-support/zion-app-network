@@ -83,5 +83,27 @@ class NetworkScaleAuditTests(TestCase):
             after = {p.name: p.read_bytes() for p in root.glob("*.html")}
             self.assertEqual(before, after)
 
+    def test_sensitive_query_is_not_written_to_advisory_report(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "index.html").write_text(
+                '<html lang="en"><h1>Home</h1><a href="http://example.com/private?token=SECRET_TOKEN">Link</a></html>',
+                encoding="utf-8"
+            )
+            report = audit.run(root)
+            exported = str(report["advisory_examples"])
+            self.assertIn("http_link", exported)
+            self.assertNotIn("SECRET_TOKEN", exported)
+
+    def test_malformed_url_is_classified_without_crash(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "index.html").write_text(
+                '<html lang="en"><h1>Home</h1><a href="http://[broken">Link</a></html>',
+                encoding="utf-8"
+            )
+            report = audit.run(root)
+            self.assertEqual(report["advisory_counts"]["malformed_url"], 1)
+
 if __name__ == "__main__":
     main()
