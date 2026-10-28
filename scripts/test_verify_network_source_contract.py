@@ -120,6 +120,16 @@ class SourceContractTests(TestCase):
         try: self.assertTrue(any('minimum 40% markup' in e for e in mod.verify(root)))
         finally: td.cleanup()
 
+    def test_quote_fails_when_markup_is_rounded_down(self):
+        def mutate(family,i,filename,body):
+            if family=='quote' and i==0:
+                return body.replace('Math.ceil(', 'Math.round(')
+            return body
+        td,root=self.fixture(mutate)
+        try:
+            self.assertTrue(any('safe minimum 40% markup' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
     def test_quote_requires_localized_free_discovery(self):
         def mutate(family,i,filename,body):
             if family=='quote' and i==1:
