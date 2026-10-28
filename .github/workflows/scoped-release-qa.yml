@@ -8,6 +8,9 @@ name: Read-only multilingual release QA
       - 'app-network-sept26-support*.html'
       - 'equipment-lifecycle-decision-guide-2026*.html'
       - 'app-to-pilot-paths-2026*.html'
+      - 'field-quote-readiness-2026*.html'
+      - 'scripts/network_scale_audit.py'
+      - 'scripts/test_network_scale_audit.py'
       - 'scripts/verify-network-release.py'
       - 'scripts/test_verify_network_release.py'
       - 'scripts/verify_network_source_contract.py'
@@ -21,6 +24,9 @@ name: Read-only multilingual release QA
       - 'app-network-sept26-support*.html'
       - 'equipment-lifecycle-decision-guide-2026*.html'
       - 'app-to-pilot-paths-2026*.html'
+      - 'field-quote-readiness-2026*.html'
+      - 'scripts/network_scale_audit.py'
+      - 'scripts/test_network_scale_audit.py'
       - 'scripts/verify-network-release.py'
       - 'scripts/test_verify_network_release.py'
       - 'scripts/verify_network_source_contract.py'
@@ -50,12 +56,24 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           persist-credentials: false
-      - name: Test 50-route multilingual release logic without network
+      - name: Test 55-route multilingual release logic without network
         run: python3 -m unittest discover -s scripts -p 'test_verify_network_release.py' -v
       - name: Test source-contract checker
         run: python3 -m unittest discover -s scripts -p 'test_verify_network_source_contract.py' -v
-      - name: Validate current Operations/Evidence source files
+      - name: Validate current Operations / Evidence / Field quote source files
         run: python3 scripts/verify_network_source_contract.py
+      - name: Test bounded read-only source-network audit
+        run: python3 -m unittest discover -s scripts -p 'test_network_scale_audit.py' -v
+      - name: Audit up to 1000 distinct app-network source links, without network
+        run: python3 scripts/network_scale_audit.py --max-checks 1000 --output network-source-audit.json
+      - name: Upload offline link audit report
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        if: always()
+        with:
+          name: network-source-1000-link-audit-${{ github.run_id }}
+          path: network-source-audit.json
+          if-no-files-found: ignore
+          retention-days: 30
 
   verify:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') }}
@@ -66,7 +84,7 @@ jobs:
         with:
           ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
           persist-credentials: false
-      - name: Check 50 published language paths, interlinks, Discovery and stylesheets
+      - name: Check 55 published language paths, interlinks, Discovery and stylesheets
         env:
           RELEASE_SHA: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
           SOURCE_RUN_ID: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.id || github.run_id }}
