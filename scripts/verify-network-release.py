@@ -13,6 +13,9 @@ OPS = ['/zion-app-network/app-network-operations-reliability-2026' + s + '.html'
 EVIDENCE = ['/zion-app-network/app-network-operations-evidence-checklist-2026' + s + '.html' for s in ['', '-pt-br', '-es', '-fr', '-de']]
 SUFFIX = ['', '-pt-br', '-es', '-fr', '-de']
 QUOTE = ['/zion-app-network/field-quote-readiness-2026' + s + '.html' for s in SUFFIX]
+SHOW_SUFFIX = ['', '-pt', '-es', '-fr', '-de']
+BATCH96 = ['/zion-app-network/app/network-batch96-showcase' + s + '.html' for s in SHOW_SUFFIX]
+Q4 = ['/zion-app-network/app/network-q4-2026-showcase' + s + '.html' for s in SHOW_SUFFIX]
 SUPPORT = ['/zion-app-network/app-network-sept26-support' + s + '.html' for s in SUFFIX]
 FIELD_DIRECTORY = ['/zion-app-network/app-network-sept26-support-field' + s + '.html' for s in SUFFIX]
 EQUIPMENT = ['/zion-app-network/equipment-lifecycle-decision-guide-2026' + s + '.html' for s in SUFFIX]
@@ -33,7 +36,7 @@ FREE_STATEMENTS = [
     'Keine Zahlung und kein Termin erforderlich.',
 ]
 FAMILIES = {'field': FIELD, 'batch': BATCH, 'ops': OPS, 'evidence': EVIDENCE,
-            'support': SUPPORT, 'fielddir': FIELD_DIRECTORY, 'equipment': EQUIPMENT, 'pilot': PILOT, 'quote': QUOTE}
+            'support': SUPPORT, 'fielddir': FIELD_DIRECTORY, 'equipment': EQUIPMENT, 'pilot': PILOT, 'quote': QUOTE, 'batch96': BATCH96, 'q4': Q4}
 
 class Page(HTMLParser):
     def __init__(self, text):
@@ -115,6 +118,10 @@ def run(site, release_sha='', source_run_id=''):
                         if site+target not in urls: issues.append('Missing '+name+' interlink from Field directory')
                 if group=='equipment' and site+PILOT[i] not in urls: issues.append('Missing Pilot interlink from Equipment')
                 if group=='pilot' and site+EQUIPMENT[i] not in urls: issues.append('Missing Equipment interlink from Pilot')
+                if group=='batch96' and site+Q4[i] not in urls:
+                    issues.append('Missing related Q4 showcase interlink')
+                if group=='q4' and site+BATCH96[i] not in urls:
+                    issues.append('Missing related Batch96 showcase interlink')
                 if group=='quote':
                     if 'id="calculate"' not in text or 'id="brief"' not in text:
                         issues.append('Field quote calculation controls missing')
@@ -129,7 +136,7 @@ def run(site, release_sha='', source_run_id=''):
         except Exception as exc:
             return {'group':group,'route':route,'errors':[str(exc)],'assets':[]}
     groups=[('home',HOME),('field',FIELD),('batch',BATCH),('ops',OPS),('evidence',EVIDENCE),
-            ('support',SUPPORT),('fielddir',FIELD_DIRECTORY),('equipment',EQUIPMENT),('pilot',PILOT),('quote',QUOTE),('discovery',DISCOVERY)]
+            ('support',SUPPORT),('fielddir',FIELD_DIRECTORY),('equipment',EQUIPMENT),('pilot',PILOT),('quote',QUOTE),('batch96',BATCH96),('q4',Q4),('discovery',DISCOVERY)]
     items=[(g,i,p) for g,paths in groups for i,p in enumerate(paths)]
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
         results=list(pool.map(check,items))
