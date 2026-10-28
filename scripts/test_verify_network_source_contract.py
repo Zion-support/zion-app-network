@@ -45,20 +45,14 @@ class SourceContractTests(TestCase):
                 path.parent.mkdir(parents=True,exist_ok=True)
                 path.write_text(body,encoding='utf-8')
         routes=['en','pt','es','fr','de']
-        catalog_url=mod.SITE+'/zion-app-network/CATALOG-NAVIGATION.html'
         blocks=[]
         for i,slug in enumerate(routes):
-            blocks.append(
-                f'<article id="start-here-{slug}" lang="{mod.LANGS[i]}">'
-                f'<a href="directory-{slug}.html">Directory</a>'
-                f'<a href="{mod.FAMILIES["quote"][i][1]}">Quote</a>'
-                f'<a href="{mod.localized_discovery(i)}">Discovery</a></article>'
-            )
-        catalog=(
-            f'<html lang="en"><head><link rel="canonical" href="{catalog_url}"></head>'
-            '<body><h1>Catalog</h1>'+''.join(blocks)+'</body></html>'
-        )
-        (root/'CATALOG-NAVIGATION.html').write_text(catalog,encoding='utf-8')
+            quote_name=mod.FAMILIES['quote'][i][0]
+            blocks.append(f'<a id="start-here-{slug}"></a>\n## Locale {slug}\n'
+                          f'- [Quote worksheet]({quote_name})\n')
+        catalog=('# Zion App Network — catalog navigation\n\n'
+                 +''.join(blocks)+'\n**Public-route discrepancy:** public Discovery paths must be verified before release.\n')
+        (root/'CATALOG-NAVIGATION.md').write_text(catalog,encoding='utf-8')
         task='<html lang="en"><body><h1>Tasks</h1>'+(
             '<a href="/zion-app-network/supplier-evidence.html">Evidence</a>'*5
         )+'</body></html>'
@@ -151,9 +145,16 @@ class SourceContractTests(TestCase):
     def test_catalog_requires_all_language_anchors(self):
         td,root=self.fixture()
         try:
-            file=root/'CATALOG-NAVIGATION.html'
+            file=root/'CATALOG-NAVIGATION.md'
             file.write_text(file.read_text().replace('id="start-here-de"','id="missing-de"'))
             self.assertTrue(any('missing language anchor de' in e for e in mod.verify(root)))
+        finally: td.cleanup()
+
+    def test_duplicate_catalog_html_source_is_rejected(self):
+        td,root=self.fixture()
+        try:
+            (root/'CATALOG-NAVIGATION.html').write_text('<html>Duplicate</html>',encoding='utf-8')
+            self.assertTrue(any('duplicate HTML source' in e for e in mod.verify(root)))
         finally: td.cleanup()
 
     def test_supplier_links_must_target_real_hub(self):
