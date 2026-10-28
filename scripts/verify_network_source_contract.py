@@ -33,6 +33,20 @@ FAMILIES={
         ('field-quote-readiness-2026-fr.html','/zion-app-network/field-quote-readiness-2026-fr.html'),
         ('field-quote-readiness-2026-de.html','/zion-app-network/field-quote-readiness-2026-de.html'),
     ],
+    'batch96':[
+        ('app/network-batch96-showcase.html','/zion-app-network/app/network-batch96-showcase.html'),
+        ('app/network-batch96-showcase-pt.html','/zion-app-network/app/network-batch96-showcase-pt.html'),
+        ('app/network-batch96-showcase-es.html','/zion-app-network/app/network-batch96-showcase-es.html'),
+        ('app/network-batch96-showcase-fr.html','/zion-app-network/app/network-batch96-showcase-fr.html'),
+        ('app/network-batch96-showcase-de.html','/zion-app-network/app/network-batch96-showcase-de.html'),
+    ],
+    'q4':[
+        ('app/network-q4-2026-showcase.html','/zion-app-network/app/network-q4-2026-showcase.html'),
+        ('app/network-q4-2026-showcase-pt.html','/zion-app-network/app/network-q4-2026-showcase-pt.html'),
+        ('app/network-q4-2026-showcase-es.html','/zion-app-network/app/network-q4-2026-showcase-es.html'),
+        ('app/network-q4-2026-showcase-fr.html','/zion-app-network/app/network-q4-2026-showcase-fr.html'),
+        ('app/network-q4-2026-showcase-de.html','/zion-app-network/app/network-q4-2026-showcase-de.html'),
+    ],
 }
 
 class Page(HTMLParser):
@@ -180,6 +194,16 @@ def verify(root:Path):
             errors.append('task-paths.html: multilingual supplier evidence interlinks incomplete')
         if '/zion-app-network/CATALOG-SUPPLIER-EVIDENCE.html' in task.links:
             errors.append('task-paths.html: legacy unresolved supplier catalog link remains')
+    for i in range(5):
+        batch=parsed.get(('batch96',i))
+        q4=parsed.get(('q4',i))
+        if batch and q4:
+            batch_url=SITE+FAMILIES['batch96'][i][1]
+            q4_url=SITE+FAMILIES['q4'][i][1]
+            if q4_url not in {urljoin(batch_url,x) for x in batch.links}:
+                errors.append(f'{FAMILIES["batch96"][i][0]}: missing matching Q4 showcase interlink')
+            if batch_url not in {urljoin(q4_url,x) for x in q4.links}:
+                errors.append(f'{FAMILIES["q4"][i][0]}: missing matching Batch96 showcase interlink')
     return errors
 
 if __name__=='__main__':
@@ -191,4 +215,4 @@ if __name__=='__main__':
         for error in errors:
             print('ERROR:',error)
         raise SystemExit(1)
-    print('PASS: 15 locale files plus Catalog Navigation and Supplier Task Paths')
+    print('PASS: 25 locale files plus Catalog Navigation and Supplier Task Paths')
