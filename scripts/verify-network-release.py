@@ -125,7 +125,7 @@ def run(site, release_sha='', source_run_id=''):
                 if group=='quote':
                     if 'id="calculate"' not in text or 'id="brief"' not in text:
                         issues.append('Field quote calculation controls missing')
-                    if 'total*1.4' not in text or 'total*.4' not in text:
+                    if 'total*1.4' not in text or 'Math.ceil(' not in text or 'minimum-total' not in text:
                         issues.append('Field quote 40% markup logic missing')
                     for name,target in [('Operations',OPS[i]),('Evidence',EVIDENCE[i]),('Pilot',PILOT[i])]:
                         if site+target not in urls:
