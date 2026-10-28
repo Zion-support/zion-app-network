@@ -52,7 +52,7 @@ def page(route,bad_alternate=False,missing_interlink=False,missing_support_link=
     if group=='q4': links.append(release_qa.BATCH96[i])
     marker='<section data-field-evidence-gates="1"></section>' if group=='field' else ''
     if group=='quote':
-        marker='<button id="calculate">Calculate</button><textarea id="brief"></textarea><script>total*1.4; total*.4;</script>'
+        marker='<button id="calculate">Calculate</button><textarea id="brief"></textarea><script>Math.ceil(total*1.4*100);minimum-total;</script>'
     return ('<html lang="%s"><head><link rel="canonical" href="%s">%s<link rel="stylesheet" href="/styles/app.css"></head>'
             '<body><h1>%s %d</h1>%s%s</body></html>' %
             (release_qa.LANGS[i],SITE+route,alternates,group,i,marker,''.join('<a href="%s">Go</a>'%u for u in links)))
