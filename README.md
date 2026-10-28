@@ -8,6 +8,12 @@ Interconnected apps, tools, workflow concepts and field playbooks by [Zion Tech 
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 - 🗂️ [Master index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Insurance catalog supplement](CATALOG-INSURANCE-EVIDENCE.md)
 
+## AI App Selection — five-language evidence scorecard
+
+[English](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026.html) · [Português](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-pt-br.html) · [Español](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-es.html) · [Français](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-fr.html) · [Deutsch](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-de.html)
+
+Five evidence criteria, an indicative 0–20 score and a copyable brief. Browser-only with no remote submission, AI inference or automatic approval. Validate the hosted version after deployment before describing it as live.
+
 ## Insurance evidence network — five languages
 
 [Read the network guide](https://ziontechgroup.com/zion-app-network/insurance-evidence-network.html): English, Português, Español, Français and Deutsch, with language-specific links to Discovery, planning pages and the functioning local evidence checklist.

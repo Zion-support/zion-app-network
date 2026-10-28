@@ -6,11 +6,11 @@ This guide links existing public resources into one evidence-first buyer journey
 
 | Language | Homepage | Network | Free Discovery |
 | --- | --- | --- | --- |
-| English | [Zion](https://ziontechgroup.com/en/) | [Apps](https://ziontechgroup.com/en/apps/) | [Discovery](https://ziontechgroup.com/discovery/) |
-| Português | [Zion](https://ziontechgroup.com/) | [Apps](https://ziontechgroup.com/apps/) | [Discovery](https://ziontechgroup.com/discovery/) |
-| Español | [Zion](https://ziontechgroup.com/es/) | [Apps](https://ziontechgroup.com/es/apps/) | [Discovery](https://ziontechgroup.com/discovery/) |
-| Français | [Zion](https://ziontechgroup.com/fr/) | [Apps](https://ziontechgroup.com/fr/apps/) | [Discovery](https://ziontechgroup.com/discovery/) |
-| Deutsch | [Zion](https://ziontechgroup.com/de/) | [Apps](https://ziontechgroup.com/de/apps/) | [Discovery](https://ziontechgroup.com/discovery/) |
+| English | [Zion](https://ziontechgroup.com/en/) | [Apps](https://ziontechgroup.com/apps/) | [Discovery](https://ziontechgroup.com/discovery/) |
+| Português | [Zion](https://ziontechgroup.com/) | [Apps](https://ziontechgroup.com/pt/apps/) | [Discovery](https://ziontechgroup.com/pt/discovery/) |
+| Español | [Zion](https://ziontechgroup.com/es/) | [Apps](https://ziontechgroup.com/es/apps/) | [Discovery](https://ziontechgroup.com/es/discovery/) |
+| Français | [Zion](https://ziontechgroup.com/fr/) | [Apps](https://ziontechgroup.com/fr/apps/) | [Discovery](https://ziontechgroup.com/fr/discovery/) |
+| Deutsch | [Zion](https://ziontechgroup.com/de/) | [Apps](https://ziontechgroup.com/de/apps/) | [Discovery](https://ziontechgroup.com/de/discovery/) |
 
 These are navigation targets, not a claim that each URL passed automated acceptance testing. Validate HTTP status, canonical, language switcher and content parity before promotion.
 
@@ -21,6 +21,10 @@ These are navigation targets, not a claim that each URL passed automated accepta
 3. Evaluate the [insurance evidence workbench](https://ziontechgroup.com/apps/insurance-evidence-workbench.html) for supplier evidence preparation, not insurance approval.
 4. For field-service work, verify named engineer, city coverage, all-in price, insurance, access, scope, times and client written PO before any supplier commitment. Zion's separate release is mandatory.
 5. Return from each app/guide to the network index and free Discovery; cross-link a relevant sibling app rather than linking every app indiscriminately.
+
+## New local evidence scorecard
+
+Five-language [AI App Selection evidence scorecard](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026.html) offers an indicative 0–20 result and a copyable human-review brief. This is not an AI model, procurement approval or authorization for dispatch. Follow the matching language tab and link onward to the Field Quote Readiness and Operations Evidence guides. Verify live deployment and keyboard operation before promotion.
 
 ## Publication and translation acceptance gates
 
