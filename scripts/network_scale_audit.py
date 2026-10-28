@@ -64,6 +64,21 @@ def source_route(root, file):
     return PREFIX + rel
 
 
+def scrub_href(href):
+    """Keep diagnostic paths while removing credentials, query strings and fragments."""
+    if href.startswith("#"):
+        return href[:80]
+    try:
+        parsed = urlparse(href)
+        if parsed.scheme in ("mailto", "tel", "javascript", "data"):
+            return parsed.scheme + ":<redacted>"
+        if parsed.netloc:
+            return parsed.scheme + "://" + (parsed.hostname or "invalid-host") + parsed.path[:120]
+    except ValueError:
+        return "<malformed-url>"
+    return href.split("?", 1)[0].split("#", 1)[0][:180]
+
+
 def resolve_link(root, file, href, ids):
     """Return category and optional advisory finding for one local hyperlink."""
     if not href or not href.strip():
@@ -74,15 +89,21 @@ def resolve_link(root, file, href, ids):
         if target and target not in ids:
             return "fragment", "Fragment anchor not found in static source"
         return "fragment", None
-    parsed = urlparse(href)
+    try:
+        parsed = urlparse(href)
+    except ValueError:
+        return "malformed_url", "Malformed URL"
     if parsed.scheme in ("mailto", "tel"):
         return "contact", None
     if parsed.scheme not in ("", "https", "http"):
         return "unsafe_or_unsupported_scheme", "Non-HTTP or unsupported URL scheme"
     if parsed.scheme == "http":
         return "http_link", "Plain HTTP link; review TLS and redirects"
-    absolute = urljoin(SITE + source_route(root, file), href)
-    dest = urlparse(absolute)
+    try:
+        absolute = urljoin(SITE + source_route(root, file), href)
+        dest = urlparse(absolute)
+    except ValueError:
+        return "malformed_url", "Malformed URL"
     if dest.hostname != "ziontechgroup.com":
         return "external_not_fetched", None
     if not dest.path.startswith(PREFIX):
@@ -149,7 +170,7 @@ def run(root, max_checks=1000, offset=0):
         if advisory:
             warnings[category] += 1
             if len(examples) < 60:
-                examples.append({"source": relative, "href": href[:240],
+                examples.append({"source": relative, "href": scrub_href(href),
                                  "category": category, "advisory": advisory})
     return {
         "audited_at_utc": datetime.datetime.now(datetime.timezone.utc).isoformat(),
