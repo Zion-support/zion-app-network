@@ -148,6 +148,38 @@ def verify(root:Path):
                 errors.append(f'{FAMILIES["ops"][i][0]}: missing matching Evidence checklist interlink')
             if ops_url not in evidence_links:
                 errors.append(f'{FAMILIES["evidence"][i][0]}: missing matching Operations interlink')
+    catalog=root/'CATALOG-NAVIGATION.html'
+    if not catalog.is_file():
+        errors.append('CATALOG-NAVIGATION.html: missing five-language catalog landing page')
+    else:
+        nav=Page(catalog.read_text(encoding='utf-8'))
+        url=SITE+'/zion-app-network/CATALOG-NAVIGATION.html'
+        if nav.canonical!=[url]:
+            errors.append('CATALOG-NAVIGATION.html: canonical mismatch')
+        for i,(lang,slug) in enumerate(zip(LANGS,['en','pt','es','fr','de'])):
+            if 'start-here-'+slug not in nav.ids:
+                errors.append('CATALOG-NAVIGATION.html: missing language anchor '+slug)
+            dest=SITE+'/zion-app-network/directory-'+slug+'.html'
+            hrefs={urljoin(url,h) for h in nav.links}
+            if dest not in hrefs:
+                errors.append('CATALOG-NAVIGATION.html: missing directory entry '+slug)
+            quote=SITE+FAMILIES['quote'][i][1]
+            if quote not in hrefs:
+                errors.append('CATALOG-NAVIGATION.html: missing field quote entry '+slug)
+            if SITE+localized_discovery(i) not in hrefs:
+                errors.append('CATALOG-NAVIGATION.html: missing Discovery entry '+slug)
+
+    paths=root/'task-paths.html'
+    if not paths.is_file():
+        errors.append('task-paths.html: missing source')
+    else:
+        body=paths.read_text(encoding='utf-8')
+        task=Page(body)
+        target='/zion-app-network/supplier-evidence.html'
+        if task.links.count(target)<5:
+            errors.append('task-paths.html: multilingual supplier evidence interlinks incomplete')
+        if '/zion-app-network/CATALOG-SUPPLIER-EVIDENCE.html' in task.links:
+            errors.append('task-paths.html: legacy unresolved supplier catalog link remains')
     return errors
 
 if __name__=='__main__':
@@ -159,4 +191,4 @@ if __name__=='__main__':
         for error in errors:
             print('ERROR:',error)
         raise SystemExit(1)
-    print('PASS: source contract for 15 Operations/Evidence/Quote locale files')
+    print('PASS: 15 locale files plus Catalog Navigation and Supplier Task Paths')
