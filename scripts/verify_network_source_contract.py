@@ -164,26 +164,23 @@ def verify(root:Path):
                 errors.append(f'{FAMILIES["ops"][i][0]}: missing matching Evidence checklist interlink')
             if ops_url not in evidence_links:
                 errors.append(f'{FAMILIES["evidence"][i][0]}: missing matching Operations interlink')
-    catalog=root/'CATALOG-NAVIGATION.html'
+    # CATALOG-NAVIGATION.md already builds to CATALOG-NAVIGATION.html in Pages.
+    # Do not create a second .html source with the same public output route.
+    catalog=root/'CATALOG-NAVIGATION.md'
     if not catalog.is_file():
-        errors.append('CATALOG-NAVIGATION.html: missing five-language catalog landing page')
+        errors.append('CATALOG-NAVIGATION.md: missing canonical catalog source')
     else:
-        nav=Page(catalog.read_text(encoding='utf-8'))
-        url=SITE+'/zion-app-network/CATALOG-NAVIGATION.html'
-        if nav.canonical!=[url]:
-            errors.append('CATALOG-NAVIGATION.html: canonical mismatch')
-        for i,(lang,slug) in enumerate(zip(LANGS,['en','pt','es','fr','de'])):
-            if 'start-here-'+slug not in nav.ids:
-                errors.append('CATALOG-NAVIGATION.html: missing language anchor '+slug)
-            dest=SITE+'/zion-app-network/directory-'+slug+'.html'
-            hrefs={urljoin(url,h) for h in nav.links}
-            if dest not in hrefs:
-                errors.append('CATALOG-NAVIGATION.html: missing directory entry '+slug)
-            quote=SITE+FAMILIES['quote'][i][1]
-            if quote not in hrefs:
-                errors.append('CATALOG-NAVIGATION.html: missing field quote entry '+slug)
-            if SITE+localized_discovery(i) not in hrefs:
-                errors.append('CATALOG-NAVIGATION.html: missing Discovery entry '+slug)
+        source=catalog.read_text(encoding='utf-8')
+        for i,slug in enumerate(['en','pt','es','fr','de']):
+            if f'<a id="start-here-{slug}"></a>' not in source:
+                errors.append('CATALOG-NAVIGATION.md: missing existing language anchor '+slug)
+            quote_name=FAMILIES['quote'][i][0]
+            if f']({quote_name})' not in source:
+                errors.append('CATALOG-NAVIGATION.md: missing quote worksheet link '+slug)
+        if 'Public-route discrepancy:' not in source:
+            errors.append('CATALOG-NAVIGATION.md: missing current Discovery route warning')
+    if (root/'CATALOG-NAVIGATION.html').exists():
+        errors.append('CATALOG-NAVIGATION.html: duplicate HTML source would conflict with existing markdown-generated route')
 
     paths=root/'task-paths.html'
     if not paths.is_file():
@@ -217,4 +214,4 @@ if __name__=='__main__':
         for error in errors:
             print('ERROR:',error)
         raise SystemExit(1)
-    print('PASS: 25 locale files plus Catalog Navigation and Supplier Task Paths')
+    print('PASS: 25 locale files plus canonical markdown catalog and Supplier Task Paths')
