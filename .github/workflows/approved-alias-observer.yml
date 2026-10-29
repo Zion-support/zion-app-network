@@ -43,6 +43,9 @@ jobs:
         run: python3 -m unittest discover -s scripts -p 'test_observe_aliases.py' -v
 
   observe:
+    concurrency:
+      group: approved-alias-observer-live
+      cancel-in-progress: false
     needs: offline
     if: ${{ github.event.repository.private == false && (github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && vars.ZION_ALIAS_OBSERVER_ENABLED == 'true')) }}
     runs-on: ubuntu-24.04

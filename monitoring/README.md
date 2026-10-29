@@ -71,6 +71,12 @@ The live job requires a successful offline job and either workflow_dispatch or
 a scheduled event with the repository variable `ZION_ALIAS_OBSERVER_ENABLED`
 set to the exact string `true`. Both jobs also require public repository visibility.
 
+All live jobs share job-level concurrency group `approved-alias-observer-live`,
+across manual/scheduled events and refs, with `cancel-in-progress: false`. Only
+one live check runs at a time; offline PR tests remain independent. GitHub may
+replace an older pending job when another is queued; it does not cancel the
+running check, so pending runs are not guaranteed a FIFO queue.
+
 The proposed cron is `17 */6 * * *` (UTC), gated OFF when that variable is missing
 or has any other value. No variable has been configured, no dispatch performed,
 and this draft is not on the default branch: recurring probes are **not active**.
