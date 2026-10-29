@@ -1,0 +1,43 @@
+name: Approved public alias observer (read-only)
+
+"on":
+  workflow_dispatch:
+    inputs:
+      retain_report:
+        description: "Upload tiny report artifact only after checking shared storage allowance"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: approved-alias-observer
+  cancel-in-progress: false
+
+jobs:
+  observe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Offline contract tests
+        run: python3 -m unittest discover -s scripts -p 'test_observe_aliases.py' -v
+      - name: Observe approved HTTPS roots
+        run: python3 scripts/observe_aliases.py
+      - name: Publish summary
+        if: always()
+        run: |
+          if test -f alias-report/report.md; then
+            cat alias-report/report.md >> "$GITHUB_STEP_SUMMARY"
+            cat alias-report/report.json
+          fi
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        if: ${{ always() && inputs.retain_report }}
+        with:
+          name: approved-alias-report-${{ github.run_id }}
+          path: alias-report/
+          if-no-files-found: error
+          retention-days: 3
