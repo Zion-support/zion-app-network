@@ -82,3 +82,22 @@ three days, and should be used only after checking storage allowance. No purchas
 or billing-setting change is authorized or performed. See current billing terms:
 https://docs.github.com/en/billing/concepts/product-billing/github-actions
 Recheck pricing and visibility if this repository becomes private.
+
+## Operational baseline — 2026-10-29
+
+The coordinating repair task reports the six Field root changes applied at
+18:10 UTC and independently checked at 18:12 UTC. The observer's local run at
+18:11:15 UTC also found all nine redirect aliases healthy across GET/HEAD with
+and without the synthetic query: one HTTPS 302 to the listed canonical path,
+then 200. Its tools probes failed strict TLS with curl code 60.
+
+The coordinator additionally checked `/index.html` and `/assets/zion.css` on
+Field aliases: 404 without redirect. Those paths are outside this root-only
+contract and remain unresolved; root success is not whole-host or app-function
+success. The apex and primary Field page were reported HTTP 200.
+
+Tools Pages deployment 40921377439 succeeded at 17:51:59 UTC, but the coordinator
+still observed provider certificate state `bad_authz` and curl TLS error 60 at
+18:11 UTC. A successful build does not establish certificate recovery. These
+are dated observations, not promises about current health. This monitor performs
+no POST and carries no user data.
