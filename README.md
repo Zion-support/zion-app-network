@@ -8,6 +8,12 @@ Interconnected apps, tools, workflow concepts and field playbooks by [Zion Tech 
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 - 🗂️ [Master index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Insurance catalog supplement](CATALOG-INSURANCE-EVIDENCE.md)
 
+## Field Service Completion Pack — five languages
+
+[English](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html) · [Português](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html) · [Español](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html) · [Français](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html) · [Deutsch](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html)
+
+A practical completion handoff: approved scope, actual work, verification evidence, open items and explicit client acceptance. Copy the blank report into an existing service thread. Static, printable content with no data entry, storage or submission.
+
 ## AI App Selection — five-language evidence scorecard
 
 [English](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026.html) · [Português](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-pt-br.html) · [Español](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-es.html) · [Français](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-fr.html) · [Deutsch](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-de.html)
