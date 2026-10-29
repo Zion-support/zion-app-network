@@ -7,10 +7,62 @@ import json
 import subprocess
 import time
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit
 
 QUERY = '?zion_monitor=public%20check&probe=1&probe=2'
 REDIRECTS = {301, 302, 303, 307, 308}
+
+
+PLANNED_PROBES = {(method, query) for method in ('GET', 'HEAD') for query in (False, True)}
+MANIFEST = Path(__file__).resolve().parents[1] / 'monitoring/approved-roots.json'
+
+
+def validate_inventory(entries):
+    """Reject bad configuration before any request; never silently skip an entry."""
+    if not isinstance(entries, list) or not entries:
+        raise ValueError('Inventory must be a nonempty list')
+    names, urls = set(), set()
+    for entry in entries:
+        if not isinstance(entry, dict) or not {'name', 'url', 'canonical'} <= entry.keys():
+            raise ValueError('Missing required inventory fields')
+        if entry.keys() - {'name', 'url', 'canonical', 'redirect_status', 'known_issue'}:
+            raise ValueError('Unknown inventory field')
+        name = entry['name']
+        if not isinstance(name, str) or not name or any(c not in 'abcdefghijklmnopqrstuvwxyz0123456789-' for c in name):
+            raise ValueError('Invalid alias name')
+        for key in ('url', 'canonical'):
+            if not isinstance(entry[key], str):
+                raise ValueError('URL must be a string')
+            parsed = urlsplit(entry[key])
+            if (parsed.scheme != 'https' or parsed.username or parsed.password or parsed.port
+                    or parsed.query or parsed.fragment or not parsed.path.startswith('/')
+                    or any(c.isspace() for c in entry[key])):
+                raise ValueError('Only clean HTTPS URLs are allowed')
+        if entry['url'] != f'https://{name}.ziontechgroup.com/':
+            raise ValueError('Alias URL must match its approved root name')
+        if name in names or entry['url'] in urls:
+            raise ValueError('Duplicate inventory entry')
+        names.add(name)
+        urls.add(entry['url'])
+        if entry['canonical'] == entry['url']:
+            if 'redirect_status' in entry:
+                raise ValueError('Direct root cannot declare a redirect')
+        elif urlsplit(entry['canonical']).netloc != 'ziontechgroup.com' or entry.get('redirect_status') != 302:
+            raise ValueError('Redirect requires canonical apex and status 302')
+        if 'known_issue' in entry:
+            issue = entry['known_issue']
+            if (not isinstance(issue, dict) or set(issue) != {'error', 'review_by', 'reason'}
+                    or issue['error'] != 'tls' or not isinstance(issue['reason'], str) or not issue['reason'].strip()
+                    or not isinstance(issue['review_by'], str)):
+                raise ValueError('Invalid known issue')
+            deadline = dt.datetime.fromisoformat(issue['review_by'])
+            if deadline.tzinfo is None or deadline.utcoffset() is None:
+                raise ValueError('Review deadline needs timezone')
+    return entries
+
+
+def load_inventory():
+    return validate_inventory(json.loads(MANIFEST.read_text()))
 
 
 def request(url, method):
@@ -84,30 +136,68 @@ def observe(entry):
     return {'name': entry['name'], 'url': entry['url'], 'canonical': entry['canonical'], 'known_issue': entry.get('known_issue'), 'checks': checks}
 
 
-def exit_code(rows):
-    states = {c['state'] for row in rows for c in row['checks']}
-    if states & {'FAILURE', 'KNOWN_FAILURE_OVERDUE'}:
+def exit_code(rows, entries=None):
+    """Success requires the full configured inventory and every planned probe."""
+    try:
+        entries = load_inventory() if entries is None else validate_inventory(entries)
+        if not isinstance(rows, list) or len(rows) != len(entries):
+            return 1
+        expected = {entry['name']: entry for entry in entries}
+        seen, states = set(), set()
+        for row in rows:
+            entry = expected[row['name']]
+            if row['name'] in seen or any(row.get(k) != entry.get(k) for k in ('url', 'canonical', 'known_issue')):
+                return 1
+            seen.add(row['name'])
+            checks = row['checks']
+            if not isinstance(checks, list) or len(checks) != len(PLANNED_PROBES):
+                return 1
+            probes = set()
+            for check in checks:
+                if type(check['query_probe']) is not bool:
+                    return 1
+                pair = (check['method'], check['query_probe'])
+                if pair not in PLANNED_PROBES or pair in probes:
+                    return 1
+                probes.add(pair)
+                if 'error' not in check or not isinstance(check['chain'], list) or not check['chain']:
+                    return 1
+                state = check['state']
+                if state not in {'HEALTHY', 'KNOWN_FAILURE', 'RECOVERY_REVIEW', 'FAILURE', 'KNOWN_FAILURE_OVERDUE'}:
+                    return 1
+                if state == 'HEALTHY' and (check['error'] is not None or entry.get('known_issue') or check['chain'][-1].get('status') != 200):
+                    return 1
+                if state in {'KNOWN_FAILURE', 'KNOWN_FAILURE_OVERDUE', 'RECOVERY_REVIEW'} and not entry.get('known_issue'):
+                    return 1
+                states.add(state)
+        if seen != set(expected) or states & {'FAILURE', 'KNOWN_FAILURE_OVERDUE'}:
+            return 1
+        return 2 if states & {'KNOWN_FAILURE', 'RECOVERY_REVIEW'} else 0
+    except (KeyError, TypeError, ValueError, OSError):
         return 1
-    return 2 if states & {'KNOWN_FAILURE', 'RECOVERY_REVIEW'} else 0
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--output-dir', default='alias-report')
     args = parser.parse_args()
-    entries = json.loads((Path(__file__).resolve().parents[1] / 'monitoring/approved-roots.json').read_text())
+    try:
+        entries = load_inventory()
+    except (ValueError, TypeError, OSError):
+        print('CONFIGURATION_FAILURE: invalid or unreadable inventory; no probes executed.')
+        return 1
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         rows = list(pool.map(observe, entries))
     output = Path(args.output_dir)
     output.mkdir(parents=True, exist_ok=True)
-    code = exit_code(rows)
+    code = exit_code(rows, entries)
     payload = {'checked_at': dt.datetime.now(dt.timezone.utc).isoformat(), 'exit_code': code, 'results': rows}
     (output / 'report.json').write_text(json.dumps(payload, indent=2) + '\n')
     lines = ['# Public alias observations', '', 'Transport and routing only; not proof of app functionality.', '', '| Alias | GET/HEAD and query checks | Review deadline |', '|---|---|---|']
     for row in rows:
         states = ', '.join(sorted({c['state'] for c in row['checks']}))
         lines.append(f"| {row['name']} | {states} | {(row['known_issue'] or {}).get('review_by', '—')} |")
-    lines += ['', 'Exit 0: all healthy; 1: failure/overdue issue; 2: known failure or recovery requiring review.', 'Known failures are not healthy and deliberately fail the workflow.']
+    lines += ['', 'Exit 0: complete coverage and all healthy; 1: failure/incomplete coverage/overdue issue; 2: known failure or recovery requiring review.', 'Known failures are not healthy and deliberately fail the workflow.']
     markdown = '\n'.join(lines) + '\n'
     (output / 'report.md').write_text(markdown)
     print(markdown)

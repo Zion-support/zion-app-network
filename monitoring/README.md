@@ -29,7 +29,14 @@ query changes fail. tools requires direct HTTPS 200, but remains under known-iss
 review. Reports retain only static URLs and status/error codes, never bodies,
 cookies, credentials, IP addresses, arbitrary Locations or raw stderr.
 
-Exit codes: 0 all healthy; 1 unexpected failure or overdue known issue; 2 known
+Inventory validation rejects empty/malformed lists, missing or unknown fields,
+duplicate names/URLs, non-HTTPS or off-domain targets, and invalid known-issue
+deadlines before any network request. Exit evaluation requires every configured
+alias and exactly all four planned GET/HEAD × query/no-query results, with no
+duplicates, missing evidence or unknown states. Empty/incomplete reports fail.
+
+Exit codes: 0 complete coverage and all healthy; 1 invalid configuration,
+incomplete coverage, unexpected failure or overdue known issue; 2 known
 failure or apparent recovery awaiting human review. Both 1 and 2 fail Actions.
 Tools' known TLS failure must be reviewed by **2026-10-30 18:00 UTC**, a review
 deadline rather than a promise of provider recovery. If it starts working, the
@@ -57,12 +64,23 @@ are Zion-support. No ownership or review assignment was changed.
 - Main site `cert-monitor.yml`: weekly certificate job with issue/Telegram side
   effects and failure suppression. Do not copy those side effects here.
 
-No existing workflows or main-site PRs are modified. This new workflow is
-**manual only**. No recurring monitoring is active through this PR. After review,
-merge and one validated default-branch run, propose either integrating this
-contract into an existing read-only cadence or adding `17 */6 * * *` (UTC) here,
-never both. Recheck overlap and owner workload then. GitHub scheduling can delay
-runs and is not an uptime SLA. No workflow has been dispatched by this change.
+No existing workflows or main-site PRs are modified. Related pull requests and
+main-branch pushes run only the offline unittest job. PRs never run the live
+observer; there is no pull_request_target trigger and no secrets are supplied.
+The live job requires a successful offline job and either workflow_dispatch or
+a scheduled event with the repository variable `ZION_ALIAS_OBSERVER_ENABLED`
+set to the exact string `true`. Both jobs also require public repository visibility.
+
+The proposed cron is `17 */6 * * *` (UTC), gated OFF when that variable is missing
+or has any other value. No variable has been configured, no dispatch performed,
+and this draft is not on the default branch: recurring probes are **not active**.
+After review and merge, first validate one manual run on the default branch,
+review its failures (including tools), and recheck ownership/cadence overlap.
+Only then may the owner explicitly opt in by setting the variable to `true`.
+Prefer incorporating this contract into an existing read-only cadence if overlap
+appears; do not enable both. Disabling/deleting the variable stops scheduled
+probe jobs. Scheduled events may still be listed as skipped with no runner
+allocated while disabled. GitHub schedules can be delayed and are not an SLA.
 
 ## Cost and resource bounds
 
@@ -72,7 +90,9 @@ https://docs.github.com/en/actions/reference/runners/github-hosted-runners
 The workflow uses standard `ubuntu-24.04`, not larger or self-hosted runners,
 with six-minute timeout, one concurrent job, no dependency installation/cache,
 and actions pinned to the same full SHAs as the existing secure workflow.
-Proposed cadence would be four runs/day, at most 24 runner-minutes/day.
+Proposed cadence would be four runs/day, at most 32 runner-minutes/day including the two-minute offline job.
+When the schedule opt-in is absent, scheduled jobs allocate no runner. Related
+PR/push offline validation has a separate maximum of two minutes per run.
 
 Storage is a separate shared account allowance; account storage headroom was
 not established. Therefore artifact upload defaults **off**. JSON remains in
