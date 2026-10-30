@@ -1,0 +1,352 @@
+{
+  "id": "legal-ops",
+  "basePath": "app-network-batch80-oct05",
+  "locales": {
+    "en": {
+      "title": "Legal operations: documents, review and signature evidence",
+      "description": "Use four legal-operations references to organize document versions, source clauses, review decisions and verified signature status.",
+      "intro": "Prepare a clear review packet before choosing a tool. Connect a document version to its source clauses, unresolved questions, responsible reviewer and evidence of any later signature.",
+      "scope": "This is an editorial planning guide. The inspected landing pages describe proposed capabilities; they do not establish working extraction, legal assessment or signature integrations. Decisions and signatures remain with authorized people.",
+      "sections": [
+        {
+          "id": "documents",
+          "title": "Document and clause review",
+          "intro": "Keep the document version and source location attached to every observation.",
+          "resources": [
+            {
+              "name": "Contract Clause Extractor",
+              "href": "https://ziontechgroup.com/contract-clause-extractor/",
+              "source": "https://github.com/Zion-support/contract-clause-extractor",
+              "description": "Prepare a small authorized sample and a clause-to-source table. Check every proposed obligation, date and party against the original document.",
+              "language": "en"
+            },
+            {
+              "name": "NDA Review AI",
+              "href": "https://ziontechgroup.com/nda-review-ai/",
+              "source": "https://github.com/Zion-support/nda-review-ai",
+              "description": "Compare a draft with an approved review playbook. Keep suggested edits separate from accepted wording and refer open questions to a qualified reviewer.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "review-status",
+          "title": "Issue review and signature status",
+          "intro": "Make each status traceable to evidence and an accountable reviewer.",
+          "resources": [
+            {
+              "name": "Legal Risk Scorer",
+              "href": "https://ziontechgroup.com/legal-risk-scorer/",
+              "source": "https://github.com/Zion-support/legal-risk-scorer",
+              "description": "Record each issue, its source clause, potential impact and reviewer. Any proposed score needs a documented method and human interpretation.",
+              "language": "en"
+            },
+            {
+              "name": "eSignature Flow Tracker",
+              "href": "https://ziontechgroup.com/esignature-flow-tracker/",
+              "source": "https://github.com/Zion-support/esignature-flow-tracker",
+              "description": "Track the provider's envelope ID, version and recorded status. Distinguish sent, viewed and signed; confirm completion using the provider's evidence.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fix the document version and reviewer",
+          "body": "Record the file name, version, review purpose and person authorized to decide. Use a redacted or synthetic sample until handling of the real document is approved."
+        },
+        {
+          "title": "Link observations to evidence",
+          "body": "For each clause or status, record the exact source location, observation and unresolved question. Compare results against the original; retain disagreements for review."
+        },
+        {
+          "title": "Hand over an explicit decision record",
+          "body": "Separate proposed edits, approved wording and completed signatures. Record who decided, when and which version was accepted before updating any downstream workflow."
+        }
+      ],
+      "example": {
+        "title": "Illustrative example: an NDA review packet",
+        "body": "A fictional team finds a date in an NDA draft that differs from its approved template. It records both source locations, assigns a reviewer and marks the question pending. The document remains unsigned while the authorized reviewer decides which wording to accept."
+      }
+    },
+    "pt": {
+      "title": "Operações jurídicas: documentos, revisão e evidências de assinatura",
+      "description": "Use quatro referências de operações jurídicas para organizar versões de documentos, cláusulas de origem, decisões de revisão e status de assinatura comprovado.",
+      "intro": "Prepare um conjunto claro de documentos para revisão antes de escolher uma ferramenta. Vincule cada versão às cláusulas de origem, às questões pendentes, ao revisor responsável e à evidência de eventual assinatura.",
+      "scope": "Este é um guia editorial de planejamento. As páginas inspecionadas descrevem capacidades propostas, mas não comprovam extração funcional, análise jurídica ou integrações de assinatura. Decisões e assinaturas permanecem com pessoas autorizadas.",
+      "sections": [
+        {
+          "id": "documents",
+          "title": "Revisão de documentos e cláusulas",
+          "intro": "Vincule cada observação à versão do documento e ao trecho de origem.",
+          "resources": [
+            {
+              "name": "Contract Clause Extractor",
+              "href": "https://ziontechgroup.com/contract-clause-extractor/",
+              "source": "https://github.com/Zion-support/contract-clause-extractor",
+              "description": "Prepare uma pequena amostra autorizada e uma tabela que relacione cláusulas às fontes. Confira cada obrigação, data e parte sugeridas no documento original.",
+              "language": "en"
+            },
+            {
+              "name": "NDA Review AI",
+              "href": "https://ziontechgroup.com/nda-review-ai/",
+              "source": "https://github.com/Zion-support/nda-review-ai",
+              "description": "Compare uma minuta com um roteiro de revisão aprovado. Separe alterações sugeridas do texto aceito e encaminhe dúvidas a um revisor qualificado.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "review-status",
+          "title": "Revisão de questões e status de assinatura",
+          "intro": "Torne cada status rastreável a uma evidência e a um revisor responsável.",
+          "resources": [
+            {
+              "name": "Legal Risk Scorer",
+              "href": "https://ziontechgroup.com/legal-risk-scorer/",
+              "source": "https://github.com/Zion-support/legal-risk-scorer",
+              "description": "Registre cada questão, sua cláusula de origem, o possível impacto e o revisor. Qualquer pontuação proposta exige método documentado e interpretação humana.",
+              "language": "en"
+            },
+            {
+              "name": "eSignature Flow Tracker",
+              "href": "https://ziontechgroup.com/esignature-flow-tracker/",
+              "source": "https://github.com/Zion-support/esignature-flow-tracker",
+              "description": "Acompanhe o identificador do envelope, a versão e o status registrado pelo provedor. Distinga enviado, visualizado e assinado; confirme a conclusão com evidências do provedor.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina a versão e o revisor",
+          "body": "Registre o nome do arquivo, a versão, o objetivo da revisão e a pessoa autorizada a decidir. Use uma amostra anonimizada ou sintética até que o tratamento do documento real seja aprovado."
+        },
+        {
+          "title": "Vincule observações às evidências",
+          "body": "Para cada cláusula ou status, registre a localização exata da fonte, a observação e a dúvida pendente. Compare os resultados com o original e preserve divergências para revisão."
+        },
+        {
+          "title": "Entregue um registro explícito da decisão",
+          "body": "Separe alterações propostas, redação aprovada e assinaturas concluídas. Registre quem decidiu, quando e qual versão foi aceita antes de atualizar qualquer etapa seguinte."
+        }
+      ],
+      "example": {
+        "title": "Exemplo ilustrativo: documentação para revisão de um NDA",
+        "body": "Uma equipe fictícia encontra uma data na minuta de um NDA diferente da usada em seu modelo aprovado. Ela registra ambos os trechos de origem, atribui um revisor e marca a questão como pendente. O documento permanece sem assinatura enquanto o revisor autorizado decide qual redação aceitar."
+      }
+    },
+    "es": {
+      "title": "Operaciones jurídicas: documentos, revisión y pruebas de firma",
+      "description": "Use cuatro referencias de operaciones jurídicas para organizar versiones documentales, cláusulas de origen, decisiones de revisión y estados de firma comprobados.",
+      "intro": "Prepare un expediente de revisión claro antes de elegir una herramienta. Vincule cada versión a sus cláusulas de origen, preguntas pendientes, revisor responsable y pruebas de cualquier firma posterior.",
+      "scope": "Esta es una guía editorial de planificación. Las páginas inspeccionadas describen capacidades propuestas; no acreditan extracción funcional, análisis jurídico ni integraciones de firma. Las decisiones y firmas corresponden a personas autorizadas.",
+      "sections": [
+        {
+          "id": "documents",
+          "title": "Revisión de documentos y cláusulas",
+          "intro": "Adjunte a cada observación la versión del documento y la ubicación de la fuente.",
+          "resources": [
+            {
+              "name": "Contract Clause Extractor",
+              "href": "https://ziontechgroup.com/contract-clause-extractor/",
+              "source": "https://github.com/Zion-support/contract-clause-extractor",
+              "description": "Prepare una pequeña muestra autorizada y una tabla que relacione cláusulas con fuentes. Compruebe cada obligación, fecha y parte propuestas en el documento original.",
+              "language": "en"
+            },
+            {
+              "name": "NDA Review AI",
+              "href": "https://ziontechgroup.com/nda-review-ai/",
+              "source": "https://github.com/Zion-support/nda-review-ai",
+              "description": "Compare un borrador con un procedimiento de revisión aprobado. Separe los cambios sugeridos del texto aceptado y remita las preguntas a un revisor cualificado.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "review-status",
+          "title": "Revisión de cuestiones y estado de firma",
+          "intro": "Haga que cada estado pueda rastrearse hasta una prueba y un revisor responsable.",
+          "resources": [
+            {
+              "name": "Legal Risk Scorer",
+              "href": "https://ziontechgroup.com/legal-risk-scorer/",
+              "source": "https://github.com/Zion-support/legal-risk-scorer",
+              "description": "Registre cada cuestión, su cláusula de origen, el posible impacto y el revisor. Cualquier puntuación propuesta requiere un método documentado e interpretación humana.",
+              "language": "en"
+            },
+            {
+              "name": "eSignature Flow Tracker",
+              "href": "https://ziontechgroup.com/esignature-flow-tracker/",
+              "source": "https://github.com/Zion-support/esignature-flow-tracker",
+              "description": "Registre el identificador del sobre, la versión y el estado indicado por el proveedor. Distinga enviado, visto y firmado; confirme la finalización con las pruebas del proveedor.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fije la versión y el revisor",
+          "body": "Registre el nombre del archivo, la versión, el propósito de la revisión y la persona autorizada para decidir. Use una muestra anonimizada o sintética hasta que se apruebe el tratamiento del documento real."
+        },
+        {
+          "title": "Vincule las observaciones a las pruebas",
+          "body": "Para cada cláusula o estado, registre la ubicación exacta de la fuente, la observación y la pregunta pendiente. Compare los resultados con el original y conserve las discrepancias para su revisión."
+        },
+        {
+          "title": "Entregue un registro explícito de decisiones",
+          "body": "Separe los cambios propuestos, el texto aprobado y las firmas completadas. Registre quién decidió, cuándo y qué versión se aceptó antes de actualizar las etapas siguientes."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ilustrativo: expediente de revisión de un NDA",
+        "body": "Un equipo ficticio encuentra en un borrador de NDA una fecha distinta de la de su plantilla aprobada. Registra ambos pasajes, asigna un revisor y marca la cuestión como pendiente. El documento permanece sin firmar mientras el revisor autorizado decide qué texto aceptar."
+      }
+    },
+    "fr": {
+      "title": "Opérations juridiques : documents, revue et preuves de signature",
+      "description": "Utilisez quatre références pour organiser les versions documentaires, les clauses sources, les décisions de revue et les statuts de signature vérifiés.",
+      "intro": "Préparez un dossier de revue clair avant de choisir un outil. Reliez chaque version aux clauses sources, aux questions ouvertes, au responsable de revue et aux preuves de toute signature ultérieure.",
+      "scope": "Il s’agit d’un guide éditorial de préparation. Les pages inspectées décrivent des capacités envisagées ; elles ne prouvent pas une extraction opérationnelle, une analyse juridique ou des intégrations de signature. Les décisions et signatures restent du ressort des personnes autorisées.",
+      "sections": [
+        {
+          "id": "documents",
+          "title": "Revue des documents et des clauses",
+          "intro": "Associez chaque observation à la version du document et à l’emplacement de la source.",
+          "resources": [
+            {
+              "name": "Contract Clause Extractor",
+              "href": "https://ziontechgroup.com/contract-clause-extractor/",
+              "source": "https://github.com/Zion-support/contract-clause-extractor",
+              "description": "Préparez un petit échantillon autorisé et une table reliant les clauses à leurs sources. Vérifiez chaque obligation, date et partie proposées dans le document original.",
+              "language": "en"
+            },
+            {
+              "name": "NDA Review AI",
+              "href": "https://ziontechgroup.com/nda-review-ai/",
+              "source": "https://github.com/Zion-support/nda-review-ai",
+              "description": "Comparez un projet à une procédure de revue approuvée. Séparez les modifications suggérées du texte accepté et transmettez les questions à une personne qualifiée.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "review-status",
+          "title": "Examen des questions et statut de signature",
+          "intro": "Rattachez chaque statut à une preuve et à un responsable de revue.",
+          "resources": [
+            {
+              "name": "Legal Risk Scorer",
+              "href": "https://ziontechgroup.com/legal-risk-scorer/",
+              "source": "https://github.com/Zion-support/legal-risk-scorer",
+              "description": "Notez chaque question, sa clause source, son impact potentiel et le responsable de revue. Toute note proposée nécessite une méthode documentée et une interprétation humaine.",
+              "language": "en"
+            },
+            {
+              "name": "eSignature Flow Tracker",
+              "href": "https://ziontechgroup.com/esignature-flow-tracker/",
+              "source": "https://github.com/Zion-support/esignature-flow-tracker",
+              "description": "Suivez l’identifiant de l’enveloppe, la version et le statut fourni par le prestataire. Distinguez envoi, consultation et signature ; confirmez l’achèvement à partir des preuves du prestataire.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fixer la version et le responsable de revue",
+          "body": "Notez le nom du fichier, sa version, l’objet de la revue et la personne habilitée à décider. Utilisez un échantillon expurgé ou fictif jusqu’à l’autorisation de traiter le document réel."
+        },
+        {
+          "title": "Relier les observations aux preuves",
+          "body": "Pour chaque clause ou statut, notez l’emplacement exact de la source, l’observation et la question ouverte. Comparez les résultats à l’original et conservez les divergences pour la revue."
+        },
+        {
+          "title": "Transmettre un relevé explicite des décisions",
+          "body": "Séparez modifications proposées, texte approuvé et signatures achevées. Notez qui a décidé, quand et quelle version a été acceptée avant de mettre à jour les étapes suivantes."
+        }
+      ],
+      "example": {
+        "title": "Exemple illustratif : dossier de revue d’un NDA",
+        "body": "Une équipe fictive repère dans un projet de NDA une date différente de celle de son modèle approuvé. Elle relève les deux passages, désigne un responsable et laisse la question ouverte. Le document reste non signé pendant que la personne habilitée décide du texte à accepter."
+      }
+    },
+    "de": {
+      "title": "Rechtsabteilung: Dokumente, Prüfung und Signaturnachweise",
+      "description": "Nutzen Sie vier Referenzen für Dokumentenfassungen, Quellenklauseln, Prüfentscheidungen und belegte Signaturstatus.",
+      "intro": "Bereiten Sie vor der Werkzeugauswahl ein klares Prüfpaket vor. Verknüpfen Sie jede Dokumentenfassung mit Quellenklauseln, offenen Fragen, der verantwortlichen prüfenden Person und Nachweisen einer späteren Unterzeichnung.",
+      "scope": "Dies ist ein redaktioneller Planungsleitfaden. Die geprüften Einstiegsseiten beschreiben vorgesehene Fähigkeiten; sie belegen keine funktionsfähige Extraktion, rechtliche Bewertung oder Signaturintegration. Entscheidungen und Unterschriften verbleiben bei befugten Personen.",
+      "sections": [
+        {
+          "id": "documents",
+          "title": "Dokumenten- und Klauselprüfung",
+          "intro": "Ordnen Sie jeder Beobachtung die Dokumentenfassung und die Fundstelle zu.",
+          "resources": [
+            {
+              "name": "Contract Clause Extractor",
+              "href": "https://ziontechgroup.com/contract-clause-extractor/",
+              "source": "https://github.com/Zion-support/contract-clause-extractor",
+              "description": "Bereiten Sie eine kleine freigegebene Stichprobe und eine Tabelle mit Klauseln und Fundstellen vor. Prüfen Sie vorgeschlagene Pflichten, Termine und Parteien am Originaldokument.",
+              "language": "en"
+            },
+            {
+              "name": "NDA Review AI",
+              "href": "https://ziontechgroup.com/nda-review-ai/",
+              "source": "https://github.com/Zion-support/nda-review-ai",
+              "description": "Vergleichen Sie einen Entwurf mit einer freigegebenen Prüfvorgabe. Trennen Sie Änderungsvorschläge vom akzeptierten Wortlaut und geben Sie offene Fragen an eine qualifizierte Person weiter.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "review-status",
+          "title": "Prüffragen und Signaturstatus",
+          "intro": "Machen Sie jeden Status anhand von Belegen und einer verantwortlichen prüfenden Person nachvollziehbar.",
+          "resources": [
+            {
+              "name": "Legal Risk Scorer",
+              "href": "https://ziontechgroup.com/legal-risk-scorer/",
+              "source": "https://github.com/Zion-support/legal-risk-scorer",
+              "description": "Erfassen Sie jede Frage, die Quellenklausel, mögliche Auswirkungen und die prüfende Person. Ein vorgeschlagener Punktwert braucht eine dokumentierte Methode und menschliche Einordnung.",
+              "language": "en"
+            },
+            {
+              "name": "eSignature Flow Tracker",
+              "href": "https://ziontechgroup.com/esignature-flow-tracker/",
+              "source": "https://github.com/Zion-support/esignature-flow-tracker",
+              "description": "Verfolgen Sie Vorgangskennung, Version und den beim Anbieter erfassten Status. Unterscheiden Sie versandt, angesehen und unterzeichnet; bestätigen Sie den Abschluss anhand der Anbieterbelege.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Dokumentenfassung und Prüfung festlegen",
+          "body": "Erfassen Sie Dateiname, Version, Prüfzweck und die entscheidungsbefugte Person. Verwenden Sie eine geschwärzte oder synthetische Stichprobe, bis die Verarbeitung des echten Dokuments freigegeben ist."
+        },
+        {
+          "title": "Beobachtungen mit Nachweisen verbinden",
+          "body": "Erfassen Sie zu jeder Klausel oder jedem Status die genaue Fundstelle, Beobachtung und offene Frage. Vergleichen Sie die Ergebnisse mit dem Original und halten Sie Abweichungen für die Prüfung fest."
+        },
+        {
+          "title": "Einen eindeutigen Entscheidungsnachweis übergeben",
+          "body": "Trennen Sie Änderungsvorschläge, freigegebenen Wortlaut und abgeschlossene Signaturen. Dokumentieren Sie Person, Zeitpunkt und akzeptierte Fassung, bevor Sie nachgelagerte Abläufe aktualisieren."
+        }
+      ],
+      "example": {
+        "title": "Fiktives Beispiel: Prüfpaket für eine NDA",
+        "body": "Ein fiktives Team findet in einem NDA-Entwurf ein Datum, das von seiner freigegebenen Vorlage abweicht. Es erfasst beide Fundstellen, benennt eine prüfende Person und kennzeichnet die Frage als offen. Das Dokument bleibt ununterzeichnet, während die befugte Person über den Wortlaut entscheidet."
+      }
+    }
+  },
+  "legacyLinks": [
+    {
+      "number": 75,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html"
+    }
+  ]
+}

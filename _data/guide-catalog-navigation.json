@@ -1,0 +1,911 @@
+{
+  "id": "catalog-navigation",
+  "basePath": "catalog-navigation",
+  "locales": {
+    "en": {
+      "title": "Find a clear path through the Zion app network",
+      "description": "Choose translated guides, local tools and source records for planning, productivity and field service.",
+      "intro": "Start with the task you need to complete. Follow a practical guide or a local tool, then carry its result into the next step with a named reviewer.",
+      "scope": "The navigation and featured guides are available in five languages. Source indexes and older destinations may use English or mixed languages; each link identifies that scope. Review a resource’s stated capabilities before using its output.",
+      "sections": [
+        {
+          "id": "start-here-en",
+          "title": "Choose your starting point",
+          "intro": "Use Discovery to organize the problem, or go straight to a pilot or evidence review.",
+          "resources": [
+            {
+              "name": "Free online Discovery",
+              "href": "https://ziontechgroup.com/discovery/",
+              "description": "Map a process and read the report in the browser. Requested email delivery is separate from confirmed inbox receipt.",
+              "language": "en"
+            },
+            {
+              "name": "First measured win guide",
+              "href": "https://ziontechgroup.com/apps/discovery-first-win-guide.html",
+              "description": "Set a baseline, an owner and a small experiment before widening the scope.",
+              "language": "en"
+            },
+            {
+              "name": "App selection evidence scorecard",
+              "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026.html",
+              "description": "Compare the evidence behind a resource and identify what still needs review.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "resource-path-en",
+          "title": "Prepare work and review it",
+          "intro": "Use the collections to find local draft tools, manual review guides and technical planning resources.",
+          "resources": [
+            {
+              "name": "Productivity and review collection",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#en",
+              "description": "Find the brief composer, email templates, meeting-note tool and three manual review or planning guides.",
+              "language": "en"
+            },
+            {
+              "name": "SQL, planning and observability collection",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-DEVOPS-REVIEW.html#en",
+              "description": "Compare local technical tools and planning resources using their stated capabilities.",
+              "language": "en"
+            },
+            {
+              "name": "Mining and metals guide",
+              "href": "https://ziontechgroup.com/apps/mining-discovery-guide.html",
+              "description": "Explore documented mining concepts and the evidence needed to evaluate them.",
+              "language": "en"
+            },
+            {
+              "name": "Communications guide",
+              "href": "https://ziontechgroup.com/apps/discovery-showcase.html",
+              "description": "Connect a communications problem to a resource and a reviewable next step.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "field-ticket-en",
+          "title": "Prepare and close a field visit",
+          "intro": "Move from scope and evidence to visit handoff and a completion record. Written client confirmation and a PO are required before a supplier commitment or dispatch.",
+          "resources": [
+            {
+              "name": "Field ticket types",
+              "href": "https://ziontechgroup.com/apps/field-ticket-types.html",
+              "description": "Compare break/fix, IMAC, imaging, time and materials, and dedicated staffing scopes.",
+              "language": "en"
+            },
+            {
+              "name": "Operations evidence checklist",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026.html",
+              "description": "Define prerequisites, expected checks and evidence before work begins.",
+              "language": "en"
+            },
+            {
+              "name": "Field visit handoff checklist",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026.html",
+              "description": "Use the local interactive checklist to review site, engineer and authorization evidence.",
+              "language": "en"
+            },
+            {
+              "name": "Service completion pack",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html",
+              "description": "Record completed work, exceptions, test results and separate customer acceptance.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "translated-collections-en",
+          "title": "Explore the translated collections",
+          "intro": "These collections describe ideas and evaluation paths. Follow each resource’s capability statement before considering a pilot.",
+          "resources": [
+            {
+              "name": "Green energy and education",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase.html",
+              "description": "Review energy and learning concepts, their inputs and possible evaluation steps.",
+              "language": "en"
+            },
+            {
+              "name": "Space operations and infrastructure",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04.html",
+              "description": "Explore planning resources for space operations, edge computing and infrastructure.",
+              "language": "en"
+            },
+            {
+              "name": "Public services and smart cities",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05.html",
+              "description": "Review civic-service concepts and the evidence needed for a bounded assessment.",
+              "language": "en"
+            },
+            {
+              "name": "Legal operations",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch80-oct05.html",
+              "description": "Explore contract and legal-workflow concepts with human review of every outcome.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-records-en",
+          "title": "Check source records and history",
+          "intro": "The source indexes and historical record remain available. Historical totals and release notes describe their recorded dates, not a current count of working apps.",
+          "resources": [
+            {
+              "name": "Master app index",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Browse app and repository references; verify each destination before use.",
+              "language": "en"
+            },
+            {
+              "name": "Legacy catalog",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md",
+              "description": "Consult the preserved category and collection index.",
+              "language": "en"
+            },
+            {
+              "name": "Mining source supplement",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-MINING.md",
+              "description": "Inspect the documented concepts and their source links.",
+              "language": "en"
+            },
+            {
+              "name": "Communications source supplement",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md",
+              "description": "Inspect the communications navigation and validation notes.",
+              "language": "en"
+            },
+            {
+              "name": "Navigation history through 30 October 2026",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/docs/catalog-navigation-history-2026-10-30.md",
+              "description": "Read the preserved release notes and original destinations in their historical context.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Choose one outcome",
+          "body": "Name the task, owner and preferred language. Use the collection matching that task."
+        },
+        {
+          "title": "Check what the resource does",
+          "body": "Read the capability description and source evidence. A guide, local calculation and connected service require different checks."
+        },
+        {
+          "title": "Carry the result forward",
+          "body": "Keep the assumptions and open questions with the result. Ask the responsible person to review the next step before acting."
+        }
+      ],
+      "example": {
+        "title": "Example: prepare a switch replacement",
+        "body": "For a fictional maintenance visit, start with the handoff checklist to review scope, access and parts. Use the operations checklist to define the expected connectivity tests, then the completion pack to record results, open issues and customer acceptance separately. For one site or several, document the actual visit sequence and approved scope before any additional commitment."
+      }
+    },
+    "pt": {
+      "title": "Encontre um caminho claro pela rede de apps Zion",
+      "description": "Escolha guias traduzidos, ferramentas locais e registros de origem para planejamento, produtividade e serviços em campo.",
+      "intro": "Comece pela tarefa que precisa concluir. Siga um guia prático ou uma ferramenta local e leve o resultado à próxima etapa com um responsável pela revisão.",
+      "scope": "A navegação e os guias em destaque estão disponíveis em cinco idiomas. Índices de origem e destinos antigos podem usar inglês ou misturar idiomas; cada link informa esse escopo. Confira as capacidades descritas antes de usar o resultado de um recurso.",
+      "sections": [
+        {
+          "id": "start-here-pt",
+          "title": "Escolha por onde começar",
+          "intro": "Use o Discovery para organizar o problema ou siga diretamente para um piloto ou uma revisão de evidências.",
+          "resources": [
+            {
+              "name": "Discovery gratuito e online",
+              "href": "https://ziontechgroup.com/pt/discovery/",
+              "description": "Mapeie um processo e leia o relatório no navegador. Solicitar o envio por e-mail não confirma recebimento na caixa de entrada.",
+              "language": "pt"
+            },
+            {
+              "name": "Guia do primeiro resultado mensurável",
+              "href": "https://ziontechgroup.com/pt/apps/discovery-first-win-guide.html",
+              "description": "Defina referência inicial, responsável e um experimento pequeno antes de ampliar o escopo.",
+              "language": "pt"
+            },
+            {
+              "name": "Matriz de evidências para escolher um app",
+              "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-pt-br.html",
+              "description": "Compare as evidências de um recurso e identifique o que ainda precisa de revisão.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "resource-path-pt",
+          "title": "Prepare o trabalho e revise",
+          "intro": "Use as coleções para encontrar ferramentas locais de rascunho, guias de revisão manual e recursos de planejamento técnico.",
+          "resources": [
+            {
+              "name": "Coleção de produtividade e revisão",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#pt",
+              "description": "Encontre o compositor de briefing, modelos de e-mail, ferramenta de atas e três guias de revisão manual ou planejamento.",
+              "language": "pt"
+            },
+            {
+              "name": "Coleção de SQL, planejamento e observabilidade",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-DEVOPS-REVIEW.html#pt",
+              "description": "Compare ferramentas técnicas locais e recursos de planejamento pelas capacidades descritas.",
+              "language": "pt"
+            },
+            {
+              "name": "Guia de mineração e metais",
+              "href": "https://ziontechgroup.com/pt/apps/mining-discovery-guide.html",
+              "description": "Explore conceitos documentados de mineração e as evidências necessárias para avaliá-los.",
+              "language": "pt"
+            },
+            {
+              "name": "Guia de comunicações",
+              "href": "https://ziontechgroup.com/apps/discovery-showcase-pt.html",
+              "description": "Conecte um problema de comunicação a um recurso e a uma próxima etapa que possa ser revisada.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "field-ticket-pt",
+          "title": "Prepare e conclua uma visita técnica",
+          "intro": "Passe do escopo e das evidências à orientação da visita e ao registro de conclusão. A confirmação escrita do cliente e a PO devem anteceder qualquer compromisso com fornecedor ou despacho.",
+          "resources": [
+            {
+              "name": "Tipos de chamados de campo",
+              "href": "https://ziontechgroup.com/pt/apps/field-ticket-types.html",
+              "description": "Compare escopos de reparo, IMAC, preparação de imagens, tempo e materiais e equipe dedicada.",
+              "language": "pt"
+            },
+            {
+              "name": "Checklist de evidências operacionais",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-pt-br.html",
+              "description": "Defina pré-requisitos, verificações esperadas e evidências antes de começar o trabalho.",
+              "language": "pt"
+            },
+            {
+              "name": "Checklist de passagem de visita técnica",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-pt-br.html",
+              "description": "Use o checklist interativo local para revisar evidências do local, do técnico e das autorizações.",
+              "language": "pt"
+            },
+            {
+              "name": "Registro de conclusão de serviço",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html",
+              "description": "Registre trabalho concluído, exceções, resultados dos testes e o aceite separado do cliente.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "translated-collections-pt",
+          "title": "Explore as coleções traduzidas",
+          "intro": "Estas coleções apresentam ideias e caminhos de avaliação. Confira a capacidade declarada de cada recurso antes de considerar um piloto.",
+          "resources": [
+            {
+              "name": "Energia sustentável e educação",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase-pt-br.html",
+              "description": "Revise conceitos de energia e aprendizagem, suas entradas e possíveis etapas de avaliação.",
+              "language": "pt"
+            },
+            {
+              "name": "Operações espaciais e infraestrutura",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04-pt-br.html",
+              "description": "Explore recursos de planejamento para operações espaciais, computação de borda e infraestrutura.",
+              "language": "pt"
+            },
+            {
+              "name": "Serviços públicos e cidades inteligentes",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05-pt-br.html",
+              "description": "Revise conceitos de serviços ao cidadão e as evidências necessárias para uma avaliação delimitada.",
+              "language": "pt"
+            },
+            {
+              "name": "Operações jurídicas",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch80-oct05-pt-br.html",
+              "description": "Explore conceitos de contratos e rotinas jurídicas com revisão humana de cada resultado.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "source-records-pt",
+          "title": "Consulte fontes e histórico",
+          "intro": "Os índices de origem e o registro histórico continuam disponíveis. Totais e notas antigas descrevem as datas registradas, sem representar uma contagem atual de apps funcionais.",
+          "resources": [
+            {
+              "name": "Índice principal de apps",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Consulte referências de apps e repositórios; verifique cada destino antes do uso.",
+              "language": "en"
+            },
+            {
+              "name": "Catálogo anterior",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md",
+              "description": "Consulte o índice preservado de categorias e coleções.",
+              "language": "en"
+            },
+            {
+              "name": "Suplemento de fontes de mineração",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-MINING.md",
+              "description": "Examine os conceitos documentados e seus links de origem.",
+              "language": "en"
+            },
+            {
+              "name": "Suplemento de fontes de comunicações",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md",
+              "description": "Examine a navegação de comunicações e as notas de validação.",
+              "language": "en"
+            },
+            {
+              "name": "Histórico da navegação até 30 de outubro de 2026",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/docs/catalog-navigation-history-2026-10-30.md",
+              "description": "Leia as notas de versões preservadas e os destinos originais no contexto histórico.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Escolha um resultado",
+          "body": "Identifique a tarefa, o responsável e o idioma. Use a coleção correspondente à tarefa."
+        },
+        {
+          "title": "Confira a capacidade do recurso",
+          "body": "Leia a descrição e as evidências de origem. Um guia, um cálculo local e um serviço conectado exigem verificações diferentes."
+        },
+        {
+          "title": "Leve o resultado à próxima etapa",
+          "body": "Mantenha as premissas e perguntas abertas junto do resultado. Peça ao responsável que revise a próxima etapa antes da execução."
+        }
+      ],
+      "example": {
+        "title": "Exemplo: preparar a troca de um switch",
+        "body": "Em uma visita de manutenção fictícia, comece pelo checklist de passagem para revisar escopo, acesso e peças. Use o checklist operacional para definir os testes de conectividade esperados e o registro de conclusão para separar resultados, pendências e aceite do cliente. Para um ou vários locais, documente a sequência real das visitas e o escopo aprovado antes de qualquer compromisso adicional."
+      }
+    },
+    "es": {
+      "title": "Encuentre una ruta clara por la red de apps Zion",
+      "description": "Elija guías traducidas, herramientas locales y fuentes para planificación, productividad y servicios en campo.",
+      "intro": "Empiece por la tarea que necesita completar. Siga una guía práctica o una herramienta local y lleve el resultado al siguiente paso con una persona responsable de revisarlo.",
+      "scope": "La navegación y las guías destacadas están disponibles en cinco idiomas. Los índices de fuentes y los destinos anteriores pueden usar inglés o mezclar idiomas; cada enlace indica ese alcance. Compruebe las capacidades descritas antes de utilizar un resultado.",
+      "sections": [
+        {
+          "id": "start-here-es",
+          "title": "Elija por dónde empezar",
+          "intro": "Use Discovery para organizar el problema o vaya directamente a un piloto o una revisión de evidencias.",
+          "resources": [
+            {
+              "name": "Discovery gratuito y online",
+              "href": "https://ziontechgroup.com/es/discovery/",
+              "description": "Describa un proceso y lea el informe en el navegador. Solicitar el envío por correo no confirma su recepción.",
+              "language": "es"
+            },
+            {
+              "name": "Guía del primer resultado medible",
+              "href": "https://ziontechgroup.com/es/apps/discovery-first-win-guide.html",
+              "description": "Defina una referencia inicial, un responsable y un experimento pequeño antes de ampliar el alcance.",
+              "language": "es"
+            },
+            {
+              "name": "Evaluación de apps por evidencias",
+              "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-es.html",
+              "description": "Compare las evidencias de un recurso e identifique lo que aún requiere revisión.",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "resource-path-es",
+          "title": "Prepare y revise el trabajo",
+          "intro": "Use las colecciones para encontrar herramientas locales de borradores, guías de revisión manual y recursos de planificación técnica.",
+          "resources": [
+            {
+              "name": "Colección de productividad y revisión",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#es",
+              "description": "Encuentre el compositor de briefs, plantillas de correo, herramienta de notas y tres guías de revisión manual o planificación.",
+              "language": "es"
+            },
+            {
+              "name": "Colección de SQL, planificación y observabilidad",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-DEVOPS-REVIEW.html#es",
+              "description": "Compare herramientas técnicas locales y recursos de planificación según sus capacidades descritas.",
+              "language": "es"
+            },
+            {
+              "name": "Guía de minería y metales",
+              "href": "https://ziontechgroup.com/es/apps/mining-discovery-guide.html",
+              "description": "Explore conceptos documentados de minería y las evidencias necesarias para evaluarlos.",
+              "language": "es"
+            },
+            {
+              "name": "Guía de comunicaciones",
+              "href": "https://ziontechgroup.com/apps/discovery-showcase-es.html",
+              "description": "Conecte un problema de comunicación con un recurso y un siguiente paso que pueda revisar.",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "field-ticket-es",
+          "title": "Prepare y cierre una visita técnica",
+          "intro": "Pase del alcance y las evidencias a la preparación de la visita y al registro de cierre. La confirmación escrita del cliente y la PO deben preceder cualquier compromiso con un proveedor o desplazamiento.",
+          "resources": [
+            {
+              "name": "Tipos de solicitudes de campo",
+              "href": "https://ziontechgroup.com/es/apps/field-ticket-types.html",
+              "description": "Compare reparación, IMAC, preparación de imágenes, tiempo y materiales y personal dedicado.",
+              "language": "es"
+            },
+            {
+              "name": "Lista de evidencias operativas",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-es.html",
+              "description": "Defina requisitos previos, comprobaciones esperadas y evidencias antes de comenzar el trabajo.",
+              "language": "es"
+            },
+            {
+              "name": "Lista de traspaso de visita técnica",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-es.html",
+              "description": "Use la lista interactiva local para revisar evidencias del sitio, del técnico y de las autorizaciones.",
+              "language": "es"
+            },
+            {
+              "name": "Registro de cierre del servicio",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html",
+              "description": "Registre trabajo completado, excepciones, resultados de pruebas y aceptación separada del cliente.",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "translated-collections-es",
+          "title": "Explore las colecciones traducidas",
+          "intro": "Estas colecciones presentan ideas y rutas de evaluación. Compruebe la capacidad declarada de cada recurso antes de considerar un piloto.",
+          "resources": [
+            {
+              "name": "Energía sostenible y educación",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase-es.html",
+              "description": "Revise conceptos de energía y aprendizaje, sus entradas y posibles pasos de evaluación.",
+              "language": "es"
+            },
+            {
+              "name": "Operaciones espaciales e infraestructura",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04-es.html",
+              "description": "Explore recursos de planificación para operaciones espaciales, computación en el borde e infraestructura.",
+              "language": "es"
+            },
+            {
+              "name": "Servicios públicos y ciudades inteligentes",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05-es.html",
+              "description": "Revise conceptos de servicios al ciudadano y las evidencias para una evaluación acotada.",
+              "language": "es"
+            },
+            {
+              "name": "Operaciones jurídicas",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch80-oct05-es.html",
+              "description": "Explore conceptos de contratos y procesos jurídicos con revisión humana de cada resultado.",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "source-records-es",
+          "title": "Consulte fuentes e historial",
+          "intro": "Los índices de fuentes y el registro histórico siguen disponibles. Las cifras y notas antiguas describen sus fechas registradas, no un recuento actual de apps funcionales.",
+          "resources": [
+            {
+              "name": "Índice principal de apps",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Consulte referencias de apps y repositorios; verifique cada destino antes de usarlo.",
+              "language": "en"
+            },
+            {
+              "name": "Catálogo anterior",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md",
+              "description": "Consulte el índice conservado de categorías y colecciones.",
+              "language": "en"
+            },
+            {
+              "name": "Suplemento de fuentes de minería",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-MINING.md",
+              "description": "Examine los conceptos documentados y sus enlaces de origen.",
+              "language": "en"
+            },
+            {
+              "name": "Suplemento de fuentes de comunicaciones",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md",
+              "description": "Examine la navegación de comunicaciones y las notas de validación.",
+              "language": "en"
+            },
+            {
+              "name": "Historial de navegación hasta el 30 de octubre de 2026",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/docs/catalog-navigation-history-2026-10-30.md",
+              "description": "Lea las notas de versiones conservadas y los destinos originales en su contexto histórico.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Elija un resultado",
+          "body": "Identifique la tarea, el responsable y el idioma. Use la colección correspondiente a la tarea."
+        },
+        {
+          "title": "Compruebe la capacidad del recurso",
+          "body": "Lea la descripción y las evidencias de origen. Una guía, un cálculo local y un servicio conectado requieren comprobaciones distintas."
+        },
+        {
+          "title": "Lleve el resultado al siguiente paso",
+          "body": "Conserve las hipótesis y las preguntas abiertas junto al resultado. Pida al responsable que revise el siguiente paso antes de actuar."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo: preparar la sustitución de un switch",
+        "body": "En una visita de mantenimiento ficticia, empiece por la lista de traspaso para revisar alcance, acceso y piezas. Use la lista operativa para definir las pruebas de conectividad esperadas y el registro de cierre para separar resultados, incidencias abiertas y aceptación del cliente. Para uno o varios sitios, documente la secuencia real de visitas y el alcance aprobado antes de cualquier compromiso adicional."
+      }
+    },
+    "fr": {
+      "title": "Trouvez un parcours clair dans le réseau d’apps Zion",
+      "description": "Choisissez des guides traduits, des outils locaux et des sources pour la préparation, la productivité et les interventions sur site.",
+      "intro": "Partez de la tâche à accomplir. Suivez un guide pratique ou utilisez un outil local, puis transmettez le résultat à l’étape suivante avec une personne chargée de le relire.",
+      "scope": "La navigation et les guides présentés sont disponibles en cinq langues. Les index de sources et les anciennes destinations peuvent être en anglais ou multilingues ; chaque lien précise ce périmètre. Vérifiez les capacités décrites avant d’utiliser un résultat.",
+      "sections": [
+        {
+          "id": "start-here-fr",
+          "title": "Choisissez votre point de départ",
+          "intro": "Utilisez Discovery pour structurer le problème, ou passez directement à un pilote ou à une revue des preuves.",
+          "resources": [
+            {
+              "name": "Discovery gratuit en ligne",
+              "href": "https://ziontechgroup.com/fr/discovery/",
+              "description": "Décrivez un processus et lisez le rapport dans le navigateur. Une demande d’envoi par courriel ne confirme pas sa réception.",
+              "language": "fr"
+            },
+            {
+              "name": "Guide du premier résultat mesurable",
+              "href": "https://ziontechgroup.com/fr/apps/discovery-first-win-guide.html",
+              "description": "Définissez une référence initiale, un responsable et une petite expérimentation avant d’élargir le périmètre.",
+              "language": "fr"
+            },
+            {
+              "name": "Évaluation des apps par les preuves",
+              "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-fr.html",
+              "description": "Comparez les preuves d’une ressource et repérez les points à revoir.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "resource-path-fr",
+          "title": "Préparez et relisez le travail",
+          "intro": "Les collections regroupent des outils locaux de rédaction, des guides de relecture manuelle et des ressources de préparation technique.",
+          "resources": [
+            {
+              "name": "Collection productivité et relecture",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#fr",
+              "description": "Retrouvez le rédacteur de briefs, les modèles de courriels, l’outil de notes et trois guides de relecture manuelle ou de préparation.",
+              "language": "fr"
+            },
+            {
+              "name": "Collection SQL, préparation et observabilité",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-DEVOPS-REVIEW.html#fr",
+              "description": "Comparez les outils techniques locaux et les ressources de préparation selon leurs capacités décrites.",
+              "language": "fr"
+            },
+            {
+              "name": "Guide mines et métaux",
+              "href": "https://ziontechgroup.com/fr/apps/mining-discovery-guide.html",
+              "description": "Explorez des concepts miniers documentés et les preuves nécessaires à leur évaluation.",
+              "language": "fr"
+            },
+            {
+              "name": "Guide des communications",
+              "href": "https://ziontechgroup.com/apps/discovery-showcase-fr.html",
+              "description": "Reliez un problème de communication à une ressource et à une prochaine étape vérifiable.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "field-ticket-fr",
+          "title": "Préparez et clôturez une intervention",
+          "intro": "Passez du périmètre et des preuves à la préparation de l’intervention puis au dossier de clôture. La confirmation écrite du client et le bon de commande doivent précéder tout engagement fournisseur ou déplacement.",
+          "resources": [
+            {
+              "name": "Types d’interventions sur site",
+              "href": "https://ziontechgroup.com/fr/apps/field-ticket-types.html",
+              "description": "Comparez réparation, IMAC, préparation d’images, temps et matériel, et personnel dédié.",
+              "language": "fr"
+            },
+            {
+              "name": "Liste des preuves opérationnelles",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-fr.html",
+              "description": "Définissez prérequis, contrôles attendus et preuves avant le début des travaux.",
+              "language": "fr"
+            },
+            {
+              "name": "Liste de préparation d’une visite technique",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-fr.html",
+              "description": "Utilisez la liste interactive locale pour revoir les preuves concernant le site, le technicien et les autorisations.",
+              "language": "fr"
+            },
+            {
+              "name": "Dossier de clôture d’intervention",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html",
+              "description": "Consignez travaux réalisés, exceptions, résultats des tests et acceptation distincte du client.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "translated-collections-fr",
+          "title": "Explorez les collections traduites",
+          "intro": "Ces collections présentent des idées et des parcours d’évaluation. Vérifiez les capacités déclarées de chaque ressource avant d’envisager un pilote.",
+          "resources": [
+            {
+              "name": "Énergie durable et éducation",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase-fr.html",
+              "description": "Examinez des concepts d’énergie et d’apprentissage, leurs données d’entrée et les étapes d’évaluation possibles.",
+              "language": "fr"
+            },
+            {
+              "name": "Opérations spatiales et infrastructure",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04-fr.html",
+              "description": "Explorez des ressources de préparation pour les opérations spatiales, l’informatique en périphérie et l’infrastructure.",
+              "language": "fr"
+            },
+            {
+              "name": "Services publics et villes intelligentes",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05-fr.html",
+              "description": "Examinez des concepts de services aux citoyens et les preuves nécessaires à une évaluation délimitée.",
+              "language": "fr"
+            },
+            {
+              "name": "Opérations juridiques",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch80-oct05-fr.html",
+              "description": "Explorez des concepts de contrats et de processus juridiques avec une revue humaine de chaque résultat.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "source-records-fr",
+          "title": "Consultez les sources et l’historique",
+          "intro": "Les index de sources et l’historique restent accessibles. Les anciens chiffres et notes décrivent les dates consignées, pas un nombre actuel d’apps opérationnelles.",
+          "resources": [
+            {
+              "name": "Index principal des apps",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Consultez les références d’apps et de dépôts ; vérifiez chaque destination avant utilisation.",
+              "language": "en"
+            },
+            {
+              "name": "Ancien catalogue",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md",
+              "description": "Consultez l’index conservé des catégories et des collections.",
+              "language": "en"
+            },
+            {
+              "name": "Supplément des sources minières",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-MINING.md",
+              "description": "Examinez les concepts documentés et leurs liens de source.",
+              "language": "en"
+            },
+            {
+              "name": "Supplément des sources de communications",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md",
+              "description": "Examinez la navigation des communications et les notes de validation.",
+              "language": "en"
+            },
+            {
+              "name": "Historique de navigation jusqu’au 30 octobre 2026",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/docs/catalog-navigation-history-2026-10-30.md",
+              "description": "Lisez les notes de version conservées et les destinations d’origine dans leur contexte historique.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Choisissez un résultat",
+          "body": "Identifiez la tâche, son responsable et la langue souhaitée. Utilisez la collection correspondante."
+        },
+        {
+          "title": "Vérifiez les capacités de la ressource",
+          "body": "Lisez la description et les preuves de source. Un guide, un calcul local et un service connecté demandent des vérifications différentes."
+        },
+        {
+          "title": "Transmettez le résultat à la suite du parcours",
+          "body": "Conservez les hypothèses et les questions ouvertes avec le résultat. Faites relire la prochaine étape par le responsable avant d’agir."
+        }
+      ],
+      "example": {
+        "title": "Exemple : préparer le remplacement d’un commutateur",
+        "body": "Pour une intervention de maintenance fictive, commencez par la liste de préparation afin de revoir le périmètre, les accès et les pièces. Utilisez la liste opérationnelle pour définir les tests de connectivité attendus, puis le dossier de clôture pour distinguer résultats, problèmes ouverts et acceptation du client. Pour un ou plusieurs sites, documentez l’ordre réel des visites et le périmètre approuvé avant tout engagement supplémentaire."
+      }
+    },
+    "de": {
+      "title": "Finden Sie einen klaren Weg durch das Zion App-Netzwerk",
+      "description": "Wählen Sie übersetzte Leitfäden, lokale Werkzeuge und Quellen für Planung, Produktivität und Vor-Ort-Service.",
+      "intro": "Beginnen Sie mit der Aufgabe, die Sie erledigen möchten. Nutzen Sie einen praktischen Leitfaden oder ein lokales Werkzeug und geben Sie das Ergebnis mit einer benannten prüfenden Person an den nächsten Schritt weiter.",
+      "scope": "Die Navigation und die vorgestellten Leitfäden sind in fünf Sprachen verfügbar. Quellenverzeichnisse und ältere Zielseiten können englisch oder mehrsprachig sein; jeder Link kennzeichnet diesen Umfang. Prüfen Sie die beschriebenen Funktionen, bevor Sie ein Ergebnis verwenden.",
+      "sections": [
+        {
+          "id": "start-here-de",
+          "title": "Wählen Sie Ihren Einstieg",
+          "intro": "Strukturieren Sie das Problem mit Discovery oder beginnen Sie direkt mit einem Piloten oder einer Nachweisprüfung.",
+          "resources": [
+            {
+              "name": "Kostenloser Online-Discovery-Check",
+              "href": "https://ziontechgroup.com/de/discovery/",
+              "description": "Beschreiben Sie einen Prozess und lesen Sie den Bericht im Browser. Eine Versandanforderung bestätigt keinen Eingang im E-Mail-Postfach.",
+              "language": "de"
+            },
+            {
+              "name": "Leitfaden zum ersten messbaren Ergebnis",
+              "href": "https://ziontechgroup.com/de/apps/discovery-first-win-guide.html",
+              "description": "Definieren Sie Ausgangswert, Verantwortung und einen kleinen Versuch, bevor Sie den Umfang erweitern.",
+              "language": "de"
+            },
+            {
+              "name": "App-Bewertung anhand von Nachweisen",
+              "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-de.html",
+              "description": "Vergleichen Sie die Nachweise einer Ressource und erkennen Sie offene Prüfpunkte.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "resource-path-de",
+          "title": "Arbeit vorbereiten und prüfen",
+          "intro": "Die Sammlungen enthalten lokale Entwurfswerkzeuge, Leitfäden zur manuellen Prüfung und Ressourcen zur technischen Planung.",
+          "resources": [
+            {
+              "name": "Sammlung für Produktivität und Prüfung",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-PRODUCTIVITY-REVIEW.html#de",
+              "description": "Finden Sie Briefing-Generator, E-Mail-Vorlagen, Notizwerkzeug und drei Leitfäden zur manuellen Prüfung oder Planung.",
+              "language": "de"
+            },
+            {
+              "name": "Sammlung für SQL, Planung und Beobachtbarkeit",
+              "href": "https://ziontechgroup.com/zion-app-network/CATALOG-DEVOPS-REVIEW.html#de",
+              "description": "Vergleichen Sie lokale technische Werkzeuge und Planungsressourcen anhand ihrer beschriebenen Funktionen.",
+              "language": "de"
+            },
+            {
+              "name": "Leitfaden für Bergbau und Metalle",
+              "href": "https://ziontechgroup.com/de/apps/mining-discovery-guide.html",
+              "description": "Entdecken Sie dokumentierte Bergbaukonzepte und die für ihre Bewertung benötigten Nachweise.",
+              "language": "de"
+            },
+            {
+              "name": "Kommunikationsleitfaden",
+              "href": "https://ziontechgroup.com/apps/discovery-showcase-de.html",
+              "description": "Verbinden Sie eine Kommunikationsaufgabe mit einer Ressource und einem überprüfbaren nächsten Schritt.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "field-ticket-de",
+          "title": "Vor-Ort-Einsatz vorbereiten und abschließen",
+          "intro": "Gehen Sie von Umfang und Nachweisen zur Einsatzübergabe und Abschlussdokumentation über. Schriftliche Kundenbestätigung und Bestellung müssen jeder Lieferantenzusage oder Entsendung vorausgehen.",
+          "resources": [
+            {
+              "name": "Vor-Ort-Auftragsarten",
+              "href": "https://ziontechgroup.com/de/apps/field-ticket-types.html",
+              "description": "Vergleichen Sie Reparatur, IMAC, Image-Bereitstellung, Zeit und Material sowie fest zugeordnetes Personal.",
+              "language": "de"
+            },
+            {
+              "name": "Checkliste für Betriebsnachweise",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-de.html",
+              "description": "Definieren Sie Voraussetzungen, erwartete Prüfungen und Nachweise vor Arbeitsbeginn.",
+              "language": "de"
+            },
+            {
+              "name": "Checkliste zur Einsatzübergabe",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-de.html",
+              "description": "Prüfen Sie mit der lokalen interaktiven Liste die Nachweise zu Standort, Techniker und Freigaben.",
+              "language": "de"
+            },
+            {
+              "name": "Dokumentation des Serviceabschlusses",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html",
+              "description": "Erfassen Sie erledigte Arbeiten, Ausnahmen, Testergebnisse und die getrennte Kundenabnahme.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "translated-collections-de",
+          "title": "Übersetzte Sammlungen entdecken",
+          "intro": "Diese Sammlungen beschreiben Ideen und Bewertungswege. Prüfen Sie die angegebenen Funktionen jeder Ressource, bevor Sie einen Piloten erwägen.",
+          "resources": [
+            {
+              "name": "Nachhaltige Energie und Bildung",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase-de.html",
+              "description": "Prüfen Sie Energie- und Lernkonzepte, ihre Eingaben und mögliche Bewertungsschritte.",
+              "language": "de"
+            },
+            {
+              "name": "Weltraumbetrieb und Infrastruktur",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04-de.html",
+              "description": "Entdecken Sie Planungsressourcen für Weltraumbetrieb, Edge-Computing und Infrastruktur.",
+              "language": "de"
+            },
+            {
+              "name": "Öffentliche Dienste und intelligente Städte",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch79-oct05-de.html",
+              "description": "Prüfen Sie Konzepte für Bürgerdienste und die Nachweise für eine begrenzte Bewertung.",
+              "language": "de"
+            },
+            {
+              "name": "Juristische Abläufe",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-batch80-oct05-de.html",
+              "description": "Entdecken Sie Konzepte für Verträge und juristische Prozesse mit menschlicher Prüfung jedes Ergebnisses.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "source-records-de",
+          "title": "Quellen und Verlauf prüfen",
+          "intro": "Quellenverzeichnisse und frühere Aufzeichnungen bleiben verfügbar. Historische Zahlen und Versionshinweise beschreiben ihren jeweiligen Stand, keine aktuelle Anzahl funktionsfähiger Apps.",
+          "resources": [
+            {
+              "name": "Hauptverzeichnis der Apps",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Durchsuchen Sie App- und Repository-Verweise und prüfen Sie jede Zielseite vor der Nutzung.",
+              "language": "en"
+            },
+            {
+              "name": "Früherer Katalog",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md",
+              "description": "Lesen Sie das erhaltene Verzeichnis der Kategorien und Sammlungen.",
+              "language": "en"
+            },
+            {
+              "name": "Quellenergänzung für Bergbau",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-MINING.md",
+              "description": "Prüfen Sie dokumentierte Konzepte und die zugehörigen Quellenlinks.",
+              "language": "en"
+            },
+            {
+              "name": "Quellenergänzung für Kommunikation",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/CATALOG-COMMUNICATIONS.md",
+              "description": "Prüfen Sie die Kommunikationsnavigation und die Validierungshinweise.",
+              "language": "en"
+            },
+            {
+              "name": "Navigationsverlauf bis zum 30. Oktober 2026",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/docs/catalog-navigation-history-2026-10-30.md",
+              "description": "Lesen Sie erhaltene Versionshinweise und ursprüngliche Ziele in ihrem historischen Zusammenhang.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Ein Ergebnis wählen",
+          "body": "Benennen Sie Aufgabe, Verantwortung und gewünschte Sprache. Nutzen Sie die passende Sammlung."
+        },
+        {
+          "title": "Funktionen der Ressource prüfen",
+          "body": "Lesen Sie Beschreibung und Quellenbelege. Ein Leitfaden, eine lokale Berechnung und ein verbundener Dienst erfordern unterschiedliche Prüfungen."
+        },
+        {
+          "title": "Das Ergebnis weitergeben",
+          "body": "Bewahren Sie Annahmen und offene Fragen beim Ergebnis auf. Lassen Sie den nächsten Schritt vor dem Handeln durch die verantwortliche Person prüfen."
+        }
+      ],
+      "example": {
+        "title": "Beispiel: den Austausch eines Switches vorbereiten",
+        "body": "Beginnen Sie bei einem fiktiven Wartungseinsatz mit der Übergabecheckliste für Umfang, Zugang und Ersatzteile. Definieren Sie mit der Betriebscheckliste die erwarteten Verbindungstests. Halten Sie anschließend Ergebnisse, offene Probleme und Kundenabnahme getrennt in der Abschlussdokumentation fest. Dokumentieren Sie für einen oder mehrere Standorte die tatsächliche Besuchsfolge und den genehmigten Umfang vor jeder zusätzlichen Zusage."
+      }
+    }
+  }
+}

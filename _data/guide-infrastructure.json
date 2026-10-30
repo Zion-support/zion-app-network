@@ -1,0 +1,496 @@
+{
+  "id": "infrastructure",
+  "basePath": "app-network-batch77-oct04",
+  "locales": {
+    "en": {
+      "title": "Infrastructure and space operations: assess the evidence",
+      "description": "Compare eight Zion infrastructure and space-operation resources, distinguish local demonstrations from reference pages and prepare a reviewable pilot.",
+      "intro": "Choose the resource that matches your next planning question. The infrastructure monitor and capacity planner provide local calculation demonstrations; the other links offer reference material or a sample dashboard. Establish the evidence needed before proposing a connected service or operational change.",
+      "scope": "The linked resource pages currently open in English. A browser calculation or sample status table does not establish live monitoring, a trained model, successful restores or automated control. Record the responsible owner, demonstration results and approval requirements for any proposed implementation.",
+      "sections": [
+        {
+          "id": "space",
+          "title": "Space operations and edge deployment",
+          "intro": "Use these reference pages to collect requirements and ask for a demonstrable implementation. Operational decisions remain with the authorized team.",
+          "resources": [
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "source": "https://github.com/Zion-support/orbital-conjunction-screener",
+              "description": "Reference page for conjunction-review requirements. Identify data provenance, timestamps, uncertainty and specialist review; the page alone does not validate collision screening or maneuver decisions.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "source": "https://github.com/Zion-support/ground-station-link-monitor",
+              "description": "Reference page for link-monitoring requirements. Define the stations, telemetry sources, alert thresholds and escalation owner; request a working demonstration before assuming live monitoring.",
+              "language": "en"
+            },
+            {
+              "name": "Satellite Pass Scheduler",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "source": "https://github.com/Zion-support/satellite-pass-scheduler",
+              "description": "Reference page for contact-window planning. Document time zones, station constraints and conflict-resolution rules, then have the responsible operator review the proposed schedule.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "source": "https://github.com/Zion-support/ai-edge-deployer",
+              "description": "Reference page for edge-deployment planning. Collect device compatibility, model version, acceptance checks and rollback requirements before agreeing to a deployment trial.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "reliability",
+          "title": "Infrastructure and recovery readiness",
+          "intro": "Keep calculation inputs, observed measurements and example data distinct. Use real test evidence to support a service or equipment decision.",
+          "resources": [
+            {
+              "name": "AI Infrastructure Monitor",
+              "href": "https://ziontechgroup.com/ai-infrastructure-monitor/",
+              "source": "https://github.com/Zion-support/ai-infrastructure-monitor",
+              "description": "Local demonstration that calculates a z-score from three entered numbers. Its messages are fixed rules; no telemetry connection or causal analysis is established by the page.",
+              "language": "en"
+            },
+            {
+              "name": "AI Cluster Manager",
+              "href": "https://ziontechgroup.com/ai-cluster-manager/",
+              "source": "https://github.com/Zion-support/ai-cluster-manager",
+              "description": "Reference page for cluster-management requirements. Identify the cluster inventory, permitted access, proposed changes and rollback owner; verify actual controls before assuming automated remediation.",
+              "language": "en"
+            },
+            {
+              "name": "AI Capacity Planner",
+              "href": "https://ziontechgroup.com/ai-capacity-planner/",
+              "source": "https://github.com/Zion-support/ai-capacity-planner",
+              "description": "Local growth-scenario calculator using entered baselines and fixed formulas. Its chart alerts are illustrative, not measured capacity utilization; compare assumptions with observed demand and actual limits.",
+              "language": "en"
+            },
+            {
+              "name": "AI Backup Integrity",
+              "href": "https://ziontechgroup.com/ai-backup-integrity/",
+              "source": "https://github.com/Zion-support/ai-backup-integrity",
+              "description": "Fixed sample dashboard of backup statuses and suggested checks. The displayed systems, dates and percentages are examples; obtain real job logs and restore-test evidence for your environment.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Define the decision and baseline",
+          "body": "Record the system, responsible owner, current measurements, units and observation period. State whether the task is a calculation, a planning review or a proposed integration."
+        },
+        {
+          "title": "Request a repeatable demonstration",
+          "body": "Specify the input sample, expected result and acceptance criteria. Record what the resource actually produces, including errors and assumptions, and compare it with an independently checked example."
+        },
+        {
+          "title": "Prepare the handoff",
+          "body": "Summarize verified results, unresolved requirements, access needs and rollback arrangements. Obtain the required technical and commercial approvals before any deployment, purchase or field visit."
+        }
+      ],
+      "example": {
+        "title": "Illustrative example: a capacity review",
+        "body": "With a hypothetical baseline of 50 virtual machines and annual growth of 20%, the capacity calculator shows 60 virtual machines in year one. This is a formula result, not observed demand or remaining capacity. Record who owns the baseline and compare the scenario with real measurements before using it in an equipment request. Backup acceptance still requires separate restore-test evidence."
+      }
+    },
+    "pt": {
+      "title": "Infraestrutura e operações espaciais: avalie as evidências",
+      "description": "Compare oito recursos Zion de infraestrutura e operações espaciais, diferencie demonstrações locais de páginas de referência e prepare um piloto revisável.",
+      "intro": "Escolha o recurso adequado à sua próxima pergunta de planejamento. O monitor de infraestrutura e o planejador de capacidade oferecem demonstrações de cálculo local; os demais links apresentam material de referência ou um painel de exemplo. Defina as evidências necessárias antes de propor um serviço conectado ou uma mudança operacional.",
+      "scope": "As páginas dos recursos abrem atualmente em inglês. Um cálculo no navegador ou uma tabela de exemplo não comprova monitoramento ao vivo, modelo treinado, restauração bem-sucedida ou controle automatizado. Registre o responsável, os resultados demonstrados e as aprovações necessárias para qualquer implementação proposta.",
+      "sections": [
+        {
+          "id": "space",
+          "title": "Operações espaciais e implantação na borda",
+          "intro": "Use estas referências para levantar requisitos e solicitar uma implementação demonstrável. As decisões operacionais permanecem com a equipe autorizada.",
+          "resources": [
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "source": "https://github.com/Zion-support/orbital-conjunction-screener",
+              "description": "Página de referência para requisitos de análise de conjunções orbitais. Identifique a origem dos dados, os horários, as incertezas e a revisão especializada; a página não valida, por si só, triagem de colisões ou decisões de manobra.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "source": "https://github.com/Zion-support/ground-station-link-monitor",
+              "description": "Página de referência para monitoramento de enlaces. Defina estações, fontes de telemetria, limites de alerta e responsável por escalonamentos; solicite uma demonstração funcional antes de presumir monitoramento ao vivo.",
+              "language": "en"
+            },
+            {
+              "name": "Satellite Pass Scheduler",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "source": "https://github.com/Zion-support/satellite-pass-scheduler",
+              "description": "Página de referência para planejar janelas de contato. Documente fusos horários, restrições das estações e regras para conflitos; peça ao operador responsável que revise a programação proposta.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "source": "https://github.com/Zion-support/ai-edge-deployer",
+              "description": "Página de referência para implantação na borda. Levante compatibilidade dos dispositivos, versão do modelo, verificações de aceitação e requisitos de reversão antes de acordar um teste de implantação.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "reliability",
+          "title": "Infraestrutura e preparação para recuperação",
+          "intro": "Separe os dados usados nos cálculos, as medições observadas e os exemplos. Fundamente decisões de serviço ou equipamento em evidências de testes reais.",
+          "resources": [
+            {
+              "name": "AI Infrastructure Monitor",
+              "href": "https://ziontechgroup.com/ai-infrastructure-monitor/",
+              "source": "https://github.com/Zion-support/ai-infrastructure-monitor",
+              "description": "Demonstração local que calcula um escore z com três números informados. As mensagens seguem regras fixas; a página não comprova conexão com telemetria nem análise de causa.",
+              "language": "en"
+            },
+            {
+              "name": "AI Cluster Manager",
+              "href": "https://ziontechgroup.com/ai-cluster-manager/",
+              "source": "https://github.com/Zion-support/ai-cluster-manager",
+              "description": "Página de referência para gestão de clusters. Identifique inventário, acesso permitido, mudanças propostas e responsável pela reversão; verifique os controles reais antes de presumir correção automática.",
+              "language": "en"
+            },
+            {
+              "name": "AI Capacity Planner",
+              "href": "https://ziontechgroup.com/ai-capacity-planner/",
+              "source": "https://github.com/Zion-support/ai-capacity-planner",
+              "description": "Calculadora local de cenários de crescimento com valores informados e fórmulas fixas. Os alertas do gráfico são ilustrativos, não medições de utilização; compare as premissas com a demanda observada e os limites reais.",
+              "language": "en"
+            },
+            {
+              "name": "AI Backup Integrity",
+              "href": "https://ziontechgroup.com/ai-backup-integrity/",
+              "source": "https://github.com/Zion-support/ai-backup-integrity",
+              "description": "Painel estático de exemplo com estados de backup e verificações sugeridas. Os sistemas, datas e percentuais exibidos são exemplos; obtenha registros reais dos jobs e evidências de restauração do seu ambiente.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina a decisão e a referência",
+          "body": "Registre o sistema, o responsável, as medições atuais, as unidades e o período de observação. Indique se a tarefa é um cálculo, uma revisão de planejamento ou uma proposta de integração."
+        },
+        {
+          "title": "Peça uma demonstração repetível",
+          "body": "Especifique a amostra, o resultado esperado e os critérios de aceitação. Registre o que o recurso produz, incluindo erros e premissas, e compare com um exemplo conferido de forma independente."
+        },
+        {
+          "title": "Prepare a passagem de informações",
+          "body": "Resuma os resultados verificados, os requisitos pendentes, os acessos necessários e o plano de reversão. Obtenha as aprovações técnicas e comerciais exigidas antes de implantação, compra ou visita técnica."
+        }
+      ],
+      "example": {
+        "title": "Exemplo ilustrativo: uma revisão de capacidade",
+        "body": "Com uma base hipotética de 50 máquinas virtuais e crescimento anual de 20%, a calculadora mostra 60 máquinas virtuais no primeiro ano. É um resultado de fórmula, não demanda observada ou capacidade restante. Registre o responsável pela base e compare o cenário com medições reais antes de usá-lo em uma solicitação de equipamentos. A aceitação do backup exige evidências separadas de testes de restauração."
+      }
+    },
+    "es": {
+      "title": "Infraestructura y operaciones espaciales: evalúe las pruebas",
+      "description": "Compare ocho recursos Zion de infraestructura y operaciones espaciales, distinga demostraciones locales de páginas de referencia y prepare un piloto revisable.",
+      "intro": "Elija el recurso que corresponda a su próxima pregunta de planificación. El monitor de infraestructura y el planificador de capacidad ofrecen demostraciones de cálculo local; los demás enlaces aportan referencias o un panel de ejemplo. Defina las pruebas necesarias antes de proponer un servicio conectado o un cambio operativo.",
+      "scope": "Las páginas de los recursos se abren actualmente en inglés. Un cálculo en el navegador o una tabla de ejemplo no demuestra supervisión en vivo, un modelo entrenado, restauraciones satisfactorias ni control automatizado. Registre la persona responsable, los resultados demostrados y las aprobaciones necesarias para cualquier implementación propuesta.",
+      "sections": [
+        {
+          "id": "space",
+          "title": "Operaciones espaciales y despliegue en el borde",
+          "intro": "Utilice estas referencias para recopilar requisitos y pedir una implementación demostrable. Las decisiones operativas corresponden al equipo autorizado.",
+          "resources": [
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "source": "https://github.com/Zion-support/orbital-conjunction-screener",
+              "description": "Página de referencia para requisitos de revisión de conjunciones orbitales. Identifique procedencia, fechas, incertidumbre y revisión especializada; la página por sí sola no valida la detección de colisiones ni las decisiones de maniobra.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "source": "https://github.com/Zion-support/ground-station-link-monitor",
+              "description": "Página de referencia para requisitos de supervisión de enlaces. Defina estaciones, fuentes de telemetría, umbrales y responsable de escalado; solicite una demostración funcional antes de asumir supervisión en vivo.",
+              "language": "en"
+            },
+            {
+              "name": "Satellite Pass Scheduler",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "source": "https://github.com/Zion-support/satellite-pass-scheduler",
+              "description": "Página de referencia para planificar ventanas de contacto. Documente zonas horarias, restricciones de las estaciones y reglas para resolver conflictos; pida al operador responsable que revise el calendario propuesto.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "source": "https://github.com/Zion-support/ai-edge-deployer",
+              "description": "Página de referencia para planificar despliegues en el borde. Recopile compatibilidad de dispositivos, versión del modelo, comprobaciones de aceptación y requisitos de reversión antes de acordar una prueba.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "reliability",
+          "title": "Infraestructura y preparación para la recuperación",
+          "intro": "Diferencie los datos introducidos, las mediciones observadas y los ejemplos. Fundamente las decisiones de servicio o equipamiento en pruebas reales.",
+          "resources": [
+            {
+              "name": "AI Infrastructure Monitor",
+              "href": "https://ziontechgroup.com/ai-infrastructure-monitor/",
+              "source": "https://github.com/Zion-support/ai-infrastructure-monitor",
+              "description": "Demostración local que calcula una puntuación z con tres números introducidos. Sus mensajes siguen reglas fijas; la página no acredita conexión con telemetría ni análisis causal.",
+              "language": "en"
+            },
+            {
+              "name": "AI Cluster Manager",
+              "href": "https://ziontechgroup.com/ai-cluster-manager/",
+              "source": "https://github.com/Zion-support/ai-cluster-manager",
+              "description": "Página de referencia para gestionar clústeres. Identifique inventario, acceso permitido, cambios propuestos y responsable de la reversión; verifique los controles reales antes de asumir corrección automática.",
+              "language": "en"
+            },
+            {
+              "name": "AI Capacity Planner",
+              "href": "https://ziontechgroup.com/ai-capacity-planner/",
+              "source": "https://github.com/Zion-support/ai-capacity-planner",
+              "description": "Calculadora local de escenarios de crecimiento con valores introducidos y fórmulas fijas. Las alertas son ilustrativas, no mediciones de utilización; compare los supuestos con la demanda observada y los límites reales.",
+              "language": "en"
+            },
+            {
+              "name": "AI Backup Integrity",
+              "href": "https://ziontechgroup.com/ai-backup-integrity/",
+              "source": "https://github.com/Zion-support/ai-backup-integrity",
+              "description": "Panel estático de ejemplo con estados de copias de seguridad y comprobaciones sugeridas. Los sistemas, fechas y porcentajes son ejemplos; obtenga registros reales y pruebas de restauración de su entorno.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina la decisión y la referencia",
+          "body": "Registre el sistema, la persona responsable, las mediciones actuales, las unidades y el período de observación. Indique si la tarea es un cálculo, una revisión de planificación o una integración propuesta."
+        },
+        {
+          "title": "Pida una demostración repetible",
+          "body": "Especifique la muestra, el resultado esperado y los criterios de aceptación. Registre lo que produce el recurso, incluidos errores y supuestos, y compárelo con un ejemplo comprobado de manera independiente."
+        },
+        {
+          "title": "Prepare el traspaso de información",
+          "body": "Resuma los resultados verificados, los requisitos pendientes, los accesos necesarios y el plan de reversión. Obtenga las aprobaciones técnicas y comerciales exigidas antes de un despliegue, compra o visita técnica."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ilustrativo: una revisión de capacidad",
+        "body": "Con una base hipotética de 50 máquinas virtuales y un crecimiento anual del 20%, la calculadora muestra 60 máquinas virtuales en el primer año. Es el resultado de una fórmula, no demanda observada ni capacidad restante. Registre quién es responsable de la base y compare el escenario con mediciones reales antes de utilizarlo en una solicitud de equipos. La aceptación del respaldo requiere pruebas independientes de restauración."
+      }
+    },
+    "fr": {
+      "title": "Infrastructure et opérations spatiales : examiner les preuves",
+      "description": "Comparez huit ressources Zion d’infrastructure et d’opérations spatiales, distinguez démonstrations locales et références, puis préparez un pilote vérifiable.",
+      "intro": "Choisissez la ressource adaptée à votre prochaine question de préparation. Le moniteur d’infrastructure et le planificateur de capacité proposent des démonstrations de calcul local ; les autres liens présentent des références ou un tableau de bord d’exemple. Définissez les preuves nécessaires avant de proposer un service connecté ou un changement opérationnel.",
+      "scope": "Les pages des ressources s’ouvrent actuellement en anglais. Un calcul dans le navigateur ou un tableau d’exemple ne prouve ni supervision en direct, ni modèle entraîné, ni restauration réussie, ni commande automatisée. Consignez le responsable, les résultats démontrés et les approbations requises pour toute mise en œuvre proposée.",
+      "sections": [
+        {
+          "id": "space",
+          "title": "Opérations spatiales et déploiement en périphérie",
+          "intro": "Utilisez ces références pour recueillir les besoins et demander une mise en œuvre démontrable. Les décisions opérationnelles restent confiées à l’équipe habilitée.",
+          "resources": [
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "source": "https://github.com/Zion-support/orbital-conjunction-screener",
+              "description": "Référence pour les besoins d’analyse des conjonctions orbitales. Identifiez provenance des données, horodatage, incertitudes et revue spécialisée ; cette page seule ne valide ni dépistage de collisions ni décision de manœuvre.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "source": "https://github.com/Zion-support/ground-station-link-monitor",
+              "description": "Référence pour la supervision des liaisons. Définissez stations, sources de télémétrie, seuils d’alerte et responsable des escalades ; demandez une démonstration fonctionnelle avant de présumer une supervision en direct.",
+              "language": "en"
+            },
+            {
+              "name": "Satellite Pass Scheduler",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "source": "https://github.com/Zion-support/satellite-pass-scheduler",
+              "description": "Référence pour préparer les fenêtres de contact. Documentez fuseaux horaires, contraintes des stations et règles de résolution des conflits ; faites valider le planning proposé par l’opérateur responsable.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "source": "https://github.com/Zion-support/ai-edge-deployer",
+              "description": "Référence pour préparer un déploiement en périphérie. Recueillez compatibilité des appareils, version du modèle, contrôles d’acceptation et modalités de retour arrière avant de convenir d’un essai.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "reliability",
+          "title": "Infrastructure et préparation de la reprise",
+          "intro": "Distinguez les valeurs de calcul, les mesures observées et les exemples. Appuyez toute décision de service ou d’équipement sur des preuves de tests réels.",
+          "resources": [
+            {
+              "name": "AI Infrastructure Monitor",
+              "href": "https://ziontechgroup.com/ai-infrastructure-monitor/",
+              "source": "https://github.com/Zion-support/ai-infrastructure-monitor",
+              "description": "Démonstration locale calculant un score z à partir de trois nombres saisis. Les messages suivent des règles fixes ; la page ne démontre ni connexion à une télémétrie ni analyse causale.",
+              "language": "en"
+            },
+            {
+              "name": "AI Cluster Manager",
+              "href": "https://ziontechgroup.com/ai-cluster-manager/",
+              "source": "https://github.com/Zion-support/ai-cluster-manager",
+              "description": "Référence pour les besoins de gestion des clusters. Identifiez inventaire, accès autorisés, changements proposés et responsable du retour arrière ; vérifiez les contrôles réels avant de présumer une correction automatique.",
+              "language": "en"
+            },
+            {
+              "name": "AI Capacity Planner",
+              "href": "https://ziontechgroup.com/ai-capacity-planner/",
+              "source": "https://github.com/Zion-support/ai-capacity-planner",
+              "description": "Calculateur local de scénarios de croissance fondé sur les valeurs saisies et des formules fixes. Les alertes sont illustratives, pas des mesures d’utilisation ; comparez les hypothèses à la demande observée et aux limites réelles.",
+              "language": "en"
+            },
+            {
+              "name": "AI Backup Integrity",
+              "href": "https://ziontechgroup.com/ai-backup-integrity/",
+              "source": "https://github.com/Zion-support/ai-backup-integrity",
+              "description": "Tableau de bord statique présentant des états de sauvegarde et des contrôles suggérés. Systèmes, dates et pourcentages sont des exemples ; obtenez les journaux réels et les preuves de restauration de votre environnement.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Définir la décision et la référence",
+          "body": "Consignez le système, le responsable, les mesures actuelles, les unités et la période d’observation. Précisez s’il s’agit d’un calcul, d’une revue de préparation ou d’une intégration proposée."
+        },
+        {
+          "title": "Demander une démonstration reproductible",
+          "body": "Précisez l’échantillon, le résultat attendu et les critères d’acceptation. Notez ce que produit la ressource, y compris erreurs et hypothèses, puis comparez avec un exemple vérifié indépendamment."
+        },
+        {
+          "title": "Préparer la transmission",
+          "body": "Résumez résultats vérifiés, besoins non résolus, accès nécessaires et modalités de retour arrière. Obtenez les approbations techniques et commerciales requises avant un déploiement, un achat ou une intervention sur site."
+        }
+      ],
+      "example": {
+        "title": "Exemple illustratif : une revue de capacité",
+        "body": "Avec une base hypothétique de 50 machines virtuelles et une croissance annuelle de 20 %, le calculateur affiche 60 machines virtuelles la première année. Il s’agit d’un résultat de formule, pas d’une demande observée ni d’une capacité restante. Identifiez le responsable de la référence et comparez le scénario aux mesures réelles avant toute demande d’équipement. L’acceptation des sauvegardes exige des preuves distinctes de tests de restauration."
+      }
+    },
+    "de": {
+      "title": "Infrastruktur und Raumfahrtbetrieb: Nachweise prüfen",
+      "description": "Vergleichen Sie acht Zion-Ressourcen für Infrastruktur und Raumfahrtbetrieb, unterscheiden Sie lokale Demos von Referenzseiten und planen Sie einen überprüfbaren Piloten.",
+      "intro": "Wählen Sie die Ressource passend zu Ihrer nächsten Planungsfrage. Infrastrukturmonitor und Kapazitätsplaner bieten lokale Rechendemonstrationen; die anderen Links führen zu Referenzmaterial oder einem Beispiel-Dashboard. Bestimmen Sie die nötigen Nachweise, bevor Sie einen vernetzten Dienst oder eine betriebliche Änderung vorschlagen.",
+      "scope": "Die Ressourcenseiten öffnen sich derzeit auf Englisch. Eine Browserberechnung oder Beispieltabelle belegt weder Live-Überwachung noch ein trainiertes Modell, erfolgreiche Wiederherstellung oder automatische Steuerung. Dokumentieren Sie Verantwortung, nachgewiesene Ergebnisse und Freigaben für jede vorgeschlagene Umsetzung.",
+      "sections": [
+        {
+          "id": "space",
+          "title": "Raumfahrtbetrieb und Edge-Bereitstellung",
+          "intro": "Nutzen Sie diese Referenzen, um Anforderungen zu sammeln und eine nachvollziehbare Vorführung anzufordern. Betriebliche Entscheidungen bleiben beim zuständigen autorisierten Team.",
+          "resources": [
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "source": "https://github.com/Zion-support/orbital-conjunction-screener",
+              "description": "Referenz für Anforderungen an die Prüfung orbitaler Annäherungen. Klären Sie Datenherkunft, Zeitstempel, Unsicherheit und fachliche Prüfung; die Seite allein validiert weder Kollisionsprüfung noch Manöverentscheidungen.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "source": "https://github.com/Zion-support/ground-station-link-monitor",
+              "description": "Referenz für Anforderungen an die Verbindungsüberwachung. Bestimmen Sie Stationen, Telemetriequellen, Alarmgrenzen und Eskalationsverantwortung; verlangen Sie eine Funktionsvorführung, bevor Sie Live-Überwachung voraussetzen.",
+              "language": "en"
+            },
+            {
+              "name": "Satellite Pass Scheduler",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "source": "https://github.com/Zion-support/satellite-pass-scheduler",
+              "description": "Referenz zur Planung von Kontaktfenstern. Dokumentieren Sie Zeitzonen, Stationsbeschränkungen und Regeln zur Konfliktlösung; lassen Sie den vorgeschlagenen Zeitplan vom verantwortlichen Betreiber prüfen.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "source": "https://github.com/Zion-support/ai-edge-deployer",
+              "description": "Referenz zur Planung einer Edge-Bereitstellung. Erfassen Sie Gerätekompatibilität, Modellversion, Abnahmeprüfungen und Rücksetzanforderungen, bevor Sie einen Bereitstellungstest vereinbaren.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "reliability",
+          "title": "Infrastruktur und Wiederherstellungsbereitschaft",
+          "intro": "Trennen Sie Recheneingaben, beobachtete Messwerte und Beispieldaten. Stützen Sie Dienstleistungs- oder Geräteentscheidungen auf tatsächliche Testnachweise.",
+          "resources": [
+            {
+              "name": "AI Infrastructure Monitor",
+              "href": "https://ziontechgroup.com/ai-infrastructure-monitor/",
+              "source": "https://github.com/Zion-support/ai-infrastructure-monitor",
+              "description": "Lokale Demonstration, die aus drei eingegebenen Zahlen einen z-Wert berechnet. Die Meldungen folgen festen Regeln; die Seite belegt weder Telemetrieanbindung noch Ursachenanalyse.",
+              "language": "en"
+            },
+            {
+              "name": "AI Cluster Manager",
+              "href": "https://ziontechgroup.com/ai-cluster-manager/",
+              "source": "https://github.com/Zion-support/ai-cluster-manager",
+              "description": "Referenz für Anforderungen an die Clusterverwaltung. Bestimmen Sie Bestand, zulässige Zugriffe, vorgeschlagene Änderungen und Rücksetzverantwortung; prüfen Sie tatsächliche Funktionen, bevor Sie automatische Fehlerbehebung voraussetzen.",
+              "language": "en"
+            },
+            {
+              "name": "AI Capacity Planner",
+              "href": "https://ziontechgroup.com/ai-capacity-planner/",
+              "source": "https://github.com/Zion-support/ai-capacity-planner",
+              "description": "Lokaler Rechner für Wachstumsszenarien mit eingegebenen Ausgangswerten und festen Formeln. Die Diagrammwarnungen sind illustrativ, keine Auslastungsmessungen; vergleichen Sie Annahmen mit beobachtetem Bedarf und tatsächlichen Grenzen.",
+              "language": "en"
+            },
+            {
+              "name": "AI Backup Integrity",
+              "href": "https://ziontechgroup.com/ai-backup-integrity/",
+              "source": "https://github.com/Zion-support/ai-backup-integrity",
+              "description": "Statisches Beispiel-Dashboard mit Sicherungsstatus und vorgeschlagenen Prüfungen. Systeme, Termine und Prozentwerte sind Beispiele; beschaffen Sie echte Auftragsprotokolle und Wiederherstellungsnachweise für Ihre Umgebung.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Entscheidung und Ausgangsbasis festlegen",
+          "body": "Dokumentieren Sie System, Verantwortung, aktuelle Messwerte, Einheiten und Beobachtungszeitraum. Halten Sie fest, ob es um eine Berechnung, eine Planungsprüfung oder eine vorgeschlagene Integration geht."
+        },
+        {
+          "title": "Eine wiederholbare Vorführung anfordern",
+          "body": "Definieren Sie Beispieldaten, erwartetes Ergebnis und Abnahmekriterien. Dokumentieren Sie tatsächliche Ausgaben einschließlich Fehlern und Annahmen und vergleichen Sie sie mit einem unabhängig geprüften Beispiel."
+        },
+        {
+          "title": "Die Übergabe vorbereiten",
+          "body": "Fassen Sie geprüfte Ergebnisse, offene Anforderungen, Zugriffsbedarf und Rücksetzverfahren zusammen. Holen Sie erforderliche technische und kaufmännische Freigaben vor Bereitstellung, Kauf oder Vor-Ort-Einsatz ein."
+        }
+      ],
+      "example": {
+        "title": "Illustratives Beispiel: eine Kapazitätsprüfung",
+        "body": "Bei einer hypothetischen Ausgangsbasis von 50 virtuellen Maschinen und 20 % jährlichem Wachstum zeigt der Rechner im ersten Jahr 60 virtuelle Maschinen. Das ist ein Formelergebnis, kein beobachteter Bedarf und keine verbleibende Kapazität. Dokumentieren Sie die Verantwortung für den Ausgangswert und vergleichen Sie das Szenario vor einer Geräteanforderung mit echten Messwerten. Die Abnahme von Sicherungen erfordert gesonderte Nachweise aus Wiederherstellungstests."
+      }
+    }
+  },
+  "legacyLinks": [
+    {
+      "number": 76,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch76-oct04.html"
+    },
+    {
+      "number": 75,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch75-oct04.html"
+    }
+  ]
+}

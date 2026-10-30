@@ -1,0 +1,196 @@
+{
+  "id": "green-education",
+  "basePath": "app/network-green-energy-education-showcase",
+  "locales": {
+    "en": {
+      "title": "Energy and education: plan a measurable pilot",
+      "description": "Explore ten Zion energy and education resources, define useful inputs and compare a small pilot against a clear baseline.",
+      "intro": "Start with one question you can evaluate: which building needs an energy review, or which lesson needs clearer evidence of learning? These resources help frame the discussion and identify what a useful pilot would need to demonstrate.",
+      "scope": "This collection links to ten descriptive resource pages in English. Use them to scope a pilot, then confirm demonstrated functionality, integration requirements and review responsibilities before relying on an output. Resource descriptions alone do not establish savings, learning gains or working automation.",
+      "sections": [
+        {
+          "id": "energy",
+          "title": "Energy and sustainability",
+          "intro": "Record the measurement period, units, data source and responsible reviewer before comparing an energy or emissions scenario.",
+          "resources": [
+            {"name": "Energy Audit Copilot", "href": "https://ziontechgroup.com/energy-audit-copilot/", "description": "Reference for an energy-audit pilot. Assemble utility records, operating hours and building context; ask for traceable calculations and a specialist's review of proposed measures.", "language": "en"},
+            {"name": "Smart Grid Load Balancer", "href": "https://ziontechgroup.com/smart-grid-load-balancer/", "description": "Reference for load-management planning. Define equipment limits, permitted actions and operator responsibility before evaluating any proposed integration or control function.", "language": "en"},
+            {"name": "Renewable Energy Forecaster", "href": "https://ziontechgroup.com/renewable-energy-forecaster/", "description": "Reference for a forecasting evaluation. Specify the site, time horizon and historical observations; compare predictions with a simple baseline and retain the error measurements.", "language": "en"},
+            {"name": "Carbon Footprint Tracker", "href": "https://ziontechgroup.com/carbon-footprint-tracker/", "description": "Reference for emissions-data planning. Identify organizational boundaries, activity records, factor sources and review ownership before treating a report as complete.", "language": "en"},
+            {"name": "Energy Optimizer AI", "href": "https://ziontechgroup.com/energy-optimizer-ai/", "description": "Reference for reviewing facility-energy scenarios. Separate suggested schedule changes from approved interventions, and define comfort constraints and how results would be measured.", "language": "en"}
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Teaching and learning",
+          "intro": "Begin with synthetic or appropriately anonymized examples. Keep curriculum choices, learner feedback and interpretation with the responsible educator.",
+          "resources": [
+            {"name": "Lesson Plan Generator", "href": "https://ziontechgroup.com/lesson-plan-generator/", "description": "Reference for lesson-planning requirements. Define objectives, available time, learner context and assessment criteria; review the proposed lesson before classroom use.", "language": "en"},
+            {"name": "Student Progress Tracker", "href": "https://ziontechgroup.com/student-progress-tracker/", "description": "Reference for progress-review design. Choose observable learning evidence, a consistent rubric and a review interval before interpreting trends or recommending support.", "language": "en"},
+            {"name": "Curriculum Alignment Checker", "href": "https://ziontechgroup.com/curriculum-alignment-checker/", "description": "Reference for a curriculum-mapping pilot. Link each learning objective to the applicable standard and an example activity, then have an educator review gaps and matches.", "language": "en"},
+            {"name": "Learning Outcome Dashboard", "href": "https://ziontechgroup.com/learning-outcome-dashboard/", "description": "Reference for an outcomes dashboard. Agree on metric definitions, cohort boundaries and data completeness before comparing courses or interpreting changes.", "language": "en"},
+            {"name": "Tutoring Session Analyzer", "href": "https://ziontechgroup.com/tutoring-session-analyzer/", "description": "Reference for reviewing tutoring sessions. Define permitted source material and review criteria; ask the tutor to validate observations and proposed follow-up activities.", "language": "en"}
+          ]
+        }
+      ],
+      "steps": [
+        {"title": "Choose one decision", "body": "Write the question, current process, owner and review date. Select one building, lesson or course so the pilot has a manageable scope."},
+        {"title": "Define the evidence", "body": "List the input sources, units or rubric, comparison baseline and acceptance criteria. Request a demonstration using suitable sample data before planning an integration."},
+        {"title": "Review before expanding", "body": "Record the observed result, assumptions, exceptions and reviewer decision. Expand only after the owner has accepted the evidence and any required operational approvals are in place."}
+      ],
+      "example": {"title": "Illustrative example: a training center", "body": "A training center wants to review evening electricity use and one course's lesson structure. It prepares separate sample datasets: weekly meter readings with opening hours, and a lesson plan with its learning objectives. The facilities lead reviews the energy comparison; an educator reviews the curriculum mapping. Their findings remain two independently reviewed pilot results, with no assumed savings or improvement in learning."}
+    },
+    "pt": {
+      "title": "Energia e educação: planeje um piloto mensurável",
+      "description": "Explore dez recursos Zion de energia e educação, defina os dados necessários e compare um pequeno piloto com uma referência clara.",
+      "intro": "Comece com uma pergunta que possa avaliar: qual edifício precisa de uma análise energética ou qual aula precisa de evidências mais claras de aprendizagem? Estes recursos ajudam a estruturar a conversa e identificar o que um piloto útil precisa demonstrar.",
+      "scope": "Esta coleção reúne dez páginas descritivas de recursos em inglês. Use-as para definir um piloto e confirme as funções demonstradas, os requisitos de integração e os responsáveis pela revisão antes de utilizar um resultado. As descrições, por si só, não comprovam economia, ganhos de aprendizagem ou automação em funcionamento.",
+      "sections": [
+        {
+          "id": "energy",
+          "title": "Energia e sustentabilidade",
+          "intro": "Registre o período de medição, as unidades, a fonte dos dados e o responsável pela revisão antes de comparar cenários de energia ou emissões.",
+          "resources": [
+            {"name": "Energy Audit Copilot", "href": "https://ziontechgroup.com/energy-audit-copilot/", "description": "Referência para um piloto de auditoria energética. Reúna contas de consumo, horários de operação e informações do edifício; peça cálculos rastreáveis e revisão especializada das medidas propostas.", "language": "en"},
+            {"name": "Smart Grid Load Balancer", "href": "https://ziontechgroup.com/smart-grid-load-balancer/", "description": "Referência para planejar a gestão de cargas. Defina os limites dos equipamentos, as ações permitidas e a responsabilidade do operador antes de avaliar integrações ou funções de controle.", "language": "en"},
+            {"name": "Renewable Energy Forecaster", "href": "https://ziontechgroup.com/renewable-energy-forecaster/", "description": "Referência para avaliar previsões. Especifique o local, o horizonte de tempo e as observações históricas; compare as previsões com uma referência simples e registre os erros medidos.", "language": "en"},
+            {"name": "Carbon Footprint Tracker", "href": "https://ziontechgroup.com/carbon-footprint-tracker/", "description": "Referência para organizar dados de emissões. Identifique os limites organizacionais, os registros de atividade, as fontes dos fatores e o responsável pela revisão antes de considerar um relatório completo.", "language": "en"},
+            {"name": "Energy Optimizer AI", "href": "https://ziontechgroup.com/energy-optimizer-ai/", "description": "Referência para revisar cenários de consumo predial. Separe sugestões de mudança de horários das intervenções aprovadas e defina limites de conforto e a forma de medir os resultados.", "language": "en"}
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Ensino e aprendizagem",
+          "intro": "Comece com exemplos sintéticos ou devidamente anonimizados. Mantenha as decisões curriculares, o retorno aos alunos e a interpretação sob responsabilidade do educador.",
+          "resources": [
+            {"name": "Lesson Plan Generator", "href": "https://ziontechgroup.com/lesson-plan-generator/", "description": "Referência para os requisitos de planejamento de aulas. Defina objetivos, tempo disponível, contexto dos alunos e critérios de avaliação; revise a proposta antes de usá-la em sala.", "language": "en"},
+            {"name": "Student Progress Tracker", "href": "https://ziontechgroup.com/student-progress-tracker/", "description": "Referência para estruturar o acompanhamento da aprendizagem. Escolha evidências observáveis, uma rubrica consistente e um intervalo de revisão antes de interpretar tendências ou recomendar apoio.", "language": "en"},
+            {"name": "Curriculum Alignment Checker", "href": "https://ziontechgroup.com/curriculum-alignment-checker/", "description": "Referência para um piloto de mapeamento curricular. Relacione cada objetivo à referência curricular aplicável e a uma atividade de exemplo; peça ao educador que revise lacunas e correspondências.", "language": "en"},
+            {"name": "Learning Outcome Dashboard", "href": "https://ziontechgroup.com/learning-outcome-dashboard/", "description": "Referência para um painel de resultados de aprendizagem. Combine as definições dos indicadores, os limites dos grupos e a completude dos dados antes de comparar cursos ou interpretar mudanças.", "language": "en"},
+            {"name": "Tutoring Session Analyzer", "href": "https://ziontechgroup.com/tutoring-session-analyzer/", "description": "Referência para revisar sessões de tutoria. Defina quais materiais podem ser utilizados e os critérios de revisão; peça ao tutor que valide as observações e as atividades de acompanhamento propostas.", "language": "en"}
+          ]
+        }
+      ],
+      "steps": [
+        {"title": "Escolha uma decisão", "body": "Registre a pergunta, o processo atual, o responsável e a data de revisão. Selecione um edifício, uma aula ou um curso para manter o escopo viável."},
+        {"title": "Defina as evidências", "body": "Liste as fontes de dados, as unidades ou a rubrica, a referência de comparação e os critérios de aceitação. Peça uma demonstração com amostras adequadas antes de planejar a integração."},
+        {"title": "Revise antes de ampliar", "body": "Registre o resultado observado, as premissas, as exceções e a decisão do revisor. Amplie somente após a aceitação das evidências pelo responsável e as aprovações operacionais necessárias."}
+      ],
+      "example": {"title": "Exemplo ilustrativo: um centro de treinamento", "body": "Um centro de treinamento quer revisar o consumo de eletricidade à noite e a estrutura de uma disciplina. Ele prepara duas amostras separadas: leituras semanais do medidor com os horários de funcionamento e um plano de aula com seus objetivos. O responsável pelas instalações revisa a comparação energética; um educador revisa o mapeamento curricular. São dois resultados de piloto avaliados separadamente, sem presumir economia ou melhoria de aprendizagem."}
+    },
+    "es": {
+      "title": "Energía y educación: planifique un piloto medible",
+      "description": "Explore diez recursos Zion de energía y educación, defina los datos necesarios y compare un pequeño piloto con una referencia clara.",
+      "intro": "Empiece con una pregunta que pueda evaluar: ¿qué edificio necesita una revisión energética o qué clase necesita pruebas más claras del aprendizaje? Estos recursos ayudan a estructurar la conversación e identificar lo que debe demostrar un piloto útil.",
+      "scope": "Esta colección enlaza diez páginas descriptivas de recursos en inglés. Úselas para definir un piloto y confirme las funciones demostradas, los requisitos de integración y las responsabilidades de revisión antes de utilizar un resultado. Las descripciones por sí solas no acreditan ahorros, mejoras del aprendizaje ni automatización operativa.",
+      "sections": [
+        {
+          "id": "energy",
+          "title": "Energía y sostenibilidad",
+          "intro": "Registre el período de medición, las unidades, la fuente de datos y la persona revisora antes de comparar escenarios energéticos o de emisiones.",
+          "resources": [
+            {"name": "Energy Audit Copilot", "href": "https://ziontechgroup.com/energy-audit-copilot/", "description": "Referencia para un piloto de auditoría energética. Reúna facturas, horarios de actividad y contexto del edificio; solicite cálculos trazables y una revisión especializada de las medidas propuestas.", "language": "en"},
+            {"name": "Smart Grid Load Balancer", "href": "https://ziontechgroup.com/smart-grid-load-balancer/", "description": "Referencia para planificar la gestión de cargas. Defina los límites de los equipos, las acciones permitidas y la responsabilidad del operador antes de evaluar integraciones o funciones de control.", "language": "en"},
+            {"name": "Renewable Energy Forecaster", "href": "https://ziontechgroup.com/renewable-energy-forecaster/", "description": "Referencia para evaluar previsiones. Especifique el emplazamiento, el horizonte temporal y las observaciones históricas; compare las previsiones con una referencia sencilla y conserve las mediciones del error.", "language": "en"},
+            {"name": "Carbon Footprint Tracker", "href": "https://ziontechgroup.com/carbon-footprint-tracker/", "description": "Referencia para organizar datos de emisiones. Identifique los límites organizativos, los registros de actividad, las fuentes de los factores y la responsabilidad de revisión antes de considerar completo un informe.", "language": "en"},
+            {"name": "Energy Optimizer AI", "href": "https://ziontechgroup.com/energy-optimizer-ai/", "description": "Referencia para revisar escenarios de consumo de instalaciones. Separe los cambios de horario sugeridos de las intervenciones aprobadas y defina límites de confort y cómo medir los resultados.", "language": "en"}
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Enseñanza y aprendizaje",
+          "intro": "Empiece con ejemplos sintéticos o debidamente anonimizados. Mantenga las decisiones curriculares, la orientación al alumnado y la interpretación bajo responsabilidad docente.",
+          "resources": [
+            {"name": "Lesson Plan Generator", "href": "https://ziontechgroup.com/lesson-plan-generator/", "description": "Referencia para definir la planificación de clases. Establezca objetivos, tiempo disponible, contexto del alumnado y criterios de evaluación; revise la propuesta antes de utilizarla en el aula.", "language": "en"},
+            {"name": "Student Progress Tracker", "href": "https://ziontechgroup.com/student-progress-tracker/", "description": "Referencia para diseñar el seguimiento del progreso. Elija pruebas observables, una rúbrica coherente y un intervalo de revisión antes de interpretar tendencias o recomendar apoyo.", "language": "en"},
+            {"name": "Curriculum Alignment Checker", "href": "https://ziontechgroup.com/curriculum-alignment-checker/", "description": "Referencia para un piloto de correspondencia curricular. Vincule cada objetivo con el estándar aplicable y una actividad de ejemplo; pida al docente que revise las carencias y correspondencias.", "language": "en"},
+            {"name": "Learning Outcome Dashboard", "href": "https://ziontechgroup.com/learning-outcome-dashboard/", "description": "Referencia para un panel de resultados de aprendizaje. Acuerde las definiciones de los indicadores, los límites de las cohortes y la integridad de los datos antes de comparar cursos o interpretar cambios.", "language": "en"},
+            {"name": "Tutoring Session Analyzer", "href": "https://ziontechgroup.com/tutoring-session-analyzer/", "description": "Referencia para revisar sesiones de tutoría. Defina el material que se puede utilizar y los criterios de revisión; pida al tutor que valide las observaciones y las actividades de seguimiento propuestas.", "language": "en"}
+          ]
+        }
+      ],
+      "steps": [
+        {"title": "Elija una decisión", "body": "Escriba la pregunta, el proceso actual, la persona responsable y la fecha de revisión. Seleccione un edificio, una clase o un curso para mantener un alcance manejable."},
+        {"title": "Defina las pruebas", "body": "Enumere las fuentes, las unidades o la rúbrica, la referencia de comparación y los criterios de aceptación. Solicite una demostración con muestras adecuadas antes de planificar una integración."},
+        {"title": "Revise antes de ampliar", "body": "Registre el resultado observado, los supuestos, las excepciones y la decisión del revisor. Amplíe solo tras la aceptación de las pruebas por el responsable y las aprobaciones operativas necesarias."}
+      ],
+      "example": {"title": "Ejemplo ilustrativo: un centro de formación", "body": "Un centro de formación quiere revisar el consumo eléctrico nocturno y la estructura de una asignatura. Prepara dos muestras separadas: lecturas semanales del contador con los horarios de apertura y un plan de clase con sus objetivos. El responsable de instalaciones revisa la comparación energética; un docente revisa la correspondencia curricular. Son dos resultados de piloto evaluados por separado, sin presuponer ahorros ni mejoras del aprendizaje."}
+    },
+    "fr": {
+      "title": "Énergie et éducation : préparer un pilote mesurable",
+      "description": "Explorez dix ressources Zion sur l’énergie et l’éducation, définissez les données utiles et comparez un pilote limité à une référence claire.",
+      "intro": "Commencez par une question évaluable : quel bâtiment nécessite une analyse énergétique, ou quel cours manque de preuves d’apprentissage claires ? Ces ressources aident à structurer la discussion et à définir ce qu’un pilote utile doit démontrer.",
+      "scope": "Cette collection renvoie vers dix pages descriptives en anglais. Utilisez-les pour cadrer un pilote, puis vérifiez les fonctions démontrées, les besoins d’intégration et les responsabilités de validation avant d’exploiter un résultat. Les descriptions seules ne prouvent ni économies, ni progrès pédagogiques, ni automatisation opérationnelle.",
+      "sections": [
+        {
+          "id": "energy",
+          "title": "Énergie et durabilité",
+          "intro": "Consignez la période de mesure, les unités, la source des données et le responsable de la revue avant de comparer des scénarios énergétiques ou d’émissions.",
+          "resources": [
+            {"name": "Energy Audit Copilot", "href": "https://ziontechgroup.com/energy-audit-copilot/", "description": "Référence pour un pilote d’audit énergétique. Rassemblez factures, horaires d’activité et contexte du bâtiment ; demandez des calculs traçables et une revue spécialisée des mesures proposées.", "language": "en"},
+            {"name": "Smart Grid Load Balancer", "href": "https://ziontechgroup.com/smart-grid-load-balancer/", "description": "Référence pour préparer la gestion des charges. Définissez les limites des équipements, les actions permises et la responsabilité de l’opérateur avant d’évaluer une intégration ou une fonction de commande.", "language": "en"},
+            {"name": "Renewable Energy Forecaster", "href": "https://ziontechgroup.com/renewable-energy-forecaster/", "description": "Référence pour évaluer des prévisions. Précisez le site, l’horizon temporel et les observations historiques ; comparez les prévisions à une référence simple et conservez les mesures d’erreur.", "language": "en"},
+            {"name": "Carbon Footprint Tracker", "href": "https://ziontechgroup.com/carbon-footprint-tracker/", "description": "Référence pour organiser les données d’émissions. Identifiez les limites organisationnelles, les données d’activité, les sources des facteurs et le responsable de la revue avant de considérer un rapport comme complet.", "language": "en"},
+            {"name": "Energy Optimizer AI", "href": "https://ziontechgroup.com/energy-optimizer-ai/", "description": "Référence pour examiner des scénarios de consommation des bâtiments. Distinguez les changements d’horaires proposés des interventions approuvées et définissez les contraintes de confort et la mesure des résultats.", "language": "en"}
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Enseignement et apprentissage",
+          "intro": "Commencez avec des exemples synthétiques ou correctement anonymisés. Confiez les choix pédagogiques, le retour aux apprenants et l’interprétation à l’enseignant responsable.",
+          "resources": [
+            {"name": "Lesson Plan Generator", "href": "https://ziontechgroup.com/lesson-plan-generator/", "description": "Référence pour définir une préparation de cours. Précisez objectifs, durée disponible, contexte des apprenants et critères d’évaluation ; relisez la proposition avant de l’utiliser en classe.", "language": "en"},
+            {"name": "Student Progress Tracker", "href": "https://ziontechgroup.com/student-progress-tracker/", "description": "Référence pour concevoir le suivi des progrès. Choisissez des preuves observables, une grille cohérente et un intervalle de revue avant d’interpréter les tendances ou de proposer un accompagnement.", "language": "en"},
+            {"name": "Curriculum Alignment Checker", "href": "https://ziontechgroup.com/curriculum-alignment-checker/", "description": "Référence pour un pilote de correspondance au programme. Reliez chaque objectif au référentiel applicable et à une activité d’exemple, puis faites vérifier les écarts et correspondances par un enseignant.", "language": "en"},
+            {"name": "Learning Outcome Dashboard", "href": "https://ziontechgroup.com/learning-outcome-dashboard/", "description": "Référence pour un tableau de résultats d’apprentissage. Convenez des définitions des indicateurs, du périmètre des cohortes et de la complétude des données avant de comparer les cours ou d’interpréter les évolutions.", "language": "en"},
+            {"name": "Tutoring Session Analyzer", "href": "https://ziontechgroup.com/tutoring-session-analyzer/", "description": "Référence pour examiner des séances de tutorat. Définissez les supports autorisés et les critères de revue ; demandez au tuteur de valider les observations et les activités de suivi proposées.", "language": "en"}
+          ]
+        }
+      ],
+      "steps": [
+        {"title": "Choisir une décision", "body": "Écrivez la question, le processus actuel, le responsable et la date de revue. Retenez un bâtiment, une séance ou un cours pour garder un périmètre maîtrisable."},
+        {"title": "Définir les preuves", "body": "Listez les sources, les unités ou la grille, la référence de comparaison et les critères d’acceptation. Demandez une démonstration sur un échantillon adapté avant de prévoir une intégration."},
+        {"title": "Évaluer avant d’étendre", "body": "Consignez le résultat observé, les hypothèses, les exceptions et la décision du relecteur. Étendez le pilote après acceptation des preuves par le responsable et obtention des approbations opérationnelles nécessaires."}
+      ],
+      "example": {"title": "Exemple illustratif : un centre de formation", "body": "Un centre de formation souhaite examiner sa consommation électrique en soirée et la structure d’un cours. Il prépare deux échantillons distincts : des relevés hebdomadaires avec les horaires d’ouverture, et un plan de cours avec ses objectifs. Le responsable des installations examine la comparaison énergétique ; un enseignant examine la correspondance au programme. Ces deux résultats de pilote sont évalués séparément, sans présumer d’économies ni de progrès pédagogiques."}
+    },
+    "de": {
+      "title": "Energie und Bildung: einen messbaren Pilotversuch planen",
+      "description": "Entdecken Sie zehn Zion-Ressourcen zu Energie und Bildung, bestimmen Sie geeignete Eingaben und vergleichen Sie einen begrenzten Pilotversuch mit einer klaren Ausgangsbasis.",
+      "intro": "Beginnen Sie mit einer prüfbaren Frage: Welches Gebäude benötigt eine Energieanalyse, oder welche Unterrichtseinheit braucht klarere Lernnachweise? Diese Ressourcen helfen, das Gespräch zu strukturieren und festzulegen, was ein sinnvoller Pilotversuch zeigen soll.",
+      "scope": "Diese Sammlung verlinkt zehn beschreibende Ressourcenseiten auf Englisch. Nutzen Sie sie zur Planung eines Pilotversuchs und prüfen Sie nachgewiesene Funktionen, Integrationsanforderungen und Prüfverantwortung, bevor Sie Ergebnisse verwenden. Beschreibungen allein belegen weder Einsparungen noch Lernfortschritte oder funktionierende Automatisierung.",
+      "sections": [
+        {
+          "id": "energy",
+          "title": "Energie und Nachhaltigkeit",
+          "intro": "Halten Sie Messzeitraum, Einheiten, Datenquelle und Prüfverantwortung fest, bevor Sie Energie- oder Emissionsszenarien vergleichen.",
+          "resources": [
+            {"name": "Energy Audit Copilot", "href": "https://ziontechgroup.com/energy-audit-copilot/", "description": "Referenz für einen Energieaudit-Piloten. Stellen Sie Verbrauchsbelege, Betriebszeiten und Gebäudedaten zusammen; verlangen Sie nachvollziehbare Berechnungen und eine fachliche Prüfung vorgeschlagener Maßnahmen.", "language": "en"},
+            {"name": "Smart Grid Load Balancer", "href": "https://ziontechgroup.com/smart-grid-load-balancer/", "description": "Referenz zur Planung des Lastmanagements. Bestimmen Sie Gerätegrenzen, zulässige Aktionen und die Verantwortung des Betreibers, bevor Sie Integrationen oder Steuerungsfunktionen bewerten.", "language": "en"},
+            {"name": "Renewable Energy Forecaster", "href": "https://ziontechgroup.com/renewable-energy-forecaster/", "description": "Referenz zur Bewertung von Prognosen. Legen Sie Standort, Zeithorizont und historische Beobachtungen fest; vergleichen Sie Vorhersagen mit einer einfachen Referenz und dokumentieren Sie die gemessenen Fehler.", "language": "en"},
+            {"name": "Carbon Footprint Tracker", "href": "https://ziontechgroup.com/carbon-footprint-tracker/", "description": "Referenz zur Vorbereitung von Emissionsdaten. Bestimmen Sie Organisationsgrenzen, Aktivitätsdaten, Quellen der Faktoren und Prüfverantwortung, bevor Sie einen Bericht als vollständig einstufen.", "language": "en"},
+            {"name": "Energy Optimizer AI", "href": "https://ziontechgroup.com/energy-optimizer-ai/", "description": "Referenz zur Prüfung von Energieverbrauchsszenarien für Gebäude. Trennen Sie vorgeschlagene Zeitplanänderungen von genehmigten Eingriffen und definieren Sie Komfortgrenzen sowie die Ergebnismessung.", "language": "en"}
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Lehren und Lernen",
+          "intro": "Beginnen Sie mit synthetischen oder angemessen anonymisierten Beispielen. Lehrplanentscheidungen, Rückmeldungen und die Interpretation bleiben bei der verantwortlichen Lehrkraft.",
+          "resources": [
+            {"name": "Lesson Plan Generator", "href": "https://ziontechgroup.com/lesson-plan-generator/", "description": "Referenz für Anforderungen an die Unterrichtsplanung. Bestimmen Sie Lernziele, verfügbare Zeit, Lernkontext und Bewertungskriterien; prüfen Sie den Vorschlag vor dem Einsatz im Unterricht.", "language": "en"},
+            {"name": "Student Progress Tracker", "href": "https://ziontechgroup.com/student-progress-tracker/", "description": "Referenz für die Gestaltung der Lernfortschrittsprüfung. Wählen Sie beobachtbare Nachweise, ein einheitliches Bewertungsraster und einen Prüfzyklus, bevor Sie Trends deuten oder Unterstützung empfehlen.", "language": "en"},
+            {"name": "Curriculum Alignment Checker", "href": "https://ziontechgroup.com/curriculum-alignment-checker/", "description": "Referenz für einen Pilotversuch zur Lehrplanzuordnung. Verknüpfen Sie jedes Lernziel mit dem geltenden Standard und einer Beispielaufgabe; lassen Sie Lücken und Zuordnungen durch eine Lehrkraft prüfen.", "language": "en"},
+            {"name": "Learning Outcome Dashboard", "href": "https://ziontechgroup.com/learning-outcome-dashboard/", "description": "Referenz für eine Übersicht der Lernergebnisse. Vereinbaren Sie Kennzahlendefinitionen, Gruppengrenzen und Datenvollständigkeit, bevor Sie Kurse vergleichen oder Veränderungen interpretieren.", "language": "en"},
+            {"name": "Tutoring Session Analyzer", "href": "https://ziontechgroup.com/tutoring-session-analyzer/", "description": "Referenz zur Prüfung von Tutorien. Legen Sie zulässiges Ausgangsmaterial und Prüfkriterien fest; lassen Sie Beobachtungen und vorgeschlagene Folgeaufgaben durch die betreuende Lehrkraft bestätigen.", "language": "en"}
+          ]
+        }
+      ],
+      "steps": [
+        {"title": "Eine Entscheidung auswählen", "body": "Notieren Sie Frage, bisherigen Ablauf, verantwortliche Person und Prüftermin. Begrenzen Sie den Versuch auf ein Gebäude, eine Unterrichtseinheit oder einen Kurs."},
+        {"title": "Nachweise festlegen", "body": "Listen Sie Datenquellen, Einheiten oder Bewertungsraster, Vergleichsbasis und Abnahmekriterien auf. Fordern Sie eine Vorführung mit geeigneten Beispieldaten an, bevor Sie eine Integration planen."},
+        {"title": "Vor der Ausweitung prüfen", "body": "Dokumentieren Sie Beobachtungen, Annahmen, Ausnahmen und die Prüfentscheidung. Erweitern Sie den Versuch erst nach Annahme der Nachweise durch die verantwortliche Person und den erforderlichen betrieblichen Freigaben."}
+      ],
+      "example": {"title": "Illustratives Beispiel: ein Schulungszentrum", "body": "Ein Schulungszentrum möchte den abendlichen Stromverbrauch und den Aufbau eines Kurses prüfen. Es erstellt zwei getrennte Stichproben: wöchentliche Zählerstände mit Öffnungszeiten und einen Unterrichtsplan mit Lernzielen. Die Gebäudeverantwortlichen prüfen den Energievergleich; eine Lehrkraft prüft die Lehrplanzuordnung. Es entstehen zwei unabhängig geprüfte Pilotergebnisse, ohne unterstellte Einsparungen oder Lernverbesserungen."}
+    }
+  }
+}

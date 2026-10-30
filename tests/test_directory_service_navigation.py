@@ -61,7 +61,8 @@ class DirectoryTests(unittest.TestCase):
             suffix='' if loc=='en' else '-'+('pt-br' if loc=='pt' else loc)
             wanted={page['home'],page['prefix']+'apps/',page['prefix']+'discovery/',
                     '/zion-app-network/app-network-start-here-2026'+suffix+'.html',
-                    '/zion-app-network/app-selection-evidence-scorecard-2026'+suffix+'.html'}
+                    '/zion-app-network/app-selection-evidence-scorecard-2026'+suffix+'.html',
+                    '/zion-app-network/catalog-navigation'+suffix+'.html'}
             class Primary(HTMLParser):
                 def __init__(self,text):
                     super().__init__();self.active=False;self.links=[];self.feed(text)
@@ -74,15 +75,15 @@ class DirectoryTests(unittest.TestCase):
             with self.subTest(locale=loc):
                 self.assertEqual(set(Primary(self.render(page)).links),wanted)
     def test_new_directory_copy_has_complete_locale_parity(self):
-        fields={'label','start_label','apps_label','scorecard_label','resources_heading',
-                'resources_intro','intents','start_route','scorecard_route'}
+        fields={'label','start_label','apps_label','scorecard_label','collections_label','resources_heading',
+                'resources_intro','intents','start_route','scorecard_route','collections_route'}
         for loc,page in self.pages.items():
             with self.subTest(locale=loc):
                 self.assertEqual(set(page['entry']),fields)
                 self.assertTrue(all(page['entry'][k] for k in fields))
                 self.assertEqual(len(page['entry']['intents']),len(page['cards']))
                 self.assertEqual(len(page['steps']),4)
-        for field in ['label','start_label','apps_label','scorecard_label','resources_heading','resources_intro']:
+        for field in ['label','start_label','apps_label','scorecard_label','collections_label','resources_heading','resources_intro']:
             for loc,page in self.pages.items():
                 if loc!='en':self.assertNotEqual(page['entry'][field],self.pages['en']['entry'][field])
         for index in range(4):
