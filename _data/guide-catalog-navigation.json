@@ -30,6 +30,12 @@
               "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026.html",
               "description": "Compare the evidence behind a resource and identify what still needs review.",
               "language": "en"
+            },
+            {
+              "name": "AI agent risk checklist: prepare a pilot you can review",
+              "href": "https://ziontechgroup.com/blog/enterprise-ai-agent-risk-checklist/",
+              "description": "Define data access, permitted actions, cost assumptions and review evidence before running an AI agent pilot. Explore the related Zion tools and guides.",
+              "language": "en"
             }
           ]
         },
@@ -240,6 +246,12 @@
               "name": "Matriz de evidências para escolher um app",
               "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-pt-br.html",
               "description": "Compare as evidências de um recurso e identifique o que ainda precisa de revisão.",
+              "language": "pt"
+            },
+            {
+              "name": "Checklist de riscos de agentes de IA: prepare um piloto para avaliação",
+              "href": "https://ziontechgroup.com/pt/blog/enterprise-ai-agent-risk-checklist/",
+              "description": "Defina acesso a dados, ações permitidas, premissas de custo e evidências de revisão antes de executar um piloto com agentes de IA. Explore os recursos relacionados da Zion.",
               "language": "pt"
             }
           ]
@@ -452,6 +464,12 @@
               "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-es.html",
               "description": "Compare las evidencias de un recurso e identifique lo que aún requiere revisión.",
               "language": "es"
+            },
+            {
+              "name": "Lista de verificación de riesgos de agentes de IA: prepare un piloto para revisión",
+              "href": "https://ziontechgroup.com/es/blog/enterprise-ai-agent-risk-checklist/",
+              "description": "Defina el acceso a datos, las acciones permitidas, los supuestos de coste y las evidencias de revisión antes de ejecutar un piloto con agentes de IA. Explore los recursos relacionados de Zion.",
+              "language": "es"
             }
           ]
         },
@@ -663,6 +681,12 @@
               "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-fr.html",
               "description": "Comparez les preuves d’une ressource et repérez les points à revoir.",
               "language": "fr"
+            },
+            {
+              "name": "Risques liés aux agents d’IA : préparer un pilote vérifiable",
+              "href": "https://ziontechgroup.com/fr/blog/enterprise-ai-agent-risk-checklist/",
+              "description": "Définissez les accès aux données, les actions permises, les hypothèses de coût et les éléments à vérifier avant un pilote d’agent d’IA. Découvrez les outils et guides Zion associés.",
+              "language": "fr"
             }
           ]
         },
@@ -873,6 +897,12 @@
               "name": "App-Bewertung anhand von Nachweisen",
               "href": "https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026-de.html",
               "description": "Vergleichen Sie die Nachweise einer Ressource und erkennen Sie offene Prüfpunkte.",
+              "language": "de"
+            },
+            {
+              "name": "Risikocheckliste für KI-Agenten: einen überprüfbaren Pilotversuch vorbereiten",
+              "href": "https://ziontechgroup.com/de/blog/enterprise-ai-agent-risk-checklist/",
+              "description": "Legen Sie Datenzugriffe, erlaubte Aktionen, Kostenannahmen und Prüfnachweise fest, bevor Sie einen KI-Agenten im Pilotversuch einsetzen. Entdecken Sie passende Zion-Werkzeuge und Leitfäden.",
               "language": "de"
             }
           ]
