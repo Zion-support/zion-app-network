@@ -70,6 +70,12 @@
           "intro": "Move from scope and evidence to visit handoff and a completion record. Written client confirmation and a PO are required before a supplier commitment or dispatch.",
           "resources": [
             {
+              "name": "Prepare a clear datacenter service request",
+              "href": "https://ziontechgroup.com/zion-app-network/datacenter-service-request-guide-2026.html",
+              "description": "Turn a datacenter need into a reviewable service brief: task, equipment, access, maintenance window, quote assumptions and completion evidence.",
+              "language": "en"
+            },
+            {
               "name": "Field ticket types",
               "href": "https://ziontechgroup.com/apps/field-ticket-types.html",
               "description": "Compare break/fix, IMAC, imaging, time and materials, and dedicated staffing scopes.",
@@ -274,6 +280,12 @@
           "title": "Prepare e conclua uma visita técnica",
           "intro": "Passe do escopo e das evidências à orientação da visita e ao registro de conclusão. A confirmação escrita do cliente e a PO devem anteceder qualquer compromisso com fornecedor ou despacho.",
           "resources": [
+            {
+              "name": "Prepare uma solicitação clara de serviço em datacenter",
+              "href": "https://ziontechgroup.com/zion-app-network/datacenter-service-request-guide-2026-pt-br.html",
+              "description": "Transforme uma necessidade do datacenter em um escopo revisável: tarefa, equipamentos, acesso, janela de manutenção, premissas da cotação e evidências de conclusão.",
+              "language": "pt"
+            },
             {
               "name": "Tipos de chamados de campo",
               "href": "https://ziontechgroup.com/pt/apps/field-ticket-types.html",
@@ -480,6 +492,12 @@
           "intro": "Pase del alcance y las evidencias a la preparación de la visita y al registro de cierre. La confirmación escrita del cliente y la PO deben preceder cualquier compromiso con un proveedor o desplazamiento.",
           "resources": [
             {
+              "name": "Prepare una solicitud clara de servicio de centro de datos",
+              "href": "https://ziontechgroup.com/zion-app-network/datacenter-service-request-guide-2026-es.html",
+              "description": "Convierta una necesidad del centro de datos en un alcance revisable: tarea, equipos, acceso, ventana de mantenimiento, supuestos del presupuesto y evidencias de finalización.",
+              "language": "es"
+            },
+            {
               "name": "Tipos de solicitudes de campo",
               "href": "https://ziontechgroup.com/es/apps/field-ticket-types.html",
               "description": "Compare reparación, IMAC, preparación de imágenes, tiempo y materiales y personal dedicado.",
@@ -685,6 +703,12 @@
           "intro": "Passez du périmètre et des preuves à la préparation de l’intervention puis au dossier de clôture. La confirmation écrite du client et le bon de commande doivent précéder tout engagement fournisseur ou déplacement.",
           "resources": [
             {
+              "name": "Préparez une demande claire de service en datacenter",
+              "href": "https://ziontechgroup.com/zion-app-network/datacenter-service-request-guide-2026-fr.html",
+              "description": "Transformez un besoin du datacenter en demande vérifiable : tâche, équipements, accès, créneau de maintenance, hypothèses du devis et preuves de réalisation.",
+              "language": "fr"
+            },
+            {
               "name": "Types d’interventions sur site",
               "href": "https://ziontechgroup.com/fr/apps/field-ticket-types.html",
               "description": "Comparez réparation, IMAC, préparation d’images, temps et matériel, et personnel dédié.",
@@ -889,6 +913,12 @@
           "title": "Vor-Ort-Einsatz vorbereiten und abschließen",
           "intro": "Gehen Sie von Umfang und Nachweisen zur Einsatzübergabe und Abschlussdokumentation über. Schriftliche Kundenbestätigung und Bestellung müssen jeder Lieferantenzusage oder Entsendung vorausgehen.",
           "resources": [
+            {
+              "name": "Bereiten Sie eine klare Serviceanfrage für das Rechenzentrum vor",
+              "href": "https://ziontechgroup.com/zion-app-network/datacenter-service-request-guide-2026-de.html",
+              "description": "Formulieren Sie den Bedarf im Rechenzentrum als prüfbare Serviceanfrage: Aufgabe, Geräte, Zugang, Wartungsfenster, Angebotsannahmen und Abschlussnachweise.",
+              "language": "de"
+            },
             {
               "name": "Vor-Ort-Auftragsarten",
               "href": "https://ziontechgroup.com/de/apps/field-ticket-types.html",

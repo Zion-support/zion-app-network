@@ -1,0 +1,448 @@
+{
+  "id": "service-request",
+  "basePath": "datacenter-service-request-guide-2026",
+  "showInRelatedGuides": false,
+  "relatedGuideIds": [
+    "catalog-navigation",
+    "field-service",
+    "reliability-sre",
+    "service-request"
+  ],
+  "locales": {
+    "en": {
+      "title": "Prepare a clear datacenter service request",
+      "description": "Turn a datacenter need into a reviewable service brief: task, equipment, access, maintenance window, quote assumptions and completion evidence.",
+      "intro": "A useful request lets the service team understand the work before estimating it. Start with the outcome you need, separate confirmed facts from open questions, and use the linked Zion resources to prepare the brief, quotation review and eventual handoff.",
+      "scope": "This static guide helps prepare a request; it does not submit information, confirm availability or book a visit. Before any purchase, reservation, supplier commitment or dispatch, obtain formal written client confirmation of the exact scope and price, the client's PO and a separate, specific Zion operational release. Skills, site coverage, response targets and equipment compatibility require verification for the particular request.",
+      "sections": [
+        {
+          "id": "define-request",
+          "title": "1. Describe the task and the affected equipment",
+          "intro": "For remote hands, list the permitted observations and the remote technical owner. For break/fix, record the reported symptom, business impact and available diagnostic evidence without assuming the cause. For planned maintenance, state the approved procedure and expected outcome. For a lifecycle decision, identify whether you are comparing repair, rental, replacement or reuse.",
+          "resources": [
+            {
+              "name": "Organize the need with free Discovery",
+              "description": "Use the online questionnaire to structure the business need and read its report. Carry the relevant findings into your service brief, with an owner and an explicit list of questions still to resolve.",
+              "href": "https://ziontechgroup.com/discovery/",
+              "language": "en"
+            },
+            {
+              "name": "Compare equipment lifecycle options",
+              "description": "Review repair, rental, purchase and reuse against the equipment model, compatibility, data handling and delivery requirements. Record which assumptions need technical or supplier confirmation before requesting a price.",
+              "href": "https://ziontechgroup.com/zion-app-network/equipment-lifecycle-decision-guide-2026.html",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "prepare-quote",
+          "title": "2. Make access, timing and quotation assumptions explicit",
+          "intro": "Record the site and authorized contact, equipment model and quantity, access prerequisites, proposed date and time zone, allowed work, required skills and any known parts. Distinguish the service window from the desired response time. Identify who will confirm availability and who can approve the scope.",
+          "resources": [
+            {
+              "name": "Prepare the quotation review",
+              "description": "Use the local planning worksheet to identify labor, travel, parts, taxes, freight and applicable import costs. Verify supplier inputs separately and mark unknown costs as pending; an illustrative estimate is not a client quotation.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026.html",
+              "language": "en"
+            },
+            {
+              "name": "Define the evidence the visit should produce",
+              "description": "Specify the authorized checks, expected results, permitted photographs or logs, escalation owner and stop conditions. Reference sensitive records in the approved service system rather than copying passwords or unrestricted production data into a demonstration.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026.html",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "review-handoff",
+          "title": "3. Agree the handoff and the completion record",
+          "intro": "A complete brief supports a decision; it does not authorize execution. Keep open requirements assigned to a person and a review deadline. Define the client's acceptance contact and the evidence they will receive before the work is released.",
+          "resources": [
+            {
+              "name": "Review the field visit handoff",
+              "description": "After the scope is agreed, use the browser checklist to review access, technician evidence, parts and the separate approval records. Treat a proposed technician or time slot as unconfirmed until the responsible team verifies it in writing.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026.html",
+              "language": "en"
+            },
+            {
+              "name": "Prepare the service completion report",
+              "description": "Use the copyable template to define the expected report in advance: actual work, timestamps, test results, exceptions, open items and the client's separate acceptance. Keep each remaining action attached to an owner.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Write a brief that another person can review",
+          "body": "Record: requested outcome; service type; site and equipment model/quantity; reported impact and evidence; permitted work and exclusions; proposed window with time zone; technical and approval owners. Label each missing fact as pending and assign its next action."
+        },
+        {
+          "title": "Confirm the practical prerequisites",
+          "body": "Ask the responsible team to verify access rules, required skills, remote support, parts compatibility and availability. Request a scoped quotation with taxes, travel, freight and applicable import costs shown explicitly. Keep proposed dates separate from confirmed availability."
+        },
+        {
+          "title": "Complete the approvals before any commitment",
+          "body": "Obtain formal written client confirmation of the exact scope and price, the client's PO and a separate, specific Zion operational release before a purchase, reservation, supplier commitment or dispatch. An incomplete approval record leaves execution pending."
+        },
+        {
+          "title": "Agree how results will be reviewed",
+          "body": "Name the acceptance contact and define the expected checks, evidence format and escalation route. After authorized work, compare actual results with the agreed scope, record exceptions and obtain client acceptance separately from the technician's completion report."
+        }
+      ],
+      "example": {
+        "title": "Fictional example: an intermittent switch alarm",
+        "body": "A datacenter reports an intermittent switch alarm. Its request identifies one site, the switch model and quantity, the operational impact, redacted alarm timestamps and a proposed 22:00–00:00 window in America/Sao_Paulo. It names a remote technical owner, limits the initial scope to authorized visual checks and specifies the expected evidence. The root cause and any replacement part remain open questions. The team requests written availability and a scoped quotation; no visit is booked. Execution remains pending until the client confirms scope and price in writing, supplies the PO and Zion issues its separate operational release."
+      }
+    },
+    "pt": {
+      "title": "Prepare uma solicitação clara de serviço em datacenter",
+      "description": "Transforme uma necessidade do datacenter em um escopo revisável: tarefa, equipamentos, acesso, janela de manutenção, premissas da cotação e evidências de conclusão.",
+      "intro": "Uma boa solicitação permite que a equipe entenda o trabalho antes de estimar os custos. Comece pelo resultado desejado, separe fatos confirmados de dúvidas pendentes e use os recursos Zion para preparar o resumo, a revisão da cotação e a futura passagem do serviço.",
+      "scope": "Este guia estático ajuda a preparar uma solicitação; não envia informações, confirma disponibilidade nem agenda uma visita. Antes de qualquer compra, reserva, compromisso com fornecedor ou despacho, obtenha confirmação formal escrita do cliente para o escopo e o preço exatos, a PO do cliente e uma liberação operacional específica e separada da Zion. Competências, cobertura local, metas de resposta e compatibilidade dos equipamentos precisam ser verificadas para cada solicitação.",
+      "sections": [
+        {
+          "id": "define-request",
+          "title": "1. Descreva a tarefa e os equipamentos envolvidos",
+          "intro": "Para apoio presencial orientado remotamente, liste as observações permitidas e o responsável técnico remoto. Para reparo corretivo, registre o sintoma informado, o impacto no negócio e as evidências disponíveis, sem presumir a causa. Para manutenção programada, indique o procedimento aprovado e o resultado esperado. Para uma decisão de ciclo de vida, identifique se está comparando reparo, locação, substituição ou reutilização.",
+          "resources": [
+            {
+              "name": "Organize a necessidade com o Discovery gratuito",
+              "description": "Use o questionário online para estruturar a necessidade do negócio e visualizar o relatório. Leve os pontos relevantes ao resumo do serviço, com um responsável e uma lista explícita de dúvidas que ainda precisam ser resolvidas.",
+              "href": "https://ziontechgroup.com/pt/discovery/",
+              "language": "pt"
+            },
+            {
+              "name": "Compare opções para o ciclo de vida dos equipamentos",
+              "description": "Avalie reparo, locação, compra e reutilização considerando modelo, compatibilidade, tratamento de dados e requisitos de entrega. Registre quais premissas exigem confirmação técnica ou do fornecedor antes de solicitar um preço.",
+              "href": "https://ziontechgroup.com/zion-app-network/equipment-lifecycle-decision-guide-2026-pt-br.html",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "prepare-quote",
+          "title": "2. Explicite acesso, horários e premissas da cotação",
+          "intro": "Registre o local e o contato autorizado, modelo e quantidade dos equipamentos, pré-requisitos de acesso, data e fuso propostos, trabalho permitido, competências necessárias e peças conhecidas. Diferencie a janela de serviço do prazo desejado de resposta. Identifique quem confirmará a disponibilidade e quem pode aprovar o escopo.",
+          "resources": [
+            {
+              "name": "Prepare a revisão da cotação",
+              "description": "Use a ferramenta local de planejamento para identificar mão de obra, deslocamento, peças, impostos, frete e custos de importação aplicáveis. Verifique os dados do fornecedor separadamente e marque custos desconhecidos como pendentes; uma estimativa ilustrativa não é uma proposta ao cliente.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-pt-br.html",
+              "language": "pt"
+            },
+            {
+              "name": "Defina as evidências que a visita deve produzir",
+              "description": "Especifique verificações autorizadas, resultados esperados, fotografias ou registros permitidos, responsável por escalonamento e condições de parada. Referencie dados sensíveis no sistema de serviço autorizado, sem copiar senhas ou dados irrestritos de produção para uma demonstração.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-pt-br.html",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "review-handoff",
+          "title": "3. Combine a passagem do serviço e o registro de conclusão",
+          "intro": "Um resumo completo apoia uma decisão; não autoriza a execução. Atribua a cada requisito pendente um responsável e um prazo de revisão. Defina o contato de aceite do cliente e as evidências que ele receberá antes de liberar o trabalho.",
+          "resources": [
+            {
+              "name": "Revise a passagem da visita técnica",
+              "description": "Depois de acordar o escopo, use o checklist no navegador para revisar acesso, evidências do técnico, peças e os registros separados de aprovação. Considere técnico ou horário proposto como não confirmado até a verificação escrita pela equipe responsável.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-pt-br.html",
+              "language": "pt"
+            },
+            {
+              "name": "Prepare o relatório de conclusão do serviço",
+              "description": "Use o modelo copiável para definir antecipadamente o relatório esperado: trabalho realizado, horários, resultados dos testes, exceções, pendências e aceite separado do cliente. Mantenha cada ação restante associada a um responsável.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Escreva um resumo que outra pessoa consiga revisar",
+          "body": "Registre: resultado solicitado; tipo de serviço; local e modelo/quantidade dos equipamentos; impacto e evidências; trabalho permitido e exclusões; janela proposta com fuso horário; responsáveis técnico e de aprovação. Marque cada informação ausente como pendente e atribua a próxima ação."
+        },
+        {
+          "title": "Confirme os pré-requisitos práticos",
+          "body": "Peça à equipe responsável que verifique regras de acesso, competências necessárias, apoio remoto, compatibilidade das peças e disponibilidade. Solicite uma cotação com escopo definido e impostos, deslocamento, frete e custos de importação aplicáveis explícitos. Separe datas propostas de disponibilidade confirmada."
+        },
+        {
+          "title": "Conclua as aprovações antes de assumir compromissos",
+          "body": "Obtenha confirmação formal escrita do cliente para o escopo e o preço exatos, a PO do cliente e uma liberação operacional específica e separada da Zion antes de qualquer compra, reserva, compromisso com fornecedor ou despacho. Aprovações incompletas mantêm a execução pendente."
+        },
+        {
+          "title": "Combine como os resultados serão revisados",
+          "body": "Identifique o contato de aceite e defina verificações esperadas, formato das evidências e caminho de escalonamento. Após o trabalho autorizado, compare os resultados com o escopo acordado, registre exceções e obtenha o aceite do cliente separadamente do relatório de conclusão do técnico."
+        }
+      ],
+      "example": {
+        "title": "Exemplo fictício: alarme intermitente em um switch",
+        "body": "Um datacenter informa um alarme intermitente em um switch. A solicitação identifica um local, modelo e quantidade do equipamento, impacto operacional, horários dos alarmes com dados sensíveis removidos e uma janela proposta das 22h às 0h no fuso America/Sao_Paulo. Ela nomeia um responsável técnico remoto, limita o escopo inicial a verificações visuais autorizadas e define as evidências esperadas. A causa e uma possível peça de reposição continuam pendentes. A equipe solicita disponibilidade escrita e uma cotação delimitada; nenhuma visita é agendada. A execução aguarda confirmação escrita do cliente sobre escopo e preço, a PO e a liberação operacional separada da Zion."
+      }
+    },
+    "es": {
+      "title": "Prepare una solicitud clara de servicio de centro de datos",
+      "description": "Convierta una necesidad del centro de datos en un alcance revisable: tarea, equipos, acceso, ventana de mantenimiento, supuestos del presupuesto y evidencias de finalización.",
+      "intro": "Una buena solicitud permite al equipo comprender el trabajo antes de estimar los costes. Empiece por el resultado deseado, separe los hechos confirmados de las preguntas pendientes y utilice los recursos Zion para preparar el resumen, revisar el presupuesto y organizar el futuro traspaso del servicio.",
+      "scope": "Esta guía estática ayuda a preparar una solicitud; no envía información, confirma disponibilidad ni reserva una visita. Antes de cualquier compra, reserva, compromiso con un proveedor o envío de personal, obtenga la confirmación formal escrita del cliente sobre el alcance y el precio exactos, la orden de compra (PO) del cliente y una autorización operativa específica y separada de Zion. Las competencias, la cobertura local, los objetivos de respuesta y la compatibilidad de los equipos requieren verificación para cada solicitud.",
+      "sections": [
+        {
+          "id": "define-request",
+          "title": "1. Describa la tarea y los equipos afectados",
+          "intro": "Para apoyo presencial guiado a distancia, enumere las observaciones permitidas y el responsable técnico remoto. Para reparación correctiva, registre el síntoma comunicado, el impacto empresarial y las evidencias disponibles sin presuponer la causa. Para mantenimiento programado, indique el procedimiento aprobado y el resultado esperado. Para una decisión de ciclo de vida, identifique si compara reparación, alquiler, sustitución o reutilización.",
+          "resources": [
+            {
+              "name": "Organice la necesidad con Discovery gratuito",
+              "description": "Use el cuestionario online para estructurar la necesidad empresarial y leer el informe. Incorpore los hallazgos relevantes al resumen del servicio, con un responsable y una lista explícita de preguntas que aún deben resolverse.",
+              "href": "https://ziontechgroup.com/es/discovery/",
+              "language": "es"
+            },
+            {
+              "name": "Compare opciones del ciclo de vida de los equipos",
+              "description": "Evalúe reparación, alquiler, compra y reutilización considerando modelo, compatibilidad, tratamiento de datos y requisitos de entrega. Registre qué supuestos requieren confirmación técnica o del proveedor antes de solicitar un precio.",
+              "href": "https://ziontechgroup.com/zion-app-network/equipment-lifecycle-decision-guide-2026-es.html",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "prepare-quote",
+          "title": "2. Explicite el acceso, los horarios y los supuestos del presupuesto",
+          "intro": "Registre el centro y el contacto autorizado, modelo y cantidad de equipos, requisitos de acceso, fecha y zona horaria propuestas, trabajo permitido, competencias necesarias y piezas conocidas. Diferencie la ventana de servicio del plazo de respuesta deseado. Identifique quién confirmará la disponibilidad y quién puede aprobar el alcance.",
+          "resources": [
+            {
+              "name": "Prepare la revisión del presupuesto",
+              "description": "Use la herramienta local de planificación para identificar mano de obra, desplazamiento, piezas, impuestos, transporte y costes de importación aplicables. Verifique por separado los datos del proveedor y marque como pendientes los costes desconocidos; una estimación ilustrativa no es una oferta al cliente.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-es.html",
+              "language": "es"
+            },
+            {
+              "name": "Defina las evidencias que debe producir la visita",
+              "description": "Especifique comprobaciones autorizadas, resultados esperados, fotografías o registros permitidos, responsable de escalamiento y condiciones de parada. Referencie los datos sensibles en el sistema de servicio autorizado, sin copiar contraseñas ni datos de producción sin restricciones en una demostración.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-es.html",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "review-handoff",
+          "title": "3. Acuerde el traspaso y el registro de finalización",
+          "intro": "Un resumen completo facilita una decisión; no autoriza la ejecución. Asigne un responsable y un plazo de revisión a cada requisito pendiente. Defina el contacto de aceptación del cliente y las evidencias que recibirá antes de autorizar el trabajo.",
+          "resources": [
+            {
+              "name": "Revise el traspaso de la visita técnica",
+              "description": "Tras acordar el alcance, use la lista del navegador para revisar acceso, evidencias del técnico, piezas y registros separados de aprobación. Considere al técnico o al horario propuestos como no confirmados hasta que el equipo responsable los verifique por escrito.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-es.html",
+              "language": "es"
+            },
+            {
+              "name": "Prepare el informe de finalización del servicio",
+              "description": "Use la plantilla copiable para definir de antemano el informe esperado: trabajo realizado, horarios, resultados de pruebas, excepciones, pendientes y aceptación separada del cliente. Mantenga cada acción restante vinculada a un responsable.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html",
+              "language": "es"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Escriba un resumen que otra persona pueda revisar",
+          "body": "Registre: resultado solicitado; tipo de servicio; centro y modelo/cantidad de equipos; impacto y evidencias; trabajo permitido y exclusiones; ventana propuesta con zona horaria; responsables técnico y de aprobación. Marque cada dato ausente como pendiente y asigne la siguiente acción."
+        },
+        {
+          "title": "Confirme los requisitos prácticos",
+          "body": "Pida al equipo responsable que verifique las reglas de acceso, competencias necesarias, apoyo remoto, compatibilidad de las piezas y disponibilidad. Solicite un presupuesto delimitado con impuestos, desplazamiento, transporte y costes de importación aplicables explícitos. Separe las fechas propuestas de la disponibilidad confirmada."
+        },
+        {
+          "title": "Complete las aprobaciones antes de asumir compromisos",
+          "body": "Obtenga la confirmación formal escrita del cliente sobre alcance y precio exactos, su orden de compra (PO) y una autorización operativa específica y separada de Zion antes de cualquier compra, reserva, compromiso con un proveedor o envío de personal. Las aprobaciones incompletas mantienen la ejecución pendiente."
+        },
+        {
+          "title": "Acuerde cómo se revisarán los resultados",
+          "body": "Identifique el contacto de aceptación y defina las comprobaciones esperadas, el formato de las evidencias y la vía de escalamiento. Tras el trabajo autorizado, compare los resultados con el alcance acordado, registre excepciones y obtenga la aceptación del cliente por separado del informe de finalización del técnico."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ficticio: alarma intermitente en un conmutador",
+        "body": "Un centro de datos comunica una alarma intermitente en un conmutador. La solicitud identifica un centro, modelo y cantidad de equipos, impacto operativo, horarios de alarmas con los datos sensibles eliminados y una ventana propuesta de 22:00 a 00:00 en America/Sao_Paulo. Nombra a un responsable técnico remoto, limita el alcance inicial a comprobaciones visuales autorizadas y define las evidencias esperadas. La causa y una posible pieza de recambio siguen pendientes. El equipo solicita disponibilidad escrita y un presupuesto delimitado; no reserva ninguna visita. La ejecución espera la confirmación escrita del cliente sobre alcance y precio, su PO y la autorización operativa separada de Zion."
+      }
+    },
+    "fr": {
+      "title": "Préparez une demande claire de service en datacenter",
+      "description": "Transformez un besoin du datacenter en demande vérifiable : tâche, équipements, accès, créneau de maintenance, hypothèses du devis et preuves de réalisation.",
+      "intro": "Une demande utile permet à l’équipe de comprendre le travail avant d’en estimer le coût. Partez du résultat recherché, distinguez les faits confirmés des questions ouvertes et utilisez les ressources Zion pour préparer la demande, examiner le devis et organiser la future transmission du service.",
+      "scope": "Ce guide statique aide à préparer une demande ; il ne transmet aucune information, ne confirme aucune disponibilité et ne réserve aucune visite. Avant tout achat, réservation, engagement envers un fournisseur ou envoi de personnel, obtenez la confirmation formelle écrite du client portant sur le périmètre et le prix exacts, son bon de commande (PO) et une autorisation opérationnelle spécifique et distincte de Zion. Les compétences, la couverture locale, les objectifs de réponse et la compatibilité des équipements doivent être vérifiés pour chaque demande.",
+      "sections": [
+        {
+          "id": "define-request",
+          "title": "1. Décrivez la tâche et les équipements concernés",
+          "intro": "Pour une assistance sur site guidée à distance, indiquez les observations autorisées et le responsable technique distant. Pour une réparation corrective, consignez le symptôme signalé, l’impact métier et les éléments de diagnostic disponibles sans présumer la cause. Pour une maintenance planifiée, précisez la procédure approuvée et le résultat attendu. Pour une décision de cycle de vie, indiquez si vous comparez réparation, location, remplacement ou réutilisation.",
+          "resources": [
+            {
+              "name": "Structurez le besoin avec Discovery gratuit",
+              "description": "Utilisez le questionnaire en ligne pour structurer le besoin métier et consulter le rapport. Reprenez les résultats pertinents dans votre demande de service, avec un responsable et une liste explicite des questions restant à résoudre.",
+              "href": "https://ziontechgroup.com/fr/discovery/",
+              "language": "fr"
+            },
+            {
+              "name": "Comparez les options de cycle de vie des équipements",
+              "description": "Examinez réparation, location, achat et réutilisation selon le modèle, la compatibilité, le traitement des données et les contraintes de livraison. Notez les hypothèses nécessitant une confirmation technique ou fournisseur avant de demander un prix.",
+              "href": "https://ziontechgroup.com/zion-app-network/equipment-lifecycle-decision-guide-2026-fr.html",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "prepare-quote",
+          "title": "2. Précisez l’accès, les horaires et les hypothèses du devis",
+          "intro": "Consignez le site et le contact autorisé, le modèle et la quantité d’équipements, les conditions d’accès, la date et le fuseau horaire proposés, les travaux autorisés, les compétences nécessaires et les pièces connues. Distinguez le créneau d’intervention du délai de réponse souhaité. Identifiez qui confirmera la disponibilité et qui peut approuver le périmètre.",
+          "resources": [
+            {
+              "name": "Préparez l’examen du devis",
+              "description": "Utilisez l’outil local de planification pour identifier main-d’œuvre, déplacement, pièces, taxes, transport et frais d’importation applicables. Vérifiez séparément les données fournisseur et signalez les coûts inconnus comme en attente ; une estimation illustrative ne constitue pas un devis client.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-fr.html",
+              "language": "fr"
+            },
+            {
+              "name": "Définissez les preuves attendues de la visite",
+              "description": "Précisez les contrôles autorisés, les résultats attendus, les photos ou journaux permis, le responsable d’escalade et les conditions d’arrêt. Référencez les données sensibles dans le système de service autorisé, sans copier de mots de passe ni de données de production non restreintes dans une démonstration.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-fr.html",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "review-handoff",
+          "title": "3. Convenez de la transmission et du compte rendu de réalisation",
+          "intro": "Une demande complète facilite une décision ; elle n’autorise pas l’exécution. Attribuez à chaque exigence ouverte un responsable et une échéance de revue. Définissez le contact d’acceptation du client et les preuves qu’il recevra avant d’autoriser le travail.",
+          "resources": [
+            {
+              "name": "Revoyez la transmission de la visite technique",
+              "description": "Une fois le périmètre convenu, utilisez la liste dans le navigateur pour vérifier l’accès, les justificatifs du technicien, les pièces et les approbations distinctes. Un technicien ou un créneau proposé reste non confirmé tant que l’équipe responsable ne l’a pas vérifié par écrit.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-fr.html",
+              "language": "fr"
+            },
+            {
+              "name": "Préparez le rapport de réalisation du service",
+              "description": "Utilisez le modèle à copier pour définir à l’avance le rapport attendu : travaux réalisés, horaires, résultats des tests, exceptions, points ouverts et acceptation distincte du client. Associez chaque action restante à un responsable.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html",
+              "language": "fr"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rédigez une demande qu’une autre personne peut examiner",
+          "body": "Consignez : résultat demandé ; type de service ; site et modèle/quantité d’équipements ; impact et preuves ; travaux autorisés et exclusions ; créneau proposé avec fuseau horaire ; responsables techniques et d’approbation. Signalez chaque information manquante comme en attente et attribuez l’action suivante."
+        },
+        {
+          "title": "Confirmez les prérequis pratiques",
+          "body": "Demandez à l’équipe responsable de vérifier les règles d’accès, les compétences nécessaires, l’assistance distante, la compatibilité des pièces et la disponibilité. Demandez un devis délimité indiquant explicitement taxes, déplacement, transport et frais d’importation applicables. Distinguez dates proposées et disponibilité confirmée."
+        },
+        {
+          "title": "Obtenez les approbations avant tout engagement",
+          "body": "Obtenez la confirmation formelle écrite du client sur le périmètre et le prix exacts, son bon de commande (PO) et une autorisation opérationnelle spécifique et distincte de Zion avant tout achat, réservation, engagement envers un fournisseur ou envoi de personnel. Des approbations incomplètes maintiennent l’exécution en attente."
+        },
+        {
+          "title": "Convenez de la revue des résultats",
+          "body": "Identifiez le contact d’acceptation et définissez les contrôles attendus, le format des preuves et la voie d’escalade. Après le travail autorisé, comparez les résultats au périmètre convenu, consignez les exceptions et obtenez l’acceptation du client séparément du rapport de réalisation du technicien."
+        }
+      ],
+      "example": {
+        "title": "Exemple fictif : une alarme intermittente sur un commutateur",
+        "body": "Un datacenter signale une alarme intermittente sur un commutateur. Sa demande précise un site, le modèle et la quantité d’équipements, l’impact opérationnel, les horaires d’alarme expurgés des données sensibles et un créneau proposé de 22 h à 0 h dans le fuseau America/Sao_Paulo. Elle nomme un responsable technique distant, limite le périmètre initial aux contrôles visuels autorisés et définit les preuves attendues. La cause et une éventuelle pièce de rechange restent à déterminer. L’équipe demande une disponibilité écrite et un devis délimité ; aucune visite n’est réservée. L’exécution attend la confirmation écrite du client sur le périmètre et le prix, son PO et l’autorisation opérationnelle distincte de Zion."
+      }
+    },
+    "de": {
+      "title": "Bereiten Sie eine klare Serviceanfrage für das Rechenzentrum vor",
+      "description": "Formulieren Sie den Bedarf im Rechenzentrum als prüfbare Serviceanfrage: Aufgabe, Geräte, Zugang, Wartungsfenster, Angebotsannahmen und Abschlussnachweise.",
+      "intro": "Eine hilfreiche Anfrage ermöglicht dem Serviceteam, die Aufgabe vor der Kostenschätzung zu verstehen. Beginnen Sie mit dem gewünschten Ergebnis, trennen Sie bestätigte Fakten von offenen Fragen und nutzen Sie die Zion-Ressourcen für die Anfrage, die Angebotsprüfung und die spätere Übergabe.",
+      "scope": "Dieser statische Leitfaden hilft bei der Vorbereitung einer Anfrage; er übermittelt keine Angaben, bestätigt keine Verfügbarkeit und bucht keinen Besuch. Vor einem Kauf, einer Reservierung, einer Lieferantenzusage oder einer Entsendung sind die formelle schriftliche Kundenbestätigung des genauen Umfangs und Preises, die Kundenbestellung (PO) sowie eine separate, ausdrückliche operative Freigabe von Zion erforderlich. Qualifikationen, lokale Abdeckung, Reaktionsziele und Gerätekompatibilität müssen für die konkrete Anfrage geprüft werden.",
+      "sections": [
+        {
+          "id": "define-request",
+          "title": "1. Beschreiben Sie die Aufgabe und die betroffenen Geräte",
+          "intro": "Bei Unterstützung vor Ort unter Fernanleitung nennen Sie die erlaubten Beobachtungen und die verantwortliche technische Kontaktperson. Bei Störungsbehebung dokumentieren Sie das gemeldete Symptom, die betrieblichen Auswirkungen und vorhandene Diagnosebelege, ohne eine Ursache vorauszusetzen. Bei geplanter Wartung nennen Sie das freigegebene Verfahren und das erwartete Ergebnis. Bei einer Lebenszyklusentscheidung geben Sie an, ob Reparatur, Miete, Ersatz oder Wiederverwendung verglichen werden.",
+          "resources": [
+            {
+              "name": "Ordnen Sie den Bedarf mit dem kostenlosen Discovery",
+              "description": "Strukturieren Sie den betrieblichen Bedarf mit dem Online-Fragebogen und lesen Sie den Bericht. Übernehmen Sie relevante Ergebnisse in Ihre Serviceanfrage, mit einer verantwortlichen Person und einer ausdrücklichen Liste der noch offenen Fragen.",
+              "href": "https://ziontechgroup.com/de/discovery/",
+              "language": "de"
+            },
+            {
+              "name": "Vergleichen Sie Optionen für den Gerätelebenszyklus",
+              "description": "Prüfen Sie Reparatur, Miete, Kauf und Wiederverwendung anhand von Modell, Kompatibilität, Datenverarbeitung und Lieferanforderungen. Halten Sie fest, welche Annahmen vor einer Preisanfrage technisch oder durch den Lieferanten bestätigt werden müssen.",
+              "href": "https://ziontechgroup.com/zion-app-network/equipment-lifecycle-decision-guide-2026-de.html",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "prepare-quote",
+          "title": "2. Klären Sie Zugang, Zeitfenster und Angebotsannahmen",
+          "intro": "Dokumentieren Sie Standort und autorisierte Kontaktperson, Gerätemodell und Anzahl, Zugangsvoraussetzungen, vorgeschlagenes Datum mit Zeitzone, erlaubte Arbeiten, erforderliche Qualifikationen und bekannte Ersatzteile. Unterscheiden Sie das Servicefenster von der gewünschten Reaktionszeit. Benennen Sie, wer die Verfügbarkeit bestätigt und wer den Umfang freigeben darf.",
+          "resources": [
+            {
+              "name": "Bereiten Sie die Angebotsprüfung vor",
+              "description": "Erfassen Sie mit dem lokalen Planungswerkzeug Arbeitszeit, Anreise, Teile, Steuern, Fracht und gegebenenfalls Importkosten. Prüfen Sie Lieferantenangaben gesondert und kennzeichnen Sie unbekannte Kosten als offen; eine beispielhafte Schätzung ist kein Kundenangebot.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "Legen Sie die erwarteten Nachweise des Besuchs fest",
+              "description": "Definieren Sie autorisierte Prüfungen, erwartete Ergebnisse, erlaubte Fotos oder Protokolle, Eskalationsverantwortliche und Abbruchbedingungen. Verweisen Sie für sensible Unterlagen auf das freigegebene Servicesystem, statt Passwörter oder unbeschränkte Produktionsdaten in eine Demonstration zu kopieren.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-de.html",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "review-handoff",
+          "title": "3. Vereinbaren Sie Übergabe und Abschlussdokumentation",
+          "intro": "Eine vollständige Anfrage unterstützt eine Entscheidung; sie erlaubt keine Ausführung. Ordnen Sie jeder offenen Anforderung eine verantwortliche Person und einen Prüftermin zu. Legen Sie vor der Freigabe fest, wer auf Kundenseite abnimmt und welche Nachweise diese Person erhält.",
+          "resources": [
+            {
+              "name": "Prüfen Sie die Übergabe des Vor-Ort-Einsatzes",
+              "description": "Prüfen Sie nach Vereinbarung des Umfangs mit der Browser-Checkliste den Zugang, Qualifikationsnachweise, Teile und separate Freigabedokumente. Ein vorgeschlagener Techniker oder Termin bleibt unbestätigt, bis das verantwortliche Team ihn schriftlich verifiziert.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "Bereiten Sie den Serviceabschlussbericht vor",
+              "description": "Definieren Sie mit der kopierbaren Vorlage vorab den erwarteten Bericht: tatsächliche Arbeiten, Zeitpunkte, Prüfergebnisse, Abweichungen, offene Punkte und separate Kundenabnahme. Weisen Sie jeder verbleibenden Aufgabe eine verantwortliche Person zu.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html",
+              "language": "de"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Schreiben Sie eine für andere prüfbare Anfrage",
+          "body": "Erfassen Sie: gewünschtes Ergebnis; Serviceart; Standort und Gerätemodell/Anzahl; Auswirkungen und Nachweise; erlaubte Arbeiten und Ausschlüsse; vorgeschlagenes Zeitfenster mit Zeitzone; technische Verantwortliche und Freigabeverantwortliche. Markieren Sie fehlende Angaben als offen und weisen Sie die nächste Aktion zu."
+        },
+        {
+          "title": "Bestätigen Sie die praktischen Voraussetzungen",
+          "body": "Lassen Sie das verantwortliche Team Zugangsvorschriften, benötigte Qualifikationen, Fernunterstützung, Teilekompatibilität und Verfügbarkeit prüfen. Fordern Sie ein abgegrenztes Angebot an, das Steuern, Anreise, Fracht und gegebenenfalls Importkosten ausdrücklich ausweist. Trennen Sie vorgeschlagene Termine von bestätigter Verfügbarkeit."
+        },
+        {
+          "title": "Schließen Sie die Freigaben vor jeder Zusage ab",
+          "body": "Holen Sie vor Kauf, Reservierung, Lieferantenzusage oder Entsendung die formelle schriftliche Kundenbestätigung des genauen Umfangs und Preises, die Kundenbestellung (PO) sowie eine separate, ausdrückliche operative Freigabe von Zion ein. Bei unvollständigen Freigaben bleibt die Ausführung ausstehend."
+        },
+        {
+          "title": "Vereinbaren Sie die Ergebnisprüfung",
+          "body": "Benennen Sie die Person für die Abnahme und legen Sie erwartete Prüfungen, Nachweisformat und Eskalationsweg fest. Vergleichen Sie nach autorisierter Ausführung die Ergebnisse mit dem vereinbarten Umfang, dokumentieren Sie Abweichungen und holen Sie die Kundenabnahme getrennt vom Abschlussbericht des Technikers ein."
+        }
+      ],
+      "example": {
+        "title": "Fiktives Beispiel: ein sporadischer Switch-Alarm",
+        "body": "Ein Rechenzentrum meldet einen sporadischen Switch-Alarm. Die Anfrage nennt einen Standort, Gerätemodell und Anzahl, betriebliche Auswirkungen, um sensible Daten bereinigte Alarmzeitpunkte sowie ein vorgeschlagenes Fenster von 22:00 bis 00:00 Uhr in America/Sao_Paulo. Sie benennt eine technische Kontaktperson für die Fernanleitung, beschränkt den ersten Umfang auf autorisierte Sichtprüfungen und definiert die erwarteten Nachweise. Ursache und möglicher Ersatzteilbedarf bleiben offen. Das Team fragt schriftliche Verfügbarkeit und ein abgegrenztes Angebot an; ein Besuch wird nicht gebucht. Die Ausführung wartet auf die schriftliche Kundenbestätigung von Umfang und Preis, die PO und die separate operative Freigabe von Zion."
+      }
+    }
+  }
+}

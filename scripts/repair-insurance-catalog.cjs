@@ -28,6 +28,18 @@ const copy={
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function repairHub(source){
  assert(source.includes('</body>'),'Hub body missing');
+ if(/\bdata-network-home="network-home-[^"]+"/.test(source)){
+  const locale=(source.match(/<html\b[^>]*\blang="([^"]+)"/)||[])[1];
+  const prefixes={en:'','pt-BR':'/pt',es:'/es',fr:'/fr',de:'/de'};
+  assert(Object.hasOwn(prefixes,locale),'Generated hub has an unsupported language');
+  const cards=[...source.matchAll(/<(article|section)\b[^>]*\bid="insurance-evidence-hub"[^>]*>([\s\S]*?)<\/\1>/g)];
+  assert.equal(cards.length,1,'Generated hub must retain one insurance resource card');
+  assert.equal((source.match(/\bid="insurance-evidence-hub"/g)||[]).length,1,'Duplicate insurance resource anchor');
+  const target=prefixes[locale]+'/apps/app-verification-guide.html';
+  const links=[...cards[0][2].matchAll(/\bhref="([^"]+)"/g)].map(match=>match[1]);
+  assert(links.includes(target)||links.includes('https://ziontechgroup.com'+target),'Generated insurance card must link to its localized verification guide');
+  return source;
+ }
  const block='<!--insurance-evidence-hub:start--><section id="insurance-evidence-hub" data-catalog-release="'+version+'">'+Object.entries(copy).map(([l,c])=>{const prefix=l==='en'?'':'/'+l;return '<details lang="'+(l==='pt'?'pt-BR':l)+'" '+(l==='en'?'open':'')+'><summary>'+esc(c[0])+'</summary><p>'+esc(c[1])+'</p><p><a class="cta" href="https://ziontechgroup.com'+prefix+'/apps/insurance-evidence-workbench.html">'+esc(c[2])+'</a> · <a href="https://ziontechgroup.com'+prefix+'/discovery/">'+esc(c[3])+'</a></p></details>';}).join('')+'<p><a href="https://ziontechgroup.com/policy-comparison-ai/">Policy Comparison AI</a> · <a href="https://ziontechgroup.com/underwriting-copilot-ai/">Underwriting Copilot AI</a> · <a href="https://ziontechgroup.com/claims-automation-ai/">Claims Automation AI</a></p></section><!--insurance-evidence-hub:end-->';
  let result;
  if(source.includes('<!--insurance-evidence-hub:start-->'))result=source.replace(/<!--insurance-evidence-hub:start-->[\s\S]*?<!--insurance-evidence-hub:end-->/,block);
@@ -43,7 +55,7 @@ function run(root){
  for(let i=0;i<files.length;i++)if(updates[i]!==originals[i])fs.writeFileSync(path.join(root,files[i]),updates[i]);
  const supplement=path.join(root,'CATALOG-INSURANCE-EVIDENCE.md');
  if(fs.existsSync(supplement)){let s=fs.readFileSync(supplement,'utf8');s=s.replace(/Merge these entries into APPS_INDEX\.md and CATALOG\.md while preserving other agents['’] edits\./,'The three entries have now been merged into APPS_INDEX.md and CATALOG.md by the consistency repair.');const marker='<!--insurance-master-merge:'+version+'-->';if(!s.includes(marker))s+='\n\n'+marker+'\nMaster catalog merge complete: all three concept repositories are linked in both files. Existing repository links were preserved and the legacy hub includes the five-language workbench card.\n';fs.writeFileSync(supplement,s);}
- console.log('PASS: three insurance concepts present in both master catalogs; existing links preserved; five-language hub card inserted once.');
+ console.log('PASS: three insurance concepts present in both master catalogs; existing links preserved; insurance resource entry verified.');
 }
 module.exports={ids,repairCatalog,repairHub};
 if(require.main===module)run(process.argv[2]||'.');

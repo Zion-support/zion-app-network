@@ -5,8 +5,14 @@ name: Localized guides QA
     paths:
       - '_data/guide-*.json'
       - 'scripts/render_localized_guides.py'
+      - '_data/network-home.json'
+      - 'scripts/render_network_home.py'
+      - 'index.html'
+      - 'home-*.html'
+      - 'assets/network-home.css'
       - 'assets/network-guides.css'
       - 'catalog-navigation*.html'
+      - 'datacenter-service-request-guide-2026*.html'
       - 'app/network-green-energy-education-showcase*.html'
       - 'app/network-field-service-showcase*.html'
       - 'app-network-batch77-oct04*.html'
@@ -24,8 +30,14 @@ name: Localized guides QA
     paths:
       - '_data/guide-*.json'
       - 'scripts/render_localized_guides.py'
+      - '_data/network-home.json'
+      - 'scripts/render_network_home.py'
+      - 'index.html'
+      - 'home-*.html'
+      - 'assets/network-home.css'
       - 'assets/network-guides.css'
       - 'catalog-navigation*.html'
+      - 'datacenter-service-request-guide-2026*.html'
       - 'app/network-green-energy-education-showcase*.html'
       - 'app/network-field-service-showcase*.html'
       - 'app-network-batch77-oct04*.html'
@@ -56,4 +68,5 @@ jobs:
         with:
           persist-credentials: false
       - run: python3 scripts/render_localized_guides.py --check
+      - run: python3 scripts/render_network_home.py --check
       - run: python3 -m unittest discover -s tests -p 'test_localized_guides.py' -v

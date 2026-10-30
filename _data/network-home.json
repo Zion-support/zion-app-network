@@ -1,0 +1,1054 @@
+{
+  "release": "network-home-2026-10-30-v1",
+  "legacy_fragment_ids": [
+    "app-network-start-here-2026",
+    "app-network-start-here-heading",
+    "app-selection-evidence-scorecard-2026",
+    "app-selection-evidence-scorecard-heading",
+    "communications-suite",
+    "completion-pack-title",
+    "field-quote-readiness-2026",
+    "field-quote-readiness-title",
+    "field-service-completion-pack",
+    "field-visit-handoff-2026",
+    "field-visit-handoff-title",
+    "insurance-evidence-hub",
+    "network-start-here",
+    "network-start-title",
+    "operations-evidence-2026",
+    "operations-reliability-2026",
+    "sales-revenue-guides",
+    "showcases-2026",
+    "start-here-de",
+    "start-here-en",
+    "start-here-es",
+    "start-here-fr",
+    "start-here-pt"
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "lang": "en",
+      "name": "English",
+      "file": "index.html",
+      "path": "/zion-app-network/"
+    },
+    {
+      "code": "pt",
+      "lang": "pt-BR",
+      "name": "Português",
+      "file": "home-pt.html",
+      "path": "/zion-app-network/home-pt.html"
+    },
+    {
+      "code": "es",
+      "lang": "es",
+      "name": "Español",
+      "file": "home-es.html",
+      "path": "/zion-app-network/home-es.html"
+    },
+    {
+      "code": "fr",
+      "lang": "fr",
+      "name": "Français",
+      "file": "home-fr.html",
+      "path": "/zion-app-network/home-fr.html"
+    },
+    {
+      "code": "de",
+      "lang": "de",
+      "name": "Deutsch",
+      "file": "home-de.html",
+      "path": "/zion-app-network/home-de.html"
+    }
+  ],
+  "routes": {
+    "en": {
+      "home": "/en/",
+      "catalog": "/apps/",
+      "directory": "/zion-app-network/directory-en.html",
+      "guides": "/zion-app-network/catalog-navigation.html",
+      "discovery": "/discovery/",
+      "service_request": "/zion-app-network/datacenter-service-request-guide-2026.html",
+      "first_win": "/apps/discovery-first-win-guide.html",
+      "finops_estimator": "/apps/finops-scenario-estimator.html",
+      "finops_guide": "/apps/finops-pilot-guide.html",
+      "scorecard": "/zion-app-network/app-selection-evidence-scorecard-2026.html",
+      "field_quote": "/zion-app-network/field-quote-readiness-2026.html",
+      "operations": "/zion-app-network/app-network-operations-reliability-2026.html",
+      "evidence": "/zion-app-network/app-network-operations-evidence-checklist-2026.html",
+      "handoff": "/zion-app-network/field-visit-handoff-2026.html",
+      "completion": "/zion-app-network/field-service-completion-pack-2026.html",
+      "sales": "/zion-app-network/app-network-batch76-oct04.html",
+      "communications": "/apps/discovery-showcase.html",
+      "insurance": "/apps/app-verification-guide.html",
+      "history": "/zion-app-network/CATALOG-NAVIGATION.html",
+      "start_here": "/zion-app-network/app-network-start-here-2026.html"
+    },
+    "pt": {
+      "home": "/",
+      "catalog": "/pt/apps/",
+      "directory": "/zion-app-network/directory-pt.html",
+      "guides": "/zion-app-network/catalog-navigation-pt-br.html",
+      "discovery": "/pt/discovery/",
+      "service_request": "/zion-app-network/datacenter-service-request-guide-2026-pt-br.html",
+      "first_win": "/pt/apps/discovery-first-win-guide.html",
+      "finops_estimator": "/pt/apps/finops-scenario-estimator.html",
+      "finops_guide": "/pt/apps/finops-pilot-guide.html",
+      "scorecard": "/zion-app-network/app-selection-evidence-scorecard-2026-pt-br.html",
+      "field_quote": "/zion-app-network/field-quote-readiness-2026-pt-br.html",
+      "operations": "/zion-app-network/app-network-operations-reliability-2026-pt-br.html",
+      "evidence": "/zion-app-network/app-network-operations-evidence-checklist-2026-pt-br.html",
+      "handoff": "/zion-app-network/field-visit-handoff-2026-pt-br.html",
+      "completion": "/zion-app-network/field-service-completion-pack-2026-pt-br.html",
+      "sales": "/zion-app-network/app-network-batch76-oct04-pt.html",
+      "communications": "/apps/discovery-showcase-pt.html",
+      "insurance": "/pt/apps/app-verification-guide.html",
+      "history": "/zion-app-network/CATALOG-NAVIGATION.html",
+      "start_here": "/zion-app-network/app-network-start-here-2026-pt-br.html"
+    },
+    "es": {
+      "home": "/es/",
+      "catalog": "/es/apps/",
+      "directory": "/zion-app-network/directory-es.html",
+      "guides": "/zion-app-network/catalog-navigation-es.html",
+      "discovery": "/es/discovery/",
+      "service_request": "/zion-app-network/datacenter-service-request-guide-2026-es.html",
+      "first_win": "/es/apps/discovery-first-win-guide.html",
+      "finops_estimator": "/es/apps/finops-scenario-estimator.html",
+      "finops_guide": "/es/apps/finops-pilot-guide.html",
+      "scorecard": "/zion-app-network/app-selection-evidence-scorecard-2026-es.html",
+      "field_quote": "/zion-app-network/field-quote-readiness-2026-es.html",
+      "operations": "/zion-app-network/app-network-operations-reliability-2026-es.html",
+      "evidence": "/zion-app-network/app-network-operations-evidence-checklist-2026-es.html",
+      "handoff": "/zion-app-network/field-visit-handoff-2026-es.html",
+      "completion": "/zion-app-network/field-service-completion-pack-2026-es.html",
+      "sales": "/zion-app-network/app-network-batch76-oct04-es.html",
+      "communications": "/apps/discovery-showcase-es.html",
+      "insurance": "/es/apps/app-verification-guide.html",
+      "history": "/zion-app-network/CATALOG-NAVIGATION.html",
+      "start_here": "/zion-app-network/app-network-start-here-2026-es.html"
+    },
+    "fr": {
+      "home": "/fr/",
+      "catalog": "/fr/apps/",
+      "directory": "/zion-app-network/directory-fr.html",
+      "guides": "/zion-app-network/catalog-navigation-fr.html",
+      "discovery": "/fr/discovery/",
+      "service_request": "/zion-app-network/datacenter-service-request-guide-2026-fr.html",
+      "first_win": "/fr/apps/discovery-first-win-guide.html",
+      "finops_estimator": "/fr/apps/finops-scenario-estimator.html",
+      "finops_guide": "/fr/apps/finops-pilot-guide.html",
+      "scorecard": "/zion-app-network/app-selection-evidence-scorecard-2026-fr.html",
+      "field_quote": "/zion-app-network/field-quote-readiness-2026-fr.html",
+      "operations": "/zion-app-network/app-network-operations-reliability-2026-fr.html",
+      "evidence": "/zion-app-network/app-network-operations-evidence-checklist-2026-fr.html",
+      "handoff": "/zion-app-network/field-visit-handoff-2026-fr.html",
+      "completion": "/zion-app-network/field-service-completion-pack-2026-fr.html",
+      "sales": "/zion-app-network/app-network-batch76-oct04-fr.html",
+      "communications": "/apps/discovery-showcase-fr.html",
+      "insurance": "/fr/apps/app-verification-guide.html",
+      "history": "/zion-app-network/CATALOG-NAVIGATION.html",
+      "start_here": "/zion-app-network/app-network-start-here-2026-fr.html"
+    },
+    "de": {
+      "home": "/de/",
+      "catalog": "/de/apps/",
+      "directory": "/zion-app-network/directory-de.html",
+      "guides": "/zion-app-network/catalog-navigation-de.html",
+      "discovery": "/de/discovery/",
+      "service_request": "/zion-app-network/datacenter-service-request-guide-2026-de.html",
+      "first_win": "/de/apps/discovery-first-win-guide.html",
+      "finops_estimator": "/de/apps/finops-scenario-estimator.html",
+      "finops_guide": "/de/apps/finops-pilot-guide.html",
+      "scorecard": "/zion-app-network/app-selection-evidence-scorecard-2026-de.html",
+      "field_quote": "/zion-app-network/field-quote-readiness-2026-de.html",
+      "operations": "/zion-app-network/app-network-operations-reliability-2026-de.html",
+      "evidence": "/zion-app-network/app-network-operations-evidence-checklist-2026-de.html",
+      "handoff": "/zion-app-network/field-visit-handoff-2026-de.html",
+      "completion": "/zion-app-network/field-service-completion-pack-2026-de.html",
+      "sales": "/zion-app-network/app-network-batch76-oct04-de.html",
+      "communications": "/apps/discovery-showcase-de.html",
+      "insurance": "/de/apps/app-verification-guide.html",
+      "history": "/zion-app-network/CATALOG-NAVIGATION.html",
+      "start_here": "/zion-app-network/app-network-start-here-2026-de.html"
+    }
+  },
+  "locales": {
+    "en": {
+      "meta_title": "Zion App Network — tools and guides for your next IT task",
+      "meta_description": "Explore Zion tools and guides for datacenter service requests, AI pilots, cloud-cost planning and field-service evidence. Choose a practical next step in five languages.",
+      "network_label": "App network",
+      "nav_label": "Main navigation",
+      "language_label": "Language",
+      "skip": "Skip to content",
+      "labels": {
+        "home": "Home",
+        "catalog": "App catalog",
+        "guides": "Guide collections",
+        "discovery": "Free Discovery",
+        "directory": "Network directory"
+      },
+      "eyebrow": "Zion App Network",
+      "title": "Turn your next IT task into a clear plan.",
+      "intro": "Find practical tools and guides to prepare a datacenter visit, plan an AI pilot or compare cloud-cost scenarios. Choose a task and follow a clear path to the next step.",
+      "primary": "Explore the app catalog",
+      "secondary": "Start free Discovery",
+      "hero_panel_title": "From a question to a reviewed next step",
+      "hero_steps": [
+        {
+          "title": "Choose one task",
+          "body": "Name the outcome and the person responsible."
+        },
+        {
+          "title": "Find a useful resource",
+          "body": "Read what it covers and try a suitable example."
+        },
+        {
+          "title": "Review the next step",
+          "body": "Keep the assumptions and open questions with the result."
+        }
+      ],
+      "page_nav_label": "On this page",
+      "paths_nav": "Choose a path",
+      "resources_nav": "Practical resources",
+      "collections_nav": "Guide collections",
+      "paths_eyebrow": "Start with your goal",
+      "paths_title": "What do you need to prepare?",
+      "paths_intro": "Each path connects a useful starting point with the next guide or checklist.",
+      "paths": [
+        {
+          "title": "A datacenter service request",
+          "description": "Organize the equipment, issue, site details and preferred window so your service request has a clear scope.",
+          "links": [
+            {
+              "route": "service_request",
+              "label": "Prepare the service request"
+            },
+            {
+              "route": "handoff",
+              "label": "Review the visit handoff"
+            }
+          ]
+        },
+        {
+          "title": "A measurable AI pilot",
+          "description": "Choose a process, define a baseline and agree on a small experiment with a named reviewer.",
+          "links": [
+            {
+              "route": "first_win",
+              "label": "Plan the first measured result"
+            },
+            {
+              "route": "scorecard",
+              "label": "Compare the available evidence"
+            }
+          ]
+        },
+        {
+          "title": "A cloud-cost scenario",
+          "description": "Compare cost assumptions, then define what to measure before considering a change.",
+          "links": [
+            {
+              "route": "finops_estimator",
+              "label": "Open the FinOps estimator"
+            },
+            {
+              "route": "finops_guide",
+              "label": "Plan a FinOps pilot"
+            }
+          ]
+        }
+      ],
+      "resources_eyebrow": "Prepare, review, hand over",
+      "resources_title": "Keep the next step connected.",
+      "resources_intro": "Use these resources to carry scope, assumptions and evidence from planning to a clear handoff.",
+      "resources": [
+        {
+          "id": "app-selection-evidence-scorecard-2026",
+          "heading_id": "app-selection-evidence-scorecard-heading",
+          "route": "scorecard",
+          "title": "App selection evidence",
+          "description": "Record ownership, baseline information and open questions before choosing a pilot.",
+          "label": "Review app evidence"
+        },
+        {
+          "id": "field-quote-readiness-2026",
+          "heading_id": "field-quote-readiness-title",
+          "route": "field_quote",
+          "title": "Field quote preparation",
+          "description": "Organize cost assumptions and identify the details that need confirmation for a service quote.",
+          "label": "Prepare the quote inputs"
+        },
+        {
+          "id": "operations-reliability-2026",
+          "heading_id": "operations-reliability-heading",
+          "route": "operations",
+          "title": "Operations and reliability",
+          "description": "Connect maintenance planning, incident learning and service evidence in one practical guide.",
+          "label": "Explore the operations guide"
+        },
+        {
+          "id": "operations-evidence-2026",
+          "heading_id": "operations-evidence-heading",
+          "route": "evidence",
+          "title": "Operations evidence checklist",
+          "description": "Define the checks and records needed to review a task and its result.",
+          "label": "Open the evidence checklist"
+        },
+        {
+          "id": "field-visit-handoff-2026",
+          "heading_id": "field-visit-handoff-title",
+          "route": "handoff",
+          "title": "Field visit handoff",
+          "description": "Review agreed scope, site access, technician information and required approvals before a visit.",
+          "label": "Prepare the handoff"
+        },
+        {
+          "id": "field-service-completion-pack",
+          "heading_id": "completion-pack-title",
+          "route": "completion",
+          "title": "Service completion record",
+          "description": "Keep work performed, test results, open items and customer acceptance clearly documented.",
+          "label": "Prepare the completion record"
+        }
+      ],
+      "collections_eyebrow": "Explore by topic",
+      "collections_title": "Find the guide that fits your work.",
+      "collections_intro": "Browse more paths for productivity, technical operations and industry tasks. Each guide explains the resources it links to.",
+      "collections": [
+        {
+          "id": "sales-revenue-guides",
+          "route": "sales",
+          "title": "Sales and revenue",
+          "description": "Explore resources for organizing commercial workflows and reviewing the evidence behind the next step.",
+          "label": "Explore the sales guide"
+        },
+        {
+          "id": "communications-suite",
+          "route": "communications",
+          "title": "Communications",
+          "description": "Connect a communication task with a practical resource and a reviewable next action.",
+          "label": "Explore the communications guide"
+        },
+        {
+          "id": "insurance-evidence-hub",
+          "route": "insurance",
+          "title": "Insurance resource evidence",
+          "description": "Check what an insurance resource actually does, which evidence is available and what still needs review before use.",
+          "label": "Open the app verification guide"
+        }
+      ],
+      "all_guides": "Explore all guide collections",
+      "language_title": "Find your starting point in your language.",
+      "language_intro": "Choose a translated starting point and follow the links to useful tools and guides.",
+      "discovery_title": "Not sure where to begin?",
+      "discovery_intro": "Start with free online Discovery. Describe a process and view a report with suggested next steps.",
+      "discovery_note": "The report appears in your browser. Email delivery can be requested; check the result shown on the page.",
+      "footer_summary": "Choose a resource, review its scope and agree on the next step with your team.",
+      "footer_nav_label": "Footer navigation",
+      "history_label": "Historical index · mixed languages",
+      "start_languages_label": "Start Here guide language"
+    },
+    "pt": {
+      "meta_title": "Rede de Apps Zion — ferramentas e guias para sua próxima tarefa de TI",
+      "meta_description": "Explore ferramentas e guias Zion para solicitar serviços em datacenter, planejar pilotos de IA, comparar custos de nuvem e organizar evidências de campo. Navegação em cinco idiomas.",
+      "network_label": "Rede de apps",
+      "nav_label": "Navegação principal",
+      "language_label": "Idioma",
+      "skip": "Ir para o conteúdo",
+      "labels": {
+        "home": "Página inicial",
+        "catalog": "Catálogo de apps",
+        "guides": "Coleções de guias",
+        "discovery": "Discovery gratuito",
+        "directory": "Diretório da rede"
+      },
+      "eyebrow": "Rede de Apps Zion",
+      "title": "Transforme sua próxima tarefa de TI em um plano claro.",
+      "intro": "Encontre ferramentas e guias práticos para preparar uma visita ao datacenter, planejar um piloto de IA ou comparar cenários de custos de nuvem. Escolha uma tarefa e siga um caminho claro até o próximo passo.",
+      "primary": "Explorar o catálogo de apps",
+      "secondary": "Iniciar Discovery gratuito",
+      "hero_panel_title": "Da dúvida a um próximo passo revisado",
+      "hero_steps": [
+        {
+          "title": "Escolha uma tarefa",
+          "body": "Defina o resultado esperado e a pessoa responsável."
+        },
+        {
+          "title": "Encontre um recurso útil",
+          "body": "Leia o que ele abrange e experimente um exemplo adequado."
+        },
+        {
+          "title": "Revise o próximo passo",
+          "body": "Mantenha as premissas e as dúvidas em aberto junto do resultado."
+        }
+      ],
+      "page_nav_label": "Nesta página",
+      "paths_nav": "Escolha um caminho",
+      "resources_nav": "Recursos práticos",
+      "collections_nav": "Coleções de guias",
+      "paths_eyebrow": "Comece pelo seu objetivo",
+      "paths_title": "O que você precisa preparar?",
+      "paths_intro": "Cada caminho conecta um ponto de partida útil ao próximo guia ou checklist.",
+      "paths": [
+        {
+          "title": "Uma solicitação de serviço em datacenter",
+          "description": "Organize equipamentos, problema, dados do local e janela desejada para deixar claro o escopo da solicitação.",
+          "links": [
+            {
+              "route": "service_request",
+              "label": "Preparar a solicitação de serviço"
+            },
+            {
+              "route": "handoff",
+              "label": "Revisar a passagem da visita"
+            }
+          ]
+        },
+        {
+          "title": "Um piloto de IA mensurável",
+          "description": "Escolha um processo, defina a situação inicial e combine um experimento pequeno com uma pessoa responsável pela revisão.",
+          "links": [
+            {
+              "route": "first_win",
+              "label": "Planejar o primeiro resultado mensurável"
+            },
+            {
+              "route": "scorecard",
+              "label": "Comparar as evidências disponíveis"
+            }
+          ]
+        },
+        {
+          "title": "Um cenário de custos de nuvem",
+          "description": "Compare premissas de custo e defina o que medir antes de considerar uma mudança.",
+          "links": [
+            {
+              "route": "finops_estimator",
+              "label": "Abrir o estimador FinOps"
+            },
+            {
+              "route": "finops_guide",
+              "label": "Planejar um piloto FinOps"
+            }
+          ]
+        }
+      ],
+      "resources_eyebrow": "Prepare, revise e encaminhe",
+      "resources_title": "Mantenha os próximos passos conectados.",
+      "resources_intro": "Use estes recursos para levar escopo, premissas e evidências do planejamento a uma passagem clara de responsabilidades.",
+      "resources": [
+        {
+          "id": "app-selection-evidence-scorecard-2026",
+          "heading_id": "app-selection-evidence-scorecard-heading",
+          "route": "scorecard",
+          "title": "Evidências para escolher um app",
+          "description": "Registre responsável, informações de referência e dúvidas em aberto antes de escolher um piloto.",
+          "label": "Revisar as evidências do app"
+        },
+        {
+          "id": "field-quote-readiness-2026",
+          "heading_id": "field-quote-readiness-title",
+          "route": "field_quote",
+          "title": "Preparação de cotação de campo",
+          "description": "Organize premissas de custo e identifique os detalhes que precisam de confirmação para uma cotação de serviço.",
+          "label": "Preparar os dados da cotação"
+        },
+        {
+          "id": "operations-reliability-2026",
+          "heading_id": "operations-reliability-heading",
+          "route": "operations",
+          "title": "Operações e confiabilidade",
+          "description": "Conecte planejamento de manutenção, aprendizado com incidentes e evidências do serviço em um guia prático.",
+          "label": "Explorar o guia de operações"
+        },
+        {
+          "id": "operations-evidence-2026",
+          "heading_id": "operations-evidence-heading",
+          "route": "evidence",
+          "title": "Checklist de evidências operacionais",
+          "description": "Defina as verificações e os registros necessários para revisar uma tarefa e seu resultado.",
+          "label": "Abrir o checklist de evidências"
+        },
+        {
+          "id": "field-visit-handoff-2026",
+          "heading_id": "field-visit-handoff-title",
+          "route": "handoff",
+          "title": "Passagem de visita técnica",
+          "description": "Revise escopo acordado, acesso ao local, informações do técnico e aprovações necessárias antes da visita.",
+          "label": "Preparar a passagem da visita"
+        },
+        {
+          "id": "field-service-completion-pack",
+          "heading_id": "completion-pack-title",
+          "route": "completion",
+          "title": "Registro de conclusão de serviço",
+          "description": "Documente com clareza o trabalho realizado, os resultados dos testes, as pendências e o aceite do cliente.",
+          "label": "Preparar o registro de conclusão"
+        }
+      ],
+      "collections_eyebrow": "Explore por assunto",
+      "collections_title": "Encontre o guia certo para seu trabalho.",
+      "collections_intro": "Explore outros caminhos de produtividade, operações técnicas e tarefas por setor. Cada guia explica os recursos aos quais se conecta.",
+      "collections": [
+        {
+          "id": "sales-revenue-guides",
+          "route": "sales",
+          "title": "Vendas e receita",
+          "description": "Explore recursos para organizar rotinas comerciais e revisar as evidências do próximo passo.",
+          "label": "Explorar o guia de vendas"
+        },
+        {
+          "id": "communications-suite",
+          "route": "communications",
+          "title": "Comunicações",
+          "description": "Conecte uma tarefa de comunicação a um recurso prático e a uma próxima ação que possa ser revisada.",
+          "label": "Explorar o guia de comunicações"
+        },
+        {
+          "id": "insurance-evidence-hub",
+          "route": "insurance",
+          "title": "Evidências de recursos de seguros",
+          "description": "Confira o que um recurso de seguros realmente faz, as evidências disponíveis e os pontos que precisam de revisão antes do uso.",
+          "label": "Abrir o guia de verificação de apps"
+        }
+      ],
+      "all_guides": "Explorar todas as coleções de guias",
+      "language_title": "Encontre o ponto de partida no seu idioma.",
+      "language_intro": "Escolha um ponto de partida traduzido e siga os links para ferramentas e guias úteis.",
+      "discovery_title": "Ainda não sabe por onde começar?",
+      "discovery_intro": "Comece pelo Discovery gratuito e online. Descreva um processo e visualize um relatório com sugestões de próximos passos.",
+      "discovery_note": "O relatório aparece no navegador. O envio por e-mail pode ser solicitado; confira o resultado informado na página.",
+      "footer_summary": "Escolha um recurso, confira o escopo e combine o próximo passo com sua equipe.",
+      "footer_nav_label": "Navegação do rodapé",
+      "history_label": "Índice histórico · idiomas mistos",
+      "start_languages_label": "Idioma do guia Comece aqui"
+    },
+    "es": {
+      "meta_title": "Red de Apps Zion — herramientas y guías para su próxima tarea de TI",
+      "meta_description": "Explore herramientas y guías Zion para solicitar servicios de centro de datos, planificar pilotos de IA, comparar costes de nube y organizar evidencias de campo. Navegación en cinco idiomas.",
+      "network_label": "Red de apps",
+      "nav_label": "Navegación principal",
+      "language_label": "Idioma",
+      "skip": "Ir al contenido",
+      "labels": {
+        "home": "Inicio",
+        "catalog": "Catálogo de apps",
+        "guides": "Colecciones de guías",
+        "discovery": "Discovery gratuito",
+        "directory": "Directorio de la red"
+      },
+      "eyebrow": "Red de Apps Zion",
+      "title": "Convierta su próxima tarea de TI en un plan claro.",
+      "intro": "Encuentre herramientas y guías prácticas para preparar una visita al centro de datos, planificar un piloto de IA o comparar escenarios de costes de nube. Elija una tarea y siga una ruta clara hasta el siguiente paso.",
+      "primary": "Explorar el catálogo de apps",
+      "secondary": "Iniciar Discovery gratuito",
+      "hero_panel_title": "De una pregunta a un siguiente paso revisado",
+      "hero_steps": [
+        {
+          "title": "Elija una tarea",
+          "body": "Defina el resultado esperado y la persona responsable."
+        },
+        {
+          "title": "Encuentre un recurso útil",
+          "body": "Lea qué abarca y pruebe un ejemplo adecuado."
+        },
+        {
+          "title": "Revise el siguiente paso",
+          "body": "Conserve los supuestos y las preguntas abiertas junto al resultado."
+        }
+      ],
+      "page_nav_label": "En esta página",
+      "paths_nav": "Elija una ruta",
+      "resources_nav": "Recursos prácticos",
+      "collections_nav": "Colecciones de guías",
+      "paths_eyebrow": "Empiece por su objetivo",
+      "paths_title": "¿Qué necesita preparar?",
+      "paths_intro": "Cada ruta conecta un punto de partida útil con la siguiente guía o lista de verificación.",
+      "paths": [
+        {
+          "title": "Una solicitud de servicio en un centro de datos",
+          "description": "Organice equipos, problema, datos del sitio y horario preferido para definir el alcance de la solicitud.",
+          "links": [
+            {
+              "route": "service_request",
+              "label": "Preparar la solicitud de servicio"
+            },
+            {
+              "route": "handoff",
+              "label": "Revisar el traspaso de la visita"
+            }
+          ]
+        },
+        {
+          "title": "Un piloto de IA medible",
+          "description": "Elija un proceso, defina una referencia inicial y acuerde un experimento pequeño con una persona responsable de revisarlo.",
+          "links": [
+            {
+              "route": "first_win",
+              "label": "Planificar el primer resultado medible"
+            },
+            {
+              "route": "scorecard",
+              "label": "Comparar las evidencias disponibles"
+            }
+          ]
+        },
+        {
+          "title": "Un escenario de costes de nube",
+          "description": "Compare supuestos de costes y defina qué medir antes de considerar un cambio.",
+          "links": [
+            {
+              "route": "finops_estimator",
+              "label": "Abrir el estimador FinOps"
+            },
+            {
+              "route": "finops_guide",
+              "label": "Planificar un piloto FinOps"
+            }
+          ]
+        }
+      ],
+      "resources_eyebrow": "Prepare, revise y transfiera",
+      "resources_title": "Mantenga conectados los siguientes pasos.",
+      "resources_intro": "Use estos recursos para trasladar alcance, supuestos y evidencias desde la planificación hasta un traspaso claro.",
+      "resources": [
+        {
+          "id": "app-selection-evidence-scorecard-2026",
+          "heading_id": "app-selection-evidence-scorecard-heading",
+          "route": "scorecard",
+          "title": "Evidencias para elegir una app",
+          "description": "Registre responsable, información de referencia y preguntas abiertas antes de elegir un piloto.",
+          "label": "Revisar las evidencias de la app"
+        },
+        {
+          "id": "field-quote-readiness-2026",
+          "heading_id": "field-quote-readiness-title",
+          "route": "field_quote",
+          "title": "Preparación de presupuesto de campo",
+          "description": "Organice supuestos de costes e identifique los detalles que necesitan confirmación para un presupuesto de servicio.",
+          "label": "Preparar los datos del presupuesto"
+        },
+        {
+          "id": "operations-reliability-2026",
+          "heading_id": "operations-reliability-heading",
+          "route": "operations",
+          "title": "Operaciones y fiabilidad",
+          "description": "Conecte planificación de mantenimiento, aprendizaje de incidentes y evidencias del servicio en una guía práctica.",
+          "label": "Explorar la guía de operaciones"
+        },
+        {
+          "id": "operations-evidence-2026",
+          "heading_id": "operations-evidence-heading",
+          "route": "evidence",
+          "title": "Lista de evidencias operativas",
+          "description": "Defina las comprobaciones y los registros necesarios para revisar una tarea y su resultado.",
+          "label": "Abrir la lista de evidencias"
+        },
+        {
+          "id": "field-visit-handoff-2026",
+          "heading_id": "field-visit-handoff-title",
+          "route": "handoff",
+          "title": "Traspaso de visita técnica",
+          "description": "Revise alcance acordado, acceso al sitio, información del técnico y aprobaciones necesarias antes de la visita.",
+          "label": "Preparar el traspaso"
+        },
+        {
+          "id": "field-service-completion-pack",
+          "heading_id": "completion-pack-title",
+          "route": "completion",
+          "title": "Registro de cierre del servicio",
+          "description": "Documente con claridad trabajos realizados, resultados de pruebas, asuntos pendientes y aceptación del cliente.",
+          "label": "Preparar el registro de cierre"
+        }
+      ],
+      "collections_eyebrow": "Explore por tema",
+      "collections_title": "Encuentre la guía adecuada para su trabajo.",
+      "collections_intro": "Explore otras rutas de productividad, operaciones técnicas y tareas por sector. Cada guía explica los recursos con los que conecta.",
+      "collections": [
+        {
+          "id": "sales-revenue-guides",
+          "route": "sales",
+          "title": "Ventas e ingresos",
+          "description": "Explore recursos para organizar procesos comerciales y revisar las evidencias del siguiente paso.",
+          "label": "Explorar la guía de ventas"
+        },
+        {
+          "id": "communications-suite",
+          "route": "communications",
+          "title": "Comunicaciones",
+          "description": "Conecte una tarea de comunicación con un recurso práctico y una próxima acción que pueda revisarse.",
+          "label": "Explorar la guía de comunicaciones"
+        },
+        {
+          "id": "insurance-evidence-hub",
+          "route": "insurance",
+          "title": "Evidencias de recursos de seguros",
+          "description": "Compruebe qué hace realmente un recurso de seguros, las evidencias disponibles y los puntos que deben revisarse antes de usarlo.",
+          "label": "Abrir la guía de verificación de apps"
+        }
+      ],
+      "all_guides": "Explorar todas las colecciones de guías",
+      "language_title": "Encuentre su punto de partida en su idioma.",
+      "language_intro": "Elija un punto de partida traducido y siga los enlaces a herramientas y guías útiles.",
+      "discovery_title": "¿Aún no sabe por dónde empezar?",
+      "discovery_intro": "Empiece con Discovery gratuito y online. Describa un proceso y consulte un informe con sugerencias para los siguientes pasos.",
+      "discovery_note": "El informe aparece en el navegador. Puede solicitar el envío por correo; compruebe el resultado indicado en la página.",
+      "footer_summary": "Elija un recurso, revise su alcance y acuerde el siguiente paso con su equipo.",
+      "footer_nav_label": "Navegación del pie de página",
+      "history_label": "Índice histórico · idiomas mixtos",
+      "start_languages_label": "Idioma de la guía Empiece aquí"
+    },
+    "fr": {
+      "meta_title": "Réseau d’apps Zion — outils et guides pour votre prochaine tâche IT",
+      "meta_description": "Explorez les outils et guides Zion pour préparer une demande d’intervention en datacenter, un pilote IA, une analyse des coûts cloud et des preuves de service. Navigation en cinq langues.",
+      "network_label": "Réseau d’apps",
+      "nav_label": "Navigation principale",
+      "language_label": "Langue",
+      "skip": "Aller au contenu",
+      "labels": {
+        "home": "Accueil",
+        "catalog": "Catalogue d’apps",
+        "guides": "Collections de guides",
+        "discovery": "Discovery gratuit",
+        "directory": "Annuaire du réseau"
+      },
+      "eyebrow": "Réseau d’apps Zion",
+      "title": "Donnez un cap clair à votre prochaine tâche IT.",
+      "intro": "Trouvez des outils et des guides pratiques pour préparer une visite en datacenter, planifier un pilote IA ou comparer des scénarios de coûts cloud. Choisissez une tâche et suivez un parcours clair vers la prochaine étape.",
+      "primary": "Explorer le catalogue d’apps",
+      "secondary": "Lancer Discovery gratuit",
+      "hero_panel_title": "D’une question à une prochaine étape relue",
+      "hero_steps": [
+        {
+          "title": "Choisissez une tâche",
+          "body": "Définissez le résultat attendu et la personne responsable."
+        },
+        {
+          "title": "Trouvez une ressource utile",
+          "body": "Lisez son périmètre et essayez un exemple adapté."
+        },
+        {
+          "title": "Relisez la prochaine étape",
+          "body": "Conservez les hypothèses et les questions ouvertes avec le résultat."
+        }
+      ],
+      "page_nav_label": "Sur cette page",
+      "paths_nav": "Choisir un parcours",
+      "resources_nav": "Ressources pratiques",
+      "collections_nav": "Collections de guides",
+      "paths_eyebrow": "Partez de votre objectif",
+      "paths_title": "Que devez-vous préparer ?",
+      "paths_intro": "Chaque parcours relie un point de départ utile au prochain guide ou à la prochaine liste de contrôle.",
+      "paths": [
+        {
+          "title": "Une demande d’intervention en datacenter",
+          "description": "Rassemblez équipements, problème, informations du site et créneau souhaité pour définir le périmètre de la demande.",
+          "links": [
+            {
+              "route": "service_request",
+              "label": "Préparer la demande d’intervention"
+            },
+            {
+              "route": "handoff",
+              "label": "Revoir la préparation de la visite"
+            }
+          ]
+        },
+        {
+          "title": "Un pilote IA mesurable",
+          "description": "Choisissez un processus, définissez une référence initiale et convenez d’une petite expérimentation avec une personne chargée de la revue.",
+          "links": [
+            {
+              "route": "first_win",
+              "label": "Planifier le premier résultat mesurable"
+            },
+            {
+              "route": "scorecard",
+              "label": "Comparer les preuves disponibles"
+            }
+          ]
+        },
+        {
+          "title": "Un scénario de coûts cloud",
+          "description": "Comparez les hypothèses de coûts, puis définissez les mesures nécessaires avant d’envisager un changement.",
+          "links": [
+            {
+              "route": "finops_estimator",
+              "label": "Ouvrir l’estimateur FinOps"
+            },
+            {
+              "route": "finops_guide",
+              "label": "Planifier un pilote FinOps"
+            }
+          ]
+        }
+      ],
+      "resources_eyebrow": "Préparer, relire, transmettre",
+      "resources_title": "Gardez un lien entre les prochaines étapes.",
+      "resources_intro": "Utilisez ces ressources pour conserver périmètre, hypothèses et preuves, de la préparation à une transmission claire.",
+      "resources": [
+        {
+          "id": "app-selection-evidence-scorecard-2026",
+          "heading_id": "app-selection-evidence-scorecard-heading",
+          "route": "scorecard",
+          "title": "Preuves pour choisir une app",
+          "description": "Consignez responsable, informations de référence et questions ouvertes avant de choisir un pilote.",
+          "label": "Revoir les preuves de l’app"
+        },
+        {
+          "id": "field-quote-readiness-2026",
+          "heading_id": "field-quote-readiness-title",
+          "route": "field_quote",
+          "title": "Préparation d’un devis d’intervention",
+          "description": "Organisez les hypothèses de coûts et repérez les éléments à confirmer pour un devis de service.",
+          "label": "Préparer les éléments du devis"
+        },
+        {
+          "id": "operations-reliability-2026",
+          "heading_id": "operations-reliability-heading",
+          "route": "operations",
+          "title": "Opérations et fiabilité",
+          "description": "Reliez maintenance, enseignements tirés des incidents et preuves de service dans un guide pratique.",
+          "label": "Explorer le guide des opérations"
+        },
+        {
+          "id": "operations-evidence-2026",
+          "heading_id": "operations-evidence-heading",
+          "route": "evidence",
+          "title": "Liste des preuves opérationnelles",
+          "description": "Définissez les contrôles et les documents nécessaires à la revue d’une tâche et de son résultat.",
+          "label": "Ouvrir la liste des preuves"
+        },
+        {
+          "id": "field-visit-handoff-2026",
+          "heading_id": "field-visit-handoff-title",
+          "route": "handoff",
+          "title": "Préparation d’une visite technique",
+          "description": "Revoyez périmètre convenu, accès au site, informations du technicien et validations nécessaires avant la visite.",
+          "label": "Préparer la transmission"
+        },
+        {
+          "id": "field-service-completion-pack",
+          "heading_id": "completion-pack-title",
+          "route": "completion",
+          "title": "Dossier de clôture de service",
+          "description": "Documentez clairement travaux réalisés, résultats des tests, points ouverts et acceptation du client.",
+          "label": "Préparer le dossier de clôture"
+        }
+      ],
+      "collections_eyebrow": "Explorer par thème",
+      "collections_title": "Trouvez le guide adapté à votre travail.",
+      "collections_intro": "Découvrez d’autres parcours de productivité, d’opérations techniques et de tâches sectorielles. Chaque guide explique les ressources vers lesquelles il renvoie.",
+      "collections": [
+        {
+          "id": "sales-revenue-guides",
+          "route": "sales",
+          "title": "Ventes et revenus",
+          "description": "Explorez des ressources pour structurer les processus commerciaux et revoir les preuves de la prochaine étape.",
+          "label": "Explorer le guide des ventes"
+        },
+        {
+          "id": "communications-suite",
+          "route": "communications",
+          "title": "Communications",
+          "description": "Reliez une tâche de communication à une ressource pratique et à une prochaine action pouvant être revue.",
+          "label": "Explorer le guide des communications"
+        },
+        {
+          "id": "insurance-evidence-hub",
+          "route": "insurance",
+          "title": "Preuves des ressources d’assurance",
+          "description": "Vérifiez les fonctions réelles d’une ressource d’assurance, les preuves disponibles et les points à revoir avant utilisation.",
+          "label": "Ouvrir le guide de vérification des apps"
+        }
+      ],
+      "all_guides": "Explorer toutes les collections de guides",
+      "language_title": "Trouvez votre point de départ dans votre langue.",
+      "language_intro": "Choisissez un point de départ traduit et suivez les liens vers des outils et guides utiles.",
+      "discovery_title": "Vous hésitez sur le point de départ ?",
+      "discovery_intro": "Commencez par Discovery gratuit en ligne. Décrivez un processus et consultez un rapport proposant les prochaines étapes.",
+      "discovery_note": "Le rapport s’affiche dans votre navigateur. Vous pouvez demander un envoi par courriel ; vérifiez le résultat indiqué sur la page.",
+      "footer_summary": "Choisissez une ressource, vérifiez son périmètre et convenez de la prochaine étape avec votre équipe.",
+      "footer_nav_label": "Navigation de pied de page",
+      "history_label": "Index historique · langues mixtes",
+      "start_languages_label": "Langue du guide Commencez ici"
+    },
+    "de": {
+      "meta_title": "Zion App-Netzwerk — Werkzeuge und Leitfäden für Ihre nächste IT-Aufgabe",
+      "meta_description": "Entdecken Sie Zion-Werkzeuge und Leitfäden für Serviceanfragen im Rechenzentrum, KI-Piloten, Cloud-Kostenplanung und Einsatznachweise. Navigation in fünf Sprachen.",
+      "network_label": "App-Netzwerk",
+      "nav_label": "Hauptnavigation",
+      "language_label": "Sprache",
+      "skip": "Zum Inhalt springen",
+      "labels": {
+        "home": "Startseite",
+        "catalog": "App-Katalog",
+        "guides": "Leitfadensammlungen",
+        "discovery": "Kostenloses Discovery",
+        "directory": "Netzwerkverzeichnis"
+      },
+      "eyebrow": "Zion App-Netzwerk",
+      "title": "Planen Sie den nächsten Schritt für Ihre IT.",
+      "intro": "Finden Sie praktische Werkzeuge und Leitfäden, um einen Rechenzentrumsbesuch vorzubereiten, einen KI-Piloten zu planen oder Cloud-Kostenszenarien zu vergleichen. Wählen Sie eine Aufgabe und folgen Sie einem klaren Weg zum nächsten Schritt.",
+      "primary": "App-Katalog entdecken",
+      "secondary": "Kostenloses Discovery starten",
+      "hero_panel_title": "Von einer Frage zum geprüften nächsten Schritt",
+      "hero_steps": [
+        {
+          "title": "Eine Aufgabe wählen",
+          "body": "Benennen Sie das gewünschte Ergebnis und die verantwortliche Person."
+        },
+        {
+          "title": "Eine passende Ressource finden",
+          "body": "Lesen Sie, was sie abdeckt, und prüfen Sie ein geeignetes Beispiel."
+        },
+        {
+          "title": "Den nächsten Schritt prüfen",
+          "body": "Bewahren Sie Annahmen und offene Fragen zusammen mit dem Ergebnis auf."
+        }
+      ],
+      "page_nav_label": "Auf dieser Seite",
+      "paths_nav": "Weg wählen",
+      "resources_nav": "Praktische Ressourcen",
+      "collections_nav": "Leitfadensammlungen",
+      "paths_eyebrow": "Beginnen Sie mit Ihrem Ziel",
+      "paths_title": "Was möchten Sie vorbereiten?",
+      "paths_intro": "Jeder Weg verbindet einen hilfreichen Einstieg mit dem nächsten Leitfaden oder der nächsten Checkliste.",
+      "paths": [
+        {
+          "title": "Eine Serviceanfrage für das Rechenzentrum",
+          "description": "Stellen Sie Geräte, Problem, Standortangaben und gewünschtes Zeitfenster zusammen, damit der Umfang Ihrer Anfrage klar ist.",
+          "links": [
+            {
+              "route": "service_request",
+              "label": "Serviceanfrage vorbereiten"
+            },
+            {
+              "route": "handoff",
+              "label": "Einsatzübergabe prüfen"
+            }
+          ]
+        },
+        {
+          "title": "Einen messbaren KI-Piloten",
+          "description": "Wählen Sie einen Prozess, definieren Sie einen Ausgangswert und vereinbaren Sie einen kleinen Versuch mit einer benannten prüfenden Person.",
+          "links": [
+            {
+              "route": "first_win",
+              "label": "Das erste messbare Ergebnis planen"
+            },
+            {
+              "route": "scorecard",
+              "label": "Vorhandene Nachweise vergleichen"
+            }
+          ]
+        },
+        {
+          "title": "Ein Cloud-Kostenszenario",
+          "description": "Vergleichen Sie Kostenannahmen und legen Sie fest, was vor einer möglichen Änderung gemessen werden soll.",
+          "links": [
+            {
+              "route": "finops_estimator",
+              "label": "FinOps-Szenariorechner öffnen"
+            },
+            {
+              "route": "finops_guide",
+              "label": "Einen FinOps-Piloten planen"
+            }
+          ]
+        }
+      ],
+      "resources_eyebrow": "Vorbereiten, prüfen, übergeben",
+      "resources_title": "Verbinden Sie die nächsten Schritte.",
+      "resources_intro": "Führen Sie Umfang, Annahmen und Nachweise mit diesen Ressourcen von der Planung bis zu einer klaren Übergabe weiter.",
+      "resources": [
+        {
+          "id": "app-selection-evidence-scorecard-2026",
+          "heading_id": "app-selection-evidence-scorecard-heading",
+          "route": "scorecard",
+          "title": "Nachweise für die App-Auswahl",
+          "description": "Halten Sie Verantwortung, Ausgangsinformationen und offene Fragen fest, bevor Sie einen Piloten auswählen.",
+          "label": "App-Nachweise prüfen"
+        },
+        {
+          "id": "field-quote-readiness-2026",
+          "heading_id": "field-quote-readiness-title",
+          "route": "field_quote",
+          "title": "Vorbereitung eines Serviceangebots",
+          "description": "Ordnen Sie Kostenannahmen und erkennen Sie Angaben, die für ein Serviceangebot noch bestätigt werden müssen.",
+          "label": "Angebotsgrundlagen vorbereiten"
+        },
+        {
+          "id": "operations-reliability-2026",
+          "heading_id": "operations-reliability-heading",
+          "route": "operations",
+          "title": "Betrieb und Zuverlässigkeit",
+          "description": "Verbinden Sie Wartungsplanung, Erkenntnisse aus Störungen und Servicenachweise in einem praktischen Leitfaden.",
+          "label": "Betriebsleitfaden entdecken"
+        },
+        {
+          "id": "operations-evidence-2026",
+          "heading_id": "operations-evidence-heading",
+          "route": "evidence",
+          "title": "Checkliste für Betriebsnachweise",
+          "description": "Definieren Sie Prüfungen und Unterlagen, die zur Bewertung einer Aufgabe und ihres Ergebnisses benötigt werden.",
+          "label": "Nachweischeckliste öffnen"
+        },
+        {
+          "id": "field-visit-handoff-2026",
+          "heading_id": "field-visit-handoff-title",
+          "route": "handoff",
+          "title": "Übergabe eines Technikereinsatzes",
+          "description": "Prüfen Sie vereinbarten Umfang, Standortzugang, Technikerangaben und erforderliche Freigaben vor dem Besuch.",
+          "label": "Einsatzübergabe vorbereiten"
+        },
+        {
+          "id": "field-service-completion-pack",
+          "heading_id": "completion-pack-title",
+          "route": "completion",
+          "title": "Dokumentation des Serviceabschlusses",
+          "description": "Dokumentieren Sie erledigte Arbeiten, Testergebnisse, offene Punkte und Kundenabnahme nachvollziehbar.",
+          "label": "Abschlussdokumentation vorbereiten"
+        }
+      ],
+      "collections_eyebrow": "Nach Thema entdecken",
+      "collections_title": "Finden Sie den passenden Leitfaden für Ihre Arbeit.",
+      "collections_intro": "Entdecken Sie weitere Wege für Produktivität, technischen Betrieb und Branchenaufgaben. Jeder Leitfaden beschreibt die verlinkten Ressourcen.",
+      "collections": [
+        {
+          "id": "sales-revenue-guides",
+          "route": "sales",
+          "title": "Vertrieb und Umsatz",
+          "description": "Entdecken Sie Ressourcen, um Vertriebsabläufe zu ordnen und Nachweise für den nächsten Schritt zu prüfen.",
+          "label": "Vertriebsleitfaden entdecken"
+        },
+        {
+          "id": "communications-suite",
+          "route": "communications",
+          "title": "Kommunikation",
+          "description": "Verbinden Sie eine Kommunikationsaufgabe mit einer praktischen Ressource und einem überprüfbaren nächsten Schritt.",
+          "label": "Kommunikationsleitfaden entdecken"
+        },
+        {
+          "id": "insurance-evidence-hub",
+          "route": "insurance",
+          "title": "Nachweise zu Versicherungsressourcen",
+          "description": "Prüfen Sie die tatsächlichen Funktionen einer Versicherungsressource, vorhandene Nachweise und offene Prüfpunkte vor der Nutzung.",
+          "label": "Leitfaden zur App-Prüfung öffnen"
+        }
+      ],
+      "all_guides": "Alle Leitfadensammlungen entdecken",
+      "language_title": "Finden Sie Ihren Einstieg in Ihrer Sprache.",
+      "language_intro": "Wählen Sie einen übersetzten Einstieg und folgen Sie den Links zu hilfreichen Werkzeugen und Leitfäden.",
+      "discovery_title": "Sie wissen noch nicht, wo Sie beginnen sollen?",
+      "discovery_intro": "Starten Sie mit dem kostenlosen Online-Discovery. Beschreiben Sie einen Prozess und lesen Sie einen Bericht mit Vorschlägen für die nächsten Schritte.",
+      "discovery_note": "Der Bericht erscheint in Ihrem Browser. Sie können den E-Mail-Versand anfordern; prüfen Sie das auf der Seite angezeigte Ergebnis.",
+      "footer_summary": "Wählen Sie eine Ressource, prüfen Sie deren Umfang und vereinbaren Sie im Team den nächsten Schritt.",
+      "footer_nav_label": "Fußzeilennavigation",
+      "history_label": "Historisches Verzeichnis · gemischte Sprachen",
+      "start_languages_label": "Sprache des Einstiegsleitfadens"
+    }
+  }
+}
