@@ -13,12 +13,12 @@ cards:
 - [Reversible experiments, 'Plan an owner, baseline, review and stop rule. This guide does not automatically deploy an app.', Plan an experiment]
 - [Capability review, 'Distinguish documentation concepts, local browser tools and model-backed implementations before relying on a resource.', Review capabilities]
 - [Field-service evidence, 'Prepare scope, access and human-review evidence before a visit. No booking or dispatch is triggered.', Read the field guide]
-method: From discovery to evidence
+method: "Four steps to a useful next action"
 steps:
-- Choose one workflow and inspect its source and limitations.
-- Record the owner, baseline, metric and review date.
-- Test with synthetic or minimized data; obtain necessary approval.
-- Keep a stop rule and rollback path. Expand only after measured review.
+- "Choose one goal: name the workflow, its owner and the outcome you want to improve."
+- "Compare evidence: inspect the resource's capabilities, data handling and limitations before choosing."
+- "Where a browser-only tool is available, try it with synthetic or minimized data and keep its output for review."
+- "Review the next step with the owner: record a baseline, review date and stop rule before expanding."
 privacy: Do not enter passwords, personal records or production secrets into a demo. Review destination behavior before submitting any data.
 routes: [/roi-calculator/, /apps/app-experiment-planner.html, /apps/app-verification-guide.html, /zion-app-network/app-network-operations-evidence-checklist-2026.html]
 disclaimer: Navigation is not an availability, integration, legal-compliance or AI-performance guarantee.
@@ -43,4 +43,15 @@ services:
     - Review the evidence checklist
     - /zion-app-network/app-network-operations-evidence-checklist-2026.html
   note: Discovery remains free online. Paid work requires an agreed scope and separate quotation; no booking, dispatch or purchase is made by this directory.
+entry:
+  label: "App and resource directory"
+  start_label: "Start here"
+  apps_label: "Browse apps"
+  scorecard_label: "App selection scorecard"
+  resources_heading: "Choose the task you want to move forward"
+  resources_intro: "Start with the matching guide. Use the scorecard to compare readiness, or browse the Apps hub when you already know what you need."
+  intents: ["Estimate costs","Plan a pilot","Compare capabilities","Prepare field work"]
+  start_route: "/zion-app-network/app-network-start-here-2026.html"
+  scorecard_route: "/zion-app-network/app-selection-evidence-scorecard-2026.html"
 ---
+

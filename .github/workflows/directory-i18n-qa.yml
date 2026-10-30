@@ -1,0 +1,33 @@
+name: Directory i18n QA
+
+"on":
+  pull_request:
+    paths:
+      - '_layouts/network_directory.html'
+      - 'directory-*.html'
+      - 'tests/test_directory_service_navigation.py'
+      - '.github/workflows/directory-i18n-qa.yml'
+  push:
+    branches: [main]
+    paths:
+      - '_layouts/network_directory.html'
+      - 'directory-*.html'
+      - 'tests/test_directory_service_navigation.py'
+      - '.github/workflows/directory-i18n-qa.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  directory-contract:
+    name: Render five-language directory contract
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Install pinned template test dependencies
+        run: python3 -m pip install --disable-pip-version-check --no-input 'PyYAML==6.0.3' 'python-liquid==2.3.6'
+      - name: Verify directory rendering, locale links and preserved entries
+        run: python3 -m unittest discover -s tests -p 'test_directory_service_navigation.py' -v
