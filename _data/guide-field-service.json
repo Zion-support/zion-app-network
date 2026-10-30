@@ -1,0 +1,752 @@
+{
+  "id": "field-service",
+  "basePath": "app/network-field-service-showcase",
+  "showInRelatedGuides": false,
+  "locales": {
+    "en": {
+      "title": "Field service: from scope to documented completion",
+      "description": "Prepare a field visit with evidence, a local handoff checklist and a completion template. Connect existing resources to a clear, reviewed service workflow.",
+      "intro": "Start with the work to be delivered. Use the Operations Evidence guide, review the local Field Visit Handoff checklist, then prepare the Service Completion Pack. Keep the six existing app references available for evaluating a future tool or integration.",
+      "scope": "This is a planning guide, not a confirmed service booking. Before any purchase, reservation or dispatch, obtain formal written client confirmation of the exact scope and price, the client's PO and a separate, specific Zion operational release. Availability, coverage and service targets require written verification; resource names alone do not establish working AI, live monitoring or automatic dispatch.",
+      "sections": [
+        {
+          "id": "service-workflow",
+          "title": "A practical workflow for one field visit",
+          "intro": "Follow these three resources in order. Keep the approved scope, evidence references and open questions together in the authorized service record.",
+          "resources": [
+            {
+              "name": "1. Operations Evidence Checklist",
+              "description": "Editorial checklist for prerequisites, work observations, exceptions and acceptance evidence. Use it to define what must be recorded before, during and after the visit.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026.html",
+              "language": "en"
+            },
+            {
+              "name": "2. Field Visit Handoff Checklist",
+              "description": "Browser-only checklist with 12 review items, progress, reset and print controls. Marking every box prepares human review; it does not issue an operational release.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026.html",
+              "language": "en"
+            },
+            {
+              "name": "3. Service Completion Pack",
+              "description": "Static, copyable report template for your approved service thread or reporting system. Record technician findings and client acceptance separately; the page does not submit a report.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "field-resources",
+          "title": "Review the six existing field-service resources",
+          "intro": "Use these links to define requirements and inspect each destination's current capabilities. This guide makes no claim that the named AI or integration is operational.",
+          "resources": [
+            {
+              "name": "Field Service Dispatch AI",
+              "description": "Review dispatch requirements: exact scope, technician qualifications, written availability and approval evidence. Confirm the proposed assignment through the responsible service team.",
+              "href": "https://ziontechgroup.com/field-service-dispatch-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Technician Scheduler AI",
+              "description": "Review scheduling requirements: local time zone, access window, travel allowance and visit order. Treat a proposed slot separately from a confirmed booking.",
+              "href": "https://ziontechgroup.com/technician-scheduler-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Onsite Support Copilot",
+              "description": "Review onsite-support requirements: approved procedure, authorized inputs, expected checks and an escalation owner. A reference page does not authorize an equipment change.",
+              "href": "https://ziontechgroup.com/onsite-support-copilot/",
+              "language": "en"
+            },
+            {
+              "name": "Service SLA Tracker",
+              "description": "Review the agreed measurement rules. Define response, restoration and resolution separately, with timestamps, service windows and exclusions; verify any monitoring capability before relying on it.",
+              "href": "https://ziontechgroup.com/service-sla-tracker/",
+              "language": "en"
+            },
+            {
+              "name": "FE Ticket Triage",
+              "description": "Review ticket-classification requirements using the reported impact, scope and written service terms. Confirm priority and routing with the responsible person.",
+              "href": "https://ziontechgroup.com/fe-ticket-triage/",
+              "language": "en"
+            },
+            {
+              "name": "Field Workforce Analytics",
+              "description": "Review workforce-measurement requirements: dated availability, verified skills and clearly defined utilization metrics. A coverage assumption is not a confirmed technician.",
+              "href": "https://ziontechgroup.com/field-workforce-analytics/",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "network-references",
+          "title": "Continue through the existing network",
+          "intro": "These earlier destinations remain available for context. Check the date, language and scope of the page you open.",
+          "resources": [
+            {
+              "name": "Field documentation repositories",
+              "description": "Browse the existing repository search for field documentation. A published playbook does not confirm a certified engineer or local availability.",
+              "href": "https://github.com/Zion-support?q=zion-field",
+              "language": "en"
+            },
+            {
+              "name": "Earlier network directory",
+              "description": "Keep access to the previous directory and compare its destination descriptions with the maintained catalog.",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "language": "en"
+            },
+            {
+              "name": "Q4 resource showcase",
+              "description": "Explore the earlier quarterly collection and check each resource's stated capability.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Industry suites showcase",
+              "description": "Explore the existing industry collections and choose a relevant planning reference.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "description": "Review this separate resource and its documented agent scope before considering an integration.",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "description": "Open the existing portal reference and check the features and access requirements it describes.",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "language": "en"
+            },
+            {
+              "name": "Earlier app-network article",
+              "description": "Read the earlier network article as historical context; counts and capabilities require current verification.",
+              "href": "https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/",
+              "language": "en"
+            },
+            {
+              "name": "Zion homepage in Portuguese",
+              "description": "Return to the company's Portuguese homepage for service information and current navigation.",
+              "href": "https://ziontechgroup.com",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Define the work and its evidence",
+          "body": "Record the exact task, visit sequence, local time zone, access window, expected tests and responsible reviewer. Agree separate measures for response, restoration and resolution."
+        },
+        {
+          "title": "Complete approvals before commitment",
+          "body": "Verify written availability and the full quoted cost, including taxes, travel, freight and applicable import costs. Obtain formal client confirmation, the client's PO and Zion's specific operational release before any purchase, reservation or dispatch."
+        },
+        {
+          "title": "Close with reviewed results",
+          "body": "Record actual timestamps, expected and observed test results, exceptions and open items. Keep technician completion separate from written client acceptance, and assign an owner to anything still pending."
+        }
+      ],
+      "example": {
+        "title": "Illustrative example: replacing a switch",
+        "body": "For a fictional switch-replacement visit, the team first defines the connectivity checks and rollback conditions in Operations Evidence. It uses the Handoff checklist to review access, technician evidence and the separate approvals. After authorized work, it records actual tests and exceptions in the Completion Pack. Client acceptance remains pending until the authorized reviewer provides a written response."
+      }
+    },
+    "pt": {
+      "title": "Serviços de campo: do escopo à conclusão documentada",
+      "description": "Prepare uma visita técnica com evidências, checklist local de passagem e modelo de conclusão. Conecte recursos existentes a um fluxo de serviço revisado.",
+      "intro": "Comece pelo trabalho a executar. Use o guia de Evidências Operacionais, revise o checklist local de Passagem de Visita Técnica e prepare o Registro de Conclusão de Serviço. Mantenha as seis referências de apps disponíveis para avaliar uma futura ferramenta ou integração.",
+      "scope": "Este é um guia de planejamento, não um agendamento confirmado. Antes de qualquer compra, reserva ou despacho, obtenha confirmação formal escrita do cliente para o escopo e preço exatos, a PO do cliente e uma liberação operacional específica e separada da Zion. Disponibilidade, cobertura e metas de serviço exigem verificação escrita; os nomes dos recursos, por si só, não comprovam IA funcional, monitoramento ao vivo ou despacho automático.",
+      "sections": [
+        {
+          "id": "service-workflow",
+          "title": "Um fluxo prático para uma visita técnica",
+          "intro": "Siga estes três recursos na ordem. Mantenha o escopo aprovado, as referências das evidências e as dúvidas pendentes no registro de serviço autorizado.",
+          "resources": [
+            {
+              "name": "1. Checklist de Evidências Operacionais",
+              "description": "Checklist editorial de pré-requisitos, observações do trabalho, exceções e evidências de aceite. Use-o para definir os registros necessários antes, durante e após a visita.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-pt-br.html",
+              "language": "pt"
+            },
+            {
+              "name": "2. Checklist de Passagem de Visita Técnica",
+              "description": "Checklist local no navegador com 12 itens de revisão, progresso, reinício e impressão. Marcar todos os itens prepara a revisão humana; não emite liberação operacional.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-pt-br.html",
+              "language": "pt"
+            },
+            {
+              "name": "3. Registro de Conclusão de Serviço",
+              "description": "Modelo estático e copiável para a thread de serviço ou sistema de registro autorizado. Separe o relato do técnico do aceite do cliente; a página não envia um relatório.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "field-resources",
+          "title": "Revise os seis recursos existentes de serviços de campo",
+          "intro": "Use os links para definir requisitos e conferir as capacidades atuais de cada destino. Este guia não afirma que a IA ou a integração mencionada está em operação.",
+          "resources": [
+            {
+              "name": "Field Service Dispatch AI",
+              "description": "Revise os requisitos de despacho: escopo exato, qualificação do técnico, disponibilidade escrita e evidências das aprovações. Confirme a alocação proposta com a equipe responsável pelo serviço.",
+              "href": "https://ziontechgroup.com/field-service-dispatch-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Technician Scheduler AI",
+              "description": "Revise os requisitos de agenda: fuso local, janela de acesso, tempo de deslocamento e ordem das visitas. Separe uma janela proposta de uma reserva confirmada.",
+              "href": "https://ziontechgroup.com/technician-scheduler-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Onsite Support Copilot",
+              "description": "Revise os requisitos de suporte presencial: procedimento aprovado, dados autorizados, verificações esperadas e responsável por escalonamento. Uma página de referência não autoriza alteração no equipamento.",
+              "href": "https://ziontechgroup.com/onsite-support-copilot/",
+              "language": "en"
+            },
+            {
+              "name": "Service SLA Tracker",
+              "description": "Revise as regras de medição acordadas. Defina resposta, restauração e solução separadamente, com horários, janelas de serviço e exclusões; confira qualquer função de monitoramento antes de utilizá-la.",
+              "href": "https://ziontechgroup.com/service-sla-tracker/",
+              "language": "en"
+            },
+            {
+              "name": "FE Ticket Triage",
+              "description": "Revise os requisitos de classificação com base no impacto informado, escopo e condições de serviço escritas. Confirme prioridade e encaminhamento com o responsável.",
+              "href": "https://ziontechgroup.com/fe-ticket-triage/",
+              "language": "en"
+            },
+            {
+              "name": "Field Workforce Analytics",
+              "description": "Revise os requisitos de análise da equipe: disponibilidade datada, competências verificadas e indicadores de utilização definidos. Uma hipótese de cobertura não confirma um técnico.",
+              "href": "https://ziontechgroup.com/field-workforce-analytics/",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "network-references",
+          "title": "Continue pela rede existente",
+          "intro": "Os destinos anteriores continuam disponíveis como referência. Confira data, idioma e escopo da página que abrir.",
+          "resources": [
+            {
+              "name": "Repositórios de documentação de campo",
+              "description": "Consulte a busca existente de repositórios de documentação de campo. Um guia publicado não confirma técnico certificado nem disponibilidade local.",
+              "href": "https://github.com/Zion-support?q=zion-field",
+              "language": "en"
+            },
+            {
+              "name": "Diretório anterior da rede",
+              "description": "Preserve o acesso ao diretório anterior e compare as descrições dos destinos com o catálogo mantido.",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "language": "en"
+            },
+            {
+              "name": "Mostra de recursos do quarto trimestre",
+              "description": "Explore a coleção trimestral anterior e confira as capacidades descritas em cada recurso.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Mostra de soluções por setor",
+              "description": "Explore as coleções existentes por setor e escolha uma referência de planejamento pertinente.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "description": "Revise este recurso separado e o escopo documentado dos agentes antes de considerar uma integração.",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "description": "Abra a referência do portal existente e confira as funções e os requisitos de acesso descritos.",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "language": "en"
+            },
+            {
+              "name": "Artigo anterior sobre a rede de apps",
+              "description": "Leia o artigo anterior como contexto histórico; contagens e capacidades precisam de verificação atual.",
+              "href": "https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/",
+              "language": "en"
+            },
+            {
+              "name": "Página inicial da Zion em português",
+              "description": "Volte à página inicial em português para consultar serviços e a navegação atual.",
+              "href": "https://ziontechgroup.com",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina o trabalho e suas evidências",
+          "body": "Registre a tarefa exata, a sequência das visitas, o fuso local, a janela de acesso, os testes esperados e o revisor responsável. Combine medidas separadas para resposta, restauração e solução."
+        },
+        {
+          "title": "Conclua as aprovações antes do compromisso",
+          "body": "Verifique disponibilidade escrita e custo total cotado, incluindo impostos, deslocamento, frete e importação quando aplicável. Obtenha confirmação formal do cliente, a PO e a liberação operacional específica da Zion antes de compra, reserva ou despacho."
+        },
+        {
+          "title": "Conclua com resultados revisados",
+          "body": "Registre horários reais, resultados esperados e observados dos testes, exceções e pendências. Separe a conclusão relatada pelo técnico do aceite escrito do cliente e atribua um responsável a cada item aberto."
+        }
+      ],
+      "example": {
+        "title": "Exemplo ilustrativo: substituição de um switch",
+        "body": "Em uma visita fictícia para trocar um switch, a equipe primeiro define testes de conectividade e condições de reversão em Evidências Operacionais. Usa o checklist de Passagem para revisar acesso, evidências do técnico e aprovações separadas. Após o trabalho autorizado, registra testes reais e exceções no Registro de Conclusão. O aceite do cliente permanece pendente até a resposta escrita do revisor autorizado."
+      }
+    },
+    "es": {
+      "title": "Servicios de campo: del alcance al cierre documentado",
+      "description": "Prepare una visita técnica con pruebas, una lista local de traspaso y una plantilla de cierre. Conecte recursos existentes con un proceso de servicio revisado.",
+      "intro": "Empiece por el trabajo que debe realizarse. Use la guía de Evidencias Operativas, revise la lista local de Traspaso de Visita Técnica y prepare el Registro de Cierre del Servicio. Conserve las seis referencias de aplicaciones para evaluar una futura herramienta o integración.",
+      "scope": "Esta es una guía de planificación, no una reserva de servicio confirmada. Antes de cualquier compra, reserva o movilización, obtenga la confirmación formal por escrito del cliente sobre el alcance y precio exactos, su orden de compra (PO) y una autorización operativa específica y separada de Zion. La disponibilidad, cobertura y objetivos de servicio requieren verificación escrita; los nombres de los recursos no acreditan por sí solos IA funcional, supervisión en vivo ni movilización automática.",
+      "sections": [
+        {
+          "id": "service-workflow",
+          "title": "Un proceso práctico para una visita técnica",
+          "intro": "Siga estos tres recursos en orden. Conserve el alcance aprobado, las referencias de las pruebas y las preguntas abiertas en el registro de servicio autorizado.",
+          "resources": [
+            {
+              "name": "1. Lista de Evidencias Operativas",
+              "description": "Lista editorial de requisitos previos, observaciones del trabajo, excepciones y pruebas de aceptación. Úsela para definir qué registrar antes, durante y después de la visita.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-es.html",
+              "language": "es"
+            },
+            {
+              "name": "2. Lista de Traspaso de Visita Técnica",
+              "description": "Lista local del navegador con 12 puntos de revisión, progreso, reinicio e impresión. Marcar todos los puntos prepara la revisión humana; no emite una autorización operativa.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-es.html",
+              "language": "es"
+            },
+            {
+              "name": "3. Registro de Cierre del Servicio",
+              "description": "Plantilla estática que puede copiarse en el hilo de servicio o sistema autorizado. Separe el informe del técnico de la aceptación del cliente; la página no envía informes.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "field-resources",
+          "title": "Revise los seis recursos existentes de servicios de campo",
+          "intro": "Use estos enlaces para definir requisitos y comprobar las capacidades actuales de cada destino. Esta guía no afirma que la IA o integración mencionada esté operativa.",
+          "resources": [
+            {
+              "name": "Field Service Dispatch AI",
+              "description": "Revise los requisitos de movilización: alcance exacto, cualificación del técnico, disponibilidad escrita y pruebas de aprobación. Confirme la asignación propuesta con el equipo responsable del servicio.",
+              "href": "https://ziontechgroup.com/field-service-dispatch-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Technician Scheduler AI",
+              "description": "Revise los requisitos de agenda: zona horaria local, ventana de acceso, tiempo de desplazamiento y orden de visitas. Distinga una franja propuesta de una reserva confirmada.",
+              "href": "https://ziontechgroup.com/technician-scheduler-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Onsite Support Copilot",
+              "description": "Revise los requisitos de soporte presencial: procedimiento aprobado, datos autorizados, comprobaciones esperadas y responsable de escalado. Una referencia no autoriza cambios en los equipos.",
+              "href": "https://ziontechgroup.com/onsite-support-copilot/",
+              "language": "en"
+            },
+            {
+              "name": "Service SLA Tracker",
+              "description": "Revise las reglas de medición acordadas. Defina respuesta, restauración y resolución por separado, con marcas de tiempo, ventanas de servicio y exclusiones; compruebe la función de supervisión antes de utilizarla.",
+              "href": "https://ziontechgroup.com/service-sla-tracker/",
+              "language": "en"
+            },
+            {
+              "name": "FE Ticket Triage",
+              "description": "Revise los requisitos de clasificación a partir del impacto comunicado, el alcance y las condiciones escritas del servicio. Confirme la prioridad y el destino con el responsable.",
+              "href": "https://ziontechgroup.com/fe-ticket-triage/",
+              "language": "en"
+            },
+            {
+              "name": "Field Workforce Analytics",
+              "description": "Revise los requisitos de análisis del personal: disponibilidad fechada, competencias verificadas e indicadores de utilización definidos. Una hipótesis de cobertura no confirma un técnico.",
+              "href": "https://ziontechgroup.com/field-workforce-analytics/",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "network-references",
+          "title": "Continúe por la red existente",
+          "intro": "Los destinos anteriores siguen disponibles como referencia. Compruebe la fecha, el idioma y el alcance de la página que abra.",
+          "resources": [
+            {
+              "name": "Repositorios de documentación de campo",
+              "description": "Consulte la búsqueda existente de repositorios de documentación de campo. Una guía publicada no confirma un técnico certificado ni disponibilidad local.",
+              "href": "https://github.com/Zion-support?q=zion-field",
+              "language": "en"
+            },
+            {
+              "name": "Directorio anterior de la red",
+              "description": "Mantenga el acceso al directorio anterior y compare sus descripciones con el catálogo mantenido.",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "language": "en"
+            },
+            {
+              "name": "Muestra de recursos del cuarto trimestre",
+              "description": "Explore la colección trimestral anterior y compruebe las capacidades descritas de cada recurso.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Muestra de soluciones por sector",
+              "description": "Explore las colecciones sectoriales existentes y elija una referencia de planificación pertinente.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "description": "Revise este recurso independiente y el alcance documentado de sus agentes antes de considerar una integración.",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "description": "Abra la referencia del portal existente y compruebe las funciones y los requisitos de acceso descritos.",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "language": "en"
+            },
+            {
+              "name": "Artículo anterior sobre la red de apps",
+              "description": "Lea el artículo anterior como contexto histórico; las cifras y capacidades requieren verificación actual.",
+              "href": "https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/",
+              "language": "en"
+            },
+            {
+              "name": "Página inicial de Zion en portugués",
+              "description": "Vuelva a la página inicial en portugués para consultar servicios y navegación actual.",
+              "href": "https://ziontechgroup.com",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina el trabajo y sus pruebas",
+          "body": "Registre la tarea exacta, el orden de visitas, la zona horaria local, la ventana de acceso, las pruebas previstas y el revisor responsable. Acuerde medidas distintas para respuesta, restauración y resolución."
+        },
+        {
+          "title": "Complete las aprobaciones antes del compromiso",
+          "body": "Verifique disponibilidad escrita y coste total cotizado, incluidos impuestos, desplazamientos, transporte e importación cuando corresponda. Obtenga la confirmación formal del cliente, su PO y la autorización operativa específica de Zion antes de comprar, reservar o movilizar."
+        },
+        {
+          "title": "Cierre con resultados revisados",
+          "body": "Registre horarios reales, resultados esperados y observados, excepciones y cuestiones abiertas. Distinga la finalización informada por el técnico de la aceptación escrita del cliente y asigne un responsable a cada pendiente."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ilustrativo: sustituir un switch",
+        "body": "En una visita ficticia para sustituir un switch, el equipo define primero las pruebas de conectividad y las condiciones de reversión en Evidencias Operativas. Usa la lista de Traspaso para revisar acceso, pruebas sobre el técnico y aprobaciones separadas. Tras el trabajo autorizado, registra las pruebas reales y excepciones en el Registro de Cierre. La aceptación del cliente queda pendiente hasta la respuesta escrita del revisor autorizado."
+      }
+    },
+    "fr": {
+      "title": "Intervention sur site : du périmètre à la clôture documentée",
+      "description": "Préparez une intervention avec des preuves, une liste locale de préparation et un modèle de clôture. Reliez les ressources existantes à un processus de service vérifié.",
+      "intro": "Commencez par le travail à réaliser. Utilisez le guide des Preuves Opérationnelles, examinez la liste locale de Préparation de Visite Technique, puis préparez le Dossier de Clôture d’Intervention. Conservez les six références d’applications pour évaluer un futur outil ou une intégration.",
+      "scope": "Il s’agit d’un guide de préparation, pas d’une réservation de service confirmée. Avant tout achat, réservation ou mobilisation, obtenez la confirmation formelle écrite du client sur le périmètre et le prix exacts, son bon de commande (PO) et une autorisation opérationnelle spécifique et distincte de Zion. Disponibilité, couverture et objectifs de service exigent une vérification écrite ; le nom des ressources ne prouve ni IA opérationnelle, ni supervision en direct, ni mobilisation automatique.",
+      "sections": [
+        {
+          "id": "service-workflow",
+          "title": "Un parcours pratique pour une intervention sur site",
+          "intro": "Suivez ces trois ressources dans l’ordre. Conservez périmètre approuvé, références des preuves et questions ouvertes dans le dossier de service autorisé.",
+          "resources": [
+            {
+              "name": "1. Liste des Preuves Opérationnelles",
+              "description": "Liste éditoriale des prérequis, observations, exceptions et preuves d’acceptation. Utilisez-la pour définir les éléments à consigner avant, pendant et après la visite.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-fr.html",
+              "language": "fr"
+            },
+            {
+              "name": "2. Liste de Préparation de Visite Technique",
+              "description": "Liste locale dans le navigateur avec 12 points de revue, progression, réinitialisation et impression. Cocher tous les points prépare la revue humaine ; cela ne délivre aucune autorisation opérationnelle.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-fr.html",
+              "language": "fr"
+            },
+            {
+              "name": "3. Dossier de Clôture d’Intervention",
+              "description": "Modèle statique à copier dans le fil de service ou le système autorisé. Séparez le compte rendu du technicien de l’acceptation du client ; la page n’envoie aucun rapport.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "field-resources",
+          "title": "Examiner les six ressources existantes de services sur site",
+          "intro": "Utilisez ces liens pour définir les besoins et vérifier les capacités actuelles de chaque destination. Ce guide n’affirme pas que l’IA ou l’intégration mentionnée est opérationnelle.",
+          "resources": [
+            {
+              "name": "Field Service Dispatch AI",
+              "description": "Examinez les besoins de mobilisation : périmètre exact, qualifications du technicien, disponibilité écrite et preuves d’approbation. Confirmez l’affectation proposée avec l’équipe responsable du service.",
+              "href": "https://ziontechgroup.com/field-service-dispatch-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Technician Scheduler AI",
+              "description": "Examinez les besoins de planification : fuseau local, créneau d’accès, temps de déplacement et ordre des visites. Distinguez un créneau proposé d’une réservation confirmée.",
+              "href": "https://ziontechgroup.com/technician-scheduler-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Onsite Support Copilot",
+              "description": "Examinez les besoins d’assistance sur site : procédure approuvée, données autorisées, contrôles attendus et responsable des escalades. Une référence n’autorise pas une modification d’équipement.",
+              "href": "https://ziontechgroup.com/onsite-support-copilot/",
+              "language": "en"
+            },
+            {
+              "name": "Service SLA Tracker",
+              "description": "Examinez les règles de mesure convenues. Distinguez réponse, rétablissement et résolution, avec horodatages, plages de service et exclusions ; vérifiez toute fonction de supervision avant de vous y fier.",
+              "href": "https://ziontechgroup.com/service-sla-tracker/",
+              "language": "en"
+            },
+            {
+              "name": "FE Ticket Triage",
+              "description": "Examinez les critères de classification à partir de l’impact signalé, du périmètre et des conditions écrites du service. Confirmez priorité et affectation avec le responsable.",
+              "href": "https://ziontechgroup.com/fe-ticket-triage/",
+              "language": "en"
+            },
+            {
+              "name": "Field Workforce Analytics",
+              "description": "Examinez les besoins de suivi des équipes : disponibilité datée, compétences vérifiées et indicateurs d’utilisation définis. Une hypothèse de couverture ne confirme pas un technicien.",
+              "href": "https://ziontechgroup.com/field-workforce-analytics/",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "network-references",
+          "title": "Poursuivre dans le réseau existant",
+          "intro": "Les destinations précédentes restent disponibles comme références. Vérifiez la date, la langue et le périmètre de la page ouverte.",
+          "resources": [
+            {
+              "name": "Dépôts de documentation des interventions",
+              "description": "Consultez la recherche existante de dépôts de documentation terrain. Un guide publié ne confirme ni technicien certifié ni disponibilité locale.",
+              "href": "https://github.com/Zion-support?q=zion-field",
+              "language": "en"
+            },
+            {
+              "name": "Ancien annuaire du réseau",
+              "description": "Conservez l’accès à l’ancien annuaire et comparez ses descriptions au catalogue maintenu.",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "language": "en"
+            },
+            {
+              "name": "Présentation des ressources du quatrième trimestre",
+              "description": "Explorez la collection trimestrielle précédente et vérifiez les capacités décrites de chaque ressource.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Présentation des solutions sectorielles",
+              "description": "Explorez les collections sectorielles existantes et choisissez une référence de préparation pertinente.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "description": "Examinez cette ressource distincte et le périmètre documenté des agents avant d’envisager une intégration.",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "description": "Ouvrez la référence du portail existant et vérifiez les fonctions et conditions d’accès décrites.",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "language": "en"
+            },
+            {
+              "name": "Ancien article sur le réseau d’apps",
+              "description": "Lisez l’ancien article comme contexte historique ; les chiffres et capacités demandent une vérification actuelle.",
+              "href": "https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/",
+              "language": "en"
+            },
+            {
+              "name": "Accueil Zion en portugais",
+              "description": "Revenez à l’accueil en portugais pour consulter les services et la navigation actuelle.",
+              "href": "https://ziontechgroup.com",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Définir le travail et ses preuves",
+          "body": "Consignez la tâche exacte, l’ordre des visites, le fuseau local, le créneau d’accès, les tests prévus et le responsable de revue. Convenez de mesures distinctes pour réponse, rétablissement et résolution."
+        },
+        {
+          "title": "Obtenir les approbations avant tout engagement",
+          "body": "Vérifiez disponibilité écrite et coût total proposé, dont taxes, déplacements, transport et importation applicable. Obtenez confirmation formelle du client, bon de commande et autorisation opérationnelle spécifique de Zion avant achat, réservation ou mobilisation."
+        },
+        {
+          "title": "Clôturer avec des résultats vérifiés",
+          "body": "Consignez horaires réels, résultats attendus et observés, exceptions et questions ouvertes. Séparez l’achèvement signalé par le technicien de l’acceptation écrite du client et attribuez un responsable à chaque point en attente."
+        }
+      ],
+      "example": {
+        "title": "Exemple illustratif : remplacer un commutateur",
+        "body": "Pour une intervention fictive de remplacement d’un commutateur, l’équipe définit d’abord les tests de connectivité et les conditions de retour arrière dans les Preuves Opérationnelles. Elle utilise la liste de Préparation pour vérifier accès, preuves concernant le technicien et approbations distinctes. Après les travaux autorisés, elle consigne tests réels et exceptions dans le Dossier de Clôture. L’acceptation du client reste en attente de la réponse écrite du responsable habilité."
+      }
+    },
+    "de": {
+      "title": "Vor-Ort-Service: vom Leistungsumfang zum dokumentierten Abschluss",
+      "description": "Bereiten Sie einen Einsatz mit Nachweisen, lokaler Übergabecheckliste und Abschlussvorlage vor. Verbinden Sie bestehende Ressourcen zu einem geprüften Serviceablauf.",
+      "intro": "Beginnen Sie mit der auszuführenden Arbeit. Nutzen Sie den Leitfaden für Betriebsnachweise, prüfen Sie die lokale Checkliste zur Einsatzübergabe und erstellen Sie anschließend die Dokumentation des Serviceabschlusses. Die sechs bestehenden App-Verweise bleiben für die Bewertung künftiger Werkzeuge oder Integrationen verfügbar.",
+      "scope": "Dies ist ein Planungsleitfaden, keine bestätigte Servicebuchung. Vor Kauf, Reservierung oder Entsendung benötigen Sie die formelle schriftliche Kundenbestätigung für den genauen Umfang und Preis, die Kundenbestellung (PO) sowie eine separate, konkrete betriebliche Freigabe von Zion. Verfügbarkeit, Abdeckung und Serviceziele müssen schriftlich geprüft werden; Ressourcennamen allein belegen weder funktionsfähige KI noch Live-Überwachung oder automatische Einsatzsteuerung.",
+      "sections": [
+        {
+          "id": "service-workflow",
+          "title": "Ein praktischer Ablauf für einen Vor-Ort-Einsatz",
+          "intro": "Folgen Sie diesen drei Ressourcen in der angegebenen Reihenfolge. Halten Sie genehmigten Umfang, Nachweisverweise und offene Fragen im autorisierten Servicevorgang zusammen.",
+          "resources": [
+            {
+              "name": "1. Checkliste für Betriebsnachweise",
+              "description": "Redaktionelle Checkliste für Voraussetzungen, Arbeitsbeobachtungen, Ausnahmen und Abnahmenachweise. Legen Sie damit fest, was vor, während und nach dem Einsatz dokumentiert werden soll.",
+              "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "2. Checkliste zur Einsatzübergabe",
+              "description": "Lokale Browsercheckliste mit 12 Prüfpunkten, Fortschritt, Zurücksetzen und Druckfunktion. Vollständiges Abhaken bereitet die menschliche Prüfung vor und erteilt keine betriebliche Freigabe.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "3. Dokumentation des Serviceabschlusses",
+              "description": "Statische, kopierbare Berichtsvorlage für den genehmigten Serviceverlauf oder das Berichtssystem. Trennen Sie Technikerbericht und Kundenabnahme; die Seite versendet keinen Bericht.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "field-resources",
+          "title": "Die sechs bestehenden Field-Service-Ressourcen prüfen",
+          "intro": "Nutzen Sie die Links zur Anforderungsdefinition und Prüfung der aktuellen Funktionen jeder Zielseite. Dieser Leitfaden behauptet nicht, dass die genannte KI oder Integration betriebsbereit ist.",
+          "resources": [
+            {
+              "name": "Field Service Dispatch AI",
+              "description": "Prüfen Sie Einsatzanforderungen: genauen Umfang, Qualifikation, schriftliche Verfügbarkeit und Freigabenachweise. Bestätigen Sie die vorgeschlagene Zuweisung mit dem zuständigen Serviceteam.",
+              "href": "https://ziontechgroup.com/field-service-dispatch-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Technician Scheduler AI",
+              "description": "Prüfen Sie Planungsanforderungen: lokale Zeitzone, Zugangsfenster, Reisezeit und Besuchsfolge. Trennen Sie vorgeschlagene Termine von bestätigten Buchungen.",
+              "href": "https://ziontechgroup.com/technician-scheduler-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Onsite Support Copilot",
+              "description": "Prüfen Sie Anforderungen an die Vor-Ort-Unterstützung: freigegebenes Verfahren, zulässige Eingaben, erwartete Prüfungen und Eskalationsverantwortung. Eine Referenz autorisiert keine Geräteänderung.",
+              "href": "https://ziontechgroup.com/onsite-support-copilot/",
+              "language": "en"
+            },
+            {
+              "name": "Service SLA Tracker",
+              "description": "Prüfen Sie die vereinbarten Messregeln. Definieren Sie Reaktion, Wiederherstellung und Lösung getrennt, mit Zeitstempeln, Servicefenstern und Ausschlüssen; prüfen Sie Überwachungsfunktionen vor ihrer Nutzung.",
+              "href": "https://ziontechgroup.com/service-sla-tracker/",
+              "language": "en"
+            },
+            {
+              "name": "FE Ticket Triage",
+              "description": "Prüfen Sie Klassifizierungsanforderungen anhand gemeldeter Auswirkungen, Umfang und schriftlicher Servicebedingungen. Bestätigen Sie Priorität und Weiterleitung mit der verantwortlichen Person.",
+              "href": "https://ziontechgroup.com/fe-ticket-triage/",
+              "language": "en"
+            },
+            {
+              "name": "Field Workforce Analytics",
+              "description": "Prüfen Sie Anforderungen an die Personalauswertung: datierte Verfügbarkeit, verifizierte Fähigkeiten und definierte Auslastungskennzahlen. Eine Abdeckungsannahme bestätigt keinen Techniker.",
+              "href": "https://ziontechgroup.com/field-workforce-analytics/",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "network-references",
+          "title": "Im bestehenden Netzwerk weiterarbeiten",
+          "intro": "Frühere Zielseiten bleiben als Referenzen erhalten. Prüfen Sie Datum, Sprache und Umfang der geöffneten Seite.",
+          "resources": [
+            {
+              "name": "Repositories mit Einsatzdokumentation",
+              "description": "Nutzen Sie die bestehende Repository-Suche für Einsatzdokumentation. Ein veröffentlichter Leitfaden bestätigt weder zertifizierte Techniker noch lokale Verfügbarkeit.",
+              "href": "https://github.com/Zion-support?q=zion-field",
+              "language": "en"
+            },
+            {
+              "name": "Früheres Netzwerkverzeichnis",
+              "description": "Behalten Sie den Zugang zum früheren Verzeichnis und vergleichen Sie dessen Beschreibungen mit dem gepflegten Katalog.",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "language": "en"
+            },
+            {
+              "name": "Ressourcenübersicht für das vierte Quartal",
+              "description": "Entdecken Sie die frühere Quartalssammlung und prüfen Sie die beschriebenen Fähigkeiten jeder Ressource.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Übersicht der Branchenlösungen",
+              "description": "Entdecken Sie bestehende Branchensammlungen und wählen Sie eine passende Planungsreferenz.",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-industry-suites-showcase.html",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "description": "Prüfen Sie diese separate Ressource und den dokumentierten Agentenumfang, bevor Sie eine Integration erwägen.",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "description": "Öffnen Sie den bestehenden Portalverweis und prüfen Sie die beschriebenen Funktionen und Zugangsanforderungen.",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "language": "en"
+            },
+            {
+              "name": "Früherer Artikel zum App-Netzwerk",
+              "description": "Lesen Sie den früheren Artikel als historischen Kontext; Zahlen und Funktionen benötigen eine aktuelle Prüfung.",
+              "href": "https://ziontechgroup.com/blog/zion-ai-app-network-770-apps/",
+              "language": "en"
+            },
+            {
+              "name": "Zion-Startseite auf Portugiesisch",
+              "description": "Kehren Sie zur portugiesischen Startseite mit Serviceinformationen und aktueller Navigation zurück.",
+              "href": "https://ziontechgroup.com",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Arbeit und Nachweise festlegen",
+          "body": "Dokumentieren Sie genaue Aufgabe, Besuchsfolge, lokale Zeitzone, Zugangsfenster, erwartete Tests und Prüfverantwortung. Vereinbaren Sie getrennte Messgrößen für Reaktion, Wiederherstellung und Lösung."
+        },
+        {
+          "title": "Freigaben vor jeder Zusage abschließen",
+          "body": "Prüfen Sie schriftliche Verfügbarkeit und den vollständigen Angebotspreis einschließlich Steuern, Reise, Fracht und anwendbarer Importkosten. Holen Sie formelle Kundenbestätigung, Kundenbestellung und Zions konkrete betriebliche Freigabe vor Kauf, Reservierung oder Entsendung ein."
+        },
+        {
+          "title": "Mit geprüften Ergebnissen abschließen",
+          "body": "Erfassen Sie tatsächliche Zeiten, erwartete und beobachtete Testergebnisse, Ausnahmen und offene Punkte. Trennen Sie den Technikerabschluss von der schriftlichen Kundenabnahme und benennen Sie Verantwortliche für verbleibende Aufgaben."
+        }
+      ],
+      "example": {
+        "title": "Fiktives Beispiel: Austausch eines Switches",
+        "body": "Bei einem fiktiven Switch-Austausch definiert das Team zunächst Verbindungstests und Rücksetzbedingungen in den Betriebsnachweisen. Mit der Übergabecheckliste prüft es Zugang, Technikernachweise und getrennte Freigaben. Nach autorisierter Arbeit dokumentiert es tatsächliche Tests und Ausnahmen im Abschlussbericht. Die Kundenabnahme bleibt offen, bis die befugte prüfende Person schriftlich antwortet."
+      }
+    }
+  }
+}

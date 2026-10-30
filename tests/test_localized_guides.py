@@ -28,8 +28,8 @@ class LocalizedGuideTests(unittest.TestCase):
         cls.models=guides.load_guides()
         cls.original=json.loads((ROOT/'tests/fixtures/guide-original-destinations.json').read_text())
 
-    def test_all_five_families_have_complete_distinct_translations(self):
-        self.assertEqual({g['id'] for g in self.models},{'catalog-navigation','green-education','infrastructure','govtech','legal-ops'})
+    def test_all_maintained_families_have_complete_distinct_translations(self):
+        self.assertEqual({g['id'] for g in self.models},{'catalog-navigation','green-education','infrastructure','govtech','legal-ops','field-service'})
         for model in self.models:
             for locale in guides.LOCALES:
                 c=model['locales'][locale]
@@ -47,7 +47,7 @@ class LocalizedGuideTests(unittest.TestCase):
             if model['id'] not in self.original:
                 continue
             for locale in guides.LOCALES:
-                hrefs={r['href'] for s in model['locales'][locale]['sections'] for r in s['resources']}
+                hrefs={a['href'] for a in Page(guides.render(model,locale,self.models)).find('a')}
                 self.assertTrue(set(self.original[model['id']])<=hrefs,(model['id'],locale))
 
     def test_published_files_have_reciprocal_metadata_and_accessible_structure(self):
@@ -84,7 +84,7 @@ class LocalizedGuideTests(unittest.TestCase):
                 self.assertIn(prefix+'discovery/',hrefs)
                 self.assertIn('/zion-app-network/directory-'+locale+'.html',hrefs)
                 for sibling in self.models:
-                    if sibling['id']!=model['id']:
+                    if sibling['id']!=model['id'] and sibling.get('showInRelatedGuides', True):
                         self.assertIn(guides.route(sibling,locale),hrefs)
 
     def test_every_internal_network_destination_exists(self):
