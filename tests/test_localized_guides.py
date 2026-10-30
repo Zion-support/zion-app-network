@@ -29,7 +29,7 @@ class LocalizedGuideTests(unittest.TestCase):
         cls.original=json.loads((ROOT/'tests/fixtures/guide-original-destinations.json').read_text())
 
     def test_all_maintained_families_have_complete_distinct_translations(self):
-        self.assertEqual({g['id'] for g in self.models},{'catalog-navigation','green-education','infrastructure','govtech','legal-ops','field-service'})
+        self.assertEqual({g['id'] for g in self.models},{'catalog-navigation','green-education','infrastructure','govtech','legal-ops','field-service','reliability-sre','people-energy','q4-showcase','real-estate'})
         for model in self.models:
             for locale in guides.LOCALES:
                 c=model['locales'][locale]
@@ -84,8 +84,41 @@ class LocalizedGuideTests(unittest.TestCase):
                 self.assertIn(prefix+'discovery/',hrefs)
                 self.assertIn('/zion-app-network/directory-'+locale+'.html',hrefs)
                 for sibling in self.models:
-                    if sibling['id']!=model['id'] and sibling.get('showInRelatedGuides', True):
+                    if sibling['id']!=model['id'] and (sibling.get('showInRelatedGuides', True) or sibling['id'] in model.get('relatedGuideIds', [])):
                         self.assertIn(guides.route(sibling,locale),hrefs)
+
+    def test_preserved_portuguese_paths_and_new_family_discovery(self):
+        ids={'reliability-sre','people-energy','q4-showcase','real-estate'}
+        hub=next(g for g in self.models if g['id']=='catalog-navigation')
+        for locale in guides.LOCALES:
+            hub_links={a['href'] for a in Page(guides.render(hub,locale,self.models)).find('a')}
+            for model in self.models:
+                if model['id'] not in ids:
+                    continue
+                self.assertIn(guides.ORIGIN+guides.route(model,locale),hub_links)
+                self.assertFalse(model['showInRelatedGuides'])
+                self.assertTrue(ids<=set(model['relatedGuideIds']))
+                if model['id'] in {'q4-showcase','real-estate'}:
+                    self.assertTrue(guides.route(model,'pt').endswith('-pt.html'))
+
+    def test_unknown_language_and_contact_links_have_no_false_hreflang(self):
+        for model in self.models:
+            for locale in guides.LOCALES:
+                text=guides.render(model,locale,self.models)
+                anchors=Page(text).find('a')
+                for section in model['locales'][locale]['sections']:
+                    for resource in section['resources']:
+                        if resource.get('language')!='und' and not resource['href'].startswith('mailto:'):
+                            continue
+                        matches=[a for a in anchors if a['href']==resource['href']]
+                        self.assertTrue(matches)
+                        self.assertTrue(all('hreflang' not in a for a in matches))
+                        if resource.get('language')=='und' and not resource['href'].startswith('mailto:'):
+                            self.assertIn(guides.UI[locale]['unverifiedLanguage'],text)
+                for card in text.split('<article class="card">')[1:]:
+                    card=card.split('</article>',1)[0]
+                    if 'mailto:' in card:
+                        self.assertNotIn('language-note',card)
 
     def test_every_internal_network_destination_exists(self):
         for model in self.models:
@@ -108,7 +141,8 @@ class LocalizedGuideTests(unittest.TestCase):
         text=guides.render(model,'en',self.models)
         self.assertIn('&lt;img src=x onerror=alert(1)&gt;',text)
         self.assertNotIn('<img src=x',text)
-        for url in ('javascript:alert(1)','//example.com/','https://example.com/unverified'):
+        self.assertEqual(guides.valid_href('mailto:commercial@ziontechgroup.com'),'mailto:commercial@ziontechgroup.com')
+        for url in ('javascript:alert(1)','//example.com/','https://example.com/unverified','mailto:unapproved@example.com'):
             with self.assertRaises(ValueError):
                 guides.valid_href(url)
 
@@ -116,7 +150,7 @@ class LocalizedGuideTests(unittest.TestCase):
         for model in self.models:
             for locale in guides.LOCALES:
                 text=guides.render(model,locale,self.models).lower()
-                for claim in ('$99','830+','890+','instant dual','same-day follow-up'):
+                for claim in ('$99','710+','830+','850+','890+','160+','instant dual','same-day follow-up'):
                     self.assertNotIn(claim,text)
 
 if __name__=='__main__':

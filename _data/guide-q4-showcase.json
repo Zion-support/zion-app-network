@@ -1,0 +1,1507 @@
+{
+  "id": "q4-showcase",
+  "basePath": "app/network-q4-2026-showcase",
+  "localeSuffixes": {
+    "pt": "-pt"
+  },
+  "showInRelatedGuides": false,
+  "relatedGuideIds": [
+    "catalog-navigation",
+    "green-education",
+    "infrastructure",
+    "govtech",
+    "legal-ops",
+    "field-service",
+    "reliability-sre",
+    "people-energy",
+    "q4-showcase",
+    "real-estate"
+  ],
+  "locales": {
+    "en": {
+      "title": "Q4 2026 showcase: choose a practical app evaluation",
+      "description": "Explore Zion resources for property, education, energy, space, DevOps and governance, with clear next steps for a focused evaluation.",
+      "intro": "Browse the Q4 2026 collection by the work you need to understand. Keep one question, a responsible reviewer and a small set of inputs in view as you move between related resources.",
+      "scope": "This showcase preserves the original collection’s app destinations and adds guidance for evaluating them. A linked description does not establish working automation, measured benefits or service availability. Confirm demonstrated functions, data permissions and review responsibilities at each destination; the guide’s translation does not imply that every linked app is translated.",
+      "sections": [
+        {
+          "id": "property",
+          "title": "Real estate and property — Batch 96",
+          "intro": "Explore valuation, leasing, screening, listings, maintenance and market research as separate review tasks.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Review comparable properties, market dates and property features for a valuation trial. Record assumptions and ask the responsible reviewer to check the estimate.",
+              "language": "en"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Plan a sample extraction of lease clauses, dates, rents and obligations. Check every extracted item against the source lease before using it.",
+              "language": "en"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Evaluate document checks and screening summaries with relevant, permitted criteria. Keep housing decisions and their explanations with an authorized human reviewer.",
+              "language": "en"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Compare proposed pricing, descriptions, photo order and publication channels for one listing. Verify factual accuracy and obtain approval before publishing changes.",
+              "language": "en"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Define maintenance priorities, service history, scheduling limits and contractor assignments. Evaluate any predictive suggestion against records and approved work orders.",
+              "language": "en"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Compare price trends, available inventory and demand by area and period. Check data freshness, coverage and assumptions before interpreting a market signal.",
+              "language": "en"
+            },
+            {
+              "name": "Batch 96: evaluate resources across the property lifecycle",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase.html",
+              "description": "Review six Zion property resources covering valuation, leases, screening, listings, maintenance and market research, with original app and repository links.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Teaching and learning",
+          "intro": "Start with one lesson, course or tutoring session. An educator defines the objectives and reviews the evidence.",
+          "resources": [
+            {
+              "name": "Lesson Plan Generator",
+              "href": "https://ziontechgroup.com/lesson-plan-generator/",
+              "description": "Reference for lesson-planning requirements. Define objectives, available time, learner context and assessment criteria; review the proposed lesson before classroom use.",
+              "language": "en"
+            },
+            {
+              "name": "Student Progress Tracker",
+              "href": "https://ziontechgroup.com/student-progress-tracker/",
+              "description": "Reference for progress-review design. Choose observable learning evidence, a consistent rubric and a review interval before interpreting trends or recommending support.",
+              "language": "en"
+            },
+            {
+              "name": "Curriculum Alignment Checker",
+              "href": "https://ziontechgroup.com/curriculum-alignment-checker/",
+              "description": "Reference for a curriculum-mapping pilot. Link each learning objective to the applicable standard and an example activity, then have an educator review gaps and matches.",
+              "language": "en"
+            },
+            {
+              "name": "Tutoring Session Analyzer",
+              "href": "https://ziontechgroup.com/tutoring-session-analyzer/",
+              "description": "Reference for reviewing tutoring sessions. Define permitted source material and review criteria; ask the tutor to validate observations and proposed follow-up activities.",
+              "language": "en"
+            },
+            {
+              "name": "Learning Outcome Dashboard",
+              "href": "https://ziontechgroup.com/learning-outcome-dashboard/",
+              "description": "Reference for an outcomes dashboard. Agree on metric definitions, cohort boundaries and data completeness before comparing courses or interpreting changes.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energy and sustainability",
+          "intro": "Agree on units, reporting boundaries and a comparison baseline before evaluating an energy or ESG scenario.",
+          "resources": [
+            {
+              "name": "Energy Optimizer AI",
+              "href": "https://ziontechgroup.com/energy-optimizer-ai/",
+              "description": "Reference for reviewing facility-energy scenarios. Separate suggested schedule changes from approved interventions, and define comfort constraints and how results would be measured.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Grid Load Balancer",
+              "href": "https://ziontechgroup.com/smart-grid-load-balancer/",
+              "description": "Reference for load-management planning. Define equipment limits, permitted actions and operator responsibility before evaluating any proposed integration or control function.",
+              "language": "en"
+            },
+            {
+              "name": "Renewable Energy Forecaster",
+              "href": "https://ziontechgroup.com/renewable-energy-forecaster/",
+              "description": "Reference for a forecasting evaluation. Specify the site, time horizon and historical observations; compare predictions with a simple baseline and retain the error measurements.",
+              "language": "en"
+            },
+            {
+              "name": "Carbon Footprint Tracker",
+              "href": "https://ziontechgroup.com/carbon-footprint-tracker/",
+              "description": "Reference for emissions-data planning. Identify organizational boundaries, activity records, factor sources and review ownership before treating a report as complete.",
+              "language": "en"
+            },
+            {
+              "name": "ESG Report Builder",
+              "href": "https://ziontechgroup.com/esg-report-builder/",
+              "description": "Outline an environmental, social and governance report with traceable evidence and a named reviewer. Check definitions, reporting boundaries and supporting records before publication.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Audit Copilot",
+              "href": "https://ziontechgroup.com/energy-audit-copilot/",
+              "description": "Reference for an energy-audit pilot. Assemble utility records, operating hours and building context; ask for traceable calculations and a specialist's review of proposed measures.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Space and satellite operations",
+          "intro": "Define time windows, data provenance and operator review before evaluating a planning or monitoring use case.",
+          "resources": [
+            {
+              "name": "Satellite Pass Scheduler AI",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "description": "Reference page for contact-window planning. Document time zones, station constraints and conflict-resolution rules, then have the responsible operator review the proposed schedule.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "description": "Reference page for link-monitoring requirements. Define the stations, telemetry sources, alert thresholds and escalation owner; request a working demonstration before assuming live monitoring.",
+              "language": "en"
+            },
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "description": "Reference page for conjunction-review requirements. Identify data provenance, timestamps, uncertainty and specialist review; the page alone does not validate collision screening or maneuver decisions.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "title": "Platform and DevOps",
+          "intro": "Review compatibility, permissions and rollback plans before connecting a resource to an existing environment.",
+          "resources": [
+            {
+              "name": "Zion Edge AI Platform",
+              "href": "https://ziontechgroup.com/zion-edge-ai-platform/",
+              "description": "Explore requirements for running a model near its data source. Confirm device compatibility, resource limits, access controls and the demonstrated deployment path. The inspected link redirects to HTTP; verify secure access before sharing data.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "description": "Reference page for edge-deployment planning. Collect device compatibility, model version, acceptance checks and rollback requirements before agreeing to a deployment trial.",
+              "language": "en"
+            },
+            {
+              "name": "Zion DevOps Automation",
+              "href": "https://ziontechgroup.com/zion-devops-automation/",
+              "description": "Map build, release and operating tasks to their owners, approval points and rollback plans. Evaluate a workflow before enabling it in a shared environment.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "description": "Review this separate resource and its documented agent scope before considering an integration.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "description": "Open the existing portal reference and check the features and access requirements it describes.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Tools",
+              "href": "https://ziontechgroup.com/zion-tools/",
+              "description": "Review the documented utilities and their required inputs. Test one selected tool on representative samples and retain the results for review. The inspected link redirects to HTTP; verify secure access before sharing data.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Status",
+              "href": "https://ziontechgroup.com/zion-status/",
+              "description": "Check the stated service scope, update times and incident information. Confirm the health of the particular service you intend to use.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Governance, risk and compliance",
+          "intro": "Keep requirements, source evidence and accountable human review visible throughout each assessment.",
+          "resources": [
+            {
+              "name": "Vendor Risk Assessor",
+              "href": "https://ziontechgroup.com/vendor-risk-assessor/",
+              "description": "Define supplier assessment questions and the evidence needed for each answer. Keep conclusions, exceptions and approval with the responsible reviewer.",
+              "language": "en"
+            },
+            {
+              "name": "Vendor Onboarding Copilot",
+              "href": "https://ziontechgroup.com/vendor-onboarding-copilot/",
+              "description": "Describe required supplier documents, approval stages and access permissions. Verify the proposed process before onboarding a supplier or sharing records.",
+              "language": "en"
+            },
+            {
+              "name": "Policy Writer AI",
+              "href": "https://ziontechgroup.com/policy-writer-ai/",
+              "description": "Prepare a policy outline from approved requirements. Have the responsible team review its scope, wording, exceptions and ownership before adoption.",
+              "language": "en"
+            },
+            {
+              "name": "Audit Trail Analyzer",
+              "href": "https://ziontechgroup.com/audit-trail-analyzer/",
+              "description": "Define the events, timestamps, identities and source records needed for an audit review. Preserve original evidence and have a reviewer validate any interpretation.",
+              "language": "en"
+            },
+            {
+              "name": "Access Review AI",
+              "href": "https://ziontechgroup.com/access-review-ai/",
+              "description": "Compare accounts, roles and privileges with documented business needs. Record the owner’s decision before changing or removing access.",
+              "language": "en"
+            },
+            {
+              "name": "Data Retention Manager",
+              "href": "https://ziontechgroup.com/data-retention-manager/",
+              "description": "Map record categories to retention requirements and responsible owners. Check the applicable rules and obtain separate approval before deleting data.",
+              "language": "en"
+            },
+            {
+              "name": "Security Training Tracker",
+              "href": "https://ziontechgroup.com/security-training-tracker/",
+              "description": "Define course-completion evidence, review periods and coverage. Use authorized training records and check gaps with the responsible team.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery and contact",
+          "intro": "Use the questionnaire or contact route to describe one priority and agree on the next conversation.",
+          "resources": [
+            {
+              "name": "Free AI Discovery",
+              "href": "https://ziontechgroup.com/discovery/",
+              "description": "Open the free questionnaire to outline your needs. Review its current submission and result options; no delivery time or follow-up is promised here.",
+              "language": "en"
+            },
+            {
+              "name": "Contact Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Write to commercial@ziontechgroup.com with your question and relevant resource links. Share only information you are authorized to disclose.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Choose one work area",
+          "body": "Select one question from the six themes. Record the current process, its owner and the result that would make a small trial useful."
+        },
+        {
+          "title": "Compare related resources",
+          "body": "Open one or two app pages and inspect their stated scope. Prepare suitable sample inputs and ask for evidence of the functions you need."
+        },
+        {
+          "title": "Document a reviewed next step",
+          "body": "Record findings, assumptions and limits. Agree on the next test or integration only after the responsible reviewer accepts the evidence."
+        }
+      ],
+      "example": {
+        "title": "Illustrative example: a training facility",
+        "body": "A training facility compares a maintenance-planning reference with an energy-review resource. It prepares a sample work-order list and a separate set of meter readings. The facilities lead reviews each result against the existing process before deciding whether a further trial is useful; no savings or automation are assumed."
+      }
+    },
+    "pt": {
+      "title": "Coleção do 4º trimestre de 2026: escolha uma avaliação prática",
+      "description": "Explore recursos Zion para imóveis, educação, energia, espaço, DevOps e governança, com próximos passos claros para uma avaliação focada.",
+      "intro": "Navegue pela coleção do 4º trimestre de 2026 conforme o trabalho que precisa compreender. Mantenha uma pergunta, um revisor responsável e uma pequena amostra de dados em foco ao explorar recursos relacionados.",
+      "scope": "Esta coleção preserva os destinos originais dos apps e acrescenta orientações para avaliá-los. Uma descrição não comprova automação em funcionamento, benefícios medidos ou disponibilidade do serviço. Confirme funções demonstradas, permissões de dados e responsabilidades de revisão em cada destino; a tradução do guia não significa que todos os apps vinculados estejam traduzidos.",
+      "sections": [
+        {
+          "id": "property",
+          "title": "Imóveis e gestão de propriedades — Batch 96",
+          "intro": "Explore avaliação, locação, triagem, anúncios, manutenção e pesquisa de mercado como tarefas de revisão distintas.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Revise imóveis comparáveis, datas de mercado e características do imóvel em um teste de avaliação. Registre as premissas e peça ao responsável que confira a estimativa.",
+              "language": "en"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Planeje uma extração de exemplo de cláusulas, datas, aluguéis e obrigações contratuais. Confira cada item no contrato original antes de utilizá-lo.",
+              "language": "en"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Avalie a conferência de documentos e os resumos de triagem com critérios pertinentes e permitidos. Mantenha as decisões sobre locação e suas justificativas sob revisão humana autorizada.",
+              "language": "en"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Compare propostas de preço, descrição, ordem das fotos e canais para um anúncio. Confira a exatidão das informações e obtenha aprovação antes de publicar mudanças.",
+              "language": "en"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Defina prioridades de manutenção, histórico de serviços, limites de agenda e responsáveis contratados. Avalie sugestões preditivas com base nos registros e nas ordens de serviço aprovadas.",
+              "language": "en"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Compare tendências de preço, oferta disponível e demanda por região e período. Confira a atualização, a cobertura e as premissas dos dados antes de interpretar um sinal de mercado.",
+              "language": "en"
+            },
+            {
+              "name": "Batch 96: avalie recursos ao longo do ciclo imobiliário",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase-pt.html",
+              "description": "Revise seis recursos Zion para avaliação, contratos, triagem, anúncios, manutenção e pesquisa de mercado, com links originais de apps e repositórios.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Ensino e aprendizagem",
+          "intro": "Comece com uma aula, disciplina ou sessão de tutoria. O educador define os objetivos e revisa as evidências.",
+          "resources": [
+            {
+              "name": "Lesson Plan Generator",
+              "href": "https://ziontechgroup.com/lesson-plan-generator/",
+              "description": "Referência para os requisitos de planejamento de aulas. Defina objetivos, tempo disponível, contexto dos alunos e critérios de avaliação; revise a proposta antes de usá-la em sala.",
+              "language": "en"
+            },
+            {
+              "name": "Student Progress Tracker",
+              "href": "https://ziontechgroup.com/student-progress-tracker/",
+              "description": "Referência para estruturar o acompanhamento da aprendizagem. Escolha evidências observáveis, uma rubrica consistente e um intervalo de revisão antes de interpretar tendências ou recomendar apoio.",
+              "language": "en"
+            },
+            {
+              "name": "Curriculum Alignment Checker",
+              "href": "https://ziontechgroup.com/curriculum-alignment-checker/",
+              "description": "Referência para um piloto de mapeamento curricular. Relacione cada objetivo à referência curricular aplicável e a uma atividade de exemplo; peça ao educador que revise lacunas e correspondências.",
+              "language": "en"
+            },
+            {
+              "name": "Tutoring Session Analyzer",
+              "href": "https://ziontechgroup.com/tutoring-session-analyzer/",
+              "description": "Referência para revisar sessões de tutoria. Defina quais materiais podem ser utilizados e os critérios de revisão; peça ao tutor que valide as observações e as atividades de acompanhamento propostas.",
+              "language": "en"
+            },
+            {
+              "name": "Learning Outcome Dashboard",
+              "href": "https://ziontechgroup.com/learning-outcome-dashboard/",
+              "description": "Referência para um painel de resultados de aprendizagem. Combine as definições dos indicadores, os limites dos grupos e a completude dos dados antes de comparar cursos ou interpretar mudanças.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energia e sustentabilidade",
+          "intro": "Combine unidades, limites do relatório e uma referência de comparação antes de avaliar cenários de energia ou ESG.",
+          "resources": [
+            {
+              "name": "Energy Optimizer AI",
+              "href": "https://ziontechgroup.com/energy-optimizer-ai/",
+              "description": "Referência para revisar cenários de consumo predial. Separe sugestões de mudança de horários das intervenções aprovadas e defina limites de conforto e a forma de medir os resultados.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Grid Load Balancer",
+              "href": "https://ziontechgroup.com/smart-grid-load-balancer/",
+              "description": "Referência para planejar a gestão de cargas. Defina os limites dos equipamentos, as ações permitidas e a responsabilidade do operador antes de avaliar integrações ou funções de controle.",
+              "language": "en"
+            },
+            {
+              "name": "Renewable Energy Forecaster",
+              "href": "https://ziontechgroup.com/renewable-energy-forecaster/",
+              "description": "Referência para avaliar previsões. Especifique o local, o horizonte de tempo e as observações históricas; compare as previsões com uma referência simples e registre os erros medidos.",
+              "language": "en"
+            },
+            {
+              "name": "Carbon Footprint Tracker",
+              "href": "https://ziontechgroup.com/carbon-footprint-tracker/",
+              "description": "Referência para organizar dados de emissões. Identifique os limites organizacionais, os registros de atividade, as fontes dos fatores e o responsável pela revisão antes de considerar um relatório completo.",
+              "language": "en"
+            },
+            {
+              "name": "ESG Report Builder",
+              "href": "https://ziontechgroup.com/esg-report-builder/",
+              "description": "Estruture um relatório ambiental, social e de governança com evidências rastreáveis e um revisor definido. Confira conceitos, limites do relatório e documentos de suporte antes da publicação.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Audit Copilot",
+              "href": "https://ziontechgroup.com/energy-audit-copilot/",
+              "description": "Referência para um piloto de auditoria energética. Reúna contas de consumo, horários de operação e informações do edifício; peça cálculos rastreáveis e revisão especializada das medidas propostas.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Operações espaciais e de satélites",
+          "intro": "Defina janelas de tempo, origem dos dados e revisão do operador antes de avaliar planejamento ou monitoramento.",
+          "resources": [
+            {
+              "name": "Satellite Pass Scheduler AI",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "description": "Página de referência para planejar janelas de contato. Documente fusos horários, restrições das estações e regras para conflitos; peça ao operador responsável que revise a programação proposta.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "description": "Página de referência para monitoramento de enlaces. Defina estações, fontes de telemetria, limites de alerta e responsável por escalonamentos; solicite uma demonstração funcional antes de presumir monitoramento ao vivo.",
+              "language": "en"
+            },
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "description": "Página de referência para requisitos de análise de conjunções orbitais. Identifique a origem dos dados, os horários, as incertezas e a revisão especializada; a página não valida, por si só, triagem de colisões ou decisões de manobra.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "title": "Plataforma e DevOps",
+          "intro": "Revise compatibilidade, permissões e planos de reversão antes de conectar um recurso ao ambiente existente.",
+          "resources": [
+            {
+              "name": "Zion Edge AI Platform",
+              "href": "https://ziontechgroup.com/zion-edge-ai-platform/",
+              "description": "Explore os requisitos para executar um modelo próximo à fonte dos dados. Confirme compatibilidade dos dispositivos, limites de recursos, controles de acesso e o processo de implantação demonstrado. O link verificado redireciona para HTTP; confirme o acesso seguro antes de compartilhar dados.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "description": "Página de referência para implantação na borda. Levante compatibilidade dos dispositivos, versão do modelo, verificações de aceitação e requisitos de reversão antes de acordar um teste de implantação.",
+              "language": "en"
+            },
+            {
+              "name": "Zion DevOps Automation",
+              "href": "https://ziontechgroup.com/zion-devops-automation/",
+              "description": "Relacione tarefas de compilação, publicação e operação aos responsáveis, às aprovações e aos planos de reversão. Avalie o fluxo antes de ativá-lo em um ambiente compartilhado.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "description": "Revise este recurso separado e o escopo documentado dos agentes antes de considerar uma integração.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "description": "Abra a referência do portal existente e confira as funções e os requisitos de acesso descritos.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Tools",
+              "href": "https://ziontechgroup.com/zion-tools/",
+              "description": "Revise as ferramentas documentadas e os dados de entrada necessários. Teste uma delas com amostras representativas e guarde os resultados para revisão. O link verificado redireciona para HTTP; confirme o acesso seguro antes de compartilhar dados.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Status",
+              "href": "https://ziontechgroup.com/zion-status/",
+              "description": "Confira o escopo dos serviços, os horários de atualização e as informações de incidentes. Confirme a situação do serviço específico que pretende utilizar.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Governança, riscos e conformidade",
+          "intro": "Mantenha requisitos, evidências de origem e revisão humana responsável visíveis em cada avaliação.",
+          "resources": [
+            {
+              "name": "Vendor Risk Assessor",
+              "href": "https://ziontechgroup.com/vendor-risk-assessor/",
+              "description": "Defina as perguntas de avaliação de fornecedores e as evidências necessárias para cada resposta. Mantenha conclusões, exceções e aprovação com o revisor responsável.",
+              "language": "en"
+            },
+            {
+              "name": "Vendor Onboarding Copilot",
+              "href": "https://ziontechgroup.com/vendor-onboarding-copilot/",
+              "description": "Descreva documentos de fornecedores, etapas de aprovação e permissões de acesso. Verifique o processo proposto antes de cadastrar um fornecedor ou compartilhar registros.",
+              "language": "en"
+            },
+            {
+              "name": "Policy Writer AI",
+              "href": "https://ziontechgroup.com/policy-writer-ai/",
+              "description": "Prepare um esboço de política com base em requisitos aprovados. Peça à equipe responsável que revise escopo, redação, exceções e responsabilidades antes da adoção.",
+              "language": "en"
+            },
+            {
+              "name": "Audit Trail Analyzer",
+              "href": "https://ziontechgroup.com/audit-trail-analyzer/",
+              "description": "Defina eventos, horários, identidades e registros de origem necessários para uma revisão de auditoria. Preserve as evidências originais e peça a um revisor que valide a interpretação.",
+              "language": "en"
+            },
+            {
+              "name": "Access Review AI",
+              "href": "https://ziontechgroup.com/access-review-ai/",
+              "description": "Compare contas, funções e privilégios com necessidades de negócio documentadas. Registre a decisão do responsável antes de alterar ou remover acessos.",
+              "language": "en"
+            },
+            {
+              "name": "Data Retention Manager",
+              "href": "https://ziontechgroup.com/data-retention-manager/",
+              "description": "Relacione categorias de registros a requisitos de retenção e responsáveis. Confira as regras aplicáveis e obtenha aprovação específica antes de excluir dados.",
+              "language": "en"
+            },
+            {
+              "name": "Security Training Tracker",
+              "href": "https://ziontechgroup.com/security-training-tracker/",
+              "description": "Defina evidências de conclusão dos cursos, períodos de revisão e cobertura. Utilize registros de treinamento autorizados e confira lacunas com a equipe responsável.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery e contato",
+          "intro": "Use o questionário ou o canal de contato para descrever uma prioridade e combinar a próxima conversa.",
+          "resources": [
+            {
+              "name": "AI Discovery gratuito",
+              "href": "https://ziontechgroup.com/pt/discovery/",
+              "description": "Abra o questionário gratuito para descrever suas necessidades. Confira as opções atuais de envio e resultado; este guia não promete prazo de entrega ou retorno.",
+              "language": "pt"
+            },
+            {
+              "name": "Fale com a Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Escreva para commercial@ziontechgroup.com com sua pergunta e os links relevantes. Compartilhe apenas informações que esteja autorizado a divulgar.",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Escolha uma área de trabalho",
+          "body": "Selecione uma pergunta entre os seis temas. Registre o processo atual, o responsável e o resultado que tornaria um pequeno teste útil."
+        },
+        {
+          "title": "Compare recursos relacionados",
+          "body": "Abra uma ou duas páginas de apps e examine o escopo informado. Prepare amostras adequadas e peça evidências das funções necessárias."
+        },
+        {
+          "title": "Registre um próximo passo revisado",
+          "body": "Anote conclusões, premissas e limites. Combine o próximo teste ou integração somente após a aceitação das evidências pelo revisor responsável."
+        }
+      ],
+      "example": {
+        "title": "Exemplo ilustrativo: um centro de treinamento",
+        "body": "Um centro de treinamento compara uma referência de planejamento da manutenção com um recurso de análise energética. Ele prepara uma amostra de ordens de serviço e um conjunto separado de leituras do medidor. O responsável pelas instalações compara cada resultado com o processo atual antes de decidir se vale ampliar o teste, sem presumir economia ou automação."
+      }
+    },
+    "es": {
+      "title": "Colección del cuarto trimestre de 2026: elija una evaluación práctica",
+      "description": "Explore recursos Zion de inmuebles, educación, energía, espacio, DevOps y gobernanza, con próximos pasos claros para una evaluación concreta.",
+      "intro": "Recorra la colección del cuarto trimestre de 2026 según el trabajo que necesita comprender. Mantenga una pregunta, un revisor responsable y una pequeña muestra de datos como referencia al explorar recursos relacionados.",
+      "scope": "Esta colección conserva los destinos originales de las apps y añade orientación para evaluarlas. Una descripción no demuestra automatización operativa, beneficios medidos ni disponibilidad del servicio. Confirme las funciones demostradas, los permisos sobre los datos y las responsabilidades de revisión en cada destino; la traducción de la guía no implica que todas las apps enlazadas estén traducidas.",
+      "sections": [
+        {
+          "id": "property",
+          "title": "Inmuebles y gestión de propiedades — Batch 96",
+          "intro": "Explore valoración, arrendamiento, selección, anuncios, mantenimiento e investigación de mercado como tareas de revisión independientes.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Revise inmuebles comparables, fechas de mercado y características de la propiedad en una prueba de valoración. Registre los supuestos y pida al responsable que compruebe la estimación.",
+              "language": "en"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Planifique una extracción de muestra de cláusulas, fechas, rentas y obligaciones del arrendamiento. Compruebe cada dato en el contrato original antes de utilizarlo.",
+              "language": "en"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Evalúe la revisión de documentos y los resúmenes de selección con criterios pertinentes y permitidos. Mantenga las decisiones sobre vivienda y sus explicaciones bajo revisión humana autorizada.",
+              "language": "en"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Compare propuestas de precio, descripción, orden de fotografías y canales para un anuncio. Verifique la exactitud de la información y obtenga aprobación antes de publicar cambios.",
+              "language": "en"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Defina prioridades de mantenimiento, historial de servicio, límites de agenda y asignación de proveedores. Evalúe las propuestas predictivas frente a los registros y las órdenes de trabajo aprobadas.",
+              "language": "en"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Compare tendencias de precios, oferta disponible y demanda por zona y período. Compruebe la actualidad, cobertura y supuestos de los datos antes de interpretar una señal del mercado.",
+              "language": "en"
+            },
+            {
+              "name": "Batch 96: evalúe recursos durante el ciclo inmobiliario",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase-es.html",
+              "description": "Revise seis recursos Zion de valoración, contratos, selección, anuncios, mantenimiento e investigación de mercado, con enlaces originales a apps y repositorios.",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Enseñanza y aprendizaje",
+          "intro": "Empiece con una clase, curso o sesión de tutoría. El docente define los objetivos y revisa las evidencias.",
+          "resources": [
+            {
+              "name": "Lesson Plan Generator",
+              "href": "https://ziontechgroup.com/lesson-plan-generator/",
+              "description": "Referencia para definir la planificación de clases. Establezca objetivos, tiempo disponible, contexto del alumnado y criterios de evaluación; revise la propuesta antes de utilizarla en el aula.",
+              "language": "en"
+            },
+            {
+              "name": "Student Progress Tracker",
+              "href": "https://ziontechgroup.com/student-progress-tracker/",
+              "description": "Referencia para diseñar el seguimiento del progreso. Elija pruebas observables, una rúbrica coherente y un intervalo de revisión antes de interpretar tendencias o recomendar apoyo.",
+              "language": "en"
+            },
+            {
+              "name": "Curriculum Alignment Checker",
+              "href": "https://ziontechgroup.com/curriculum-alignment-checker/",
+              "description": "Referencia para un piloto de correspondencia curricular. Vincule cada objetivo con el estándar aplicable y una actividad de ejemplo; pida al docente que revise las carencias y correspondencias.",
+              "language": "en"
+            },
+            {
+              "name": "Tutoring Session Analyzer",
+              "href": "https://ziontechgroup.com/tutoring-session-analyzer/",
+              "description": "Referencia para revisar sesiones de tutoría. Defina el material que se puede utilizar y los criterios de revisión; pida al tutor que valide las observaciones y las actividades de seguimiento propuestas.",
+              "language": "en"
+            },
+            {
+              "name": "Learning Outcome Dashboard",
+              "href": "https://ziontechgroup.com/learning-outcome-dashboard/",
+              "description": "Referencia para un panel de resultados de aprendizaje. Acuerde las definiciones de los indicadores, los límites de las cohortes y la integridad de los datos antes de comparar cursos o interpretar cambios.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energía y sostenibilidad",
+          "intro": "Acuerde unidades, límites del informe y una referencia de comparación antes de evaluar un escenario energético o ESG.",
+          "resources": [
+            {
+              "name": "Energy Optimizer AI",
+              "href": "https://ziontechgroup.com/energy-optimizer-ai/",
+              "description": "Referencia para revisar escenarios de consumo de instalaciones. Separe los cambios de horario sugeridos de las intervenciones aprobadas y defina límites de confort y cómo medir los resultados.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Grid Load Balancer",
+              "href": "https://ziontechgroup.com/smart-grid-load-balancer/",
+              "description": "Referencia para planificar la gestión de cargas. Defina los límites de los equipos, las acciones permitidas y la responsabilidad del operador antes de evaluar integraciones o funciones de control.",
+              "language": "en"
+            },
+            {
+              "name": "Renewable Energy Forecaster",
+              "href": "https://ziontechgroup.com/renewable-energy-forecaster/",
+              "description": "Referencia para evaluar previsiones. Especifique el emplazamiento, el horizonte temporal y las observaciones históricas; compare las previsiones con una referencia sencilla y conserve las mediciones del error.",
+              "language": "en"
+            },
+            {
+              "name": "Carbon Footprint Tracker",
+              "href": "https://ziontechgroup.com/carbon-footprint-tracker/",
+              "description": "Referencia para organizar datos de emisiones. Identifique los límites organizativos, los registros de actividad, las fuentes de los factores y la responsabilidad de revisión antes de considerar completo un informe.",
+              "language": "en"
+            },
+            {
+              "name": "ESG Report Builder",
+              "href": "https://ziontechgroup.com/esg-report-builder/",
+              "description": "Estructure un informe ambiental, social y de gobernanza con evidencias trazables y un revisor asignado. Compruebe definiciones, límites del informe y documentos de respaldo antes de publicarlo.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Audit Copilot",
+              "href": "https://ziontechgroup.com/energy-audit-copilot/",
+              "description": "Referencia para un piloto de auditoría energética. Reúna facturas, horarios de actividad y contexto del edificio; solicite cálculos trazables y una revisión especializada de las medidas propuestas.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Operaciones espaciales y de satélites",
+          "intro": "Defina intervalos temporales, procedencia de los datos y revisión del operador antes de evaluar planificación o supervisión.",
+          "resources": [
+            {
+              "name": "Satellite Pass Scheduler AI",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "description": "Página de referencia para planificar ventanas de contacto. Documente zonas horarias, restricciones de las estaciones y reglas para resolver conflictos; pida al operador responsable que revise el calendario propuesto.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "description": "Página de referencia para requisitos de supervisión de enlaces. Defina estaciones, fuentes de telemetría, umbrales y responsable de escalado; solicite una demostración funcional antes de asumir supervisión en vivo.",
+              "language": "en"
+            },
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "description": "Página de referencia para requisitos de revisión de conjunciones orbitales. Identifique procedencia, fechas, incertidumbre y revisión especializada; la página por sí sola no valida la detección de colisiones ni las decisiones de maniobra.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "title": "Plataforma y DevOps",
+          "intro": "Revise compatibilidad, permisos y planes de reversión antes de conectar un recurso al entorno existente.",
+          "resources": [
+            {
+              "name": "Zion Edge AI Platform",
+              "href": "https://ziontechgroup.com/zion-edge-ai-platform/",
+              "description": "Explore los requisitos para ejecutar un modelo cerca de su fuente de datos. Confirme la compatibilidad de dispositivos, los límites de recursos, los controles de acceso y el proceso de despliegue demostrado. El enlace revisado redirige a HTTP; confirme el acceso seguro antes de compartir datos.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "description": "Página de referencia para planificar despliegues en el borde. Recopile compatibilidad de dispositivos, versión del modelo, comprobaciones de aceptación y requisitos de reversión antes de acordar una prueba.",
+              "language": "en"
+            },
+            {
+              "name": "Zion DevOps Automation",
+              "href": "https://ziontechgroup.com/zion-devops-automation/",
+              "description": "Relacione las tareas de compilación, publicación y operación con sus responsables, aprobaciones y planes de reversión. Evalúe el flujo antes de activarlo en un entorno compartido.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "description": "Revise este recurso independiente y el alcance documentado de sus agentes antes de considerar una integración.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "description": "Abra la referencia del portal existente y compruebe las funciones y los requisitos de acceso descritos.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Tools",
+              "href": "https://ziontechgroup.com/zion-tools/",
+              "description": "Revise las herramientas documentadas y los datos de entrada necesarios. Pruebe una con muestras representativas y conserve los resultados para su revisión. El enlace revisado redirige a HTTP; confirme el acceso seguro antes de compartir datos.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Status",
+              "href": "https://ziontechgroup.com/zion-status/",
+              "description": "Compruebe el alcance de los servicios, las horas de actualización y la información sobre incidentes. Confirme el estado del servicio concreto que desea utilizar.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gobernanza, riesgos y cumplimiento",
+          "intro": "Mantenga visibles los requisitos, las evidencias originales y la revisión humana responsable durante cada evaluación.",
+          "resources": [
+            {
+              "name": "Vendor Risk Assessor",
+              "href": "https://ziontechgroup.com/vendor-risk-assessor/",
+              "description": "Defina las preguntas de evaluación de proveedores y las evidencias necesarias para cada respuesta. Mantenga las conclusiones, excepciones y aprobación bajo la responsabilidad del revisor.",
+              "language": "en"
+            },
+            {
+              "name": "Vendor Onboarding Copilot",
+              "href": "https://ziontechgroup.com/vendor-onboarding-copilot/",
+              "description": "Describa los documentos de proveedores, las etapas de aprobación y los permisos de acceso. Verifique el proceso antes de incorporar un proveedor o compartir registros.",
+              "language": "en"
+            },
+            {
+              "name": "Policy Writer AI",
+              "href": "https://ziontechgroup.com/policy-writer-ai/",
+              "description": "Prepare un esquema de política a partir de requisitos aprobados. Pida al equipo responsable que revise alcance, redacción, excepciones y responsabilidades antes de adoptarlo.",
+              "language": "en"
+            },
+            {
+              "name": "Audit Trail Analyzer",
+              "href": "https://ziontechgroup.com/audit-trail-analyzer/",
+              "description": "Defina los eventos, marcas de tiempo, identidades y registros de origen necesarios para una auditoría. Conserve las evidencias originales y pida a un revisor que valide la interpretación.",
+              "language": "en"
+            },
+            {
+              "name": "Access Review AI",
+              "href": "https://ziontechgroup.com/access-review-ai/",
+              "description": "Compare cuentas, funciones y privilegios con las necesidades de negocio documentadas. Registre la decisión del responsable antes de cambiar o retirar accesos.",
+              "language": "en"
+            },
+            {
+              "name": "Data Retention Manager",
+              "href": "https://ziontechgroup.com/data-retention-manager/",
+              "description": "Relacione las categorías de registros con los requisitos de conservación y sus responsables. Compruebe las reglas aplicables y obtenga una aprobación específica antes de eliminar datos.",
+              "language": "en"
+            },
+            {
+              "name": "Security Training Tracker",
+              "href": "https://ziontechgroup.com/security-training-tracker/",
+              "description": "Defina evidencias de finalización de cursos, períodos de revisión y cobertura. Utilice registros de formación autorizados y revise las carencias con el equipo responsable.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery y contacto",
+          "intro": "Utilice el cuestionario o el canal de contacto para describir una prioridad y acordar la siguiente conversación.",
+          "resources": [
+            {
+              "name": "AI Discovery gratuito",
+              "href": "https://ziontechgroup.com/es/discovery/",
+              "description": "Abra el cuestionario gratuito para describir sus necesidades. Revise las opciones actuales de envío y resultados; esta guía no promete plazos de entrega ni de respuesta.",
+              "language": "es"
+            },
+            {
+              "name": "Contacte con Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Escriba a commercial@ziontechgroup.com con su pregunta y los enlaces relevantes. Comparta solo información que esté autorizado a divulgar.",
+              "language": "es"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Elija un área de trabajo",
+          "body": "Seleccione una pregunta entre los seis temas. Registre el proceso actual, su responsable y el resultado que haría útil una pequeña prueba."
+        },
+        {
+          "title": "Compare recursos relacionados",
+          "body": "Abra una o dos páginas de apps y examine su alcance declarado. Prepare muestras adecuadas y solicite evidencias de las funciones que necesita."
+        },
+        {
+          "title": "Documente un próximo paso revisado",
+          "body": "Anote resultados, supuestos y límites. Acuerde la siguiente prueba o integración solo después de que el revisor responsable acepte las evidencias."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ilustrativo: un centro de formación",
+        "body": "Un centro de formación compara una referencia de planificación del mantenimiento con un recurso de revisión energética. Prepara una muestra de órdenes de trabajo y un conjunto separado de lecturas del contador. El responsable de las instalaciones contrasta cada resultado con el proceso actual antes de decidir si conviene ampliar la prueba, sin dar por supuesto ahorro ni automatización."
+      }
+    },
+    "fr": {
+      "title": "Collection du quatrième trimestre 2026 : choisir une évaluation pratique",
+      "description": "Explorez les ressources Zion pour l’immobilier, l’éducation, l’énergie, l’espace, DevOps et la gouvernance, avec des étapes d’évaluation précises.",
+      "intro": "Parcourez la collection du quatrième trimestre 2026 selon le travail à examiner. Gardez une question, un responsable de validation et un petit échantillon de données comme fil conducteur entre les ressources.",
+      "scope": "Cette collection conserve les destinations originales des applications et ajoute des conseils pour les évaluer. Une description ne prouve ni une automatisation opérationnelle, ni un bénéfice mesuré, ni la disponibilité du service. Confirmez les fonctions démontrées, les droits sur les données et les responsabilités de validation à chaque destination ; la traduction du guide ne signifie pas que toutes les applications liées sont traduites.",
+      "sections": [
+        {
+          "id": "property",
+          "title": "Immobilier et gestion de biens — Batch 96",
+          "intro": "Examinez séparément l’évaluation, les baux, les candidatures, les annonces, la maintenance et l’étude du marché.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Examinez les biens comparables, les dates de marché et les caractéristiques du bien pour un essai d’évaluation. Consignez les hypothèses et faites vérifier l’estimation par la personne responsable.",
+              "language": "en"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Préparez un essai d’extraction des clauses, dates, loyers et obligations d’un bail. Vérifiez chaque élément dans le contrat source avant de l’utiliser.",
+              "language": "en"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Évaluez les contrôles documentaires et les synthèses de candidature selon des critères pertinents et autorisés. Confiez les décisions de location et leurs justifications à une personne habilitée.",
+              "language": "en"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Comparez les propositions de prix, de description, d’ordre des photos et de canaux pour une annonce. Vérifiez les informations et obtenez une validation avant toute publication.",
+              "language": "en"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Définissez les priorités de maintenance, l’historique, les contraintes de calendrier et les prestataires. Évaluez les suggestions prédictives à partir des dossiers et des ordres de travail approuvés.",
+              "language": "en"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Comparez les tendances de prix, l’offre disponible et la demande par zone et période. Vérifiez l’actualité, la couverture et les hypothèses des données avant d’interpréter un signal de marché.",
+              "language": "en"
+            },
+            {
+              "name": "Batch 96 : évaluer les ressources du cycle immobilier",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase-fr.html",
+              "description": "Examinez six ressources Zion pour l’évaluation, les baux, les candidatures, les annonces, la maintenance et le marché, avec les liens originaux vers les applications et dépôts.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Enseignement et apprentissage",
+          "intro": "Commencez par un cours, un module ou une séance de tutorat. L’enseignant définit les objectifs et examine les preuves.",
+          "resources": [
+            {
+              "name": "Lesson Plan Generator",
+              "href": "https://ziontechgroup.com/lesson-plan-generator/",
+              "description": "Référence pour définir une préparation de cours. Précisez objectifs, durée disponible, contexte des apprenants et critères d’évaluation ; relisez la proposition avant de l’utiliser en classe.",
+              "language": "en"
+            },
+            {
+              "name": "Student Progress Tracker",
+              "href": "https://ziontechgroup.com/student-progress-tracker/",
+              "description": "Référence pour concevoir le suivi des progrès. Choisissez des preuves observables, une grille cohérente et un intervalle de revue avant d’interpréter les tendances ou de proposer un accompagnement.",
+              "language": "en"
+            },
+            {
+              "name": "Curriculum Alignment Checker",
+              "href": "https://ziontechgroup.com/curriculum-alignment-checker/",
+              "description": "Référence pour un pilote de correspondance au programme. Reliez chaque objectif au référentiel applicable et à une activité d’exemple, puis faites vérifier les écarts et correspondances par un enseignant.",
+              "language": "en"
+            },
+            {
+              "name": "Tutoring Session Analyzer",
+              "href": "https://ziontechgroup.com/tutoring-session-analyzer/",
+              "description": "Référence pour examiner des séances de tutorat. Définissez les supports autorisés et les critères de revue ; demandez au tuteur de valider les observations et les activités de suivi proposées.",
+              "language": "en"
+            },
+            {
+              "name": "Learning Outcome Dashboard",
+              "href": "https://ziontechgroup.com/learning-outcome-dashboard/",
+              "description": "Référence pour un tableau de résultats d’apprentissage. Convenez des définitions des indicateurs, du périmètre des cohortes et de la complétude des données avant de comparer les cours ou d’interpréter les évolutions.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Énergie et durabilité",
+          "intro": "Convenez des unités, du périmètre et d’une référence de comparaison avant d’évaluer un scénario énergétique ou ESG.",
+          "resources": [
+            {
+              "name": "Energy Optimizer AI",
+              "href": "https://ziontechgroup.com/energy-optimizer-ai/",
+              "description": "Référence pour examiner des scénarios de consommation des bâtiments. Distinguez les changements d’horaires proposés des interventions approuvées et définissez les contraintes de confort et la mesure des résultats.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Grid Load Balancer",
+              "href": "https://ziontechgroup.com/smart-grid-load-balancer/",
+              "description": "Référence pour préparer la gestion des charges. Définissez les limites des équipements, les actions permises et la responsabilité de l’opérateur avant d’évaluer une intégration ou une fonction de commande.",
+              "language": "en"
+            },
+            {
+              "name": "Renewable Energy Forecaster",
+              "href": "https://ziontechgroup.com/renewable-energy-forecaster/",
+              "description": "Référence pour évaluer des prévisions. Précisez le site, l’horizon temporel et les observations historiques ; comparez les prévisions à une référence simple et conservez les mesures d’erreur.",
+              "language": "en"
+            },
+            {
+              "name": "Carbon Footprint Tracker",
+              "href": "https://ziontechgroup.com/carbon-footprint-tracker/",
+              "description": "Référence pour organiser les données d’émissions. Identifiez les limites organisationnelles, les données d’activité, les sources des facteurs et le responsable de la revue avant de considérer un rapport comme complet.",
+              "language": "en"
+            },
+            {
+              "name": "ESG Report Builder",
+              "href": "https://ziontechgroup.com/esg-report-builder/",
+              "description": "Structurez un rapport environnemental, social et de gouvernance avec des preuves traçables et un responsable de validation. Vérifiez les définitions, le périmètre et les pièces justificatives avant publication.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Audit Copilot",
+              "href": "https://ziontechgroup.com/energy-audit-copilot/",
+              "description": "Référence pour un pilote d’audit énergétique. Rassemblez factures, horaires d’activité et contexte du bâtiment ; demandez des calculs traçables et une revue spécialisée des mesures proposées.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Opérations spatiales et satellitaires",
+          "intro": "Définissez les créneaux, la provenance des données et la validation de l’opérateur avant d’évaluer un cas de planification ou de surveillance.",
+          "resources": [
+            {
+              "name": "Satellite Pass Scheduler AI",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "description": "Référence pour préparer les fenêtres de contact. Documentez fuseaux horaires, contraintes des stations et règles de résolution des conflits ; faites valider le planning proposé par l’opérateur responsable.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "description": "Référence pour la supervision des liaisons. Définissez stations, sources de télémétrie, seuils d’alerte et responsable des escalades ; demandez une démonstration fonctionnelle avant de présumer une supervision en direct.",
+              "language": "en"
+            },
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "description": "Référence pour les besoins d’analyse des conjonctions orbitales. Identifiez provenance des données, horodatage, incertitudes et revue spécialisée ; cette page seule ne valide ni dépistage de collisions ni décision de manœuvre.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "title": "Plateforme et DevOps",
+          "intro": "Examinez la compatibilité, les droits et les plans de retour arrière avant de connecter une ressource à un environnement existant.",
+          "resources": [
+            {
+              "name": "Zion Edge AI Platform",
+              "href": "https://ziontechgroup.com/zion-edge-ai-platform/",
+              "description": "Examinez les conditions d’exécution d’un modèle près de sa source de données. Confirmez la compatibilité des appareils, les ressources, les contrôles d’accès et le déploiement effectivement démontré. Le lien vérifié redirige vers HTTP ; confirmez un accès sécurisé avant de partager des données.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "description": "Référence pour préparer un déploiement en périphérie. Recueillez compatibilité des appareils, version du modèle, contrôles d’acceptation et modalités de retour arrière avant de convenir d’un essai.",
+              "language": "en"
+            },
+            {
+              "name": "Zion DevOps Automation",
+              "href": "https://ziontechgroup.com/zion-devops-automation/",
+              "description": "Associez les tâches de compilation, de publication et d’exploitation à leurs responsables, validations et plans de retour arrière. Évaluez le processus avant de l’activer dans un environnement partagé.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "description": "Examinez cette ressource distincte et le périmètre documenté des agents avant d’envisager une intégration.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "description": "Ouvrez la référence du portail existant et vérifiez les fonctions et conditions d’accès décrites.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Tools",
+              "href": "https://ziontechgroup.com/zion-tools/",
+              "description": "Examinez les utilitaires documentés et les données requises. Testez un outil sur des exemples représentatifs et conservez les résultats pour validation. Le lien vérifié redirige vers HTTP ; confirmez un accès sécurisé avant de partager des données.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Status",
+              "href": "https://ziontechgroup.com/zion-status/",
+              "description": "Vérifiez le périmètre des services, les dates de mise à jour et les incidents signalés. Confirmez l’état du service précis que vous comptez utiliser.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Gouvernance, risques et conformité",
+          "intro": "Rendez les exigences, les preuves sources et la responsabilité de la validation humaine explicites dans chaque évaluation.",
+          "resources": [
+            {
+              "name": "Vendor Risk Assessor",
+              "href": "https://ziontechgroup.com/vendor-risk-assessor/",
+              "description": "Définissez les questions d’évaluation des fournisseurs et les preuves attendues pour chaque réponse. Confiez les conclusions, les exceptions et la validation au responsable de l’examen.",
+              "language": "en"
+            },
+            {
+              "name": "Vendor Onboarding Copilot",
+              "href": "https://ziontechgroup.com/vendor-onboarding-copilot/",
+              "description": "Décrivez les documents fournisseurs, les étapes de validation et les droits d’accès. Vérifiez le processus avant d’intégrer un fournisseur ou de partager des dossiers.",
+              "language": "en"
+            },
+            {
+              "name": "Policy Writer AI",
+              "href": "https://ziontechgroup.com/policy-writer-ai/",
+              "description": "Préparez un plan de politique à partir d’exigences approuvées. Faites examiner le périmètre, la rédaction, les exceptions et les responsabilités avant son adoption.",
+              "language": "en"
+            },
+            {
+              "name": "Audit Trail Analyzer",
+              "href": "https://ziontechgroup.com/audit-trail-analyzer/",
+              "description": "Définissez les événements, horodatages, identités et documents sources nécessaires à un examen d’audit. Préservez les preuves originales et faites valider toute interprétation.",
+              "language": "en"
+            },
+            {
+              "name": "Access Review AI",
+              "href": "https://ziontechgroup.com/access-review-ai/",
+              "description": "Comparez les comptes, rôles et privilèges aux besoins métier documentés. Consignez la décision du responsable avant de modifier ou de retirer un accès.",
+              "language": "en"
+            },
+            {
+              "name": "Data Retention Manager",
+              "href": "https://ziontechgroup.com/data-retention-manager/",
+              "description": "Associez les catégories de documents à leurs exigences de conservation et à leurs responsables. Vérifiez les règles applicables et obtenez une autorisation distincte avant toute suppression.",
+              "language": "en"
+            },
+            {
+              "name": "Security Training Tracker",
+              "href": "https://ziontechgroup.com/security-training-tracker/",
+              "description": "Définissez les preuves de formation suivie, les périodes de revue et la couverture. Utilisez des dossiers autorisés et examinez les lacunes avec l’équipe responsable.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery et contact",
+          "intro": "Utilisez le questionnaire ou le contact pour présenter une priorité et convenir de la prochaine discussion.",
+          "resources": [
+            {
+              "name": "AI Discovery gratuit",
+              "href": "https://ziontechgroup.com/fr/discovery/",
+              "description": "Ouvrez le questionnaire gratuit pour décrire vos besoins. Vérifiez les options actuelles d’envoi et de résultats ; ce guide ne promet aucun délai de livraison ou de réponse.",
+              "language": "fr"
+            },
+            {
+              "name": "Contacter Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Écrivez à commercial@ziontechgroup.com avec votre question et les liens utiles. Ne transmettez que des informations que vous êtes autorisé à partager.",
+              "language": "fr"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Choisir un domaine de travail",
+          "body": "Sélectionnez une question parmi les six thèmes. Notez le processus actuel, son responsable et le résultat qui rendrait un petit essai utile."
+        },
+        {
+          "title": "Comparer les ressources associées",
+          "body": "Ouvrez une ou deux pages d’applications et examinez leur périmètre déclaré. Préparez des exemples adaptés et demandez des preuves des fonctions nécessaires."
+        },
+        {
+          "title": "Consigner une prochaine étape validée",
+          "body": "Notez les constats, hypothèses et limites. Convenez du prochain essai ou de l’intégration après acceptation des preuves par le responsable."
+        }
+      ],
+      "example": {
+        "title": "Exemple illustratif : un centre de formation",
+        "body": "Un centre de formation compare une référence de planification de la maintenance à une ressource d’analyse énergétique. Il prépare un échantillon d’ordres de travail et un jeu distinct de relevés de compteur. Le responsable des installations confronte chaque résultat au processus existant avant de décider de poursuivre l’essai, sans présumer d’économies ni d’automatisation."
+      }
+    },
+    "de": {
+      "title": "Sammlung zum vierten Quartal 2026: eine praktische App-Prüfung planen",
+      "description": "Entdecken Sie Zion-Ressourcen für Immobilien, Bildung, Energie, Raumfahrt, DevOps und Unternehmensführung mit klaren Schritten für eine gezielte Prüfung.",
+      "intro": "Erkunden Sie die Sammlung zum vierten Quartal 2026 anhand der Aufgabe, die Sie verstehen möchten. Eine konkrete Frage, eine verantwortliche prüfende Person und eine kleine Datenstichprobe verbinden die ausgewählten Ressourcen.",
+      "scope": "Diese Sammlung erhält die ursprünglichen App-Ziele und ergänzt Hinweise zu ihrer Bewertung. Eine Beschreibung belegt weder funktionierende Automatisierung noch gemessene Vorteile oder Dienstverfügbarkeit. Prüfen Sie nachgewiesene Funktionen, Datenberechtigungen und Zuständigkeiten am jeweiligen Ziel. Die Übersetzung dieses Leitfadens bedeutet nicht, dass jede verlinkte App übersetzt ist.",
+      "sections": [
+        {
+          "id": "property",
+          "title": "Immobilien und Objektverwaltung — Batch 96",
+          "intro": "Betrachten Sie Bewertung, Vermietung, Bewerbungsprüfung, Inserate, Wartung und Marktforschung als getrennte Prüfaufgaben.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Prüfen Sie Vergleichsobjekte, Marktstichtage und Objektdaten für einen Bewertungstest. Halten Sie Annahmen fest und lassen Sie die Schätzung von der verantwortlichen Person prüfen.",
+              "language": "en"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Planen Sie eine probeweise Erfassung von Mietvertragsklauseln, Terminen, Mieten und Pflichten. Gleichen Sie jeden Eintrag vor der Nutzung mit dem Originalvertrag ab.",
+              "language": "en"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Bewerten Sie Dokumentenprüfungen und Bewerbungsübersichten anhand relevanter, zulässiger Kriterien. Wohnungsentscheidungen und ihre Begründungen bleiben bei einer befugten prüfenden Person.",
+              "language": "en"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Vergleichen Sie Preisvorschläge, Beschreibung, Bildreihenfolge und Kanäle für ein Inserat. Prüfen Sie die Angaben und holen Sie vor der Veröffentlichung eine Freigabe ein.",
+              "language": "en"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Definieren Sie Wartungsprioritäten, Servicehistorie, Terminbeschränkungen und Dienstleister. Prüfen Sie vorausschauende Vorschläge anhand vorhandener Unterlagen und freigegebener Arbeitsaufträge.",
+              "language": "en"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Vergleichen Sie Preisentwicklung, verfügbares Angebot und Nachfrage nach Gebiet und Zeitraum. Prüfen Sie Aktualität, Abdeckung und Annahmen der Daten, bevor Sie ein Marktsignal deuten.",
+              "language": "en"
+            },
+            {
+              "name": "Batch 96: Ressourcen im Immobilienlebenszyklus bewerten",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-batch96-showcase-de.html",
+              "description": "Prüfen Sie sechs Zion-Ressourcen für Bewertung, Mietverträge, Bewerbungen, Inserate, Wartung und Marktforschung mit den ursprünglichen App- und Repository-Links.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "education",
+          "title": "Lehren und Lernen",
+          "intro": "Beginnen Sie mit einer Unterrichtsstunde, einem Kurs oder einer Nachhilfesitzung. Die Lehrkraft legt Ziele fest und prüft die Nachweise.",
+          "resources": [
+            {
+              "name": "Lesson Plan Generator",
+              "href": "https://ziontechgroup.com/lesson-plan-generator/",
+              "description": "Referenz für Anforderungen an die Unterrichtsplanung. Bestimmen Sie Lernziele, verfügbare Zeit, Lernkontext und Bewertungskriterien; prüfen Sie den Vorschlag vor dem Einsatz im Unterricht.",
+              "language": "en"
+            },
+            {
+              "name": "Student Progress Tracker",
+              "href": "https://ziontechgroup.com/student-progress-tracker/",
+              "description": "Referenz für die Gestaltung der Lernfortschrittsprüfung. Wählen Sie beobachtbare Nachweise, ein einheitliches Bewertungsraster und einen Prüfzyklus, bevor Sie Trends deuten oder Unterstützung empfehlen.",
+              "language": "en"
+            },
+            {
+              "name": "Curriculum Alignment Checker",
+              "href": "https://ziontechgroup.com/curriculum-alignment-checker/",
+              "description": "Referenz für einen Pilotversuch zur Lehrplanzuordnung. Verknüpfen Sie jedes Lernziel mit dem geltenden Standard und einer Beispielaufgabe; lassen Sie Lücken und Zuordnungen durch eine Lehrkraft prüfen.",
+              "language": "en"
+            },
+            {
+              "name": "Tutoring Session Analyzer",
+              "href": "https://ziontechgroup.com/tutoring-session-analyzer/",
+              "description": "Referenz zur Prüfung von Tutorien. Legen Sie zulässiges Ausgangsmaterial und Prüfkriterien fest; lassen Sie Beobachtungen und vorgeschlagene Folgeaufgaben durch die betreuende Lehrkraft bestätigen.",
+              "language": "en"
+            },
+            {
+              "name": "Learning Outcome Dashboard",
+              "href": "https://ziontechgroup.com/learning-outcome-dashboard/",
+              "description": "Referenz für eine Übersicht der Lernergebnisse. Vereinbaren Sie Kennzahlendefinitionen, Gruppengrenzen und Datenvollständigkeit, bevor Sie Kurse vergleichen oder Veränderungen interpretieren.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy",
+          "title": "Energie und Nachhaltigkeit",
+          "intro": "Vereinbaren Sie Einheiten, Berichtsgrenzen und eine Vergleichsbasis, bevor Sie Energie- oder ESG-Szenarien bewerten.",
+          "resources": [
+            {
+              "name": "Energy Optimizer AI",
+              "href": "https://ziontechgroup.com/energy-optimizer-ai/",
+              "description": "Referenz zur Prüfung von Energieverbrauchsszenarien für Gebäude. Trennen Sie vorgeschlagene Zeitplanänderungen von genehmigten Eingriffen und definieren Sie Komfortgrenzen sowie die Ergebnismessung.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Grid Load Balancer",
+              "href": "https://ziontechgroup.com/smart-grid-load-balancer/",
+              "description": "Referenz zur Planung des Lastmanagements. Bestimmen Sie Gerätegrenzen, zulässige Aktionen und die Verantwortung des Betreibers, bevor Sie Integrationen oder Steuerungsfunktionen bewerten.",
+              "language": "en"
+            },
+            {
+              "name": "Renewable Energy Forecaster",
+              "href": "https://ziontechgroup.com/renewable-energy-forecaster/",
+              "description": "Referenz zur Bewertung von Prognosen. Legen Sie Standort, Zeithorizont und historische Beobachtungen fest; vergleichen Sie Vorhersagen mit einer einfachen Referenz und dokumentieren Sie die gemessenen Fehler.",
+              "language": "en"
+            },
+            {
+              "name": "Carbon Footprint Tracker",
+              "href": "https://ziontechgroup.com/carbon-footprint-tracker/",
+              "description": "Referenz zur Vorbereitung von Emissionsdaten. Bestimmen Sie Organisationsgrenzen, Aktivitätsdaten, Quellen der Faktoren und Prüfverantwortung, bevor Sie einen Bericht als vollständig einstufen.",
+              "language": "en"
+            },
+            {
+              "name": "ESG Report Builder",
+              "href": "https://ziontechgroup.com/esg-report-builder/",
+              "description": "Gliedern Sie einen Bericht zu Umwelt, Sozialem und Unternehmensführung mit nachvollziehbaren Belegen und einer prüfenden Person. Klären Sie Definitionen, Berichtsgrenzen und Nachweise vor der Veröffentlichung.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Audit Copilot",
+              "href": "https://ziontechgroup.com/energy-audit-copilot/",
+              "description": "Referenz für einen Energieaudit-Piloten. Stellen Sie Verbrauchsbelege, Betriebszeiten und Gebäudedaten zusammen; verlangen Sie nachvollziehbare Berechnungen und eine fachliche Prüfung vorgeschlagener Maßnahmen.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Raumfahrt- und Satellitenbetrieb",
+          "intro": "Definieren Sie Zeitfenster, Datenherkunft und die Prüfung durch das Betriebsteam, bevor Sie Planung oder Überwachung bewerten.",
+          "resources": [
+            {
+              "name": "Satellite Pass Scheduler AI",
+              "href": "https://ziontechgroup.com/satellite-pass-scheduler/",
+              "description": "Referenz zur Planung von Kontaktfenstern. Dokumentieren Sie Zeitzonen, Stationsbeschränkungen und Regeln zur Konfliktlösung; lassen Sie den vorgeschlagenen Zeitplan vom verantwortlichen Betreiber prüfen.",
+              "language": "en"
+            },
+            {
+              "name": "Ground Station Link Monitor",
+              "href": "https://ziontechgroup.com/ground-station-link-monitor/",
+              "description": "Referenz für Anforderungen an die Verbindungsüberwachung. Bestimmen Sie Stationen, Telemetriequellen, Alarmgrenzen und Eskalationsverantwortung; verlangen Sie eine Funktionsvorführung, bevor Sie Live-Überwachung voraussetzen.",
+              "language": "en"
+            },
+            {
+              "name": "Orbital Conjunction Screener",
+              "href": "https://ziontechgroup.com/orbital-conjunction-screener/",
+              "description": "Referenz für Anforderungen an die Prüfung orbitaler Annäherungen. Klären Sie Datenherkunft, Zeitstempel, Unsicherheit und fachliche Prüfung; die Seite allein validiert weder Kollisionsprüfung noch Manöverentscheidungen.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "title": "Plattform und DevOps",
+          "intro": "Prüfen Sie Kompatibilität, Berechtigungen und Rückfallpläne, bevor Sie eine Ressource mit einer bestehenden Umgebung verbinden.",
+          "resources": [
+            {
+              "name": "Zion Edge AI Platform",
+              "href": "https://ziontechgroup.com/zion-edge-ai-platform/",
+              "description": "Prüfen Sie die Anforderungen an die Ausführung eines Modells nahe seiner Datenquelle. Klären Sie Gerätekompatibilität, Ressourcenlimits, Zugriffskontrollen und den nachgewiesenen Bereitstellungsweg. Der geprüfte Link leitet auf HTTP um; bestätigen Sie einen sicheren Zugriff, bevor Sie Daten weitergeben.",
+              "language": "en"
+            },
+            {
+              "name": "AI Edge Deployer",
+              "href": "https://ziontechgroup.com/ai-edge-deployer/",
+              "description": "Referenz zur Planung einer Edge-Bereitstellung. Erfassen Sie Gerätekompatibilität, Modellversion, Abnahmeprüfungen und Rücksetzanforderungen, bevor Sie einen Bereitstellungstest vereinbaren.",
+              "language": "en"
+            },
+            {
+              "name": "Zion DevOps Automation",
+              "href": "https://ziontechgroup.com/zion-devops-automation/",
+              "description": "Ordnen Sie Build-, Freigabe- und Betriebsaufgaben Verantwortlichen, Genehmigungen und Rückfallplänen zu. Bewerten Sie einen Ablauf, bevor Sie ihn in einer gemeinsamen Umgebung aktivieren.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Agents",
+              "href": "https://ziontechgroup.com/zion-agents/",
+              "description": "Prüfen Sie diese separate Ressource und den dokumentierten Agentenumfang, bevor Sie eine Integration erwägen.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Portal",
+              "href": "https://ziontechgroup.com/zion-portal/",
+              "description": "Öffnen Sie den bestehenden Portalverweis und prüfen Sie die beschriebenen Funktionen und Zugangsanforderungen.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Tools",
+              "href": "https://ziontechgroup.com/zion-tools/",
+              "description": "Prüfen Sie die dokumentierten Werkzeuge und erforderlichen Eingaben. Testen Sie ein ausgewähltes Werkzeug mit repräsentativen Beispielen und bewahren Sie die Ergebnisse zur Prüfung auf. Der geprüfte Link leitet auf HTTP um; bestätigen Sie einen sicheren Zugriff, bevor Sie Daten weitergeben.",
+              "language": "en"
+            },
+            {
+              "name": "Zion Status",
+              "href": "https://ziontechgroup.com/zion-status/",
+              "description": "Prüfen Sie den angegebenen Dienstumfang, Aktualisierungszeiten und Störungsmeldungen. Bestätigen Sie den Zustand des konkreten Dienstes, den Sie nutzen möchten.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "governance",
+          "title": "Unternehmensführung, Risiken und Compliance",
+          "intro": "Halten Sie Anforderungen, Originalbelege und die Verantwortung für menschliche Prüfungen in jeder Bewertung fest.",
+          "resources": [
+            {
+              "name": "Vendor Risk Assessor",
+              "href": "https://ziontechgroup.com/vendor-risk-assessor/",
+              "description": "Legen Sie Fragen zur Lieferantenbewertung und die nötigen Belege fest. Schlussfolgerungen, Ausnahmen und Freigaben bleiben bei der verantwortlichen prüfenden Person.",
+              "language": "en"
+            },
+            {
+              "name": "Vendor Onboarding Copilot",
+              "href": "https://ziontechgroup.com/vendor-onboarding-copilot/",
+              "description": "Beschreiben Sie Lieferantenunterlagen, Freigabestufen und Zugriffsrechte. Prüfen Sie den Ablauf, bevor Sie einen Lieferanten aufnehmen oder Unterlagen weitergeben.",
+              "language": "en"
+            },
+            {
+              "name": "Policy Writer AI",
+              "href": "https://ziontechgroup.com/policy-writer-ai/",
+              "description": "Erstellen Sie einen Richtlinienentwurf aus freigegebenen Anforderungen. Lassen Sie Umfang, Formulierungen, Ausnahmen und Zuständigkeiten vor der Einführung vom verantwortlichen Team prüfen.",
+              "language": "en"
+            },
+            {
+              "name": "Audit Trail Analyzer",
+              "href": "https://ziontechgroup.com/audit-trail-analyzer/",
+              "description": "Definieren Sie Ereignisse, Zeitstempel, Identitäten und Quelldaten für eine Auditprüfung. Bewahren Sie Originalbelege auf und lassen Sie jede Interpretation prüfen.",
+              "language": "en"
+            },
+            {
+              "name": "Access Review AI",
+              "href": "https://ziontechgroup.com/access-review-ai/",
+              "description": "Vergleichen Sie Konten, Rollen und Berechtigungen mit dokumentierten Geschäftsanforderungen. Halten Sie die Entscheidung der zuständigen Person vor einer Zugriffsänderung fest.",
+              "language": "en"
+            },
+            {
+              "name": "Data Retention Manager",
+              "href": "https://ziontechgroup.com/data-retention-manager/",
+              "description": "Ordnen Sie Datenkategorien Aufbewahrungsanforderungen und Verantwortlichen zu. Prüfen Sie die geltenden Regeln und holen Sie vor einer Löschung eine gesonderte Freigabe ein.",
+              "language": "en"
+            },
+            {
+              "name": "Security Training Tracker",
+              "href": "https://ziontechgroup.com/security-training-tracker/",
+              "description": "Definieren Sie Teilnahme- und Abschlussnachweise, Prüfzeiträume und Abdeckung. Nutzen Sie freigegebene Schulungsdaten und klären Sie Lücken mit dem verantwortlichen Team.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery und Kontakt",
+          "intro": "Nutzen Sie den Fragebogen oder den Kontaktweg, um ein Anliegen zu beschreiben und das weitere Gespräch zu vereinbaren.",
+          "resources": [
+            {
+              "name": "Kostenloses AI Discovery",
+              "href": "https://ziontechgroup.com/de/discovery/",
+              "description": "Öffnen Sie den kostenlosen Fragebogen und beschreiben Sie Ihren Bedarf. Prüfen Sie die aktuellen Übermittlungs- und Ergebnisoptionen; dieser Leitfaden verspricht keine Zustell- oder Antwortfrist.",
+              "language": "de"
+            },
+            {
+              "name": "Zion Tech Group kontaktieren",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Schreiben Sie Ihre Frage und relevante Ressourcenlinks an commercial@ziontechgroup.com. Teilen Sie nur Informationen, zu deren Weitergabe Sie befugt sind.",
+              "language": "de"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Einen Arbeitsbereich wählen",
+          "body": "Wählen Sie eine Frage aus den sechs Themen. Halten Sie den bestehenden Ablauf, die zuständige Person und das gewünschte Ergebnis eines kleinen Tests fest."
+        },
+        {
+          "title": "Verwandte Ressourcen vergleichen",
+          "body": "Öffnen Sie ein oder zwei App-Seiten und prüfen Sie deren angegebenen Umfang. Bereiten Sie geeignete Beispiele vor und verlangen Sie Nachweise für die benötigten Funktionen."
+        },
+        {
+          "title": "Einen geprüften nächsten Schritt festhalten",
+          "body": "Dokumentieren Sie Ergebnisse, Annahmen und Grenzen. Vereinbaren Sie den nächsten Test oder eine Integration erst, wenn die verantwortliche Person die Nachweise akzeptiert hat."
+        }
+      ],
+      "example": {
+        "title": "Beispiel zur Veranschaulichung: ein Schulungszentrum",
+        "body": "Ein Schulungszentrum vergleicht eine Ressource zur Wartungsplanung mit einer zur Energieprüfung. Es erstellt eine Stichprobe von Arbeitsaufträgen und separat einige Zählerstände. Die zuständige Person für das Gebäude prüft beide Ergebnisse anhand des bisherigen Ablaufs, bevor sie einen weiteren Test beschließt. Einsparungen oder Automatisierung werden dabei nicht vorausgesetzt."
+      }
+    }
+  }
+}
