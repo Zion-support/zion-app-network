@@ -56,6 +56,41 @@ class DirectoryTests(unittest.TestCase):
     def test_discovery_link_is_localized(self):
         for page in self.pages.values():
             links=Document(self.render(page)).attrs('a');self.assertIn(page['prefix']+'discovery/',[a.get('href') for a in links])
+    def test_core_navigation_keeps_the_selected_language(self):
+        for loc,page in self.pages.items():
+            suffix='' if loc=='en' else '-'+('pt-br' if loc=='pt' else loc)
+            wanted={page['home'],page['prefix']+'apps/',page['prefix']+'discovery/',
+                    '/zion-app-network/app-network-start-here-2026'+suffix+'.html',
+                    '/zion-app-network/app-selection-evidence-scorecard-2026'+suffix+'.html'}
+            class Primary(HTMLParser):
+                def __init__(self,text):
+                    super().__init__();self.active=False;self.links=[];self.feed(text)
+                def handle_starttag(self,tag,attrs):
+                    a=dict(attrs)
+                    if tag=='nav':self.active='primary' in a.get('class','').split()
+                    if tag=='a' and self.active:self.links.append(a.get('href'))
+                def handle_endtag(self,tag):
+                    if tag=='nav':self.active=False
+            with self.subTest(locale=loc):
+                self.assertEqual(set(Primary(self.render(page)).links),wanted)
+    def test_new_directory_copy_has_complete_locale_parity(self):
+        fields={'label','start_label','apps_label','scorecard_label','resources_heading',
+                'resources_intro','intents','start_route','scorecard_route'}
+        for loc,page in self.pages.items():
+            with self.subTest(locale=loc):
+                self.assertEqual(set(page['entry']),fields)
+                self.assertTrue(all(page['entry'][k] for k in fields))
+                self.assertEqual(len(page['entry']['intents']),len(page['cards']))
+                self.assertEqual(len(page['steps']),4)
+        for field in ['label','start_label','apps_label','scorecard_label','resources_heading','resources_intro']:
+            for loc,page in self.pages.items():
+                if loc!='en':self.assertNotEqual(page['entry'][field],self.pages['en']['entry'][field])
+        for index in range(4):
+            self.assertEqual(len({p['steps'][index] for p in self.pages.values()}),5)
+    def test_new_navigation_copy_is_escaped(self):
+        import copy
+        page=copy.deepcopy(self.pages['en']);page['entry']['start_label']='<img src=x onerror=alert(1)>'
+        html=self.render(page);self.assertIn('&lt;img',html);self.assertEqual(Document(html).attrs('img'),[])
     def test_no_forms_scripts_or_checkout_added(self):
         for page in self.pages.values():
             d=Document(self.render(page));self.assertEqual(d.attrs('form'),[]);self.assertEqual(d.attrs('script'),[])
@@ -69,3 +104,4 @@ class DirectoryTests(unittest.TestCase):
         page=copy.deepcopy(self.pages['en']);del page['services']
         html=self.render(page);self.assertNotIn('id="service-planning-title"',html);self.assertEqual(len(Document(html).attrs('main')),1)
 if __name__=='__main__': unittest.main(verbosity=2)
+
