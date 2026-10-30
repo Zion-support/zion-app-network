@@ -5,6 +5,7 @@ import json
 import unittest
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('guides',ROOT/'scripts/render_localized_guides.py')
@@ -85,6 +86,20 @@ class LocalizedGuideTests(unittest.TestCase):
                 for sibling in self.models:
                     if sibling['id']!=model['id']:
                         self.assertIn(guides.route(sibling,locale),hrefs)
+
+    def test_every_internal_network_destination_exists(self):
+        for model in self.models:
+            for locale in guides.LOCALES:
+                for anchor in Page(guides.render(model,locale,self.models)).find('a'):
+                    url=urlsplit(anchor['href'])
+                    if url.netloc not in ('','ziontechgroup.com') or not url.path.startswith('/zion-app-network/'):
+                        continue
+                    path=ROOT/url.path.removeprefix('/zion-app-network/')
+                    if url.path.endswith('/'):
+                        path=path/'index.html'
+                    if not path.is_file() and path.suffix=='.html':
+                        path=path.with_suffix('.md')
+                    self.assertTrue(path.is_file(),(model['id'],locale,anchor['href']))
 
     def test_text_is_escaped_and_unsafe_urls_are_rejected(self):
         original=self.models[0]
