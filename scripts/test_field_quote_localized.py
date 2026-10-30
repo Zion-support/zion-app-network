@@ -127,17 +127,23 @@ class FieldQuoteReleaseTests(unittest.TestCase):
                 self.assertIn('@media', source)
 
     def test_hub_reciprocal_entry_points(self):
-        hub = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertEqual(hub.count('{% capture fieldQuote2026 %}'), 1)
-        self.assertEqual(hub.count("field-quote-readiness-2026\" aria-labelledby"), 1)
-        self.assertIn("| replace: '</body>', fieldQuote2026", hub)
-        # Buyer Journey may also link the worksheet; validate uniqueness inside its own hub section.
-        field_section = hub.split("{% capture fieldQuote2026 %}", 1)[1].split("{% endcapture %}", 1)[0]
-        for filename in ALL_FILES:
-            with self.subTest(filename=filename):
-                self.assertEqual(field_section.count("/zion-app-network/" + filename), 1)
-        self.assertIn("minimum 40% markup", hub)
-        self.assertIn("No booking, dispatch, purchase", hub)
+        # Each complete landing now links to the worksheet in its own language.
+        # Preserve the public fragments independently of the HTML rendering method.
+        home_paths = {"/zion-app-network/"} | {
+            f"/zion-app-network/home-{locale}.html" for locale in ("pt", "es", "fr", "de")
+        }
+        for filename, lang, directory_lang, _ in CASES:
+            home = "index.html" if lang == "en" else f"home-{directory_lang}.html"
+            with self.subTest(landing=home, worksheet=filename):
+                source = (ROOT / home).read_text(encoding="utf-8")
+                tags = Tags()
+                tags.feed(source)
+                self.assertEqual(tags.html_lang, lang)
+                self.assertEqual(tags.links.count("/zion-app-network/" + filename), 1)
+                self.assertTrue(home_paths.issubset(set(tags.links)))
+                self.assertEqual(tags.ids.count("field-quote-readiness-2026"), 1)
+                self.assertEqual(tags.ids.count("field-quote-readiness-title"), 1)
+                self.assertEqual(len(tags.ids), len(set(tags.ids)))
 
 
 if __name__ == "__main__":

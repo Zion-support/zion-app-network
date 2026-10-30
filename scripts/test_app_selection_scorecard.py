@@ -77,11 +77,20 @@ class ScorecardContract(unittest.TestCase):
         self.assertIn("total<=7?0:total<=14?1:2", code)
         self.assertIn('values.every(v=>Number.isInteger(v)&&v>=0&&v<=4)', code)
     def test_hub_has_all_language_links(self):
-        hub = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertEqual(hub.count("| replace: '</body>', evidenceScorecard2026"), 1)
+        home_paths = {"/zion-app-network/"} | {
+            f"/zion-app-network/home-{locale}.html" for locale in ("pt", "es", "fr", "de")
+        }
         for lang, suffix in LOCALES:
-            self.assertIn("/zion-app-network/" + NAME + suffix + ".html", hub)
-        self.assertEqual(hub.count("{% capture evidenceScorecard2026 %}"), 1)
+            code = "pt" if lang == "pt-BR" else lang
+            home = "index.html" if code == "en" else f"home-{code}.html"
+            with self.subTest(landing=home, locale=lang):
+                source = (ROOT / home).read_text(encoding="utf-8")
+                page = Page(source)
+                self.assertEqual(page.lang, lang)
+                self.assertIn("/zion-app-network/" + NAME + suffix + ".html", page.links)
+                self.assertTrue(home_paths.issubset(page.links))
+                self.assertEqual(source.count(f'id="{NAME}"'), 1)
+                self.assertEqual(source.count('id="app-selection-evidence-scorecard-heading"'), 1)
     def test_existing_sibling_paths(self):
         for _, suffix in LOCALES:
             for prefix in ("field-quote-readiness-2026", "app-network-operations-evidence-checklist-2026"):

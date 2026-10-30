@@ -29,7 +29,7 @@ class LocalizedGuideTests(unittest.TestCase):
         cls.original=json.loads((ROOT/'tests/fixtures/guide-original-destinations.json').read_text())
 
     def test_all_maintained_families_have_complete_distinct_translations(self):
-        self.assertEqual({g['id'] for g in self.models},{'catalog-navigation','green-education','infrastructure','govtech','legal-ops','field-service','reliability-sre','people-energy','q4-showcase','real-estate'})
+        self.assertEqual({g['id'] for g in self.models},{'catalog-navigation','green-education','infrastructure','govtech','legal-ops','field-service','reliability-sre','people-energy','q4-showcase','real-estate','service-request'})
         for model in self.models:
             for locale in guides.LOCALES:
                 c=model['locales'][locale]
