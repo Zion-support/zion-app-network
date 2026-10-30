@@ -1,0 +1,492 @@
+{
+  "id": "govtech",
+  "basePath": "app-network-batch79-oct05",
+  "locales": {
+    "en": {
+      "title": "GovTech and public-service planning",
+      "description": "Explore eight public-service reference pages, prepare a small review sample, and define the evidence and human decisions needed before a pilot.",
+      "intro": "Choose one administrative question before exploring the network. These eight references connect service information, document review, public budgets and infrastructure planning to a clear next step.",
+      "scope": "This guide supports planning and human review. Publication of a landing page does not establish working AI or an official service. It does not approve permits or grants, dispatch emergencies, control traffic, certify asset safety or profile individuals.",
+      "sections": [
+        {
+          "id": "services",
+          "title": "Service information and document review",
+          "intro": "Keep the official source, responsible department and next human action visible.",
+          "resources": [
+            {
+              "name": "Digital Service Navigator",
+              "href": "https://ziontechgroup.com/digital-service-navigator/",
+              "source": "https://github.com/Zion-support/digital-service-navigator",
+              "description": "Map the official service page, document list and human contact. Check that the reference answers match the current official instructions.",
+              "language": "en"
+            },
+            {
+              "name": "Permit Application Triage",
+              "href": "https://ziontechgroup.com/permit-application-triage/",
+              "source": "https://github.com/Zion-support/permit-application-triage",
+              "description": "Prepare a document-completeness checklist for a reviewer. Keep missing information separate from eligibility or an approval decision.",
+              "language": "en"
+            },
+            {
+              "name": "Grant Eligibility Matcher",
+              "href": "https://ziontechgroup.com/grant-eligibility-matcher/",
+              "source": "https://github.com/Zion-support/grant-eligibility-matcher",
+              "description": "Compare published program criteria and deadlines with documented evidence. Only the responsible program can confirm eligibility or an award.",
+              "language": "en"
+            },
+            {
+              "name": "Civic Sentiment Analyzer",
+              "href": "https://ziontechgroup.com/civic-sentiment-analyzer/",
+              "source": "https://github.com/Zion-support/civic-sentiment-analyzer",
+              "description": "Review voluntary, aggregated feedback themes with human oversight. Keep personal profiling and individual eligibility decisions outside the pilot.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "operations",
+          "title": "Operational references and public evidence",
+          "intro": "Start with published or appropriately authorized information. Operational decisions stay with the responsible service.",
+          "resources": [
+            {
+              "name": "Emergency Dispatch Prioritizer",
+              "href": "https://ziontechgroup.com/emergency-dispatch-prioritizer/",
+              "source": "https://github.com/Zion-support/emergency-dispatch-prioritizer",
+              "description": "Review the documented concept only. Use established emergency channels and qualified dispatch teams for real incidents; this guide provides no emergency response.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Traffic Flow Optimizer",
+              "href": "https://ziontechgroup.com/smart-traffic-flow-optimizer/",
+              "source": "https://github.com/Zion-support/smart-traffic-flow-optimizer",
+              "description": "Explore a planning scenario using aggregate traffic data. Any signal-control proposal needs a separate engineering assessment and operational authorization.",
+              "language": "en"
+            },
+            {
+              "name": "Infrastructure Asset Inspector",
+              "href": "https://ziontechgroup.com/infrastructure-asset-inspector/",
+              "source": "https://github.com/Zion-support/infrastructure-asset-inspector",
+              "description": "Organize asset records, dated inspection evidence and unresolved questions for qualified inspectors. A reference page is not a safety determination.",
+              "language": "en"
+            },
+            {
+              "name": "Public Budget Explorer AI",
+              "href": "https://ziontechgroup.com/public-budget-explorer-ai/",
+              "source": "https://github.com/Zion-support/public-budget-explorer-ai",
+              "description": "Compare published budget versions, categories, dates and currencies. Distinguish proposed, approved and actual spending before interpreting differences.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Define the question and owner",
+          "body": "Choose one service or dataset, identify the official source and assign a reviewer. Record what answer is needed and what decision remains outside the exercise."
+        },
+        {
+          "title": "Build a small evidence sample",
+          "body": "Use synthetic, public or appropriately authorized material. Record the source and date for each item, the expected result and any missing information."
+        },
+        {
+          "title": "Review before a pilot",
+          "body": "Compare the observed output with the source, document errors and agree on a stop condition. Expand only after the responsible people accept the scope and evidence."
+        }
+      ],
+      "example": {
+        "title": "Illustrative example: a budget comparison",
+        "body": "A fictional team compares two published versions of a parks budget. It records the version dates, currency and matching categories, then asks a reviewer to explain changes. A proposed allocation remains separate from approved funding and actual spending."
+      }
+    },
+    "pt": {
+      "title": "GovTech e planejamento de serviços públicos",
+      "description": "Explore oito páginas de referência para serviços públicos, prepare uma amostra de revisão e defina as evidências e decisões humanas necessárias antes de um piloto.",
+      "intro": "Escolha uma questão administrativa antes de explorar a rede. Estas oito referências conectam informações de serviços, revisão documental, orçamento público e planejamento de infraestrutura a um próximo passo claro.",
+      "scope": "Este guia apoia planejamento e revisão humana. A publicação de uma página não comprova IA funcional nem um serviço oficial. O guia não aprova licenças ou benefícios, despacha emergências, controla o trânsito, certifica a segurança de ativos nem traça perfis individuais.",
+      "sections": [
+        {
+          "id": "services",
+          "title": "Informações de serviços e revisão documental",
+          "intro": "Mantenha visíveis a fonte oficial, o órgão responsável e a próxima ação humana.",
+          "resources": [
+            {
+              "name": "Digital Service Navigator",
+              "href": "https://ziontechgroup.com/digital-service-navigator/",
+              "source": "https://github.com/Zion-support/digital-service-navigator",
+              "description": "Mapeie a página oficial do serviço, a lista de documentos e o contato humano. Confira se as respostas de referência correspondem às instruções oficiais atuais.",
+              "language": "en"
+            },
+            {
+              "name": "Permit Application Triage",
+              "href": "https://ziontechgroup.com/permit-application-triage/",
+              "source": "https://github.com/Zion-support/permit-application-triage",
+              "description": "Prepare uma lista de verificação da documentação para um revisor. Separe informações ausentes de elegibilidade ou decisão de aprovação.",
+              "language": "en"
+            },
+            {
+              "name": "Grant Eligibility Matcher",
+              "href": "https://ziontechgroup.com/grant-eligibility-matcher/",
+              "source": "https://github.com/Zion-support/grant-eligibility-matcher",
+              "description": "Compare critérios e prazos publicados do programa com evidências documentadas. Somente o programa responsável pode confirmar elegibilidade ou concessão.",
+              "language": "en"
+            },
+            {
+              "name": "Civic Sentiment Analyzer",
+              "href": "https://ziontechgroup.com/civic-sentiment-analyzer/",
+              "source": "https://github.com/Zion-support/civic-sentiment-analyzer",
+              "description": "Revise temas agregados de manifestações voluntárias com supervisão humana. Mantenha perfis pessoais e decisões individuais de elegibilidade fora do piloto.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "operations",
+          "title": "Referências operacionais e evidências públicas",
+          "intro": "Comece por informações públicas ou devidamente autorizadas. As decisões operacionais permanecem com o serviço responsável.",
+          "resources": [
+            {
+              "name": "Emergency Dispatch Prioritizer",
+              "href": "https://ziontechgroup.com/emergency-dispatch-prioritizer/",
+              "source": "https://github.com/Zion-support/emergency-dispatch-prioritizer",
+              "description": "Consulte apenas o conceito documentado. Para ocorrências reais, utilize os canais de emergência e as equipes qualificadas; este guia não presta atendimento de emergência.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Traffic Flow Optimizer",
+              "href": "https://ziontechgroup.com/smart-traffic-flow-optimizer/",
+              "source": "https://github.com/Zion-support/smart-traffic-flow-optimizer",
+              "description": "Explore um cenário de planejamento com dados agregados de trânsito. Qualquer proposta de controle semafórico exige avaliação de engenharia e autorização operacional separadas.",
+              "language": "en"
+            },
+            {
+              "name": "Infrastructure Asset Inspector",
+              "href": "https://ziontechgroup.com/infrastructure-asset-inspector/",
+              "source": "https://github.com/Zion-support/infrastructure-asset-inspector",
+              "description": "Organize registros de ativos, evidências de inspeções datadas e dúvidas pendentes para profissionais qualificados. Uma página de referência não determina a segurança do ativo.",
+              "language": "en"
+            },
+            {
+              "name": "Public Budget Explorer AI",
+              "href": "https://ziontechgroup.com/public-budget-explorer-ai/",
+              "source": "https://github.com/Zion-support/public-budget-explorer-ai",
+              "description": "Compare versões publicadas do orçamento, categorias, datas e moedas. Distinga despesas propostas, aprovadas e realizadas antes de interpretar diferenças.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina a pergunta e o responsável",
+          "body": "Escolha um serviço ou conjunto de dados, identifique a fonte oficial e atribua um revisor. Registre a resposta necessária e a decisão que permanece fora do exercício."
+        },
+        {
+          "title": "Monte uma pequena amostra de evidências",
+          "body": "Use material sintético, público ou devidamente autorizado. Registre a fonte e a data de cada item, o resultado esperado e as informações ausentes."
+        },
+        {
+          "title": "Revise antes de iniciar um piloto",
+          "body": "Compare o resultado observado com a fonte, documente erros e defina uma condição de parada. Amplie o trabalho somente após os responsáveis aceitarem o escopo e as evidências."
+        }
+      ],
+      "example": {
+        "title": "Exemplo ilustrativo: comparação de orçamento",
+        "body": "Uma equipe fictícia compara duas versões publicadas do orçamento de parques. Ela registra as datas das versões, a moeda e as categorias equivalentes, e pede a um revisor que explique as mudanças. Uma alocação proposta permanece distinta de verba aprovada e de despesa realizada."
+      }
+    },
+    "es": {
+      "title": "GovTech y planificación de servicios públicos",
+      "description": "Explore ocho páginas de referencia de servicios públicos, prepare una muestra de revisión y defina las pruebas y decisiones humanas necesarias antes de un piloto.",
+      "intro": "Elija una cuestión administrativa antes de explorar la red. Estas ocho referencias conectan información de servicios, revisión documental, presupuestos públicos y planificación de infraestructura con un siguiente paso claro.",
+      "scope": "Esta guía apoya la planificación y la revisión humana. Publicar una página no demuestra IA funcional ni un servicio oficial. La guía no aprueba permisos o ayudas, despacha emergencias, controla el tráfico, certifica la seguridad de activos ni elabora perfiles individuales.",
+      "sections": [
+        {
+          "id": "services",
+          "title": "Información de servicios y revisión documental",
+          "intro": "Mantenga visibles la fuente oficial, el departamento responsable y la siguiente acción humana.",
+          "resources": [
+            {
+              "name": "Digital Service Navigator",
+              "href": "https://ziontechgroup.com/digital-service-navigator/",
+              "source": "https://github.com/Zion-support/digital-service-navigator",
+              "description": "Identifique la página oficial del servicio, la lista de documentos y el contacto humano. Compruebe que las respuestas de referencia coincidan con las instrucciones oficiales actuales.",
+              "language": "en"
+            },
+            {
+              "name": "Permit Application Triage",
+              "href": "https://ziontechgroup.com/permit-application-triage/",
+              "source": "https://github.com/Zion-support/permit-application-triage",
+              "description": "Prepare una lista de comprobación documental para un revisor. Separe la información que falta de la elegibilidad o de una decisión de aprobación.",
+              "language": "en"
+            },
+            {
+              "name": "Grant Eligibility Matcher",
+              "href": "https://ziontechgroup.com/grant-eligibility-matcher/",
+              "source": "https://github.com/Zion-support/grant-eligibility-matcher",
+              "description": "Compare los criterios y plazos publicados del programa con pruebas documentadas. Solo el programa responsable puede confirmar la elegibilidad o la concesión.",
+              "language": "en"
+            },
+            {
+              "name": "Civic Sentiment Analyzer",
+              "href": "https://ziontechgroup.com/civic-sentiment-analyzer/",
+              "source": "https://github.com/Zion-support/civic-sentiment-analyzer",
+              "description": "Revise temas agregados de comentarios voluntarios con supervisión humana. Excluya del piloto los perfiles personales y las decisiones individuales de elegibilidad.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "operations",
+          "title": "Referencias operativas y pruebas públicas",
+          "intro": "Empiece con información pública o debidamente autorizada. Las decisiones operativas siguen a cargo del servicio responsable.",
+          "resources": [
+            {
+              "name": "Emergency Dispatch Prioritizer",
+              "href": "https://ziontechgroup.com/emergency-dispatch-prioritizer/",
+              "source": "https://github.com/Zion-support/emergency-dispatch-prioritizer",
+              "description": "Consulte únicamente el concepto documentado. Para incidentes reales, utilice los canales de emergencia y los equipos cualificados; esta guía no presta atención de emergencias.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Traffic Flow Optimizer",
+              "href": "https://ziontechgroup.com/smart-traffic-flow-optimizer/",
+              "source": "https://github.com/Zion-support/smart-traffic-flow-optimizer",
+              "description": "Explore un escenario de planificación con datos agregados de tráfico. Cualquier propuesta de control semafórico necesita una evaluación de ingeniería y autorización operativa independientes.",
+              "language": "en"
+            },
+            {
+              "name": "Infrastructure Asset Inspector",
+              "href": "https://ziontechgroup.com/infrastructure-asset-inspector/",
+              "source": "https://github.com/Zion-support/infrastructure-asset-inspector",
+              "description": "Organice registros de activos, pruebas de inspecciones fechadas y preguntas pendientes para inspectores cualificados. Una página de referencia no determina la seguridad del activo.",
+              "language": "en"
+            },
+            {
+              "name": "Public Budget Explorer AI",
+              "href": "https://ziontechgroup.com/public-budget-explorer-ai/",
+              "source": "https://github.com/Zion-support/public-budget-explorer-ai",
+              "description": "Compare versiones publicadas del presupuesto, categorías, fechas y monedas. Distinga gasto propuesto, aprobado y ejecutado antes de interpretar diferencias.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Defina la pregunta y la responsabilidad",
+          "body": "Elija un servicio o conjunto de datos, identifique la fuente oficial y asigne un revisor. Registre la respuesta necesaria y la decisión que queda fuera del ejercicio."
+        },
+        {
+          "title": "Prepare una pequeña muestra de pruebas",
+          "body": "Use material sintético, público o debidamente autorizado. Registre la fuente y la fecha de cada elemento, el resultado esperado y la información que falta."
+        },
+        {
+          "title": "Revise antes de iniciar un piloto",
+          "body": "Compare el resultado observado con la fuente, documente errores y acuerde una condición de parada. Amplíe el trabajo solo cuando los responsables acepten el alcance y las pruebas."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ilustrativo: comparación presupuestaria",
+        "body": "Un equipo ficticio compara dos versiones publicadas del presupuesto de parques. Registra las fechas de las versiones, la moneda y las categorías equivalentes, y pide a un revisor que explique los cambios. Una asignación propuesta sigue siendo distinta de la financiación aprobada y del gasto ejecutado."
+      }
+    },
+    "fr": {
+      "title": "GovTech et préparation des services publics",
+      "description": "Explorez huit pages de référence sur les services publics, préparez un échantillon de contrôle et définissez les preuves et décisions humaines nécessaires avant un pilote.",
+      "intro": "Choisissez une question administrative avant d’explorer le réseau. Ces huit références relient information sur les services, examen documentaire, budgets publics et préparation des infrastructures à une prochaine étape précise.",
+      "scope": "Ce guide accompagne la préparation et la revue humaine. La publication d’une page ne prouve ni une IA opérationnelle ni un service officiel. Il n’approuve aucun permis ou financement, ne déclenche aucun secours, ne commande pas la circulation, ne certifie pas la sécurité des équipements et ne profile pas les personnes.",
+      "sections": [
+        {
+          "id": "services",
+          "title": "Information sur les services et examen documentaire",
+          "intro": "Gardez visibles la source officielle, le service responsable et la prochaine intervention humaine.",
+          "resources": [
+            {
+              "name": "Digital Service Navigator",
+              "href": "https://ziontechgroup.com/digital-service-navigator/",
+              "source": "https://github.com/Zion-support/digital-service-navigator",
+              "description": "Identifiez la page officielle du service, les documents requis et le contact humain. Vérifiez que les réponses de référence correspondent aux consignes officielles actuelles.",
+              "language": "en"
+            },
+            {
+              "name": "Permit Application Triage",
+              "href": "https://ziontechgroup.com/permit-application-triage/",
+              "source": "https://github.com/Zion-support/permit-application-triage",
+              "description": "Préparez une liste de contrôle documentaire pour un responsable de revue. Distinguez les informations manquantes de l’éligibilité et de la décision d’approbation.",
+              "language": "en"
+            },
+            {
+              "name": "Grant Eligibility Matcher",
+              "href": "https://ziontechgroup.com/grant-eligibility-matcher/",
+              "source": "https://github.com/Zion-support/grant-eligibility-matcher",
+              "description": "Comparez les critères et échéances publiés du programme aux justificatifs. Seul le programme responsable peut confirmer l’éligibilité ou l’attribution.",
+              "language": "en"
+            },
+            {
+              "name": "Civic Sentiment Analyzer",
+              "href": "https://ziontechgroup.com/civic-sentiment-analyzer/",
+              "source": "https://github.com/Zion-support/civic-sentiment-analyzer",
+              "description": "Examinez des thèmes agrégés issus de retours volontaires, avec une supervision humaine. Excluez du pilote le profilage personnel et les décisions individuelles d’éligibilité.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "operations",
+          "title": "Références opérationnelles et preuves publiques",
+          "intro": "Commencez par des informations publiques ou dont l’utilisation est autorisée. Les décisions opérationnelles restent du ressort du service responsable.",
+          "resources": [
+            {
+              "name": "Emergency Dispatch Prioritizer",
+              "href": "https://ziontechgroup.com/emergency-dispatch-prioritizer/",
+              "source": "https://github.com/Zion-support/emergency-dispatch-prioritizer",
+              "description": "Consultez uniquement le concept documenté. Pour un incident réel, utilisez les services d’urgence et les équipes qualifiées ; ce guide n’assure aucune intervention de secours.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Traffic Flow Optimizer",
+              "href": "https://ziontechgroup.com/smart-traffic-flow-optimizer/",
+              "source": "https://github.com/Zion-support/smart-traffic-flow-optimizer",
+              "description": "Explorez un scénario de préparation à partir de données de circulation agrégées. Toute proposition de commande des feux exige une étude technique et une autorisation opérationnelle distinctes.",
+              "language": "en"
+            },
+            {
+              "name": "Infrastructure Asset Inspector",
+              "href": "https://ziontechgroup.com/infrastructure-asset-inspector/",
+              "source": "https://github.com/Zion-support/infrastructure-asset-inspector",
+              "description": "Organisez les fiches d’équipements, les preuves d’inspection datées et les questions ouvertes pour des inspecteurs qualifiés. Une page de référence ne constitue pas un avis de sécurité.",
+              "language": "en"
+            },
+            {
+              "name": "Public Budget Explorer AI",
+              "href": "https://ziontechgroup.com/public-budget-explorer-ai/",
+              "source": "https://github.com/Zion-support/public-budget-explorer-ai",
+              "description": "Comparez les versions publiées du budget, les catégories, les dates et les devises. Distinguez dépenses proposées, approuvées et réalisées avant d’interpréter les écarts.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Définir la question et le responsable",
+          "body": "Choisissez un service ou un jeu de données, identifiez la source officielle et désignez un responsable de revue. Notez la réponse attendue et la décision qui reste hors du périmètre de l’exercice."
+        },
+        {
+          "title": "Constituer un petit échantillon de preuves",
+          "body": "Utilisez des données fictives, publiques ou dont l’usage est autorisé. Notez la source et la date de chaque élément, le résultat attendu et les informations manquantes."
+        },
+        {
+          "title": "Réviser avant de lancer un pilote",
+          "body": "Comparez le résultat observé à la source, documentez les erreurs et convenez d’un critère d’arrêt. Élargissez le travail après acceptation du périmètre et des preuves par les responsables."
+        }
+      ],
+      "example": {
+        "title": "Exemple illustratif : comparer des budgets",
+        "body": "Une équipe fictive compare deux versions publiées d’un budget de parcs. Elle relève les dates des versions, la devise et les catégories correspondantes, puis demande à un responsable d’expliquer les changements. Une dotation proposée reste distincte d’un financement approuvé et des dépenses réalisées."
+      }
+    },
+    "de": {
+      "title": "GovTech und Planung öffentlicher Dienstleistungen",
+      "description": "Prüfen Sie acht Referenzseiten zu öffentlichen Dienstleistungen und legen Sie Stichprobe, Nachweise und menschliche Entscheidungen vor einem Pilotprojekt fest.",
+      "intro": "Wählen Sie zunächst eine Verwaltungsfrage. Diese acht Referenzen verbinden Dienstleistungsinformationen, Dokumentenprüfung, öffentliche Haushalte und Infrastrukturplanung mit einem klaren nächsten Schritt.",
+      "scope": "Dieser Leitfaden unterstützt Planung und menschliche Prüfung. Eine veröffentlichte Seite belegt weder funktionsfähige KI noch eine amtliche Dienstleistung. Der Leitfaden genehmigt keine Anträge oder Fördermittel, disponiert keine Notfälle, steuert keinen Verkehr, bestätigt keine Anlagensicherheit und erstellt keine Personenprofile.",
+      "sections": [
+        {
+          "id": "services",
+          "title": "Dienstleistungsinformationen und Dokumentenprüfung",
+          "intro": "Halten Sie amtliche Quelle, zuständige Stelle und nächsten menschlichen Arbeitsschritt sichtbar.",
+          "resources": [
+            {
+              "name": "Digital Service Navigator",
+              "href": "https://ziontechgroup.com/digital-service-navigator/",
+              "source": "https://github.com/Zion-support/digital-service-navigator",
+              "description": "Erfassen Sie die amtliche Serviceseite, erforderliche Unterlagen und einen menschlichen Kontakt. Prüfen Sie Referenzantworten gegen die aktuellen amtlichen Hinweise.",
+              "language": "en"
+            },
+            {
+              "name": "Permit Application Triage",
+              "href": "https://ziontechgroup.com/permit-application-triage/",
+              "source": "https://github.com/Zion-support/permit-application-triage",
+              "description": "Erstellen Sie eine Checkliste zur Vollständigkeit der Unterlagen für eine prüfende Person. Trennen Sie fehlende Angaben von Genehmigungsvoraussetzungen oder Genehmigungsentscheidungen.",
+              "language": "en"
+            },
+            {
+              "name": "Grant Eligibility Matcher",
+              "href": "https://ziontechgroup.com/grant-eligibility-matcher/",
+              "source": "https://github.com/Zion-support/grant-eligibility-matcher",
+              "description": "Vergleichen Sie veröffentlichte Programmkriterien und Fristen mit dokumentierten Nachweisen. Nur die zuständige Programmstelle kann Förderfähigkeit oder Bewilligung bestätigen.",
+              "language": "en"
+            },
+            {
+              "name": "Civic Sentiment Analyzer",
+              "href": "https://ziontechgroup.com/civic-sentiment-analyzer/",
+              "source": "https://github.com/Zion-support/civic-sentiment-analyzer",
+              "description": "Prüfen Sie zusammengefasste Themen aus freiwilligen Rückmeldungen unter menschlicher Aufsicht. Personenprofile und individuelle Leistungsentscheidungen bleiben außerhalb des Piloten.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "operations",
+          "title": "Betriebliche Referenzen und öffentliche Nachweise",
+          "intro": "Beginnen Sie mit öffentlichen oder entsprechend freigegebenen Informationen. Betriebliche Entscheidungen verbleiben bei der zuständigen Stelle.",
+          "resources": [
+            {
+              "name": "Emergency Dispatch Prioritizer",
+              "href": "https://ziontechgroup.com/emergency-dispatch-prioritizer/",
+              "source": "https://github.com/Zion-support/emergency-dispatch-prioritizer",
+              "description": "Prüfen Sie ausschließlich das dokumentierte Konzept. Nutzen Sie bei echten Notfällen die etablierten Notrufwege und qualifizierten Leitstellen; dieser Leitfaden leistet keine Notfallhilfe.",
+              "language": "en"
+            },
+            {
+              "name": "Smart Traffic Flow Optimizer",
+              "href": "https://ziontechgroup.com/smart-traffic-flow-optimizer/",
+              "source": "https://github.com/Zion-support/smart-traffic-flow-optimizer",
+              "description": "Untersuchen Sie ein Planungsszenario mit aggregierten Verkehrsdaten. Jeder Vorschlag zur Ampelsteuerung braucht eine gesonderte technische Prüfung und betriebliche Freigabe.",
+              "language": "en"
+            },
+            {
+              "name": "Infrastructure Asset Inspector",
+              "href": "https://ziontechgroup.com/infrastructure-asset-inspector/",
+              "source": "https://github.com/Zion-support/infrastructure-asset-inspector",
+              "description": "Ordnen Sie Anlagenunterlagen, datierte Prüfbelege und offene Fragen für qualifizierte Prüfer. Eine Referenzseite ist kein Nachweis der Anlagensicherheit.",
+              "language": "en"
+            },
+            {
+              "name": "Public Budget Explorer AI",
+              "href": "https://ziontechgroup.com/public-budget-explorer-ai/",
+              "source": "https://github.com/Zion-support/public-budget-explorer-ai",
+              "description": "Vergleichen Sie veröffentlichte Haushaltsfassungen, Kategorien, Daten und Währungen. Unterscheiden Sie geplante, bewilligte und tatsächliche Ausgaben, bevor Sie Abweichungen bewerten.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fragestellung und Verantwortung festlegen",
+          "body": "Wählen Sie eine Dienstleistung oder einen Datensatz, bestimmen Sie die amtliche Quelle und benennen Sie eine prüfende Person. Halten Sie die benötigte Antwort und die vom Versuch ausgenommene Entscheidung fest."
+        },
+        {
+          "title": "Eine kleine Nachweisstichprobe vorbereiten",
+          "body": "Verwenden Sie synthetisches, öffentliches oder entsprechend freigegebenes Material. Erfassen Sie Quelle und Datum jedes Eintrags, das erwartete Ergebnis sowie fehlende Angaben."
+        },
+        {
+          "title": "Vor dem Pilotprojekt prüfen",
+          "body": "Vergleichen Sie das beobachtete Ergebnis mit der Quelle, dokumentieren Sie Fehler und vereinbaren Sie eine Abbruchbedingung. Erweitern Sie den Umfang erst nach Zustimmung der Verantwortlichen zu Umfang und Nachweisen."
+        }
+      ],
+      "example": {
+        "title": "Fiktives Beispiel: Haushaltsvergleich",
+        "body": "Ein fiktives Team vergleicht zwei veröffentlichte Fassungen eines Parkbudgets. Es erfasst Versionsdaten, Währung und übereinstimmende Kategorien und lässt Änderungen durch eine verantwortliche Person erläutern. Ein geplanter Ansatz bleibt von bewilligten Mitteln und tatsächlichen Ausgaben getrennt."
+      }
+    }
+  },
+  "legacyLinks": [
+    {
+      "number": 78,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch78-oct05.html"
+    }
+  ]
+}

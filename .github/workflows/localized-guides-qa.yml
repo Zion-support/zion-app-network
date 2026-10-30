@@ -1,0 +1,49 @@
+name: Localized guides QA
+
+"on":
+  pull_request:
+    paths:
+      - '_data/guide-*.json'
+      - 'scripts/render_localized_guides.py'
+      - 'assets/network-guides.css'
+      - 'catalog-navigation*.html'
+      - 'app/network-green-energy-education-showcase*.html'
+      - 'app-network-batch77-oct04*.html'
+      - 'app-network-batch79-oct05*.html'
+      - 'app-network-batch80-oct05*.html'
+      - 'tests/test_localized_guides.py'
+      - 'tests/fixtures/guide-original-destinations.json'
+      - '.github/workflows/localized-guides-qa.yml'
+  push:
+    branches: [main]
+    paths:
+      - '_data/guide-*.json'
+      - 'scripts/render_localized_guides.py'
+      - 'assets/network-guides.css'
+      - 'catalog-navigation*.html'
+      - 'app/network-green-energy-education-showcase*.html'
+      - 'app-network-batch77-oct04*.html'
+      - 'app-network-batch79-oct05*.html'
+      - 'app-network-batch80-oct05*.html'
+      - 'tests/test_localized_guides.py'
+      - 'tests/fixtures/guide-original-destinations.json'
+      - '.github/workflows/localized-guides-qa.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: localized-guides-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  guides:
+    name: Verify translations, resource links and generated pages
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - run: python3 scripts/render_localized_guides.py --check
+      - run: python3 -m unittest discover -s tests -p 'test_localized_guides.py' -v

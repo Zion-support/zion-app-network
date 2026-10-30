@@ -1,0 +1,40 @@
+{
+  "green-education": [
+    "https://ziontechgroup.com/carbon-footprint-tracker/",
+    "https://ziontechgroup.com/curriculum-alignment-checker/",
+    "https://ziontechgroup.com/energy-audit-copilot/",
+    "https://ziontechgroup.com/energy-optimizer-ai/",
+    "https://ziontechgroup.com/learning-outcome-dashboard/",
+    "https://ziontechgroup.com/lesson-plan-generator/",
+    "https://ziontechgroup.com/renewable-energy-forecaster/",
+    "https://ziontechgroup.com/smart-grid-load-balancer/",
+    "https://ziontechgroup.com/student-progress-tracker/",
+    "https://ziontechgroup.com/tutoring-session-analyzer/"
+  ],
+  "infrastructure": [
+    "https://ziontechgroup.com/ai-backup-integrity/",
+    "https://ziontechgroup.com/ai-capacity-planner/",
+    "https://ziontechgroup.com/ai-cluster-manager/",
+    "https://ziontechgroup.com/ai-edge-deployer/",
+    "https://ziontechgroup.com/ai-infrastructure-monitor/",
+    "https://ziontechgroup.com/ground-station-link-monitor/",
+    "https://ziontechgroup.com/orbital-conjunction-screener/",
+    "https://ziontechgroup.com/satellite-pass-scheduler/"
+  ],
+  "govtech": [
+    "https://ziontechgroup.com/civic-sentiment-analyzer/",
+    "https://ziontechgroup.com/digital-service-navigator/",
+    "https://ziontechgroup.com/emergency-dispatch-prioritizer/",
+    "https://ziontechgroup.com/grant-eligibility-matcher/",
+    "https://ziontechgroup.com/infrastructure-asset-inspector/",
+    "https://ziontechgroup.com/permit-application-triage/",
+    "https://ziontechgroup.com/public-budget-explorer-ai/",
+    "https://ziontechgroup.com/smart-traffic-flow-optimizer/"
+  ],
+  "legal-ops": [
+    "https://ziontechgroup.com/contract-clause-extractor/",
+    "https://ziontechgroup.com/esignature-flow-tracker/",
+    "https://ziontechgroup.com/legal-risk-scorer/",
+    "https://ziontechgroup.com/nda-review-ai/"
+  ]
+}
