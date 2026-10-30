@@ -8,6 +8,18 @@ Interconnected apps, tools, workflow concepts and field playbooks by [Zion Tech 
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 - 🗂️ [Master index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Insurance catalog supplement](CATALOG-INSURANCE-EVIDENCE.md)
 
+## App verification and FinOps — five languages
+
+Use the verification guide to record evidence, the local USD calculator to compare assumptions, and the manual pilot guide to review fictional positive and negative scenarios. These pages do not connect to cloud accounts or execute a pilot; modeled results are not measured savings.
+
+| Language | Verification guide | FinOps estimator | Pilot guide |
+|---|---|---|---|
+| English | [Verify an app](https://ziontechgroup.com/apps/app-verification-guide.html) | [Compare a scenario](https://ziontechgroup.com/apps/finops-scenario-estimator.html) | [Plan a pilot](https://ziontechgroup.com/apps/finops-pilot-guide.html) |
+| Português | [Verifique um app](https://ziontechgroup.com/pt/apps/app-verification-guide.html) | [Compare um cenário](https://ziontechgroup.com/pt/apps/finops-scenario-estimator.html) | [Planeje um piloto](https://ziontechgroup.com/pt/apps/finops-pilot-guide.html) |
+| Español | [Verifique una app](https://ziontechgroup.com/es/apps/app-verification-guide.html) | [Compare un escenario](https://ziontechgroup.com/es/apps/finops-scenario-estimator.html) | [Planifique un piloto](https://ziontechgroup.com/es/apps/finops-pilot-guide.html) |
+| Français | [Vérifiez une app](https://ziontechgroup.com/fr/apps/app-verification-guide.html) | [Comparez un scénario](https://ziontechgroup.com/fr/apps/finops-scenario-estimator.html) | [Préparez un pilote](https://ziontechgroup.com/fr/apps/finops-pilot-guide.html) |
+| Deutsch | [Eine App prüfen](https://ziontechgroup.com/de/apps/app-verification-guide.html) | [Ein Szenario vergleichen](https://ziontechgroup.com/de/apps/finops-scenario-estimator.html) | [Einen Pilotversuch planen](https://ziontechgroup.com/de/apps/finops-pilot-guide.html) |
+
 ## Field Service Completion Pack — five languages
 
 [English](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html) · [Português](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html) · [Español](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html) · [Français](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html) · [Deutsch](https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html)
