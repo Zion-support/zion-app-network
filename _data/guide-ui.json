@@ -21,7 +21,8 @@
     "footer": "Choose a resource, review its capabilities and agree the next step with your team.",
     "discoveryText": "Start with the free online Discovery to organize your needs and view a report. Check the submission result before relying on email delivery.",
     "legacy": "Earlier collections (English)",
-    "collection": "Collection"
+    "collection": "Collection",
+    "unverifiedLanguage": "Destination language not verified"
   },
   "pt": {
     "lang": "pt-BR",
@@ -45,7 +46,8 @@
     "footer": "Escolha um recurso, confira suas capacidades e combine o próximo passo com sua equipe.",
     "discoveryText": "Comece pelo Discovery gratuito e online para organizar suas necessidades e visualizar um relatório. Confira o resultado da solicitação antes de contar com o envio por e-mail.",
     "legacy": "Coleções anteriores (em inglês)",
-    "collection": "Coleção"
+    "collection": "Coleção",
+    "unverifiedLanguage": "Idioma do destino não verificado"
   },
   "es": {
     "lang": "es",
@@ -69,7 +71,8 @@
     "footer": "Elija un recurso, revise sus capacidades y acuerde el siguiente paso con su equipo.",
     "discoveryText": "Empiece con Discovery gratuito y online para organizar sus necesidades y ver un informe. Compruebe el resultado de la solicitud antes de contar con la entrega por correo.",
     "legacy": "Colecciones anteriores (en inglés)",
-    "collection": "Colección"
+    "collection": "Colección",
+    "unverifiedLanguage": "Idioma de destino no verificado"
   },
   "fr": {
     "lang": "fr",
@@ -93,7 +96,8 @@
     "footer": "Choisissez une ressource, vérifiez ses capacités et convenez de la prochaine étape avec votre équipe.",
     "discoveryText": "Commencez par Discovery gratuit en ligne pour organiser vos besoins et consulter un rapport. Vérifiez le résultat de la demande avant de compter sur la réception par courriel.",
     "legacy": "Collections précédentes (en anglais)",
-    "collection": "Collection"
+    "collection": "Collection",
+    "unverifiedLanguage": "Langue de destination non vérifiée"
   },
   "de": {
     "lang": "de",
@@ -117,6 +121,7 @@
     "footer": "Wählen Sie eine Ressource, prüfen Sie ihre Funktionen und vereinbaren Sie den nächsten Schritt mit Ihrem Team.",
     "discoveryText": "Beginnen Sie mit dem kostenlosen Online-Discovery, um Ihren Bedarf zu ordnen und einen Bericht anzuzeigen. Prüfen Sie das Ergebnis der Anfrage, bevor Sie sich auf die E-Mail-Zustellung verlassen.",
     "legacy": "Frühere Sammlungen (Englisch)",
-    "collection": "Sammlung"
+    "collection": "Sammlung",
+    "unverifiedLanguage": "Sprache der Zielseite nicht verifiziert"
   }
 }

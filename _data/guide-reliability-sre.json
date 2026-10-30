@@ -1,0 +1,680 @@
+{
+  "id": "reliability-sre",
+  "basePath": "app-network-batch57-sept27",
+  "showInRelatedGuides": false,
+  "relatedGuideIds": [
+    "catalog-navigation",
+    "field-service",
+    "govtech",
+    "green-education",
+    "infrastructure",
+    "legal-ops",
+    "reliability-sre",
+    "people-energy",
+    "q4-showcase",
+    "real-estate"
+  ],
+  "legacyLinks": [
+    {
+      "number": 54,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch54-sept27.html"
+    },
+    {
+      "number": 55,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch55-sept27.html"
+    },
+    {
+      "number": 56,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch56-sept27.html"
+    },
+    {
+      "number": 57,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch57-sept27.html"
+    },
+    {
+      "number": 58,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch58-sept27.html"
+    },
+    {
+      "number": 59,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch59-sept27.html"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "Reliability and SRE: review incidents and release evidence",
+      "description": "Use seven existing SRE references to plan incident reviews, service objectives and controlled changes with human authorization and verifiable evidence.",
+      "intro": "Start with one service and one reviewable question. Keep incident facts, service measurements and change approvals together. The seven linked pages describe concepts; inspect their source before considering a working integration.",
+      "scope": "This guide does not connect to systems, run remediation, route alerts or start experiments. Test any proposed integration with authorized data in an isolated environment and retain human control. A name containing AI does not demonstrate a working model, validated prediction or operational connector. For a Zion purchase, reservation or dispatch, require written client confirmation of the exact scope and price, the corresponding PO and a separate, specific Zion operational release.",
+      "steps": [
+        {
+          "title": "Define the review boundary",
+          "body": "Choose one service, time window and intended decision. Record the indicator, authorized evidence, reviewer and unknowns; avoid copying credentials or customer data into a public example."
+        },
+        {
+          "title": "Rehearse with a controlled scenario",
+          "body": "Walk through detection, communication, escalation and recovery using a tabletop exercise or isolated environment. Check each prerequisite and stop condition without changing production."
+        },
+        {
+          "title": "Approve, record and revisit",
+          "body": "An authorized person decides whether any real change may proceed. Retain the approved procedure, actual observations and exceptions; review the outcome before expanding the scope."
+        }
+      ],
+      "example": {
+        "title": "Hypothetical example: a delayed API response",
+        "body": "In this fictional review, a team compares an API’s error rate and response time with an agreed baseline. It manually records a deployment timestamp and rehearses escalation and recovery in a test environment. The reviewer identifies an untested dependency and pauses the release. No linked resource executes a rollback, sends an alert or proves a reliability improvement."
+      },
+      "sections": [
+        {
+          "id": "incident-evidence",
+          "title": "Organize incident and service evidence",
+          "intro": "Separate observed facts from hypotheses. Define the service window, evidence source and person who reviews each conclusion.",
+          "resources": [
+            {
+              "name": "Incident Commander AI",
+              "href": "https://ziontechgroup.com/incident-commander-ai/",
+              "source": "https://github.com/Zion-support/incident-commander-ai",
+              "description": "Descriptive reference for incident coordination. Define a manual timeline, verified observations, communication approvals and a human incident lead before evaluating an integration.",
+              "language": "en"
+            },
+            {
+              "name": "SLI/SLO Tracker",
+              "href": "https://ziontechgroup.com/sli-slo-tracker/",
+              "source": "https://github.com/Zion-support/sli-slo-tracker",
+              "description": "Define the service indicator, objective, measurement window and exclusions. Verify the telemetry source and calculation before relying on a budget or alert; this page does not demonstrate live monitoring.",
+              "language": "en"
+            },
+            {
+              "name": "Zion AI Incident Runbook",
+              "href": "https://ziontechgroup.com/zion-ai-incident-runbook/",
+              "source": "https://github.com/Zion-support/zion-ai-incident-runbook",
+              "description": "Review procedure requirements: prerequisites, approved commands, expected observations, escalation and recovery. Have an authorized operator check every step; the reference page is not an executable runbook.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "controlled-change",
+          "title": "Review changes and resilience experiments",
+          "intro": "Agree the permitted scope and stop conditions before testing. A descriptive page cannot approve a production action.",
+          "resources": [
+            {
+              "name": "Deployment Guardian AI",
+              "href": "https://ziontechgroup.com/deployment-guardian-ai/",
+              "source": "https://github.com/Zion-support/deployment-guardian-ai",
+              "description": "Review rollout requirements using a baseline, a limited test group, stop conditions and a documented recovery plan. The descriptive page does not establish an automated rollback integration or authorize a deployment.",
+              "language": "en"
+            },
+            {
+              "name": "Release Risk Radar",
+              "href": "https://ziontechgroup.com/release-risk-radar/",
+              "source": "https://github.com/Zion-support/release-risk-radar",
+              "description": "Review change scope, test evidence, dependencies and relevant incident history. Record uncertainty and a reviewer’s decision; a product name or proposed score is not a validated release prediction.",
+              "language": "en"
+            },
+            {
+              "name": "Chaos Engineering AI",
+              "href": "https://ziontechgroup.com/chaos-engineering-ai/",
+              "source": "https://github.com/Zion-support/chaos-engineering-ai",
+              "description": "Use as a reference for a human-reviewed resilience experiment plan. Begin with a tabletop exercise or isolated test environment, explicit authorization, bounded impact and a tested stop-and-restore procedure.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "on-call-planning",
+          "title": "Plan coverage with people",
+          "intro": "Use confirmed availability and agreed escalation rules. Keep employment decisions and sensitive personal inferences outside this guide.",
+          "resources": [
+            {
+              "name": "Oncall Optimizer AI",
+              "href": "https://ziontechgroup.com/oncall-optimizer-ai/",
+              "source": "https://github.com/Zion-support/oncall-optimizer-ai",
+              "description": "Review coverage and escalation requirements using agreed availability, roles and handover rules. People approve assignments; do not infer health, emotions or job performance from activity data.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Keep the source and operational context",
+          "intro": "The original source records and adjacent batches remain available. Historical claims require a fresh check before reuse.",
+          "resources": [
+            {
+              "name": "Operations and field planning guide",
+              "href": "https://ziontechgroup.com/apps/ai-it-ops-command-center.html",
+              "description": "Review the documented operating workflow and approval boundaries before planning a service commitment.",
+              "language": "en"
+            },
+            {
+              "name": "Master app index",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Inspect the original app and repository references; an index entry does not establish a working feature.",
+              "language": "en"
+            },
+            {
+              "name": "Original Batch 57 spotlight",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH57.md",
+              "description": "Read the original release note as dated context, not current capability or app-count evidence.",
+              "language": "en"
+            },
+            {
+              "name": "Original network hub",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Return to the existing network entry point and its broader collections.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "title": "Confiabilidade e SRE: revise incidentes e evidências de versões",
+      "description": "Use sete referências existentes de SRE para planejar análises de incidentes, metas de serviço e mudanças controladas, com autorização humana e evidências verificáveis.",
+      "intro": "Comece com um serviço e uma pergunta que possa ser revisada. Reúna fatos do incidente, medições de serviço e aprovações de mudanças. As sete páginas vinculadas descrevem conceitos; examine suas fontes antes de considerar uma integração funcional.",
+      "scope": "Este guia não se conecta a sistemas, não executa correções, não encaminha alertas nem inicia testes. Avalie qualquer integração proposta com dados autorizados em ambiente isolado e mantenha o controle humano. Um nome que contém IA não comprova um modelo funcional, previsão validada ou conector operacional. Para compra, reserva ou mobilização pela Zion, exija confirmação escrita do cliente sobre o escopo e preço exatos, a PO correspondente e uma liberação operacional específica e separada da Zion.",
+      "steps": [
+        {
+          "title": "Defina os limites da revisão",
+          "body": "Escolha um serviço, uma janela de tempo e a decisão pretendida. Registre o indicador, as evidências autorizadas, o revisor e as dúvidas; não copie credenciais ou dados de clientes para um exemplo público."
+        },
+        {
+          "title": "Ensaie um cenário controlado",
+          "body": "Percorra detecção, comunicação, escalonamento e recuperação em uma simulação de mesa ou ambiente isolado. Confira cada requisito e condição de parada sem alterar a produção."
+        },
+        {
+          "title": "Aprove, registre e reavalie",
+          "body": "Uma pessoa autorizada decide se alguma mudança real pode prosseguir. Preserve o procedimento aprovado, as observações reais e as exceções; revise o resultado antes de ampliar o escopo."
+        }
+      ],
+      "example": {
+        "title": "Exemplo hipotético: resposta lenta de uma API",
+        "body": "Nesta revisão fictícia, uma equipe compara a taxa de erros e o tempo de resposta de uma API com uma linha de base acordada. Registra manualmente o horário de uma implantação e ensaia escalonamento e recuperação em um ambiente de teste. O revisor identifica uma dependência não testada e pausa a liberação. Nenhum recurso vinculado executa reversão, envia alerta ou comprova melhoria de confiabilidade."
+      },
+      "sections": [
+        {
+          "id": "incident-evidence",
+          "title": "Organize evidências de incidentes e serviços",
+          "intro": "Separe os fatos observados das hipóteses. Defina a janela de serviço, a origem da evidência e quem revisará cada conclusão.",
+          "resources": [
+            {
+              "name": "Incident Commander AI",
+              "href": "https://ziontechgroup.com/incident-commander-ai/",
+              "source": "https://github.com/Zion-support/incident-commander-ai",
+              "description": "Referência descritiva para coordenação de incidentes. Defina uma linha do tempo manual, observações verificadas, aprovação das comunicações e liderança humana antes de avaliar uma integração.",
+              "language": "en"
+            },
+            {
+              "name": "SLI/SLO Tracker",
+              "href": "https://ziontechgroup.com/sli-slo-tracker/",
+              "source": "https://github.com/Zion-support/sli-slo-tracker",
+              "description": "Defina o indicador de serviço, a meta, a janela de medição e as exclusões. Verifique a origem da telemetria e o cálculo antes de confiar em um orçamento de erros ou alerta; esta página não demonstra monitoramento ativo.",
+              "language": "en"
+            },
+            {
+              "name": "Zion AI Incident Runbook",
+              "href": "https://ziontechgroup.com/zion-ai-incident-runbook/",
+              "source": "https://github.com/Zion-support/zion-ai-incident-runbook",
+              "description": "Revise os requisitos do procedimento: pré-condições, comandos aprovados, observações esperadas, escalonamento e recuperação. Um operador autorizado deve conferir cada etapa; a página de referência não é um procedimento executável.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "controlled-change",
+          "title": "Revise mudanças e testes de resiliência",
+          "intro": "Combine o escopo permitido e as condições de parada antes dos testes. Uma página descritiva não aprova uma ação em produção.",
+          "resources": [
+            {
+              "name": "Deployment Guardian AI",
+              "href": "https://ziontechgroup.com/deployment-guardian-ai/",
+              "source": "https://github.com/Zion-support/deployment-guardian-ai",
+              "description": "Revise os requisitos de implantação com uma linha de base, um grupo de teste limitado, condições de parada e um plano documentado de recuperação. A página descritiva não comprova integração de reversão automática nem autoriza uma implantação.",
+              "language": "en"
+            },
+            {
+              "name": "Release Risk Radar",
+              "href": "https://ziontechgroup.com/release-risk-radar/",
+              "source": "https://github.com/Zion-support/release-risk-radar",
+              "description": "Revise o escopo da mudança, as evidências de testes, as dependências e o histórico relevante de incidentes. Registre as incertezas e a decisão do revisor; um nome de produto ou uma pontuação proposta não é uma previsão validada.",
+              "language": "en"
+            },
+            {
+              "name": "Chaos Engineering AI",
+              "href": "https://ziontechgroup.com/chaos-engineering-ai/",
+              "source": "https://github.com/Zion-support/chaos-engineering-ai",
+              "description": "Use como referência para um plano de teste de resiliência revisado por pessoas. Comece com uma simulação de mesa ou ambiente isolado, autorização explícita, impacto limitado e procedimento testado de parada e recuperação.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "on-call-planning",
+          "title": "Planeje a cobertura com as pessoas",
+          "intro": "Use disponibilidade confirmada e regras acordadas de escalonamento. Decisões de emprego e inferências pessoais sensíveis ficam fora deste guia.",
+          "resources": [
+            {
+              "name": "Oncall Optimizer AI",
+              "href": "https://ziontechgroup.com/oncall-optimizer-ai/",
+              "source": "https://github.com/Zion-support/oncall-optimizer-ai",
+              "description": "Revise cobertura e escalonamento com disponibilidade acordada, funções e regras de passagem de plantão. As atribuições dependem de aprovação humana; não deduza saúde, emoções ou desempenho profissional a partir de dados de atividade.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Mantenha as fontes e o contexto operacional",
+          "intro": "Os registros originais e lotes adjacentes continuam disponíveis. Alegações históricas exigem nova verificação antes de serem reutilizadas.",
+          "resources": [
+            {
+              "name": "Guia de operações e serviços de campo",
+              "href": "https://ziontechgroup.com/pt/apps/ai-it-ops-command-center.html",
+              "description": "Revise o fluxo operacional documentado e os limites de aprovação antes de planejar um compromisso de serviço.",
+              "language": "pt"
+            },
+            {
+              "name": "Índice mestre de apps",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Examine as referências originais de apps e repositórios; uma entrada no índice não comprova uma função operacional.",
+              "language": "en"
+            },
+            {
+              "name": "Destaque original do Batch 57",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH57.md",
+              "description": "Leia a nota original como contexto datado, não como evidência atual de capacidades ou quantidade de apps.",
+              "language": "en"
+            },
+            {
+              "name": "Hub original da rede",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Volte ao ponto de entrada existente da rede e às demais coleções.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "title": "Fiabilidad y SRE: revise incidentes y pruebas de las versiones",
+      "description": "Use siete referencias existentes de SRE para planificar análisis de incidentes, objetivos de servicio y cambios controlados con autorización humana y pruebas verificables.",
+      "intro": "Empiece con un servicio y una pregunta que pueda revisarse. Reúna los hechos del incidente, las mediciones y las aprobaciones de cambios. Las siete páginas enlazadas describen conceptos; examine sus fuentes antes de considerar una integración funcional.",
+      "scope": "Esta guía no se conecta a sistemas, no ejecuta correcciones, no dirige alertas ni inicia experimentos. Pruebe cualquier integración propuesta con datos autorizados en un entorno aislado y mantenga el control humano. Un nombre que contiene IA no acredita un modelo funcional, una predicción validada ni un conector operativo. Para una compra, reserva o movilización de Zion, exija confirmación escrita del cliente del alcance y precio exactos, la orden de compra correspondiente y una autorización operativa específica y separada de Zion.",
+      "steps": [
+        {
+          "title": "Defina los límites de la revisión",
+          "body": "Elija un servicio, un periodo y la decisión prevista. Registre el indicador, las pruebas autorizadas, el revisor y las dudas; evite copiar credenciales o datos de clientes en un ejemplo público."
+        },
+        {
+          "title": "Ensaye un escenario controlado",
+          "body": "Recorra detección, comunicación, escalado y recuperación mediante un ejercicio de mesa o un entorno aislado. Compruebe cada requisito y condición de parada sin modificar producción."
+        },
+        {
+          "title": "Apruebe, registre y vuelva a evaluar",
+          "body": "Una persona autorizada decide si puede proceder un cambio real. Conserve el procedimiento aprobado, las observaciones reales y las excepciones; revise el resultado antes de ampliar el alcance."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo hipotético: una API responde con retraso",
+        "body": "En esta revisión ficticia, un equipo compara la tasa de errores y el tiempo de respuesta de una API con una referencia acordada. Registra manualmente la hora de un despliegue y ensaya el escalado y la recuperación en pruebas. El revisor detecta una dependencia sin probar y pausa la entrega. Ningún recurso enlazado ejecuta una reversión, envía una alerta ni acredita una mejora de fiabilidad."
+      },
+      "sections": [
+        {
+          "id": "incident-evidence",
+          "title": "Organice las pruebas del incidente y del servicio",
+          "intro": "Separe los hechos observados de las hipótesis. Defina el periodo de servicio, la fuente de las pruebas y quién revisará cada conclusión.",
+          "resources": [
+            {
+              "name": "Incident Commander AI",
+              "href": "https://ziontechgroup.com/incident-commander-ai/",
+              "source": "https://github.com/Zion-support/incident-commander-ai",
+              "description": "Referencia descriptiva para coordinar incidentes. Defina una cronología manual, observaciones verificadas, aprobación de comunicaciones y una persona responsable antes de evaluar una integración.",
+              "language": "en"
+            },
+            {
+              "name": "SLI/SLO Tracker",
+              "href": "https://ziontechgroup.com/sli-slo-tracker/",
+              "source": "https://github.com/Zion-support/sli-slo-tracker",
+              "description": "Defina el indicador, el objetivo, el periodo de medición y las exclusiones. Verifique la fuente de telemetría y el cálculo antes de confiar en un presupuesto de errores o una alerta; esta página no demuestra supervisión activa.",
+              "language": "en"
+            },
+            {
+              "name": "Zion AI Incident Runbook",
+              "href": "https://ziontechgroup.com/zion-ai-incident-runbook/",
+              "source": "https://github.com/Zion-support/zion-ai-incident-runbook",
+              "description": "Revise los requisitos del procedimiento: condiciones previas, comandos aprobados, observaciones esperadas, escalado y recuperación. Un operador autorizado debe comprobar cada paso; la referencia no es un procedimiento ejecutable.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "controlled-change",
+          "title": "Revise cambios y experimentos de resiliencia",
+          "intro": "Acuerde el alcance permitido y las condiciones de parada antes de probar. Una página descriptiva no aprueba una acción en producción.",
+          "resources": [
+            {
+              "name": "Deployment Guardian AI",
+              "href": "https://ziontechgroup.com/deployment-guardian-ai/",
+              "source": "https://github.com/Zion-support/deployment-guardian-ai",
+              "description": "Revise los requisitos de despliegue con una referencia inicial, un grupo de prueba limitado, condiciones de parada y un plan de recuperación documentado. La página descriptiva no acredita una reversión automática ni autoriza un despliegue.",
+              "language": "en"
+            },
+            {
+              "name": "Release Risk Radar",
+              "href": "https://ziontechgroup.com/release-risk-radar/",
+              "source": "https://github.com/Zion-support/release-risk-radar",
+              "description": "Revise el alcance del cambio, las pruebas, las dependencias y los incidentes relevantes. Registre la incertidumbre y la decisión del revisor; un nombre de producto o una puntuación propuesta no es una predicción validada.",
+              "language": "en"
+            },
+            {
+              "name": "Chaos Engineering AI",
+              "href": "https://ziontechgroup.com/chaos-engineering-ai/",
+              "source": "https://github.com/Zion-support/chaos-engineering-ai",
+              "description": "Úselo como referencia para un plan de resiliencia revisado por personas. Empiece con un ejercicio de mesa o un entorno aislado, autorización explícita, impacto limitado y un procedimiento probado de parada y recuperación.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "on-call-planning",
+          "title": "Planifique la cobertura con las personas",
+          "intro": "Use disponibilidad confirmada y reglas de escalado acordadas. Las decisiones laborales y las inferencias personales sensibles quedan fuera de esta guía.",
+          "resources": [
+            {
+              "name": "Oncall Optimizer AI",
+              "href": "https://ziontechgroup.com/oncall-optimizer-ai/",
+              "source": "https://github.com/Zion-support/oncall-optimizer-ai",
+              "description": "Revise cobertura y escalado con disponibilidad acordada, funciones y reglas de relevo. Las personas aprueban las asignaciones; no deduzca salud, emociones ni rendimiento laboral a partir de datos de actividad.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Conserve las fuentes y el contexto operativo",
+          "intro": "Los registros originales y las colecciones adyacentes siguen disponibles. Las afirmaciones históricas requieren una nueva comprobación antes de reutilizarse.",
+          "resources": [
+            {
+              "name": "Guía de operaciones y servicios de campo",
+              "href": "https://ziontechgroup.com/es/apps/ai-it-ops-command-center.html",
+              "description": "Revise el proceso operativo documentado y los límites de aprobación antes de planificar un compromiso de servicio.",
+              "language": "es"
+            },
+            {
+              "name": "Índice maestro de aplicaciones",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Examine las referencias originales de aplicaciones y repositorios; una entrada del índice no acredita una función operativa.",
+              "language": "en"
+            },
+            {
+              "name": "Publicación original del Batch 57",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH57.md",
+              "description": "Lea la publicación original como contexto fechado, no como prueba actual de capacidades o del número de aplicaciones.",
+              "language": "en"
+            },
+            {
+              "name": "Portal original de la red",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Vuelva al punto de entrada existente de la red y sus demás colecciones.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Fiabilité et SRE : examiner incidents et preuves de livraison",
+      "description": "Utilisez sept références SRE existantes pour préparer des revues d’incidents, des objectifs de service et des changements contrôlés avec autorisation humaine et preuves vérifiables.",
+      "intro": "Commencez par un service et une question à examiner. Réunissez les faits de l’incident, les mesures du service et les approbations de changement. Les sept pages liées décrivent des concepts ; examinez leurs sources avant d’envisager une intégration opérationnelle.",
+      "scope": "Ce guide ne se connecte pas aux systèmes, n’exécute pas de corrections, ne transmet pas d’alertes et ne lance pas d’expériences. Testez toute intégration proposée avec des données autorisées dans un environnement isolé, sous contrôle humain. La présence d’IA dans un nom ne prouve ni modèle fonctionnel, ni prédiction validée, ni connecteur opérationnel. Tout achat, réservation ou déplacement organisé par Zion exige la confirmation écrite du client sur le périmètre et le prix exacts, le bon de commande correspondant et une autorisation opérationnelle spécifique et distincte de Zion.",
+      "steps": [
+        {
+          "title": "Définir les limites de la revue",
+          "body": "Choisissez un service, une période et la décision attendue. Consignez l’indicateur, les preuves autorisées, le réviseur et les inconnues ; ne copiez pas d’identifiants ni de données clients dans un exemple public."
+        },
+        {
+          "title": "Répéter un scénario contrôlé",
+          "body": "Parcourez détection, communication, escalade et rétablissement lors d’un exercice sur table ou dans un environnement isolé. Vérifiez les prérequis et conditions d’arrêt sans modifier la production."
+        },
+        {
+          "title": "Approuver, consigner et réexaminer",
+          "body": "Une personne autorisée décide si un changement réel peut commencer. Conservez la procédure approuvée, les observations réelles et les exceptions ; examinez le résultat avant d’élargir le périmètre."
+        }
+      ],
+      "example": {
+        "title": "Exemple hypothétique : une réponse d’API retardée",
+        "body": "Dans cette revue fictive, une équipe compare le taux d’erreur et le temps de réponse d’une API à une référence convenue. Elle consigne manuellement l’heure d’un déploiement et répète l’escalade et le rétablissement en test. Le réviseur relève une dépendance non testée et suspend la livraison. Aucune ressource liée n’exécute un retour arrière, n’envoie une alerte ni ne démontre un gain de fiabilité."
+      },
+      "sections": [
+        {
+          "id": "incident-evidence",
+          "title": "Organiser les preuves d’incident et de service",
+          "intro": "Séparez les faits observés des hypothèses. Définissez la période de service, la source des preuves et la personne qui examinera chaque conclusion.",
+          "resources": [
+            {
+              "name": "Incident Commander AI",
+              "href": "https://ziontechgroup.com/incident-commander-ai/",
+              "source": "https://github.com/Zion-support/incident-commander-ai",
+              "description": "Référence descriptive pour coordonner les incidents. Définissez une chronologie manuelle, des observations vérifiées, la validation des communications et un responsable humain avant d’évaluer une intégration.",
+              "language": "en"
+            },
+            {
+              "name": "SLI/SLO Tracker",
+              "href": "https://ziontechgroup.com/sli-slo-tracker/",
+              "source": "https://github.com/Zion-support/sli-slo-tracker",
+              "description": "Définissez l’indicateur, l’objectif, la période de mesure et les exclusions. Vérifiez la télémétrie et le calcul avant de vous fier à un budget d’erreurs ou à une alerte ; cette page ne démontre pas une surveillance active.",
+              "language": "en"
+            },
+            {
+              "name": "Zion AI Incident Runbook",
+              "href": "https://ziontechgroup.com/zion-ai-incident-runbook/",
+              "source": "https://github.com/Zion-support/zion-ai-incident-runbook",
+              "description": "Examinez les prérequis, commandes approuvées, observations attendues, règles d’escalade et de rétablissement. Un opérateur autorisé doit vérifier chaque étape ; la page de référence n’est pas une procédure exécutable.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "controlled-change",
+          "title": "Examiner changements et expériences de résilience",
+          "intro": "Convenez du périmètre autorisé et des conditions d’arrêt avant les tests. Une page descriptive n’approuve aucune action en production.",
+          "resources": [
+            {
+              "name": "Deployment Guardian AI",
+              "href": "https://ziontechgroup.com/deployment-guardian-ai/",
+              "source": "https://github.com/Zion-support/deployment-guardian-ai",
+              "description": "Examinez les exigences de déploiement : référence initiale, groupe de test limité, conditions d’arrêt et plan de rétablissement documenté. Cette description ne prouve pas une intégration de retour arrière automatique et n’autorise aucun déploiement.",
+              "language": "en"
+            },
+            {
+              "name": "Release Risk Radar",
+              "href": "https://ziontechgroup.com/release-risk-radar/",
+              "source": "https://github.com/Zion-support/release-risk-radar",
+              "description": "Examinez le périmètre du changement, les preuves de test, les dépendances et les incidents pertinents. Consignez les incertitudes et la décision du réviseur ; un nom de produit ou un score proposé n’est pas une prédiction validée.",
+              "language": "en"
+            },
+            {
+              "name": "Chaos Engineering AI",
+              "href": "https://ziontechgroup.com/chaos-engineering-ai/",
+              "source": "https://github.com/Zion-support/chaos-engineering-ai",
+              "description": "Utilisez cette référence pour préparer une expérience de résilience validée par des personnes. Commencez par un exercice sur table ou un environnement isolé, avec autorisation explicite, impact limité et procédure d’arrêt et de rétablissement testée.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "on-call-planning",
+          "title": "Planifier la couverture avec les personnes",
+          "intro": "Utilisez les disponibilités confirmées et les règles d’escalade convenues. Les décisions d’emploi et les déductions personnelles sensibles sortent du périmètre de ce guide.",
+          "resources": [
+            {
+              "name": "Oncall Optimizer AI",
+              "href": "https://ziontechgroup.com/oncall-optimizer-ai/",
+              "source": "https://github.com/Zion-support/oncall-optimizer-ai",
+              "description": "Examinez la couverture et l’escalade à partir des disponibilités convenues, des rôles et des règles de relève. Les affectations sont validées par des personnes ; ne déduisez pas la santé, les émotions ou la performance professionnelle de données d’activité.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Conserver les sources et le contexte opérationnel",
+          "intro": "Les documents d’origine et les collections voisines restent disponibles. Vérifiez à nouveau les affirmations historiques avant de les réutiliser.",
+          "resources": [
+            {
+              "name": "Guide des opérations et interventions sur site",
+              "href": "https://ziontechgroup.com/fr/apps/ai-it-ops-command-center.html",
+              "description": "Examinez le processus opérationnel documenté et les limites d’approbation avant de prévoir un engagement de service.",
+              "language": "fr"
+            },
+            {
+              "name": "Index principal des applications",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Consultez les références originales des applications et dépôts ; une entrée d’index ne prouve pas une fonction opérationnelle.",
+              "language": "en"
+            },
+            {
+              "name": "Publication originale du Batch 57",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH57.md",
+              "description": "Lisez la publication d’origine comme un contexte daté, pas comme une preuve actuelle des fonctions ou du nombre d’applications.",
+              "language": "en"
+            },
+            {
+              "name": "Portail original du réseau",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Revenez au point d’entrée existant du réseau et à ses autres collections.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Zuverlässigkeit und SRE: Vorfälle und Versionsnachweise prüfen",
+      "description": "Nutzen Sie sieben bestehende SRE-Referenzen für Vorfallanalysen, Dienstziele und kontrollierte Änderungen mit menschlicher Freigabe und überprüfbaren Nachweisen.",
+      "intro": "Beginnen Sie mit einem Dienst und einer prüfbaren Frage. Halten Sie Vorfallfakten, Dienstmessungen und Änderungsfreigaben zusammen. Die sieben verlinkten Seiten beschreiben Konzepte; prüfen Sie die Quellen, bevor Sie eine funktionierende Integration erwägen.",
+      "scope": "Dieser Leitfaden verbindet sich nicht mit Systemen, führt keine Behebung aus, leitet keine Warnungen weiter und startet keine Experimente. Prüfen Sie vorgeschlagene Integrationen mit autorisierten Daten in einer isolierten Umgebung unter menschlicher Kontrolle. KI im Namen belegt weder ein funktionierendes Modell noch eine validierte Prognose oder betriebliche Anbindung. Ein Kauf, eine Reservierung oder Entsendung durch Zion erfordert die schriftliche Kundenbestätigung des genauen Umfangs und Preises, die entsprechende Bestellung und eine separate, konkrete betriebliche Freigabe von Zion.",
+      "steps": [
+        {
+          "title": "Prüfungsrahmen festlegen",
+          "body": "Wählen Sie einen Dienst, einen Zeitraum und die beabsichtigte Entscheidung. Erfassen Sie Indikator, autorisierte Nachweise, prüfende Person und offene Fragen; übernehmen Sie keine Zugangsdaten oder Kundendaten in öffentliche Beispiele."
+        },
+        {
+          "title": "Ein kontrolliertes Szenario proben",
+          "body": "Gehen Sie Erkennung, Kommunikation, Eskalation und Wiederherstellung in einer Plansimulation oder isolierten Umgebung durch. Prüfen Sie Voraussetzungen und Abbruchkriterien, ohne den Produktivbetrieb zu verändern."
+        },
+        {
+          "title": "Freigeben, dokumentieren und erneut prüfen",
+          "body": "Eine autorisierte Person entscheidet, ob eine reale Änderung beginnen darf. Bewahren Sie freigegebenes Verfahren, tatsächliche Beobachtungen und Ausnahmen auf; prüfen Sie das Ergebnis vor einer Ausweitung."
+        }
+      ],
+      "example": {
+        "title": "Fiktives Beispiel: eine verzögerte API-Antwort",
+        "body": "Bei dieser fiktiven Prüfung vergleicht ein Team Fehlerrate und Antwortzeit einer API mit einem vereinbarten Ausgangswert. Es erfasst einen Auslieferungszeitpunkt manuell und probt Eskalation und Wiederherstellung in einer Testumgebung. Die prüfende Person erkennt eine ungetestete Abhängigkeit und hält die Freigabe an. Keine verlinkte Ressource setzt etwas zurück, versendet eine Warnung oder belegt eine Zuverlässigkeitssteigerung."
+      },
+      "sections": [
+        {
+          "id": "incident-evidence",
+          "title": "Vorfall- und Dienstnachweise ordnen",
+          "intro": "Trennen Sie beobachtete Fakten von Hypothesen. Legen Sie Dienstzeitraum, Nachweisquelle und die Person fest, die jede Schlussfolgerung prüft.",
+          "resources": [
+            {
+              "name": "Incident Commander AI",
+              "href": "https://ziontechgroup.com/incident-commander-ai/",
+              "source": "https://github.com/Zion-support/incident-commander-ai",
+              "description": "Beschreibende Referenz zur Vorfallkoordination. Legen Sie vor der Bewertung einer Integration eine manuelle Zeitleiste, geprüfte Beobachtungen, Kommunikationsfreigaben und eine menschliche Einsatzleitung fest.",
+              "language": "en"
+            },
+            {
+              "name": "SLI/SLO Tracker",
+              "href": "https://ziontechgroup.com/sli-slo-tracker/",
+              "source": "https://github.com/Zion-support/sli-slo-tracker",
+              "description": "Definieren Sie Dienstindikator, Ziel, Messzeitraum und Ausschlüsse. Prüfen Sie Telemetriequelle und Berechnung, bevor Sie sich auf ein Fehlerbudget oder eine Warnung verlassen; diese Seite belegt keine aktive Überwachung.",
+              "language": "en"
+            },
+            {
+              "name": "Zion AI Incident Runbook",
+              "href": "https://ziontechgroup.com/zion-ai-incident-runbook/",
+              "source": "https://github.com/Zion-support/zion-ai-incident-runbook",
+              "description": "Prüfen Sie Voraussetzungen, freigegebene Befehle, erwartete Beobachtungen, Eskalation und Wiederherstellung. Eine autorisierte Fachkraft muss jeden Schritt prüfen; die Referenzseite ist keine ausführbare Betriebsanweisung.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "controlled-change",
+          "title": "Änderungen und Resilienztests prüfen",
+          "intro": "Vereinbaren Sie zulässigen Umfang und Abbruchkriterien vor dem Test. Eine beschreibende Seite genehmigt keine Aktion im Produktivbetrieb.",
+          "resources": [
+            {
+              "name": "Deployment Guardian AI",
+              "href": "https://ziontechgroup.com/deployment-guardian-ai/",
+              "source": "https://github.com/Zion-support/deployment-guardian-ai",
+              "description": "Prüfen Sie Auslieferungsanforderungen anhand eines Ausgangswerts, einer begrenzten Testgruppe, Abbruchkriterien und eines dokumentierten Wiederherstellungsplans. Die Beschreibung belegt keine automatische Rücksetzung und erteilt keine Freigabe.",
+              "language": "en"
+            },
+            {
+              "name": "Release Risk Radar",
+              "href": "https://ziontechgroup.com/release-risk-radar/",
+              "source": "https://github.com/Zion-support/release-risk-radar",
+              "description": "Prüfen Sie Änderungsumfang, Testnachweise, Abhängigkeiten und relevante Vorfälle. Halten Sie Unsicherheit und die Entscheidung der prüfenden Person fest; ein Produktname oder vorgeschlagener Wert ist keine validierte Risikoprognose.",
+              "language": "en"
+            },
+            {
+              "name": "Chaos Engineering AI",
+              "href": "https://ziontechgroup.com/chaos-engineering-ai/",
+              "source": "https://github.com/Zion-support/chaos-engineering-ai",
+              "description": "Nutzen Sie die Referenz für einen von Menschen geprüften Resilienztestplan. Beginnen Sie mit einer Plansimulation oder isolierten Testumgebung, ausdrücklicher Genehmigung, begrenzten Auswirkungen und einem getesteten Abbruch- und Wiederherstellungsverfahren.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "on-call-planning",
+          "title": "Abdeckung gemeinsam planen",
+          "intro": "Nutzen Sie bestätigte Verfügbarkeit und vereinbarte Eskalationsregeln. Beschäftigungsentscheidungen und sensible persönliche Schlussfolgerungen liegen außerhalb dieses Leitfadens.",
+          "resources": [
+            {
+              "name": "Oncall Optimizer AI",
+              "href": "https://ziontechgroup.com/oncall-optimizer-ai/",
+              "source": "https://github.com/Zion-support/oncall-optimizer-ai",
+              "description": "Prüfen Sie Abdeckung und Eskalation anhand vereinbarter Verfügbarkeit, Rollen und Übergaberegeln. Menschen genehmigen die Einteilung; leiten Sie aus Aktivitätsdaten weder Gesundheit noch Emotionen oder Arbeitsleistung ab.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Quellen und betrieblichen Kontext erhalten",
+          "intro": "Die ursprünglichen Nachweise und benachbarten Sammlungen bleiben zugänglich. Prüfen Sie historische Aussagen erneut, bevor Sie sie weiterverwenden.",
+          "resources": [
+            {
+              "name": "Leitfaden für Betrieb und Vor-Ort-Service",
+              "href": "https://ziontechgroup.com/de/apps/ai-it-ops-command-center.html",
+              "description": "Prüfen Sie den dokumentierten Betriebsablauf und die Freigabegrenzen, bevor Sie eine Servicezusage planen.",
+              "language": "de"
+            },
+            {
+              "name": "Zentrales App-Verzeichnis",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md",
+              "description": "Prüfen Sie die ursprünglichen App- und Repository-Verweise; ein Verzeichniseintrag belegt keine betriebsfähige Funktion.",
+              "language": "en"
+            },
+            {
+              "name": "Ursprüngliche Veröffentlichung zu Batch 57",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-27-BATCH57.md",
+              "description": "Lesen Sie die ursprüngliche Mitteilung als zeitgebundenen Kontext, nicht als aktuellen Funktions- oder Mengennachweis.",
+              "language": "en"
+            },
+            {
+              "name": "Ursprünglicher Netzwerkzugang",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Kehren Sie zum bestehenden Netzwerkzugang und seinen weiteren Sammlungen zurück.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -18,12 +18,15 @@ def esc(value):
 
 def route(guide, locale):
     suffix = '' if locale == 'en' else '-pt-br' if locale == 'pt' else '-' + locale
+    suffix = guide.get('localeSuffixes', {}).get(locale, suffix)
     return '/zion-app-network/' + guide['basePath'] + suffix + '.html'
 
 def local_path(guide, locale):
     return route(guide, locale).removeprefix('/zion-app-network/')
 
 def valid_href(value):
+    if value == 'mailto:commercial@ziontechgroup.com':
+        return value
     parsed = urlparse(value)
     if value.startswith('/') and not value.startswith('//'):
         return value
@@ -59,11 +62,17 @@ def render(guide, locale, guides):
             lang = resource.get('language', locale)
             language_note = f'<span class="language-note">{esc(u["english"])}</span>' if lang == 'en' and locale != 'en' else ''
             attrs = f' hreflang="{esc(UI.get(lang,{"lang":lang})["lang"])}"'
+            if resource['href'].startswith('mailto:'):
+                language_note, attrs = '', ''
+            elif lang == 'und':
+                language_note = f'<span class="language-note">{esc(u["unverifiedLanguage"])}</span>'
+                attrs = ''
             cards.append(f'<article class="card"><h3>{esc(resource["name"])}</h3><p>{esc(resource["description"])}</p><div class="card-links">{link(resource["href"],u["open"],attrs)}{source}</div>{language_note}</article>')
         sections.append(f'<section class="section" id="{esc(section["id"])}" aria-labelledby="{esc(section["id"])}-title"><h2 id="{esc(section["id"])}-title">{esc(section["title"])}</h2><p class="section-intro">{esc(section["intro"])}</p><div class="grid">{"".join(cards)}</div></section>')
     steps = ''.join(f'<li><h3>{esc(s["title"])}</h3><p>{esc(s["body"])}</p></li>' for s in c['steps'])
     # A staged family can link outward without rewriting every existing guide.
-    related = ''.join(link(route(g,locale),g['locales'][locale]['title']) for g in guides if g['id'] != guide['id'] and g.get('showInRelatedGuides', True))
+    related_ids = set(guide.get('relatedGuideIds', []))
+    related = ''.join(link(route(g,locale),g['locales'][locale]['title']) for g in guides if g['id'] != guide['id'] and (g.get('showInRelatedGuides', True) or g['id'] in related_ids))
     legacy = ''
     if guide.get('legacyLinks'):
         legacy_links = ''.join(link(item['href'],u['collection']+' '+str(item['number']),' hreflang="en"') for item in guide['legacyLinks'])

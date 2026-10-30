@@ -1,0 +1,707 @@
+{
+  "id": "real-estate",
+  "basePath": "app/network-batch96-showcase",
+  "localeSuffixes": {
+    "pt": "-pt"
+  },
+  "showInRelatedGuides": false,
+  "relatedGuideIds": [
+    "catalog-navigation",
+    "green-education",
+    "infrastructure",
+    "govtech",
+    "legal-ops",
+    "field-service",
+    "reliability-sre",
+    "people-energy",
+    "q4-showcase",
+    "real-estate"
+  ],
+  "locales": {
+    "en": {
+      "title": "Batch 96: evaluate resources across the property lifecycle",
+      "description": "Review six Zion property resources covering valuation, leases, screening, listings, maintenance and market research, with original app and repository links.",
+      "intro": "The Batch 96 collection, introduced on 6 October 2026, follows six property tasks from valuation to market research. Use the app pages and source repositories to define a small evaluation with clear inputs and human review.",
+      "scope": "These pages describe evaluation topics, not verified end-to-end property operations. Confirm actual functionality, licensing, access permissions and applicable requirements before using a resource. Valuation, lease interpretation, housing decisions and maintenance approvals remain with responsible people; a screening summary is not a guarantee of fair or compliant outcomes.",
+      "sections": [
+        {
+          "id": "property-resources",
+          "title": "Real estate and property — Batch 96",
+          "intro": "Explore valuation, leasing, screening, listings, maintenance and market research as separate review tasks.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Review comparable properties, market dates and property features for a valuation trial. Record assumptions and ask the responsible reviewer to check the estimate.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/property-valuation-ai"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Plan a sample extraction of lease clauses, dates, rents and obligations. Check every extracted item against the source lease before using it.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/lease-abstraction-ai"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Evaluate document checks and screening summaries with relevant, permitted criteria. Keep housing decisions and their explanations with an authorized human reviewer.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/tenant-screening-copilot"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Compare proposed pricing, descriptions, photo order and publication channels for one listing. Verify factual accuracy and obtain approval before publishing changes.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/rental-listing-optimizer"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Define maintenance priorities, service history, scheduling limits and contractor assignments. Evaluate any predictive suggestion against records and approved work orders.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/facility-maintenance-planner"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Compare price trends, available inventory and demand by area and period. Check data freshness, coverage and assumptions before interpreting a market signal.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/real-estate-market-radar"
+            }
+          ]
+        },
+        {
+          "id": "original-references",
+          "title": "Original articles and related collections",
+          "intro": "The original property showcase linked to these articles and update pages. Their destination languages have not been reverified for this guide.",
+          "resources": [
+            {
+              "name": "Property collection introduction",
+              "href": "https://ziontechgroup.com/apps/batch96-real-estate-ai.html",
+              "description": "Read the original homepage article associated with Batch 96.",
+              "language": "und"
+            },
+            {
+              "name": "Additional property introduction",
+              "href": "https://ziontechgroup.com/pt/apps/batch96-real-estate-ai.html",
+              "description": "Open the second homepage article retained from the original collection.",
+              "language": "und"
+            },
+            {
+              "name": "Manufacturing and Industry 4.0 collection",
+              "href": "https://ziontechgroup.com/apps/october-2026-batch15.html",
+              "description": "Explore the earlier manufacturing link retained in the property showcase.",
+              "language": "und"
+            },
+            {
+              "name": "October 2026 master showcase",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-october-2026-master-showcase.html",
+              "description": "Browse the historical October collection for further network context.",
+              "language": "und"
+            },
+            {
+              "name": "Network update record",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md",
+              "description": "Consult the repository’s update record and check the dates of individual entries.",
+              "language": "und"
+            },
+            {
+              "name": "Q4 2026 showcase: choose a practical app evaluation",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase.html",
+              "description": "Explore Zion resources for property, education, energy, space, DevOps and governance, with clear next steps for a focused evaluation.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery and contact",
+          "intro": "Use the questionnaire or contact route to describe one priority and agree on the next conversation.",
+          "resources": [
+            {
+              "name": "Free AI Discovery",
+              "href": "https://ziontechgroup.com/discovery/",
+              "description": "Open the free questionnaire to outline your needs. Review its current submission and result options; no delivery time or follow-up is promised here.",
+              "language": "en"
+            },
+            {
+              "name": "Contact Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Write to commercial@ziontechgroup.com with your question and relevant resource links. Share only information you are authorized to disclose.",
+              "language": "en"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Select one property task",
+          "body": "Choose valuation, lease review, screening, an advertisement, maintenance or market research. Define the owner and the decision the trial will inform."
+        },
+        {
+          "title": "Prepare reviewable inputs",
+          "body": "Use appropriate samples, record their sources and identify missing information. Specify the criteria for checking the output against original documents or an agreed baseline."
+        },
+        {
+          "title": "Review before acting",
+          "body": "Ask the responsible person to examine errors, assumptions and exceptions. Approve any publication, access change, housing decision or work order separately."
+        }
+      ],
+      "example": {
+        "title": "Illustrative example: a lease and maintenance review",
+        "body": "A property team prepares a synthetic lease and a sample maintenance schedule. It checks each extracted date and obligation against the lease and each proposed maintenance task against an approved work order. Separate reviewers record corrections before any operational action; the exercise does not automate tenant decisions."
+      }
+    },
+    "pt": {
+      "title": "Batch 96: avalie recursos ao longo do ciclo imobiliário",
+      "description": "Revise seis recursos Zion para avaliação, contratos, triagem, anúncios, manutenção e pesquisa de mercado, com links originais de apps e repositórios.",
+      "intro": "A coleção Batch 96, apresentada em 6 de outubro de 2026, acompanha seis tarefas imobiliárias, da avaliação à pesquisa de mercado. Use as páginas dos apps e os repositórios para definir uma pequena avaliação com dados claros e revisão humana.",
+      "scope": "Estas páginas descrevem temas de avaliação, não operações imobiliárias completas já verificadas. Confirme funções reais, licenças, permissões de acesso e requisitos aplicáveis antes de utilizar um recurso. Avaliações, interpretação de contratos, decisões de locação e aprovações de manutenção continuam sob responsabilidade humana; um resumo de triagem não garante resultados justos ou conformes.",
+      "sections": [
+        {
+          "id": "property-resources",
+          "title": "Imóveis e gestão de propriedades — Batch 96",
+          "intro": "Explore avaliação, locação, triagem, anúncios, manutenção e pesquisa de mercado como tarefas de revisão distintas.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Revise imóveis comparáveis, datas de mercado e características do imóvel em um teste de avaliação. Registre as premissas e peça ao responsável que confira a estimativa.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/property-valuation-ai"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Planeje uma extração de exemplo de cláusulas, datas, aluguéis e obrigações contratuais. Confira cada item no contrato original antes de utilizá-lo.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/lease-abstraction-ai"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Avalie a conferência de documentos e os resumos de triagem com critérios pertinentes e permitidos. Mantenha as decisões sobre locação e suas justificativas sob revisão humana autorizada.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/tenant-screening-copilot"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Compare propostas de preço, descrição, ordem das fotos e canais para um anúncio. Confira a exatidão das informações e obtenha aprovação antes de publicar mudanças.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/rental-listing-optimizer"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Defina prioridades de manutenção, histórico de serviços, limites de agenda e responsáveis contratados. Avalie sugestões preditivas com base nos registros e nas ordens de serviço aprovadas.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/facility-maintenance-planner"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Compare tendências de preço, oferta disponível e demanda por região e período. Confira a atualização, a cobertura e as premissas dos dados antes de interpretar um sinal de mercado.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/real-estate-market-radar"
+            }
+          ]
+        },
+        {
+          "id": "original-references",
+          "title": "Artigos originais e coleções relacionadas",
+          "intro": "A apresentação original de imóveis apontava para estes artigos e registros de atualização. Os idiomas dos destinos não foram verificados novamente para este guia.",
+          "resources": [
+            {
+              "name": "Introdução à coleção de imóveis",
+              "href": "https://ziontechgroup.com/apps/batch96-real-estate-ai.html",
+              "description": "Leia o artigo original da página principal associado ao Batch 96.",
+              "language": "und"
+            },
+            {
+              "name": "Outra introdução à coleção de imóveis",
+              "href": "https://ziontechgroup.com/pt/apps/batch96-real-estate-ai.html",
+              "description": "Abra o segundo artigo da página principal preservado da coleção original.",
+              "language": "und"
+            },
+            {
+              "name": "Coleção de manufatura e Indústria 4.0",
+              "href": "https://ziontechgroup.com/apps/october-2026-batch15.html",
+              "description": "Explore o link anterior de manufatura mantido na apresentação de imóveis.",
+              "language": "und"
+            },
+            {
+              "name": "Coleção geral de outubro de 2026",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-october-2026-master-showcase.html",
+              "description": "Consulte a coleção histórica de outubro para ampliar o contexto da rede.",
+              "language": "und"
+            },
+            {
+              "name": "Registro de atualizações da rede",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md",
+              "description": "Consulte o registro de atualizações no repositório e confira as datas de cada entrada.",
+              "language": "und"
+            },
+            {
+              "name": "Coleção do 4º trimestre de 2026: escolha uma avaliação prática",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase-pt.html",
+              "description": "Explore recursos Zion para imóveis, educação, energia, espaço, DevOps e governança, com próximos passos claros para uma avaliação focada.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery e contato",
+          "intro": "Use o questionário ou o canal de contato para descrever uma prioridade e combinar a próxima conversa.",
+          "resources": [
+            {
+              "name": "AI Discovery gratuito",
+              "href": "https://ziontechgroup.com/pt/discovery/",
+              "description": "Abra o questionário gratuito para descrever suas necessidades. Confira as opções atuais de envio e resultado; este guia não promete prazo de entrega ou retorno.",
+              "language": "pt"
+            },
+            {
+              "name": "Fale com a Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Escreva para commercial@ziontechgroup.com com sua pergunta e os links relevantes. Compartilhe apenas informações que esteja autorizado a divulgar.",
+              "language": "pt"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Selecione uma tarefa imobiliária",
+          "body": "Escolha avaliação, revisão de contrato, triagem, anúncio, manutenção ou pesquisa de mercado. Defina o responsável e a decisão que o teste apoiará."
+        },
+        {
+          "title": "Prepare dados que possam ser revisados",
+          "body": "Use amostras adequadas, registre as fontes e identifique informações ausentes. Defina critérios para conferir o resultado com documentos originais ou uma referência acordada."
+        },
+        {
+          "title": "Revise antes de agir",
+          "body": "Peça ao responsável que examine erros, premissas e exceções. Aprove separadamente qualquer publicação, mudança de acesso, decisão de locação ou ordem de serviço."
+        }
+      ],
+      "example": {
+        "title": "Exemplo ilustrativo: revisão de contrato e manutenção",
+        "body": "Uma equipe imobiliária prepara um contrato fictício e uma amostra do cronograma de manutenção. Ela confere cada data e obrigação extraída com o contrato e cada tarefa proposta com uma ordem de serviço aprovada. Revisores distintos registram correções antes de qualquer ação operacional; o exercício não automatiza decisões sobre inquilinos."
+      }
+    },
+    "es": {
+      "title": "Batch 96: evalúe recursos durante el ciclo inmobiliario",
+      "description": "Revise seis recursos Zion de valoración, contratos, selección, anuncios, mantenimiento e investigación de mercado, con enlaces originales a apps y repositorios.",
+      "intro": "La colección Batch 96, presentada el 6 de octubre de 2026, recorre seis tareas inmobiliarias, desde la valoración hasta la investigación de mercado. Utilice las páginas de las apps y sus repositorios para definir una pequeña evaluación con datos claros y revisión humana.",
+      "scope": "Estas páginas describen temas de evaluación, no operaciones inmobiliarias completas ya verificadas. Confirme las funciones reales, las licencias, los permisos de acceso y los requisitos aplicables antes de utilizar un recurso. La valoración, la interpretación de contratos, las decisiones de vivienda y las autorizaciones de mantenimiento siguen bajo responsabilidad humana; un resumen de selección no garantiza resultados justos ni conformes.",
+      "sections": [
+        {
+          "id": "property-resources",
+          "title": "Inmuebles y gestión de propiedades — Batch 96",
+          "intro": "Explore valoración, arrendamiento, selección, anuncios, mantenimiento e investigación de mercado como tareas de revisión independientes.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Revise inmuebles comparables, fechas de mercado y características de la propiedad en una prueba de valoración. Registre los supuestos y pida al responsable que compruebe la estimación.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/property-valuation-ai"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Planifique una extracción de muestra de cláusulas, fechas, rentas y obligaciones del arrendamiento. Compruebe cada dato en el contrato original antes de utilizarlo.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/lease-abstraction-ai"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Evalúe la revisión de documentos y los resúmenes de selección con criterios pertinentes y permitidos. Mantenga las decisiones sobre vivienda y sus explicaciones bajo revisión humana autorizada.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/tenant-screening-copilot"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Compare propuestas de precio, descripción, orden de fotografías y canales para un anuncio. Verifique la exactitud de la información y obtenga aprobación antes de publicar cambios.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/rental-listing-optimizer"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Defina prioridades de mantenimiento, historial de servicio, límites de agenda y asignación de proveedores. Evalúe las propuestas predictivas frente a los registros y las órdenes de trabajo aprobadas.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/facility-maintenance-planner"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Compare tendencias de precios, oferta disponible y demanda por zona y período. Compruebe la actualidad, cobertura y supuestos de los datos antes de interpretar una señal del mercado.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/real-estate-market-radar"
+            }
+          ]
+        },
+        {
+          "id": "original-references",
+          "title": "Artículos originales y colecciones relacionadas",
+          "intro": "La presentación original de inmuebles enlazaba estos artículos y páginas de actualización. Los idiomas de destino no se han vuelto a verificar para esta guía.",
+          "resources": [
+            {
+              "name": "Introducción a la colección inmobiliaria",
+              "href": "https://ziontechgroup.com/apps/batch96-real-estate-ai.html",
+              "description": "Lea el artículo original de la página principal asociado a Batch 96.",
+              "language": "und"
+            },
+            {
+              "name": "Otra introducción a la colección inmobiliaria",
+              "href": "https://ziontechgroup.com/pt/apps/batch96-real-estate-ai.html",
+              "description": "Abra el segundo artículo de la página principal conservado de la colección original.",
+              "language": "und"
+            },
+            {
+              "name": "Colección de fabricación e Industria 4.0",
+              "href": "https://ziontechgroup.com/apps/october-2026-batch15.html",
+              "description": "Explore el enlace anterior de fabricación conservado en la presentación inmobiliaria.",
+              "language": "und"
+            },
+            {
+              "name": "Colección general de octubre de 2026",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-october-2026-master-showcase.html",
+              "description": "Consulte la colección histórica de octubre para ampliar el contexto de la red.",
+              "language": "und"
+            },
+            {
+              "name": "Registro de actualizaciones de la red",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md",
+              "description": "Consulte el registro de actualizaciones del repositorio y compruebe las fechas de cada entrada.",
+              "language": "und"
+            },
+            {
+              "name": "Colección del cuarto trimestre de 2026: elija una evaluación práctica",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase-es.html",
+              "description": "Explore recursos Zion de inmuebles, educación, energía, espacio, DevOps y gobernanza, con próximos pasos claros para una evaluación concreta.",
+              "language": "es"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery y contacto",
+          "intro": "Utilice el cuestionario o el canal de contacto para describir una prioridad y acordar la siguiente conversación.",
+          "resources": [
+            {
+              "name": "AI Discovery gratuito",
+              "href": "https://ziontechgroup.com/es/discovery/",
+              "description": "Abra el cuestionario gratuito para describir sus necesidades. Revise las opciones actuales de envío y resultados; esta guía no promete plazos de entrega ni de respuesta.",
+              "language": "es"
+            },
+            {
+              "name": "Contacte con Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Escriba a commercial@ziontechgroup.com con su pregunta y los enlaces relevantes. Comparta solo información que esté autorizado a divulgar.",
+              "language": "es"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Seleccione una tarea inmobiliaria",
+          "body": "Elija valoración, revisión de contrato, selección, anuncio, mantenimiento o investigación de mercado. Defina al responsable y la decisión que la prueba ayudará a tomar."
+        },
+        {
+          "title": "Prepare datos que puedan revisarse",
+          "body": "Utilice muestras adecuadas, registre sus fuentes e identifique la información que falta. Fije criterios para comprobar el resultado frente a documentos originales o una referencia acordada."
+        },
+        {
+          "title": "Revise antes de actuar",
+          "body": "Pida al responsable que examine errores, supuestos y excepciones. Autorice por separado cualquier publicación, cambio de acceso, decisión de vivienda u orden de trabajo."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo ilustrativo: revisión de contrato y mantenimiento",
+        "body": "Un equipo inmobiliario prepara un contrato ficticio y una muestra del calendario de mantenimiento. Comprueba cada fecha y obligación extraída en el contrato, y cada tarea propuesta en una orden de trabajo aprobada. Revisores distintos registran las correcciones antes de cualquier acción operativa; el ejercicio no automatiza decisiones sobre inquilinos."
+      }
+    },
+    "fr": {
+      "title": "Batch 96 : évaluer les ressources du cycle immobilier",
+      "description": "Examinez six ressources Zion pour l’évaluation, les baux, les candidatures, les annonces, la maintenance et le marché, avec les liens originaux vers les applications et dépôts.",
+      "intro": "La collection Batch 96, présentée le 6 octobre 2026, couvre six tâches immobilières, de l’évaluation à l’étude du marché. Utilisez les pages des applications et leurs dépôts pour définir un petit essai avec des données explicites et une validation humaine.",
+      "scope": "Ces pages décrivent des sujets d’évaluation, pas des opérations immobilières complètes déjà vérifiées. Confirmez les fonctions réelles, les licences, les droits d’accès et les exigences applicables avant utilisation. L’évaluation, l’interprétation des baux, les décisions de location et les autorisations de maintenance restent sous responsabilité humaine ; une synthèse de candidature ne garantit pas un résultat équitable ou conforme.",
+      "sections": [
+        {
+          "id": "property-resources",
+          "title": "Immobilier et gestion de biens — Batch 96",
+          "intro": "Examinez séparément l’évaluation, les baux, les candidatures, les annonces, la maintenance et l’étude du marché.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Examinez les biens comparables, les dates de marché et les caractéristiques du bien pour un essai d’évaluation. Consignez les hypothèses et faites vérifier l’estimation par la personne responsable.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/property-valuation-ai"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Préparez un essai d’extraction des clauses, dates, loyers et obligations d’un bail. Vérifiez chaque élément dans le contrat source avant de l’utiliser.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/lease-abstraction-ai"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Évaluez les contrôles documentaires et les synthèses de candidature selon des critères pertinents et autorisés. Confiez les décisions de location et leurs justifications à une personne habilitée.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/tenant-screening-copilot"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Comparez les propositions de prix, de description, d’ordre des photos et de canaux pour une annonce. Vérifiez les informations et obtenez une validation avant toute publication.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/rental-listing-optimizer"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Définissez les priorités de maintenance, l’historique, les contraintes de calendrier et les prestataires. Évaluez les suggestions prédictives à partir des dossiers et des ordres de travail approuvés.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/facility-maintenance-planner"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Comparez les tendances de prix, l’offre disponible et la demande par zone et période. Vérifiez l’actualité, la couverture et les hypothèses des données avant d’interpréter un signal de marché.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/real-estate-market-radar"
+            }
+          ]
+        },
+        {
+          "id": "original-references",
+          "title": "Articles originaux et collections associées",
+          "intro": "La présentation immobilière originale renvoyait vers ces articles et pages d’actualités. Les langues de destination n’ont pas été vérifiées à nouveau pour ce guide.",
+          "resources": [
+            {
+              "name": "Présentation de la collection immobilière",
+              "href": "https://ziontechgroup.com/apps/batch96-real-estate-ai.html",
+              "description": "Lisez l’article original de la page d’accueil associé à Batch 96.",
+              "language": "und"
+            },
+            {
+              "name": "Autre présentation de la collection immobilière",
+              "href": "https://ziontechgroup.com/pt/apps/batch96-real-estate-ai.html",
+              "description": "Ouvrez le second article de la page d’accueil conservé dans la collection originale.",
+              "language": "und"
+            },
+            {
+              "name": "Collection fabrication et Industrie 4.0",
+              "href": "https://ziontechgroup.com/apps/october-2026-batch15.html",
+              "description": "Explorez le lien antérieur sur la fabrication conservé dans la présentation immobilière.",
+              "language": "und"
+            },
+            {
+              "name": "Collection générale d’octobre 2026",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-october-2026-master-showcase.html",
+              "description": "Parcourez la collection historique d’octobre pour mieux situer le réseau.",
+              "language": "und"
+            },
+            {
+              "name": "Historique des actualités du réseau",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md",
+              "description": "Consultez le suivi des mises à jour dans le dépôt et vérifiez la date de chaque entrée.",
+              "language": "und"
+            },
+            {
+              "name": "Collection du quatrième trimestre 2026 : choisir une évaluation pratique",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase-fr.html",
+              "description": "Explorez les ressources Zion pour l’immobilier, l’éducation, l’énergie, l’espace, DevOps et la gouvernance, avec des étapes d’évaluation précises.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery et contact",
+          "intro": "Utilisez le questionnaire ou le contact pour présenter une priorité et convenir de la prochaine discussion.",
+          "resources": [
+            {
+              "name": "AI Discovery gratuit",
+              "href": "https://ziontechgroup.com/fr/discovery/",
+              "description": "Ouvrez le questionnaire gratuit pour décrire vos besoins. Vérifiez les options actuelles d’envoi et de résultats ; ce guide ne promet aucun délai de livraison ou de réponse.",
+              "language": "fr"
+            },
+            {
+              "name": "Contacter Zion Tech Group",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Écrivez à commercial@ziontechgroup.com avec votre question et les liens utiles. Ne transmettez que des informations que vous êtes autorisé à partager.",
+              "language": "fr"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Choisir une tâche immobilière",
+          "body": "Choisissez l’évaluation, l’examen d’un bail, les candidatures, une annonce, la maintenance ou l’étude du marché. Désignez un responsable et la décision que l’essai doit éclairer."
+        },
+        {
+          "title": "Préparer des données vérifiables",
+          "body": "Utilisez des exemples adaptés, consignez leurs sources et identifiez les informations manquantes. Fixez les critères de vérification face aux documents originaux ou à une référence convenue."
+        },
+        {
+          "title": "Valider avant d’agir",
+          "body": "Demandez au responsable d’examiner les erreurs, hypothèses et exceptions. Autorisez séparément toute publication, modification d’accès, décision de location ou ordre de travail."
+        }
+      ],
+      "example": {
+        "title": "Exemple illustratif : examen d’un bail et de la maintenance",
+        "body": "Une équipe immobilière prépare un bail fictif et un exemple de calendrier de maintenance. Elle vérifie chaque date et obligation extraite dans le bail, puis chaque intervention proposée dans un ordre de travail approuvé. Des responsables distincts consignent les corrections avant toute action ; cet essai n’automatise pas les décisions concernant les locataires."
+      }
+    },
+    "de": {
+      "title": "Batch 96: Ressourcen im Immobilienlebenszyklus bewerten",
+      "description": "Prüfen Sie sechs Zion-Ressourcen für Bewertung, Mietverträge, Bewerbungen, Inserate, Wartung und Marktforschung mit den ursprünglichen App- und Repository-Links.",
+      "intro": "Die am 6. Oktober 2026 vorgestellte Sammlung Batch 96 umfasst sechs Immobilienaufgaben von der Bewertung bis zur Marktforschung. Nutzen Sie App-Seiten und Quellcode-Repositories für eine kleine Prüfung mit klaren Eingaben und menschlicher Kontrolle.",
+      "scope": "Diese Seiten beschreiben Prüfungsthemen, keine bereits bestätigten vollständigen Immobilienabläufe. Klären Sie tatsächliche Funktionen, Lizenzen, Zugriffsrechte und geltende Anforderungen vor der Nutzung. Bewertungen, Vertragsauslegung, Wohnungsentscheidungen und Wartungsfreigaben bleiben in menschlicher Verantwortung. Eine Bewerbungsübersicht garantiert keine fairen oder regelkonformen Ergebnisse.",
+      "sections": [
+        {
+          "id": "property-resources",
+          "title": "Immobilien und Objektverwaltung — Batch 96",
+          "intro": "Betrachten Sie Bewertung, Vermietung, Bewerbungsprüfung, Inserate, Wartung und Marktforschung als getrennte Prüfaufgaben.",
+          "resources": [
+            {
+              "name": "Property Valuation AI",
+              "href": "https://ziontechgroup.com/property-valuation-ai/",
+              "description": "Prüfen Sie Vergleichsobjekte, Marktstichtage und Objektdaten für einen Bewertungstest. Halten Sie Annahmen fest und lassen Sie die Schätzung von der verantwortlichen Person prüfen.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/property-valuation-ai"
+            },
+            {
+              "name": "Lease Abstraction AI",
+              "href": "https://ziontechgroup.com/lease-abstraction-ai/",
+              "description": "Planen Sie eine probeweise Erfassung von Mietvertragsklauseln, Terminen, Mieten und Pflichten. Gleichen Sie jeden Eintrag vor der Nutzung mit dem Originalvertrag ab.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/lease-abstraction-ai"
+            },
+            {
+              "name": "Tenant Screening Copilot",
+              "href": "https://ziontechgroup.com/tenant-screening-copilot/",
+              "description": "Bewerten Sie Dokumentenprüfungen und Bewerbungsübersichten anhand relevanter, zulässiger Kriterien. Wohnungsentscheidungen und ihre Begründungen bleiben bei einer befugten prüfenden Person.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/tenant-screening-copilot"
+            },
+            {
+              "name": "Rental Listing Optimizer",
+              "href": "https://ziontechgroup.com/rental-listing-optimizer/",
+              "description": "Vergleichen Sie Preisvorschläge, Beschreibung, Bildreihenfolge und Kanäle für ein Inserat. Prüfen Sie die Angaben und holen Sie vor der Veröffentlichung eine Freigabe ein.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/rental-listing-optimizer"
+            },
+            {
+              "name": "Facility Maintenance Planner",
+              "href": "https://ziontechgroup.com/facility-maintenance-planner/",
+              "description": "Definieren Sie Wartungsprioritäten, Servicehistorie, Terminbeschränkungen und Dienstleister. Prüfen Sie vorausschauende Vorschläge anhand vorhandener Unterlagen und freigegebener Arbeitsaufträge.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/facility-maintenance-planner"
+            },
+            {
+              "name": "Real Estate Market Radar",
+              "href": "https://ziontechgroup.com/real-estate-market-radar/",
+              "description": "Vergleichen Sie Preisentwicklung, verfügbares Angebot und Nachfrage nach Gebiet und Zeitraum. Prüfen Sie Aktualität, Abdeckung und Annahmen der Daten, bevor Sie ein Marktsignal deuten.",
+              "language": "en",
+              "source": "https://github.com/Zion-support/real-estate-market-radar"
+            }
+          ]
+        },
+        {
+          "id": "original-references",
+          "title": "Ursprüngliche Artikel und verwandte Sammlungen",
+          "intro": "Die ursprüngliche Immobiliensammlung verlinkte diese Artikel und Aktualisierungen. Ihre Zielsprachen wurden für diesen Leitfaden nicht erneut geprüft.",
+          "resources": [
+            {
+              "name": "Einführung in die Immobiliensammlung",
+              "href": "https://ziontechgroup.com/apps/batch96-real-estate-ai.html",
+              "description": "Lesen Sie den ursprünglichen Homepage-Artikel zu Batch 96.",
+              "language": "und"
+            },
+            {
+              "name": "Weitere Einführung in die Immobiliensammlung",
+              "href": "https://ziontechgroup.com/pt/apps/batch96-real-estate-ai.html",
+              "description": "Öffnen Sie den zweiten Homepage-Artikel aus der ursprünglichen Sammlung.",
+              "language": "und"
+            },
+            {
+              "name": "Sammlung zu Fertigung und Industrie 4.0",
+              "href": "https://ziontechgroup.com/apps/october-2026-batch15.html",
+              "description": "Erkunden Sie den früheren Fertigungslink aus der Immobiliensammlung.",
+              "language": "und"
+            },
+            {
+              "name": "Gesamtsammlung für Oktober 2026",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-october-2026-master-showcase.html",
+              "description": "Lesen Sie die historische Oktobersammlung, um den Netzwerkkontext zu erweitern.",
+              "language": "und"
+            },
+            {
+              "name": "Aktualisierungsverlauf des Netzwerks",
+              "href": "https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md",
+              "description": "Prüfen Sie den Änderungsverlauf im Repository und die Datumsangaben der einzelnen Einträge.",
+              "language": "und"
+            },
+            {
+              "name": "Sammlung zum vierten Quartal 2026: eine praktische App-Prüfung planen",
+              "href": "https://ziontechgroup.com/zion-app-network/app/network-q4-2026-showcase-de.html",
+              "description": "Entdecken Sie Zion-Ressourcen für Immobilien, Bildung, Energie, Raumfahrt, DevOps und Unternehmensführung mit klaren Schritten für eine gezielte Prüfung.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "discovery-contact",
+          "title": "Discovery und Kontakt",
+          "intro": "Nutzen Sie den Fragebogen oder den Kontaktweg, um ein Anliegen zu beschreiben und das weitere Gespräch zu vereinbaren.",
+          "resources": [
+            {
+              "name": "Kostenloses AI Discovery",
+              "href": "https://ziontechgroup.com/de/discovery/",
+              "description": "Öffnen Sie den kostenlosen Fragebogen und beschreiben Sie Ihren Bedarf. Prüfen Sie die aktuellen Übermittlungs- und Ergebnisoptionen; dieser Leitfaden verspricht keine Zustell- oder Antwortfrist.",
+              "language": "de"
+            },
+            {
+              "name": "Zion Tech Group kontaktieren",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "description": "Schreiben Sie Ihre Frage und relevante Ressourcenlinks an commercial@ziontechgroup.com. Teilen Sie nur Informationen, zu deren Weitergabe Sie befugt sind.",
+              "language": "de"
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "title": "Eine Immobilienaufgabe auswählen",
+          "body": "Wählen Sie Bewertung, Vertragsprüfung, Bewerbungsprüfung, Inserat, Wartung oder Marktforschung. Legen Sie die verantwortliche Person und die durch den Test unterstützte Entscheidung fest."
+        },
+        {
+          "title": "Prüfbare Eingaben vorbereiten",
+          "body": "Nutzen Sie geeignete Beispiele, dokumentieren Sie ihre Quellen und kennzeichnen Sie fehlende Informationen. Vereinbaren Sie Kriterien für den Abgleich mit Originalunterlagen oder einer Vergleichsbasis."
+        },
+        {
+          "title": "Vor Maßnahmen prüfen",
+          "body": "Lassen Sie Fehler, Annahmen und Ausnahmen durch die zuständige Person prüfen. Genehmigen Sie Veröffentlichungen, Zugriffsänderungen, Wohnungsentscheidungen oder Arbeitsaufträge jeweils gesondert."
+        }
+      ],
+      "example": {
+        "title": "Beispiel zur Veranschaulichung: Mietvertrag und Wartung",
+        "body": "Ein Immobilienteam erstellt einen fiktiven Mietvertrag und einen beispielhaften Wartungsplan. Es gleicht jedes erfasste Datum und jede Pflicht mit dem Vertrag sowie jeden Wartungsvorschlag mit einem genehmigten Arbeitsauftrag ab. Getrennte Prüfer dokumentieren Korrekturen vor betrieblichen Maßnahmen; der Test automatisiert keine Mieterentscheidungen."
+      }
+    }
+  }
+}

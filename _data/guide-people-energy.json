@@ -1,0 +1,674 @@
+{
+  "id": "people-energy",
+  "basePath": "app-network-batch78-oct04",
+  "showInRelatedGuides": false,
+  "relatedGuideIds": [
+    "catalog-navigation",
+    "field-service",
+    "govtech",
+    "green-education",
+    "infrastructure",
+    "legal-ops",
+    "reliability-sre",
+    "people-energy",
+    "q4-showcase",
+    "real-estate"
+  ],
+  "legacyLinks": [
+    {
+      "number": 77,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch77-oct04.html"
+    },
+    {
+      "number": 76,
+      "href": "https://ziontechgroup.com/zion-app-network/app-network-batch76-oct04.html"
+    }
+  ],
+  "locales": {
+    "en": {
+      "title": "People operations, energy and water: plan with reviewed evidence",
+      "description": "Review nine existing references for onboarding, shift planning, energy and water. Keep sensitive people decisions and physical control outside the guide.",
+      "intro": "Choose a practical planning question: onboarding tasks, agreed shift coverage or a facility baseline. The linked pages are descriptive references. Their names and marketing copy do not establish working integrations, validated predictions or verified savings.",
+      "scope": "Use authorized data and human review. This guide does not screen or rank candidates, infer employees’ emotions, make employment decisions, connect equipment or control utilities. No compliance, availability or savings guarantee is made. Any Zion purchase, reservation or dispatch requires written client confirmation of the exact scope and price, the corresponding PO and a separate, specific Zion operational release.",
+      "steps": [
+        {
+          "title": "Choose one bounded question",
+          "body": "Select an onboarding checklist, a coverage review or one metered facility process. Name the reviewer and the decision to be supported; avoid mixing personal assessment with resource planning."
+        },
+        {
+          "title": "Check inputs and assumptions",
+          "body": "Document permissions, measurement units, dates, missing data and relevant operating conditions. Use fictional or minimized inputs for an initial walkthrough, then define how real evidence would be authorized."
+        },
+        {
+          "title": "Review before any action",
+          "body": "Compare the scenario with a baseline and list unresolved assumptions. People approve staffing decisions and qualified operators approve physical changes; keep a record of what was actually verified."
+        }
+      ],
+      "example": {
+        "title": "Hypothetical example: an office energy review",
+        "body": "A fictional office team investigates electricity use outside agreed opening hours. It records meter boundaries and dates, checks the equipment schedule with a facilities specialist and plans a controlled comparison. The scenario contains no employee monitoring and makes no automatic equipment change. Any proposed saving remains an estimate until comparable measurements and exceptions are reviewed."
+      },
+      "sections": [
+        {
+          "id": "people-planning",
+          "title": "Prepare onboarding and agreed coverage",
+          "intro": "Use documented tasks and confirmed availability. A responsible person approves access and any staffing commitment.",
+          "resources": [
+            {
+              "name": "HR Onboarding Copilot",
+              "href": "https://ziontechgroup.com/hr-onboarding-copilot/",
+              "source": "https://github.com/Zion-support/hr-onboarding-copilot",
+              "description": "Descriptive reference for an onboarding checklist. Define equipment, access, policy acknowledgement and a named reviewer; verify any proposed HR or messaging integration before use.",
+              "language": "en"
+            },
+            {
+              "name": "Shift Scheduler AI",
+              "href": "https://ziontechgroup.com/shift-scheduler-ai/",
+              "source": "https://github.com/Zion-support/shift-scheduler-ai",
+              "description": "Review staffing requirements using confirmed availability, skills required for the task and agreed working rules. People approve the roster; the reference page proves neither legal compliance nor an operational scheduler.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "sensitive-references",
+          "title": "Keep sensitive references under explicit limits",
+          "intro": "These original links remain available for source review. The recommended workflow excludes automated candidate screening, employee surveillance and automated employment decisions.",
+          "resources": [
+            {
+              "name": "Recruiting Screening AI",
+              "href": "https://ziontechgroup.com/recruiting-screening-ai/",
+              "source": "https://github.com/Zion-support/recruiting-screening-ai",
+              "description": "Original reference retained for review. This guide does not recommend automated candidate ranking, rejection or hiring decisions. Keep recruitment assessment with authorized people using documented, job-relevant criteria.",
+              "language": "en"
+            },
+            {
+              "name": "Employee Sentiment Pulse",
+              "href": "https://ziontechgroup.com/employee-sentiment-pulse/",
+              "source": "https://github.com/Zion-support/employee-sentiment-pulse",
+              "description": "Original reference retained with a privacy boundary. Do not use activity data to infer an individual’s emotions, health or employment prospects. Consider voluntary, aggregated feedback only after privacy and access review.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy-water",
+          "title": "Define an energy or water baseline",
+          "intro": "Start with units, meter boundaries, dates and operating assumptions. Review evidence before considering any integration or equipment change.",
+          "resources": [
+            {
+              "name": "Building Efficiency Auditor",
+              "href": "https://ziontechgroup.com/building-efficiency-auditor/",
+              "source": "https://github.com/Zion-support/building-efficiency-auditor",
+              "description": "Review building-audit requirements: meter boundary, occupancy assumptions, operating hours and equipment condition. Arrange qualified inspection where needed; the description does not establish a sensor connection or verified savings.",
+              "language": "en"
+            },
+            {
+              "name": "Solar ROI Optimizer",
+              "href": "https://ziontechgroup.com/solar-roi-optimizer/",
+              "source": "https://github.com/Zion-support/solar-roi-optimizer",
+              "description": "Review a solar scenario’s inputs: site constraints, consumption, generation assumptions, quoted costs, maintenance and financing. A modeled payback is an assumption-sensitive estimate, not a verified return or an investment recommendation.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Consumption Forecaster",
+              "href": "https://ziontechgroup.com/energy-consumption-forecaster/",
+              "source": "https://github.com/Zion-support/energy-consumption-forecaster",
+              "description": "Review forecasting requirements with dated meter readings, units, weather and calendar assumptions. Compare any future model with a simple baseline on held-out data; a descriptive page does not validate forecast accuracy.",
+              "language": "en"
+            },
+            {
+              "name": "Grid Demand Balancer",
+              "href": "https://ziontechgroup.com/grid-demand-balancer/",
+              "source": "https://github.com/Zion-support/grid-demand-balancer",
+              "description": "Review demand-management requirements with a qualified operator: permitted loads, equipment constraints and safe stop conditions. This reference does not connect to or control a grid, building system, battery or industrial process.",
+              "language": "en"
+            },
+            {
+              "name": "Water Usage Optimizer",
+              "href": "https://ziontechgroup.com/water-usage-optimizer/",
+              "source": "https://github.com/Zion-support/water-usage-optimizer",
+              "description": "Review water-use evidence using meter boundaries, time periods and a relevant output measure. Investigate suspected leaks through authorized inspection; a resource description does not prove real-time detection or measured savings.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Continue with the original collections",
+          "intro": "Keep the original network entry point and source repository available. The neighboring English collections remain linked below.",
+          "resources": [
+            {
+              "name": "Original network hub",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Browse the existing collections and compare each destination’s current description with its implementation evidence.",
+              "language": "en"
+            },
+            {
+              "name": "Network source repository",
+              "href": "https://github.com/Zion-support/zion-app-network",
+              "description": "Inspect the published guide sources and history; source availability alone does not prove operational readiness.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "title": "Gestão de pessoas, energia e água: planeje com evidências revisadas",
+      "description": "Revise nove referências existentes para integração de profissionais, escalas, energia e água. Decisões sensíveis sobre pessoas e controle físico ficam fora do guia.",
+      "intro": "Escolha uma questão prática de planejamento: tarefas de integração, cobertura de escala acordada ou linha de base predial. As páginas vinculadas são referências descritivas. Seus nomes e textos promocionais não comprovam integrações funcionais, previsões validadas ou economia verificada.",
+      "scope": "Use dados autorizados e revisão humana. Este guia não faz triagem nem classifica candidatos, não infere emoções de empregados, não decide questões de emprego, não conecta equipamentos nem controla serviços de utilidade. Não há garantia de conformidade, disponibilidade ou economia. Qualquer compra, reserva ou mobilização pela Zion exige confirmação escrita do cliente sobre o escopo e preço exatos, a PO correspondente e uma liberação operacional específica e separada da Zion.",
+      "steps": [
+        {
+          "title": "Escolha uma questão delimitada",
+          "body": "Selecione uma lista de integração, uma revisão de cobertura ou um processo predial medido. Defina o revisor e a decisão a apoiar; não misture avaliação pessoal com planejamento de recursos."
+        },
+        {
+          "title": "Confira dados e hipóteses",
+          "body": "Documente permissões, unidades, datas, dados ausentes e condições operacionais relevantes. Use dados fictícios ou minimizados na análise inicial e defina como o uso das evidências reais seria autorizado."
+        },
+        {
+          "title": "Revise antes de agir",
+          "body": "Compare o cenário com a linha de base e liste as hipóteses não resolvidas. Pessoas aprovam decisões de alocação, e operadores qualificados aprovam mudanças físicas; registre o que foi realmente verificado."
+        }
+      ],
+      "example": {
+        "title": "Exemplo hipotético: análise energética de um escritório",
+        "body": "Uma equipe fictícia investiga o consumo de eletricidade fora do horário de funcionamento acordado. Registra os limites de medição e as datas, confere a programação dos equipamentos com um especialista predial e planeja uma comparação controlada. O cenário não monitora empregados nem altera equipamentos automaticamente. A economia proposta permanece uma estimativa até a revisão de medições comparáveis e exceções."
+      },
+      "sections": [
+        {
+          "id": "people-planning",
+          "title": "Prepare a integração e a cobertura acordada",
+          "intro": "Use tarefas documentadas e disponibilidade confirmada. Uma pessoa responsável aprova acessos e compromissos de alocação.",
+          "resources": [
+            {
+              "name": "HR Onboarding Copilot",
+              "href": "https://ziontechgroup.com/hr-onboarding-copilot/",
+              "source": "https://github.com/Zion-support/hr-onboarding-copilot",
+              "description": "Referência descritiva para uma lista de integração de profissionais. Defina equipamentos, acesso, ciência das políticas e um revisor; verifique qualquer integração proposta com RH ou mensagens antes do uso.",
+              "language": "en"
+            },
+            {
+              "name": "Shift Scheduler AI",
+              "href": "https://ziontechgroup.com/shift-scheduler-ai/",
+              "source": "https://github.com/Zion-support/shift-scheduler-ai",
+              "description": "Revise necessidades de escala com disponibilidade confirmada, habilidades exigidas pela tarefa e regras de trabalho acordadas. Pessoas aprovam a escala; a página não comprova conformidade legal nem um agendador operacional.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "sensitive-references",
+          "title": "Mantenha limites explícitos para referências sensíveis",
+          "intro": "Os links originais continuam disponíveis para revisão das fontes. O fluxo recomendado exclui triagem automatizada de candidatos, vigilância de empregados e decisões de emprego automatizadas.",
+          "resources": [
+            {
+              "name": "Recruiting Screening AI",
+              "href": "https://ziontechgroup.com/recruiting-screening-ai/",
+              "source": "https://github.com/Zion-support/recruiting-screening-ai",
+              "description": "Referência original mantida para revisão. Este guia não recomenda classificação, rejeição ou decisões de contratação automatizadas. A avaliação de candidatos cabe a pessoas autorizadas, com critérios documentados e pertinentes à função.",
+              "language": "en"
+            },
+            {
+              "name": "Employee Sentiment Pulse",
+              "href": "https://ziontechgroup.com/employee-sentiment-pulse/",
+              "source": "https://github.com/Zion-support/employee-sentiment-pulse",
+              "description": "Referência original mantida com limite de privacidade. Não use dados de atividade para inferir emoções, saúde ou perspectivas de emprego de uma pessoa. Considere apenas feedback voluntário e agregado após revisar privacidade e acesso.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy-water",
+          "title": "Defina uma linha de base de energia ou água",
+          "intro": "Comece com unidades, limites de medição, datas e hipóteses operacionais. Revise as evidências antes de considerar uma integração ou alteração de equipamentos.",
+          "resources": [
+            {
+              "name": "Building Efficiency Auditor",
+              "href": "https://ziontechgroup.com/building-efficiency-auditor/",
+              "source": "https://github.com/Zion-support/building-efficiency-auditor",
+              "description": "Revise requisitos da análise predial: limites da medição, hipóteses de ocupação, horários e estado dos equipamentos. Providencie inspeção qualificada quando necessário; a descrição não comprova conexão a sensores nem economia verificada.",
+              "language": "en"
+            },
+            {
+              "name": "Solar ROI Optimizer",
+              "href": "https://ziontechgroup.com/solar-roi-optimizer/",
+              "source": "https://github.com/Zion-support/solar-roi-optimizer",
+              "description": "Revise os dados de um cenário solar: restrições do local, consumo, hipóteses de geração, custos cotados, manutenção e financiamento. O retorno modelado depende das hipóteses; não é ganho comprovado nem recomendação de investimento.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Consumption Forecaster",
+              "href": "https://ziontechgroup.com/energy-consumption-forecaster/",
+              "source": "https://github.com/Zion-support/energy-consumption-forecaster",
+              "description": "Revise requisitos de previsão com leituras datadas, unidades e hipóteses de clima e calendário. Compare qualquer modelo futuro com uma linha de base simples em dados reservados para teste; uma página descritiva não valida a precisão.",
+              "language": "en"
+            },
+            {
+              "name": "Grid Demand Balancer",
+              "href": "https://ziontechgroup.com/grid-demand-balancer/",
+              "source": "https://github.com/Zion-support/grid-demand-balancer",
+              "description": "Revise requisitos de gestão da demanda com um operador qualificado: cargas permitidas, restrições dos equipamentos e condições seguras de parada. Esta referência não se conecta nem controla rede elétrica, sistema predial, bateria ou processo industrial.",
+              "language": "en"
+            },
+            {
+              "name": "Water Usage Optimizer",
+              "href": "https://ziontechgroup.com/water-usage-optimizer/",
+              "source": "https://github.com/Zion-support/water-usage-optimizer",
+              "description": "Revise evidências de consumo de água com limites de medição, períodos e uma medida pertinente de produção. Investigue suspeitas de vazamento por inspeção autorizada; uma descrição não comprova detecção em tempo real nem economia medida.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Continue pelas coleções originais",
+          "intro": "Mantenha o ponto de entrada original da rede e o repositório de fontes disponíveis. As coleções vizinhas em inglês continuam vinculadas abaixo.",
+          "resources": [
+            {
+              "name": "Hub original da rede",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Explore as coleções existentes e compare a descrição atual de cada destino com as evidências de implementação.",
+              "language": "en"
+            },
+            {
+              "name": "Repositório de fontes da rede",
+              "href": "https://github.com/Zion-support/zion-app-network",
+              "description": "Examine as fontes publicadas e o histórico dos guias; a disponibilidade do código, por si só, não comprova prontidão operacional.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "title": "Gestión de personas, energía y agua: planifique con pruebas revisadas",
+      "description": "Revise nueve referencias existentes para incorporación, turnos, energía y agua. Las decisiones sensibles sobre personas y el control físico quedan fuera de la guía.",
+      "intro": "Elija una cuestión práctica: tareas de incorporación, cobertura de turnos acordada o una referencia del edificio. Las páginas enlazadas son referencias descriptivas. Sus nombres y textos promocionales no acreditan integraciones funcionales, predicciones validadas ni ahorro verificado.",
+      "scope": "Use datos autorizados y revisión humana. Esta guía no filtra ni clasifica candidatos, no infiere emociones de empleados, no toma decisiones laborales, no conecta equipos ni controla suministros. No garantiza cumplimiento, disponibilidad ni ahorro. Toda compra, reserva o movilización de Zion exige confirmación escrita del cliente del alcance y precio exactos, la orden de compra correspondiente y una autorización operativa específica y separada de Zion.",
+      "steps": [
+        {
+          "title": "Elija una cuestión acotada",
+          "body": "Seleccione una lista de incorporación, una revisión de cobertura o un proceso del edificio con medición. Designe al revisor y la decisión que se apoyará; no mezcle evaluación personal con planificación de recursos."
+        },
+        {
+          "title": "Compruebe datos y supuestos",
+          "body": "Documente permisos, unidades, fechas, datos ausentes y condiciones operativas relevantes. Use datos ficticios o mínimos en la revisión inicial y defina cómo se autorizaría la evidencia real."
+        },
+        {
+          "title": "Revise antes de actuar",
+          "body": "Compare el escenario con una referencia y enumere los supuestos pendientes. Las personas aprueban decisiones de personal y los operadores cualificados aprueban cambios físicos; registre lo realmente verificado."
+        }
+      ],
+      "example": {
+        "title": "Ejemplo hipotético: revisión energética de una oficina",
+        "body": "Un equipo ficticio investiga el consumo eléctrico fuera del horario acordado. Registra límites de medición y fechas, comprueba el horario de los equipos con un especialista del edificio y prepara una comparación controlada. El escenario no vigila a empleados ni cambia equipos automáticamente. El ahorro propuesto sigue siendo una estimación hasta revisar mediciones comparables y excepciones."
+      },
+      "sections": [
+        {
+          "id": "people-planning",
+          "title": "Prepare la incorporación y la cobertura acordada",
+          "intro": "Use tareas documentadas y disponibilidad confirmada. Una persona responsable aprueba el acceso y cualquier compromiso de personal.",
+          "resources": [
+            {
+              "name": "HR Onboarding Copilot",
+              "href": "https://ziontechgroup.com/hr-onboarding-copilot/",
+              "source": "https://github.com/Zion-support/hr-onboarding-copilot",
+              "description": "Referencia descriptiva para una lista de incorporación. Defina equipos, acceso, conocimiento de las políticas y un revisor; verifique cualquier integración propuesta con RR. HH. o mensajería antes de usarla.",
+              "language": "en"
+            },
+            {
+              "name": "Shift Scheduler AI",
+              "href": "https://ziontechgroup.com/shift-scheduler-ai/",
+              "source": "https://github.com/Zion-support/shift-scheduler-ai",
+              "description": "Revise las necesidades de turnos con disponibilidad confirmada, competencias necesarias y reglas laborales acordadas. Las personas aprueban el cuadrante; la página no acredita cumplimiento legal ni un planificador operativo.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "sensitive-references",
+          "title": "Mantenga límites explícitos para referencias sensibles",
+          "intro": "Los enlaces originales siguen disponibles para revisar sus fuentes. El proceso recomendado excluye el filtrado automatizado de candidatos, la vigilancia de empleados y las decisiones laborales automatizadas.",
+          "resources": [
+            {
+              "name": "Recruiting Screening AI",
+              "href": "https://ziontechgroup.com/recruiting-screening-ai/",
+              "source": "https://github.com/Zion-support/recruiting-screening-ai",
+              "description": "Referencia original conservada para revisión. Esta guía no recomienda clasificar, descartar ni contratar candidatos automáticamente. La evaluación corresponde a personas autorizadas con criterios documentados y pertinentes al puesto.",
+              "language": "en"
+            },
+            {
+              "name": "Employee Sentiment Pulse",
+              "href": "https://ziontechgroup.com/employee-sentiment-pulse/",
+              "source": "https://github.com/Zion-support/employee-sentiment-pulse",
+              "description": "Referencia original conservada con un límite de privacidad. No use datos de actividad para inferir emociones, salud ni perspectivas laborales individuales. Considere solo comentarios voluntarios y agregados tras revisar privacidad y acceso.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy-water",
+          "title": "Defina una referencia de energía o agua",
+          "intro": "Empiece por unidades, límites de medición, fechas y supuestos operativos. Revise las pruebas antes de considerar una integración o un cambio en equipos.",
+          "resources": [
+            {
+              "name": "Building Efficiency Auditor",
+              "href": "https://ziontechgroup.com/building-efficiency-auditor/",
+              "source": "https://github.com/Zion-support/building-efficiency-auditor",
+              "description": "Revise los requisitos de la evaluación del edificio: límites de medición, supuestos de ocupación, horarios y estado de equipos. Solicite inspección cualificada cuando corresponda; la descripción no acredita sensores conectados ni ahorro verificado.",
+              "language": "en"
+            },
+            {
+              "name": "Solar ROI Optimizer",
+              "href": "https://ziontechgroup.com/solar-roi-optimizer/",
+              "source": "https://github.com/Zion-support/solar-roi-optimizer",
+              "description": "Revise los datos de un escenario solar: restricciones del emplazamiento, consumo, generación supuesta, costes cotizados, mantenimiento y financiación. El retorno modelado depende de los supuestos; no es un rendimiento verificado ni una recomendación de inversión.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Consumption Forecaster",
+              "href": "https://ziontechgroup.com/energy-consumption-forecaster/",
+              "source": "https://github.com/Zion-support/energy-consumption-forecaster",
+              "description": "Revise los requisitos de previsión con lecturas fechadas, unidades y supuestos meteorológicos y de calendario. Compare un futuro modelo con una referencia sencilla en datos reservados para pruebas; una página descriptiva no valida su precisión.",
+              "language": "en"
+            },
+            {
+              "name": "Grid Demand Balancer",
+              "href": "https://ziontechgroup.com/grid-demand-balancer/",
+              "source": "https://github.com/Zion-support/grid-demand-balancer",
+              "description": "Revise los requisitos de gestión de demanda con un operador cualificado: cargas permitidas, restricciones de equipos y condiciones seguras de parada. Esta referencia no conecta ni controla redes, sistemas del edificio, baterías o procesos industriales.",
+              "language": "en"
+            },
+            {
+              "name": "Water Usage Optimizer",
+              "href": "https://ziontechgroup.com/water-usage-optimizer/",
+              "source": "https://github.com/Zion-support/water-usage-optimizer",
+              "description": "Revise las pruebas de consumo de agua con límites de medición, periodos y una medida de producción pertinente. Investigue posibles fugas mediante inspección autorizada; una descripción no demuestra detección en tiempo real ni ahorro medido.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Continúe por las colecciones originales",
+          "intro": "Conserve el punto de entrada original de la red y su repositorio de fuentes. Las colecciones vecinas en inglés siguen enlazadas abajo.",
+          "resources": [
+            {
+              "name": "Portal original de la red",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Explore las colecciones existentes y compare la descripción actual de cada destino con las pruebas de su implementación.",
+              "language": "en"
+            },
+            {
+              "name": "Repositorio de fuentes de la red",
+              "href": "https://github.com/Zion-support/zion-app-network",
+              "description": "Examine las fuentes publicadas y el historial de las guías; disponer del código no acredita por sí solo preparación operativa.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Personnel, énergie et eau : planifier à partir de preuves examinées",
+      "description": "Examinez neuf références existantes sur l’accueil, les plannings, l’énergie et l’eau. Les décisions sensibles sur les personnes et le contrôle physique sont exclus du guide.",
+      "intro": "Choisissez une question pratique : tâches d’accueil, couverture de service convenue ou référence de consommation d’un bâtiment. Les pages liées sont descriptives. Leurs noms et textes promotionnels ne prouvent ni intégrations fonctionnelles, ni prévisions validées, ni économies vérifiées.",
+      "scope": "Utilisez des données autorisées et une revue humaine. Ce guide ne trie ni ne classe les candidats, ne déduit pas les émotions des employés, ne prend pas de décisions d’emploi, ne raccorde pas d’équipements et ne contrôle pas les réseaux de service. Aucune garantie de conformité, disponibilité ou économie n’est donnée. Tout achat, réservation ou déplacement organisé par Zion exige la confirmation écrite du client sur le périmètre et le prix exacts, le bon de commande correspondant et une autorisation opérationnelle spécifique et distincte de Zion.",
+      "steps": [
+        {
+          "title": "Choisir une question délimitée",
+          "body": "Sélectionnez une liste d’accueil, une revue de couverture ou un processus mesuré du bâtiment. Désignez le réviseur et la décision à éclairer ; ne mélangez pas évaluation personnelle et planification des ressources."
+        },
+        {
+          "title": "Vérifier données et hypothèses",
+          "body": "Documentez autorisations, unités, dates, données manquantes et conditions d’exploitation pertinentes. Utilisez des données fictives ou minimisées au départ, puis définissez l’autorisation nécessaire pour les preuves réelles."
+        },
+        {
+          "title": "Examiner avant d’agir",
+          "body": "Comparez le scénario à une référence et listez les hypothèses non résolues. Des personnes approuvent les décisions de personnel et des opérateurs qualifiés approuvent les modifications physiques ; consignez ce qui a réellement été vérifié."
+        }
+      ],
+      "example": {
+        "title": "Exemple hypothétique : revue énergétique d’un bureau",
+        "body": "Une équipe fictive examine la consommation électrique hors des horaires convenus. Elle consigne les limites de comptage et les dates, vérifie les horaires des équipements avec un spécialiste du bâtiment et prépare une comparaison contrôlée. Le scénario ne surveille pas les employés et ne modifie aucun équipement automatiquement. Les économies proposées restent estimées tant que mesures comparables et exceptions n’ont pas été examinées."
+      },
+      "sections": [
+        {
+          "id": "people-planning",
+          "title": "Préparer l’accueil et la couverture convenue",
+          "intro": "Utilisez des tâches documentées et des disponibilités confirmées. Une personne responsable approuve les accès et tout engagement de personnel.",
+          "resources": [
+            {
+              "name": "HR Onboarding Copilot",
+              "href": "https://ziontechgroup.com/hr-onboarding-copilot/",
+              "source": "https://github.com/Zion-support/hr-onboarding-copilot",
+              "description": "Référence descriptive pour une liste d’accueil. Définissez équipements, accès, prise de connaissance des règles et personne chargée de la revue ; vérifiez toute intégration RH ou messagerie proposée avant utilisation.",
+              "language": "en"
+            },
+            {
+              "name": "Shift Scheduler AI",
+              "href": "https://ziontechgroup.com/shift-scheduler-ai/",
+              "source": "https://github.com/Zion-support/shift-scheduler-ai",
+              "description": "Examinez les besoins de service avec disponibilités confirmées, compétences nécessaires et règles de travail convenues. Des personnes approuvent le planning ; la page ne démontre ni conformité juridique ni outil de planification opérationnel.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "sensitive-references",
+          "title": "Encadrer explicitement les références sensibles",
+          "intro": "Les liens d’origine restent disponibles pour examiner les sources. Le processus recommandé exclut le tri automatisé des candidats, la surveillance des employés et les décisions d’emploi automatisées.",
+          "resources": [
+            {
+              "name": "Recruiting Screening AI",
+              "href": "https://ziontechgroup.com/recruiting-screening-ai/",
+              "source": "https://github.com/Zion-support/recruiting-screening-ai",
+              "description": "Référence d’origine conservée pour examen. Ce guide ne recommande ni classement, ni rejet, ni recrutement automatisés des candidats. Confiez l’évaluation à des personnes autorisées selon des critères documentés et pertinents pour le poste.",
+              "language": "en"
+            },
+            {
+              "name": "Employee Sentiment Pulse",
+              "href": "https://ziontechgroup.com/employee-sentiment-pulse/",
+              "source": "https://github.com/Zion-support/employee-sentiment-pulse",
+              "description": "Référence d’origine conservée avec une limite de confidentialité. N’utilisez pas les données d’activité pour déduire émotions, santé ou perspectives d’emploi individuelles. Envisagez uniquement des retours volontaires et agrégés après examen de la confidentialité et des accès.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy-water",
+          "title": "Définir une référence énergétique ou hydrique",
+          "intro": "Commencez par les unités, limites de comptage, dates et hypothèses d’exploitation. Examinez les preuves avant d’envisager une intégration ou une modification d’équipement.",
+          "resources": [
+            {
+              "name": "Building Efficiency Auditor",
+              "href": "https://ziontechgroup.com/building-efficiency-auditor/",
+              "source": "https://github.com/Zion-support/building-efficiency-auditor",
+              "description": "Examinez le périmètre de comptage, les hypothèses d’occupation, les horaires et l’état des équipements. Prévoyez une inspection qualifiée si nécessaire ; la description ne prouve ni connexion aux capteurs ni économies vérifiées.",
+              "language": "en"
+            },
+            {
+              "name": "Solar ROI Optimizer",
+              "href": "https://ziontechgroup.com/solar-roi-optimizer/",
+              "source": "https://github.com/Zion-support/solar-roi-optimizer",
+              "description": "Examinez les données du scénario solaire : contraintes du site, consommation, production supposée, devis, entretien et financement. Le délai de retour modélisé dépend des hypothèses ; ce n’est ni un rendement vérifié ni une recommandation d’investissement.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Consumption Forecaster",
+              "href": "https://ziontechgroup.com/energy-consumption-forecaster/",
+              "source": "https://github.com/Zion-support/energy-consumption-forecaster",
+              "description": "Examinez les besoins de prévision avec relevés datés, unités, météo et hypothèses calendaires. Comparez tout futur modèle à une référence simple sur des données réservées au test ; une description ne valide pas sa précision.",
+              "language": "en"
+            },
+            {
+              "name": "Grid Demand Balancer",
+              "href": "https://ziontechgroup.com/grid-demand-balancer/",
+              "source": "https://github.com/Zion-support/grid-demand-balancer",
+              "description": "Examinez les besoins de gestion de demande avec un opérateur qualifié : charges autorisées, limites des équipements et conditions d’arrêt sûres. Cette référence ne se connecte à aucun réseau, système de bâtiment, batterie ou procédé industriel et ne les contrôle pas.",
+              "language": "en"
+            },
+            {
+              "name": "Water Usage Optimizer",
+              "href": "https://ziontechgroup.com/water-usage-optimizer/",
+              "source": "https://github.com/Zion-support/water-usage-optimizer",
+              "description": "Examinez les consommations d’eau avec périmètres de comptage, périodes et mesure de production pertinente. Faites examiner les fuites suspectées par une inspection autorisée ; une description ne prouve ni détection en temps réel ni économies mesurées.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "Poursuivre dans les collections d’origine",
+          "intro": "Conservez l’accès au portail d’origine du réseau et au dépôt des sources. Les collections voisines en anglais restent liées ci-dessous.",
+          "resources": [
+            {
+              "name": "Portail original du réseau",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Explorez les collections existantes et comparez chaque description actuelle aux preuves de mise en œuvre.",
+              "language": "en"
+            },
+            {
+              "name": "Dépôt des sources du réseau",
+              "href": "https://github.com/Zion-support/zion-app-network",
+              "description": "Examinez les sources publiées et l’historique des guides ; la disponibilité du code ne prouve pas à elle seule l’aptitude opérationnelle.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Personal, Energie und Wasser: mit geprüften Nachweisen planen",
+      "description": "Prüfen Sie neun bestehende Referenzen zu Einarbeitung, Dienstplanung, Energie und Wasser. Sensible Personalentscheidungen und physische Steuerung liegen außerhalb des Leitfadens.",
+      "intro": "Wählen Sie eine praktische Planungsfrage: Einarbeitungsaufgaben, vereinbarte Dienstabdeckung oder den Ausgangsverbrauch eines Gebäudes. Die verlinkten Seiten sind beschreibende Referenzen. Namen und Werbetexte belegen weder funktionierende Integrationen noch validierte Prognosen oder bestätigte Einsparungen.",
+      "scope": "Verwenden Sie autorisierte Daten und menschliche Prüfung. Dieser Leitfaden sichtet oder bewertet keine Bewerber, leitet keine Mitarbeiteremotionen ab, trifft keine Beschäftigungsentscheidungen, verbindet keine Anlagen und steuert keine Versorgungssysteme. Er garantiert weder Konformität noch Verfügbarkeit oder Einsparungen. Jeder Kauf, jede Reservierung oder Entsendung durch Zion erfordert die schriftliche Kundenbestätigung des genauen Umfangs und Preises, die entsprechende Bestellung und eine separate, konkrete betriebliche Freigabe von Zion.",
+      "steps": [
+        {
+          "title": "Eine begrenzte Frage auswählen",
+          "body": "Wählen Sie eine Einarbeitungscheckliste, eine Abdeckungsprüfung oder einen gemessenen Gebäudeprozess. Benennen Sie die prüfende Person und die zu unterstützende Entscheidung; trennen Sie persönliche Bewertung von Ressourcenplanung."
+        },
+        {
+          "title": "Eingaben und Annahmen prüfen",
+          "body": "Dokumentieren Sie Berechtigungen, Einheiten, Daten, fehlende Angaben und relevante Betriebsbedingungen. Verwenden Sie zunächst fiktive oder minimierte Daten und legen Sie fest, wie reale Nachweise autorisiert würden."
+        },
+        {
+          "title": "Vor einer Handlung prüfen",
+          "body": "Vergleichen Sie das Szenario mit einem Ausgangswert und erfassen Sie offene Annahmen. Menschen genehmigen Personalentscheidungen und qualifizierte Fachkräfte physische Änderungen; dokumentieren Sie die tatsächlich geprüften Punkte."
+        }
+      ],
+      "example": {
+        "title": "Fiktives Beispiel: Energieprüfung eines Büros",
+        "body": "Ein fiktives Büroteam untersucht den Stromverbrauch außerhalb vereinbarter Öffnungszeiten. Es dokumentiert Messgrenzen und Daten, prüft die Anlagenzeiten mit einer Gebäudefachkraft und plant einen kontrollierten Vergleich. Das Szenario überwacht keine Beschäftigten und verändert keine Geräte automatisch. Vorgeschlagene Einsparungen bleiben Schätzungen, bis vergleichbare Messungen und Ausnahmen geprüft wurden."
+      },
+      "sections": [
+        {
+          "id": "people-planning",
+          "title": "Einarbeitung und vereinbarte Abdeckung vorbereiten",
+          "intro": "Nutzen Sie dokumentierte Aufgaben und bestätigte Verfügbarkeit. Eine verantwortliche Person genehmigt Zugänge und jede Personalzusage.",
+          "resources": [
+            {
+              "name": "HR Onboarding Copilot",
+              "href": "https://ziontechgroup.com/hr-onboarding-copilot/",
+              "source": "https://github.com/Zion-support/hr-onboarding-copilot",
+              "description": "Beschreibende Referenz für eine Einarbeitungscheckliste. Legen Sie Ausstattung, Zugänge, Kenntnisnahme der Regeln und eine prüfende Person fest; prüfen Sie vorgeschlagene Personal- oder Nachrichtenanbindungen vor der Nutzung.",
+              "language": "en"
+            },
+            {
+              "name": "Shift Scheduler AI",
+              "href": "https://ziontechgroup.com/shift-scheduler-ai/",
+              "source": "https://github.com/Zion-support/shift-scheduler-ai",
+              "description": "Prüfen Sie den Personalbedarf anhand bestätigter Verfügbarkeit, erforderlicher Fähigkeiten und vereinbarter Arbeitsregeln. Menschen genehmigen den Dienstplan; die Referenzseite belegt weder Rechtskonformität noch ein betriebsfähiges Planungssystem.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "sensitive-references",
+          "title": "Sensible Referenzen ausdrücklich begrenzen",
+          "intro": "Die ursprünglichen Links bleiben für die Quellenprüfung verfügbar. Der empfohlene Ablauf schließt die automatische Bewerberauswahl, die Überwachung von Beschäftigten und automatisierte Beschäftigungsentscheidungen aus.",
+          "resources": [
+            {
+              "name": "Recruiting Screening AI",
+              "href": "https://ziontechgroup.com/recruiting-screening-ai/",
+              "source": "https://github.com/Zion-support/recruiting-screening-ai",
+              "description": "Ursprüngliche Referenz zur Prüfung erhalten. Dieser Leitfaden empfiehlt weder automatische Bewerberbewertungen noch Ablehnungen oder Einstellungsentscheidungen. Autorisierte Menschen beurteilen Bewerbungen anhand dokumentierter, tätigkeitsbezogener Kriterien.",
+              "language": "en"
+            },
+            {
+              "name": "Employee Sentiment Pulse",
+              "href": "https://ziontechgroup.com/employee-sentiment-pulse/",
+              "source": "https://github.com/Zion-support/employee-sentiment-pulse",
+              "description": "Ursprüngliche Referenz mit Datenschutzgrenze erhalten. Leiten Sie aus Aktivitätsdaten keine individuellen Emotionen, Gesundheit oder Beschäftigungsaussichten ab. Erwägen Sie nur freiwillige, zusammengefasste Rückmeldungen nach Prüfung von Datenschutz und Zugriff.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "energy-water",
+          "title": "Einen Ausgangswert für Energie oder Wasser festlegen",
+          "intro": "Beginnen Sie mit Einheiten, Messgrenzen, Daten und Betriebsannahmen. Prüfen Sie Nachweise, bevor Sie eine Integration oder Anlagenänderung erwägen.",
+          "resources": [
+            {
+              "name": "Building Efficiency Auditor",
+              "href": "https://ziontechgroup.com/building-efficiency-auditor/",
+              "source": "https://github.com/Zion-support/building-efficiency-auditor",
+              "description": "Prüfen Sie Anforderungen an die Gebäudeanalyse: Messgrenze, Belegungsannahmen, Betriebszeiten und Anlagenzustand. Veranlassen Sie bei Bedarf eine qualifizierte Inspektion; die Beschreibung belegt weder Sensoranbindung noch nachgewiesene Einsparungen.",
+              "language": "en"
+            },
+            {
+              "name": "Solar ROI Optimizer",
+              "href": "https://ziontechgroup.com/solar-roi-optimizer/",
+              "source": "https://github.com/Zion-support/solar-roi-optimizer",
+              "description": "Prüfen Sie die Eingaben eines Solarszenarios: Standortgrenzen, Verbrauch, Ertragsannahmen, Angebote, Wartung und Finanzierung. Eine modellierte Amortisation hängt von Annahmen ab und ist weder ein bestätigter Ertrag noch eine Anlageempfehlung.",
+              "language": "en"
+            },
+            {
+              "name": "Energy Consumption Forecaster",
+              "href": "https://ziontechgroup.com/energy-consumption-forecaster/",
+              "source": "https://github.com/Zion-support/energy-consumption-forecaster",
+              "description": "Prüfen Sie Prognoseanforderungen mit datierten Messwerten, Einheiten sowie Wetter- und Kalenderannahmen. Vergleichen Sie ein künftiges Modell anhand zurückgehaltener Testdaten mit einem einfachen Ausgangsmodell; eine Beschreibung bestätigt keine Prognosegüte.",
+              "language": "en"
+            },
+            {
+              "name": "Grid Demand Balancer",
+              "href": "https://ziontechgroup.com/grid-demand-balancer/",
+              "source": "https://github.com/Zion-support/grid-demand-balancer",
+              "description": "Prüfen Sie Lastmanagementanforderungen mit qualifiziertem Betriebspersonal: zulässige Lasten, Anlagengrenzen und sichere Abbruchbedingungen. Diese Referenz verbindet sich mit keinem Stromnetz, Gebäudesystem, Speicher oder Industrieprozess und steuert diese auch nicht.",
+              "language": "en"
+            },
+            {
+              "name": "Water Usage Optimizer",
+              "href": "https://ziontechgroup.com/water-usage-optimizer/",
+              "source": "https://github.com/Zion-support/water-usage-optimizer",
+              "description": "Prüfen Sie Wasserverbrauchsnachweise mit Messgrenzen, Zeiträumen und einer passenden Produktionsgröße. Lassen Sie vermutete Lecks autorisiert untersuchen; eine Ressourcenbeschreibung belegt weder Echtzeiterkennung noch gemessene Einsparungen.",
+              "language": "en"
+            }
+          ]
+        },
+        {
+          "id": "source-history",
+          "title": "In den ursprünglichen Sammlungen weiterlesen",
+          "intro": "Der ursprüngliche Netzwerkzugang und das Quellcode-Repository bleiben erreichbar. Die benachbarten englischen Sammlungen sind unten weiterhin verlinkt.",
+          "resources": [
+            {
+              "name": "Ursprünglicher Netzwerkzugang",
+              "href": "https://ziontechgroup.com/zion-app-network/",
+              "description": "Durchsuchen Sie bestehende Sammlungen und vergleichen Sie die aktuelle Beschreibung jedes Ziels mit seinen Implementierungsnachweisen.",
+              "language": "en"
+            },
+            {
+              "name": "Quellcode-Repository des Netzwerks",
+              "href": "https://github.com/Zion-support/zion-app-network",
+              "description": "Prüfen Sie veröffentlichte Quellen und Verlauf der Leitfäden; verfügbarer Quellcode allein belegt keine Betriebsbereitschaft.",
+              "language": "en"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
