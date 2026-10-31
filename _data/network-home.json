@@ -238,8 +238,8 @@
       "paths_intro": "Each path connects a useful starting point with the next guide or checklist.",
       "paths": [
         {
-          "title": "A datacenter service request",
-          "description": "Organize the equipment, issue, site details and preferred window so your service request has a clear scope.",
+          "title": "A time-sensitive datacenter request",
+          "description": "Start the email brief with the city, equipment model, symptoms, task and desired date, time and time zone. State the access requirements and acceptance criteria so the scope can be reviewed.",
           "links": [
             {
               "route": "service_request",
@@ -248,6 +248,10 @@
             {
               "route": "handoff",
               "label": "Review the visit handoff"
+            },
+            {
+              "route": "completion",
+              "label": "Prepare the completion record"
             }
           ]
         },
@@ -297,7 +301,7 @@
           "heading_id": "field-quote-readiness-title",
           "route": "field_quote",
           "title": "Field quote preparation",
-          "description": "Organize cost assumptions and identify the details that need confirmation for a service quote.",
+          "description": "List supplier and labor costs, travel, freight, local taxes and import charges separately, with currency, validity and exclusions. Confirm the cost evidence before requesting a formal quote.",
           "label": "Prepare the quote inputs"
         },
         {
@@ -321,7 +325,7 @@
           "heading_id": "field-visit-handoff-title",
           "route": "handoff",
           "title": "Field visit handoff",
-          "description": "Review agreed scope, site access, technician information and required approvals before a visit.",
+          "description": "Check the agreed scope, access window, technician and parts. Obtain written client confirmation and a purchase order (PO) before booking, buying or dispatching.",
           "label": "Prepare the handoff"
         },
         {
@@ -392,7 +396,7 @@
       "language_intro": "Choose a translated starting point and follow the links to useful tools and guides.",
       "discovery_title": "Not sure where to begin?",
       "discovery_intro": "Start with free online Discovery. Describe a process and view a report with suggested next steps.",
-      "discovery_note": "The report appears in your browser. Email delivery can be requested; check the result shown on the page.",
+      "discovery_note": "Your report appears immediately in the browser. Email delivery is requested for you and commercial@ziontechgroup.com; check whether the page confirms provider acceptance or offers a manual alternative.",
       "footer_summary": "Choose a resource, review its scope and agree on the next step with your team.",
       "footer_nav_label": "Footer navigation",
       "history_label": "Historical index · mixed languages",
@@ -441,8 +445,8 @@
       "paths_intro": "Cada caminho conecta um ponto de partida útil ao próximo guia ou checklist.",
       "paths": [
         {
-          "title": "Uma solicitação de serviço em datacenter",
-          "description": "Organize equipamentos, problema, dados do local e janela desejada para deixar claro o escopo da solicitação.",
+          "title": "Uma solicitação urgente para o datacenter",
+          "description": "Comece o resumo por e-mail com cidade, modelo do equipamento, sintomas, tarefa e data, horário e fuso desejados. Informe os requisitos de acesso e os critérios de aceite para permitir a revisão do escopo.",
           "links": [
             {
               "route": "service_request",
@@ -451,6 +455,10 @@
             {
               "route": "handoff",
               "label": "Revisar a passagem da visita"
+            },
+            {
+              "route": "completion",
+              "label": "Prepare o registro de conclusão"
             }
           ]
         },
@@ -500,7 +508,7 @@
           "heading_id": "field-quote-readiness-title",
           "route": "field_quote",
           "title": "Preparação de cotação de campo",
-          "description": "Organize premissas de custo e identifique os detalhes que precisam de confirmação para uma cotação de serviço.",
+          "description": "Discrimine custos de fornecedor e mão de obra, viagens, frete, tributos locais e importação, com moeda, validade e exclusões. Confirme as evidências dos custos antes de solicitar a cotação formal.",
           "label": "Preparar os dados da cotação"
         },
         {
@@ -524,7 +532,7 @@
           "heading_id": "field-visit-handoff-title",
           "route": "handoff",
           "title": "Passagem de visita técnica",
-          "description": "Revise escopo acordado, acesso ao local, informações do técnico e aprovações necessárias antes da visita.",
+          "description": "Confira escopo acordado, janela de acesso, técnico e peças. Obtenha confirmação escrita do cliente e pedido de compra (PO) antes de reservar, comprar ou despachar.",
           "label": "Preparar a passagem da visita"
         },
         {
@@ -595,7 +603,7 @@
       "language_intro": "Escolha um ponto de partida traduzido e siga os links para ferramentas e guias úteis.",
       "discovery_title": "Ainda não sabe por onde começar?",
       "discovery_intro": "Comece pelo Discovery gratuito e online. Descreva um processo e visualize um relatório com sugestões de próximos passos.",
-      "discovery_note": "O relatório aparece no navegador. O envio por e-mail pode ser solicitado; confira o resultado informado na página.",
+      "discovery_note": "O relatório aparece imediatamente no navegador. O envio por e-mail é solicitado para você e commercial@ziontechgroup.com; confira se a página confirma a aceitação pelo provedor ou oferece uma alternativa manual.",
       "footer_summary": "Escolha um recurso, confira o escopo e combine o próximo passo com sua equipe.",
       "footer_nav_label": "Navegação do rodapé",
       "history_label": "Índice histórico · idiomas mistos",
@@ -644,8 +652,8 @@
       "paths_intro": "Cada ruta conecta un punto de partida útil con la siguiente guía o lista de verificación.",
       "paths": [
         {
-          "title": "Una solicitud de servicio en un centro de datos",
-          "description": "Organice equipos, problema, datos del sitio y horario preferido para definir el alcance de la solicitud.",
+          "title": "Una solicitud urgente para el centro de datos",
+          "description": "Empiece el resumen por correo con la ciudad, el modelo del equipo, los síntomas, la tarea y la fecha, hora y zona horaria deseadas. Incluya los requisitos de acceso y los criterios de aceptación para revisar el alcance.",
           "links": [
             {
               "route": "service_request",
@@ -654,6 +662,10 @@
             {
               "route": "handoff",
               "label": "Revisar el traspaso de la visita"
+            },
+            {
+              "route": "completion",
+              "label": "Prepare el registro de finalización"
             }
           ]
         },
@@ -703,7 +715,7 @@
           "heading_id": "field-quote-readiness-title",
           "route": "field_quote",
           "title": "Preparación de presupuesto de campo",
-          "description": "Organice supuestos de costes e identifique los detalles que necesitan confirmación para un presupuesto de servicio.",
+          "description": "Desglose los costos del proveedor y de mano de obra, viajes, transporte, impuestos locales e importación, con moneda, vigencia y exclusiones. Confirme las evidencias de costos antes de solicitar una cotización formal.",
           "label": "Preparar los datos del presupuesto"
         },
         {
@@ -727,7 +739,7 @@
           "heading_id": "field-visit-handoff-title",
           "route": "handoff",
           "title": "Traspaso de visita técnica",
-          "description": "Revise alcance acordado, acceso al sitio, información del técnico y aprobaciones necesarias antes de la visita.",
+          "description": "Revise el alcance acordado, la ventana de acceso, el técnico y las piezas. Obtenga confirmación escrita del cliente y una orden de compra (PO) antes de reservar, comprar o enviar personal.",
           "label": "Preparar el traspaso"
         },
         {
@@ -798,7 +810,7 @@
       "language_intro": "Elija un punto de partida traducido y siga los enlaces a herramientas y guías útiles.",
       "discovery_title": "¿Aún no sabe por dónde empezar?",
       "discovery_intro": "Empiece con Discovery gratuito y online. Describa un proceso y consulte un informe con sugerencias para los siguientes pasos.",
-      "discovery_note": "El informe aparece en el navegador. Puede solicitar el envío por correo; compruebe el resultado indicado en la página.",
+      "discovery_note": "El informe aparece de inmediato en el navegador. Se solicita el envío por correo para usted y commercial@ziontechgroup.com; compruebe si la página confirma la aceptación del proveedor u ofrece una alternativa manual.",
       "footer_summary": "Elija un recurso, revise su alcance y acuerde el siguiente paso con su equipo.",
       "footer_nav_label": "Navegación del pie de página",
       "history_label": "Índice histórico · idiomas mixtos",
@@ -847,8 +859,8 @@
       "paths_intro": "Chaque parcours relie un point de départ utile au prochain guide ou à la prochaine liste de contrôle.",
       "paths": [
         {
-          "title": "Une demande d’intervention en datacenter",
-          "description": "Rassemblez équipements, problème, informations du site et créneau souhaité pour définir le périmètre de la demande.",
+          "title": "Une demande urgente pour le centre de données",
+          "description": "Commencez le résumé par e-mail avec la ville, le modèle du matériel, les symptômes, la tâche ainsi que la date, l’heure et le fuseau horaire souhaités. Précisez les conditions d’accès et les critères de réception pour examiner le périmètre.",
           "links": [
             {
               "route": "service_request",
@@ -857,6 +869,10 @@
             {
               "route": "handoff",
               "label": "Revoir la préparation de la visite"
+            },
+            {
+              "route": "completion",
+              "label": "Préparer le compte rendu de fin de service"
             }
           ]
         },
@@ -906,7 +922,7 @@
           "heading_id": "field-quote-readiness-title",
           "route": "field_quote",
           "title": "Préparation d’un devis d’intervention",
-          "description": "Organisez les hypothèses de coûts et repérez les éléments à confirmer pour un devis de service.",
+          "description": "Détaillez séparément les coûts du fournisseur et de main-d’œuvre, les déplacements, le transport, les taxes locales et les frais d’importation, avec devise, validité et exclusions. Vérifiez les justificatifs avant de demander un devis formel.",
           "label": "Préparer les éléments du devis"
         },
         {
@@ -930,7 +946,7 @@
           "heading_id": "field-visit-handoff-title",
           "route": "handoff",
           "title": "Préparation d’une visite technique",
-          "description": "Revoyez périmètre convenu, accès au site, informations du technicien et validations nécessaires avant la visite.",
+          "description": "Vérifiez le périmètre convenu, le créneau d’accès, le technicien et les pièces. Obtenez la confirmation écrite du client et un bon de commande (PO) avant toute réservation, tout achat ou toute intervention sur site.",
           "label": "Préparer la transmission"
         },
         {
@@ -1001,7 +1017,7 @@
       "language_intro": "Choisissez un point de départ traduit et suivez les liens vers des outils et guides utiles.",
       "discovery_title": "Vous hésitez sur le point de départ ?",
       "discovery_intro": "Commencez par Discovery gratuit en ligne. Décrivez un processus et consultez un rapport proposant les prochaines étapes.",
-      "discovery_note": "Le rapport s’affiche dans votre navigateur. Vous pouvez demander un envoi par courriel ; vérifiez le résultat indiqué sur la page.",
+      "discovery_note": "Le rapport apparaît immédiatement dans le navigateur. Son envoi par e-mail est demandé pour vous et commercial@ziontechgroup.com ; vérifiez si la page confirme l’acceptation du prestataire ou propose une solution manuelle.",
       "footer_summary": "Choisissez une ressource, vérifiez son périmètre et convenez de la prochaine étape avec votre équipe.",
       "footer_nav_label": "Navigation de pied de page",
       "history_label": "Index historique · langues mixtes",
@@ -1050,8 +1066,8 @@
       "paths_intro": "Jeder Weg verbindet einen hilfreichen Einstieg mit dem nächsten Leitfaden oder der nächsten Checkliste.",
       "paths": [
         {
-          "title": "Eine Serviceanfrage für das Rechenzentrum",
-          "description": "Stellen Sie Geräte, Problem, Standortangaben und gewünschtes Zeitfenster zusammen, damit der Umfang Ihrer Anfrage klar ist.",
+          "title": "Eine dringende Anfrage für das Rechenzentrum",
+          "description": "Beginnen Sie die E-Mail mit Ort, Gerätemodell, Symptomen, Aufgabe sowie gewünschtem Datum, Uhrzeit und Zeitzone. Ergänzen Sie Zugangsvoraussetzungen und Abnahmekriterien, damit der Umfang geprüft werden kann.",
           "links": [
             {
               "route": "service_request",
@@ -1060,6 +1076,10 @@
             {
               "route": "handoff",
               "label": "Einsatzübergabe prüfen"
+            },
+            {
+              "route": "completion",
+              "label": "Abschlussbericht vorbereiten"
             }
           ]
         },
@@ -1109,7 +1129,7 @@
           "heading_id": "field-quote-readiness-title",
           "route": "field_quote",
           "title": "Vorbereitung eines Serviceangebots",
-          "description": "Ordnen Sie Kostenannahmen und erkennen Sie Angaben, die für ein Serviceangebot noch bestätigt werden müssen.",
+          "description": "Führen Sie Lieferanten- und Arbeitskosten, Reisen, Fracht, lokale Steuern und Einfuhrkosten getrennt auf, einschließlich Währung, Gültigkeit und Ausschlüssen. Prüfen Sie die Kostennachweise, bevor Sie ein verbindliches Angebot anfordern.",
           "label": "Angebotsgrundlagen vorbereiten"
         },
         {
@@ -1133,7 +1153,7 @@
           "heading_id": "field-visit-handoff-title",
           "route": "handoff",
           "title": "Übergabe eines Technikereinsatzes",
-          "description": "Prüfen Sie vereinbarten Umfang, Standortzugang, Technikerangaben und erforderliche Freigaben vor dem Besuch.",
+          "description": "Prüfen Sie den vereinbarten Umfang, das Zugangsfenster, den Techniker und die Ersatzteile. Holen Sie die schriftliche Kundenbestätigung und eine Bestellung (PO) ein, bevor Sie reservieren, kaufen oder einen Vor-Ort-Einsatz veranlassen.",
           "label": "Einsatzübergabe vorbereiten"
         },
         {
@@ -1204,7 +1224,7 @@
       "language_intro": "Wählen Sie einen übersetzten Einstieg und folgen Sie den Links zu hilfreichen Werkzeugen und Leitfäden.",
       "discovery_title": "Sie wissen noch nicht, wo Sie beginnen sollen?",
       "discovery_intro": "Starten Sie mit dem kostenlosen Online-Discovery. Beschreiben Sie einen Prozess und lesen Sie einen Bericht mit Vorschlägen für die nächsten Schritte.",
-      "discovery_note": "Der Bericht erscheint in Ihrem Browser. Sie können den E-Mail-Versand anfordern; prüfen Sie das auf der Seite angezeigte Ergebnis.",
+      "discovery_note": "Der Bericht erscheint sofort im Browser. Der E-Mail-Versand an Sie und commercial@ziontechgroup.com wird angefordert; prüfen Sie, ob die Seite die Annahme durch den Anbieter bestätigt oder eine manuelle Alternative anbietet.",
       "footer_summary": "Wählen Sie eine Ressource, prüfen Sie deren Umfang und vereinbaren Sie im Team den nächsten Schritt.",
       "footer_nav_label": "Fußzeilennavigation",
       "history_label": "Historisches Verzeichnis · gemischte Sprachen",
