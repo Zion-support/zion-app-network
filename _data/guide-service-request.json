@@ -61,8 +61,39 @@
           ]
         },
         {
+          "id": "qualify-partner",
+          "title": "3. Qualify the local partner before comparing offers",
+          "intro": "For an integrator supporting a datacenter, factory or distribution center, a partner shortlist is useful only when its evidence matches the particular task. Request written availability and comparable commercial terms by email. A quoted time slot remains a proposal until the client and Zion complete the required approvals.",
+          "resources": [
+            {
+              "name": "Verify local coverage and relevant experience",
+              "description": "Ask for the service city and travel radius, technician skills relevant to the equipment and task, examples of comparable work, access prerequisites and any required authorization evidence. Record the source, validation date and person responsible. Keep unsupported coverage or OEM claims pending.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026.html",
+              "language": "en"
+            },
+            {
+              "name": "Compare the complete written quotation",
+              "description": "Request the hourly or fixed fee, minimum billable period, out-of-hours charges, travel, parts, taxes, freight and import costs where applicable. Record currency, quotation validity, cancellation terms, response window and exclusions. Compare the same scope and keep unknown amounts separate from confirmed costs.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/",
+              "language": "en"
+            },
+            {
+              "name": "Protect the end client during supplier qualification",
+              "description": "Before client purchase confirmation, use an anonymized scope with city or region, equipment type, task and proposed window. Do not share the end-client name, exact site address, access details or confidential diagrams with prospective suppliers. Share only the minimum necessary after purchase confirmation through the authorized service process.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026.html",
+              "language": "en"
+            },
+            {
+              "name": "Keep one written opportunity record",
+              "description": "Continue the existing service email thread and keep commercial@ziontechgroup.com copied. Record the partner response, evidence still missing, next owner and deadline with time zone. Availability checking does not reserve a technician; purchase, supplier commitment and dispatch still require written client confirmation, the client PO and Zion operational release.",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "language": "en"
+            }
+          ]
+        },
+        {
           "id": "review-handoff",
-          "title": "3. Agree the handoff and the completion record",
+          "title": "4. Agree the handoff and the completion record",
           "intro": "A complete brief supports a decision; it does not authorize execution. Keep open requirements assigned to a person and a review deadline. Define the client's acceptance contact and the evidence they will receive before the work is released.",
           "resources": [
             {
@@ -155,8 +186,39 @@
           ]
         },
         {
+          "id": "qualify-partner",
+          "title": "3. Qualifique o parceiro local antes de comparar propostas",
+          "intro": "Para um integrador que atende datacenter, fábrica ou centro de distribuição, uma lista de parceiros só ajuda quando as evidências correspondem à tarefa. Solicite disponibilidade escrita e condições comerciais comparáveis por e-mail. A janela cotada permanece proposta até o cliente e a Zion concluírem as aprovações necessárias.",
+          "resources": [
+            {
+              "name": "Verifique cobertura local e experiência pertinente",
+              "description": "Solicite cidade de atendimento e raio de deslocamento, competências do técnico pertinentes ao equipamento e à tarefa, exemplos de trabalhos comparáveis, pré-requisitos de acesso e evidências de autorizações exigidas. Registre a fonte, a data de validação e o responsável. Mantenha pendentes alegações de cobertura ou autorização OEM sem comprovação.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-pt-br.html",
+              "language": "pt"
+            },
+            {
+              "name": "Compare a cotação completa por escrito",
+              "description": "Solicite valor por hora ou fechado, período mínimo faturável, adicionais fora do horário comercial, deslocamento, peças, impostos, frete e importação quando aplicáveis. Registre moeda, validade da cotação, condições de cancelamento, janela de resposta e exclusões. Compare o mesmo escopo e separe valores desconhecidos dos custos confirmados.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/pt/",
+              "language": "pt"
+            },
+            {
+              "name": "Proteja o cliente final durante a qualificação do fornecedor",
+              "description": "Antes da confirmação de compra do cliente, use um escopo anonimizado com cidade ou região, tipo de equipamento, tarefa e janela proposta. Não compartilhe nome do cliente final, endereço exato, detalhes de acesso ou diagramas confidenciais com possíveis fornecedores. Após a confirmação de compra, compartilhe somente o necessário pelo processo de serviço autorizado.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-pt-br.html",
+              "language": "pt"
+            },
+            {
+              "name": "Mantenha um registro escrito único da oportunidade",
+              "description": "Continue a conversa de serviço existente e mantenha commercial@ziontechgroup.com em cópia. Registre a resposta do parceiro, evidências ainda ausentes, próximo responsável e prazo com fuso horário. Consultar disponibilidade não reserva um técnico; compra, compromisso com fornecedor e despacho exigem confirmação escrita do cliente, PO do cliente e liberação operacional da Zion.",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "language": "pt"
+            }
+          ]
+        },
+        {
           "id": "review-handoff",
-          "title": "3. Combine a passagem do serviço e o registro de conclusão",
+          "title": "4. Combine a passagem do serviço e o registro de conclusão",
           "intro": "Um resumo completo apoia uma decisão; não autoriza a execução. Atribua a cada requisito pendente um responsável e um prazo de revisão. Defina o contato de aceite do cliente e as evidências que ele receberá antes de liberar o trabalho.",
           "resources": [
             {
@@ -249,8 +311,39 @@
           ]
         },
         {
+          "id": "qualify-partner",
+          "title": "3. Evalúe al socio local antes de comparar ofertas",
+          "intro": "Para un integrador que atiende un centro de datos, una fábrica o un centro de distribución, una lista de socios solo resulta útil cuando las evidencias corresponden a la tarea concreta. Solicite disponibilidad por escrito y condiciones comerciales comparables por correo electrónico. La ventana cotizada sigue siendo una propuesta hasta que el cliente y Zion completen las aprobaciones necesarias.",
+          "resources": [
+            {
+              "name": "Verifique la cobertura local y la experiencia pertinente",
+              "description": "Solicite la ciudad de servicio y el radio de desplazamiento, las competencias del técnico pertinentes al equipo y a la tarea, ejemplos de trabajos comparables, requisitos de acceso y pruebas de las autorizaciones exigidas. Registre la fuente, la fecha de validación y la persona responsable. Mantenga pendientes las afirmaciones de cobertura o autorización OEM sin pruebas.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-es.html",
+              "language": "es"
+            },
+            {
+              "name": "Compare el presupuesto completo por escrito",
+              "description": "Solicite la tarifa por hora o fija, el período mínimo facturable, recargos fuera del horario laboral, desplazamiento, piezas, impuestos, transporte e importación cuando correspondan. Registre moneda, vigencia, condiciones de cancelación, ventana de respuesta y exclusiones. Compare el mismo alcance y separe los importes desconocidos de los costes confirmados.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/es/",
+              "language": "es"
+            },
+            {
+              "name": "Proteja al cliente final al evaluar proveedores",
+              "description": "Antes de la confirmación de compra del cliente, utilice un alcance anonimizado con ciudad o región, tipo de equipo, tarea y ventana propuesta. No comparta el nombre del cliente final, la dirección exacta, los datos de acceso ni diagramas confidenciales con posibles proveedores. Tras la confirmación de compra, comparta solo lo necesario mediante el proceso de servicio autorizado.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-es.html",
+              "language": "es"
+            },
+            {
+              "name": "Mantenga un único registro escrito de la oportunidad",
+              "description": "Continúe el hilo de servicio existente y mantenga commercial@ziontechgroup.com en copia. Registre la respuesta del socio, las pruebas pendientes, el siguiente responsable y el plazo con zona horaria. Consultar disponibilidad no reserva un técnico; la compra, el compromiso con el proveedor y el envío de personal requieren confirmación escrita del cliente, su PO y la autorización operativa de Zion.",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "language": "es"
+            }
+          ]
+        },
+        {
           "id": "review-handoff",
-          "title": "3. Acuerde el traspaso y el registro de finalización",
+          "title": "4. Acuerde el traspaso del servicio y el registro de finalización",
           "intro": "Un resumen completo facilita una decisión; no autoriza la ejecución. Asigne un responsable y un plazo de revisión a cada requisito pendiente. Defina el contacto de aceptación del cliente y las evidencias que recibirá antes de autorizar el trabajo.",
           "resources": [
             {
@@ -343,8 +436,39 @@
           ]
         },
         {
+          "id": "qualify-partner",
+          "title": "3. Qualifiez le partenaire local avant de comparer les offres",
+          "intro": "Pour un intégrateur intervenant dans un datacenter, une usine ou un centre de distribution, une liste de partenaires est utile lorsque les preuves correspondent à la tâche précise. Demandez par e-mail une disponibilité écrite et des conditions commerciales comparables. Le créneau proposé reste à confirmer jusqu’à ce que le client et Zion aient obtenu les approbations nécessaires.",
+          "resources": [
+            {
+              "name": "Vérifiez la couverture locale et l’expérience pertinente",
+              "description": "Demandez la ville d’intervention et le rayon de déplacement, les compétences du technicien adaptées à l’équipement et à la tâche, des exemples de travaux comparables, les conditions d’accès et les preuves des autorisations requises. Consignez la source, la date de validation et le responsable. Laissez en attente toute couverture ou autorisation OEM non justifiée.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-fr.html",
+              "language": "fr"
+            },
+            {
+              "name": "Comparez le devis écrit complet",
+              "description": "Demandez le tarif horaire ou forfaitaire, la durée minimale facturée, les majorations hors horaires ouvrés, les déplacements, pièces, taxes, transport et frais d’importation applicables. Notez la devise, la validité du devis, les conditions d’annulation, la fenêtre de réponse et les exclusions. Comparez un périmètre identique et distinguez les montants inconnus des coûts confirmés.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/fr/",
+              "language": "fr"
+            },
+            {
+              "name": "Protégez le client final pendant la qualification du fournisseur",
+              "description": "Avant la confirmation d’achat du client, utilisez un périmètre anonymisé précisant la ville ou la région, le type d’équipement, la tâche et le créneau envisagé. Ne communiquez pas le nom du client final, l’adresse exacte, les informations d’accès ou les schémas confidentiels aux fournisseurs pressentis. Après confirmation d’achat, ne partagez que le nécessaire dans le processus de service autorisé.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-fr.html",
+              "language": "fr"
+            },
+            {
+              "name": "Conservez un seul dossier écrit pour l’opportunité",
+              "description": "Poursuivez le fil de service existant et gardez commercial@ziontechgroup.com en copie. Consignez la réponse du partenaire, les preuves manquantes, le prochain responsable et l’échéance avec son fuseau horaire. Une demande de disponibilité ne réserve aucun technicien ; achat, engagement fournisseur et mobilisation nécessitent la confirmation écrite du client, son bon de commande et l’autorisation opérationnelle de Zion.",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "language": "fr"
+            }
+          ]
+        },
+        {
           "id": "review-handoff",
-          "title": "3. Convenez de la transmission et du compte rendu de réalisation",
+          "title": "4. Convenez du transfert et du compte rendu de fin d’intervention",
           "intro": "Une demande complète facilite une décision ; elle n’autorise pas l’exécution. Attribuez à chaque exigence ouverte un responsable et une échéance de revue. Définissez le contact d’acceptation du client et les preuves qu’il recevra avant d’autoriser le travail.",
           "resources": [
             {
@@ -437,8 +561,39 @@
           ]
         },
         {
+          "id": "qualify-partner",
+          "title": "3. Prüfen Sie den lokalen Partner vor dem Angebotsvergleich",
+          "intro": "Für einen Integrator, der ein Rechenzentrum, eine Fabrik oder ein Distributionszentrum betreut, ist eine Partnerliste nur hilfreich, wenn die Nachweise zur konkreten Aufgabe passen. Fordern Sie schriftliche Verfügbarkeitsangaben und vergleichbare Konditionen per E-Mail an. Das angebotene Zeitfenster bleibt ein Vorschlag, bis Kunde und Zion die erforderlichen Freigaben abgeschlossen haben.",
+          "resources": [
+            {
+              "name": "Prüfen Sie lokale Abdeckung und passende Erfahrung",
+              "description": "Erfragen Sie Einsatzort und Anfahrtsradius, die zur Ausrüstung und Aufgabe passenden Qualifikationen des Technikers, Beispiele vergleichbarer Arbeiten, Zugangsvoraussetzungen und Nachweise erforderlicher Autorisierungen. Halten Sie Quelle, Prüfdatum und verantwortliche Person fest. Unbelegte Angaben zur Abdeckung oder OEM-Autorisierung bleiben offen.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "Vergleichen Sie das vollständige schriftliche Angebot",
+              "description": "Erfragen Sie Stunden- oder Festpreis, Mindestabrechnungsdauer, Zuschläge außerhalb der Geschäftszeiten, Anfahrt, Teile, Steuern, Fracht und gegebenenfalls Importkosten. Erfassen Sie Währung, Angebotsgültigkeit, Stornobedingungen, Reaktionszeitfenster und Ausschlüsse. Vergleichen Sie denselben Leistungsumfang und trennen Sie unbekannte Beträge von bestätigten Kosten.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/de/",
+              "language": "de"
+            },
+            {
+              "name": "Schützen Sie den Endkunden bei der Lieferantenprüfung",
+              "description": "Verwenden Sie vor der Kaufbestätigung des Kunden eine anonymisierte Beschreibung mit Stadt oder Region, Gerätetyp, Aufgabe und vorgeschlagenem Zeitfenster. Geben Sie potenziellen Lieferanten weder Endkundenname noch genaue Adresse, Zugangsdaten oder vertrauliche Diagramme. Teilen Sie nach der Kaufbestätigung nur die erforderlichen Informationen über den autorisierten Serviceprozess.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-quote-readiness-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "Führen Sie einen gemeinsamen schriftlichen Vorgang",
+              "description": "Setzen Sie den bestehenden E-Mail-Verlauf fort und nehmen Sie commercial@ziontechgroup.com in Kopie. Erfassen Sie Partnerantwort, fehlende Nachweise, nächste verantwortliche Person und Frist mit Zeitzone. Eine Verfügbarkeitsanfrage reserviert keinen Techniker; Kauf, Lieferantenzusage und Einsatz erfordern die schriftliche Kundenbestätigung, die Kundenbestellung und Zions operative Freigabe.",
+              "href": "mailto:commercial@ziontechgroup.com",
+              "language": "de"
+            }
+          ]
+        },
+        {
           "id": "review-handoff",
-          "title": "3. Vereinbaren Sie Übergabe und Abschlussdokumentation",
+          "title": "4. Vereinbaren Sie Übergabe und Abschlussdokumentation",
           "intro": "Eine vollständige Anfrage unterstützt eine Entscheidung; sie erlaubt keine Ausführung. Ordnen Sie jeder offenen Anforderung eine verantwortliche Person und einen Prüftermin zu. Legen Sie vor der Freigabe fest, wer auf Kundenseite abnimmt und welche Nachweise diese Person erhält.",
           "resources": [
             {

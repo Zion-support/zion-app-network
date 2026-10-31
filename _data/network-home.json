@@ -239,7 +239,7 @@
       "paths": [
         {
           "title": "A datacenter service request",
-          "description": "Organize the equipment, issue, site details and preferred window so your service request has a clear scope.",
+          "description": "Prepare the service scope, verify local partner evidence and compare complete quotations before reviewing access and approvals.",
           "links": [
             {
               "route": "service_request",
@@ -442,7 +442,7 @@
       "paths": [
         {
           "title": "Uma solicitação de serviço em datacenter",
-          "description": "Organize equipamentos, problema, dados do local e janela desejada para deixar claro o escopo da solicitação.",
+          "description": "Prepare o escopo, verifique as evidências do parceiro local e compare cotações completas antes de revisar acesso e aprovações.",
           "links": [
             {
               "route": "service_request",
@@ -645,7 +645,7 @@
       "paths": [
         {
           "title": "Una solicitud de servicio en un centro de datos",
-          "description": "Organice equipos, problema, datos del sitio y horario preferido para definir el alcance de la solicitud.",
+          "description": "Prepare el alcance, verifique las evidencias del socio local y compare presupuestos completos antes de revisar el acceso y las aprobaciones.",
           "links": [
             {
               "route": "service_request",
@@ -848,7 +848,7 @@
       "paths": [
         {
           "title": "Une demande d’intervention en datacenter",
-          "description": "Rassemblez équipements, problème, informations du site et créneau souhaité pour définir le périmètre de la demande.",
+          "description": "Préparez le périmètre, vérifiez les preuves du partenaire local et comparez les devis complets avant d’examiner les accès et les approbations.",
           "links": [
             {
               "route": "service_request",
@@ -1051,7 +1051,7 @@
       "paths": [
         {
           "title": "Eine Serviceanfrage für das Rechenzentrum",
-          "description": "Stellen Sie Geräte, Problem, Standortangaben und gewünschtes Zeitfenster zusammen, damit der Umfang Ihrer Anfrage klar ist.",
+          "description": "Bereiten Sie den Leistungsumfang vor, prüfen Sie die Nachweise des lokalen Partners und vergleichen Sie vollständige Angebote vor der Zugangs- und Freigabeprüfung.",
           "links": [
             {
               "route": "service_request",
