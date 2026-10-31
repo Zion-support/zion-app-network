@@ -1,5 +1,5 @@
 {
-  "release": "network-home-2026-10-30-v1",
+  "release": "network-home-2026-10-31-v1",
   "legacy_fragment_ids": [
     "app-network-start-here-2026",
     "app-network-start-here-heading",
@@ -83,7 +83,11 @@
       "communications": "/apps/discovery-showcase.html",
       "insurance": "/apps/app-verification-guide.html",
       "history": "/zion-app-network/CATALOG-NAVIGATION.html",
-      "start_here": "/zion-app-network/app-network-start-here-2026.html"
+      "start_here": "/zion-app-network/app-network-start-here-2026.html",
+      "sla_calculator": "/sla-calculator/",
+      "ai_governance": "/ai-governance-checklist/",
+      "operational_planning": "/apps/operational-planning-tools.html",
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.html"
     },
     "pt": {
       "home": "/",
@@ -105,7 +109,11 @@
       "communications": "/apps/discovery-showcase-pt.html",
       "insurance": "/pt/apps/app-verification-guide.html",
       "history": "/zion-app-network/CATALOG-NAVIGATION.html",
-      "start_here": "/zion-app-network/app-network-start-here-2026-pt-br.html"
+      "start_here": "/zion-app-network/app-network-start-here-2026-pt-br.html",
+      "sla_calculator": "/pt/sla-calculator/",
+      "ai_governance": "/pt/ai-governance-checklist/",
+      "operational_planning": "/pt/apps/operational-planning-tools.html",
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.pt-br.html"
     },
     "es": {
       "home": "/es/",
@@ -127,7 +135,11 @@
       "communications": "/apps/discovery-showcase-es.html",
       "insurance": "/es/apps/app-verification-guide.html",
       "history": "/zion-app-network/CATALOG-NAVIGATION.html",
-      "start_here": "/zion-app-network/app-network-start-here-2026-es.html"
+      "start_here": "/zion-app-network/app-network-start-here-2026-es.html",
+      "sla_calculator": "/es/sla-calculator/",
+      "ai_governance": "/es/ai-governance-checklist/",
+      "operational_planning": "/es/apps/operational-planning-tools.html",
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.es.html"
     },
     "fr": {
       "home": "/fr/",
@@ -149,7 +161,11 @@
       "communications": "/apps/discovery-showcase-fr.html",
       "insurance": "/fr/apps/app-verification-guide.html",
       "history": "/zion-app-network/CATALOG-NAVIGATION.html",
-      "start_here": "/zion-app-network/app-network-start-here-2026-fr.html"
+      "start_here": "/zion-app-network/app-network-start-here-2026-fr.html",
+      "sla_calculator": "/fr/sla-calculator/",
+      "ai_governance": "/fr/ai-governance-checklist/",
+      "operational_planning": "/fr/apps/operational-planning-tools.html",
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.fr.html"
     },
     "de": {
       "home": "/de/",
@@ -171,7 +187,11 @@
       "communications": "/apps/discovery-showcase-de.html",
       "insurance": "/de/apps/app-verification-guide.html",
       "history": "/zion-app-network/CATALOG-NAVIGATION.html",
-      "start_here": "/zion-app-network/app-network-start-here-2026-de.html"
+      "start_here": "/zion-app-network/app-network-start-here-2026-de.html",
+      "sla_calculator": "/de/sla-calculator/",
+      "ai_governance": "/de/ai-governance-checklist/",
+      "operational_planning": "/de/apps/operational-planning-tools.html",
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.de.html"
     }
   },
   "locales": {
@@ -311,6 +331,20 @@
           "title": "Service completion record",
           "description": "Keep work performed, test results, open items and customer acceptance clearly documented.",
           "label": "Prepare the completion record"
+        },
+        {
+          "id": "sla-planning-calculator",
+          "route": "sla_calculator",
+          "title": "SLA downtime and credits",
+          "description": "Compare permitted downtime with an outage scenario and calculate illustrative credits. Uses a simple linear model; contractual caps, tiers and exclusions require separate review.",
+          "label": "Calculate a scenario"
+        },
+        {
+          "id": "ai-governance-self-assessment",
+          "route": "ai_governance",
+          "title": "AI governance self-assessment",
+          "description": "Review ten controls and identify which ones still need evidence before an AI pilot. Your answers are a planning aid, not an audit, certification or deployment approval.",
+          "label": "Review the controls"
         }
       ],
       "collections_eyebrow": "Explore by topic",
@@ -337,6 +371,20 @@
           "title": "Insurance resource evidence",
           "description": "Check what an insurance resource actually does, which evidence is available and what still needs review before use.",
           "label": "Open the app verification guide"
+        },
+        {
+          "id": "operational-planning-collection",
+          "route": "operational_planning",
+          "title": "Operational planning tools",
+          "description": "Bring manual workload costs, SLA scenarios and AI governance checks into one planning path. The three tools work in your browser without uploading your inputs; their outputs support estimates and self-assessment.",
+          "label": "Open the collection"
+        },
+        {
+          "id": "agriculture-foodtech-concepts",
+          "route": "agriculture_concepts",
+          "title": "Agriculture and FoodTech concepts",
+          "description": "Explore six documented ideas covering crops, livestock, irrigation, food safety, markets and waste. Compare the evidence each would need before a pilot; these are concepts, not verified working AI tools.",
+          "label": "Explore the concepts"
         }
       ],
       "all_guides": "Explore all guide collections",
@@ -486,6 +534,20 @@
           "title": "Registro de conclusão de serviço",
           "description": "Documente com clareza o trabalho realizado, os resultados dos testes, as pendências e o aceite do cliente.",
           "label": "Preparar o registro de conclusão"
+        },
+        {
+          "id": "sla-planning-calculator",
+          "route": "sla_calculator",
+          "title": "Indisponibilidade e créditos de SLA",
+          "description": "Compare a indisponibilidade permitida com um cenário de interrupção e calcule créditos ilustrativos. O modelo é linear; limites, faixas e exclusões do contrato precisam de revisão separada.",
+          "label": "Calcular um cenário"
+        },
+        {
+          "id": "ai-governance-self-assessment",
+          "route": "ai_governance",
+          "title": "Autoavaliação de governança de IA",
+          "description": "Revise dez controles e identifique quais ainda precisam de evidências antes de um piloto de IA. Suas respostas apoiam o planejamento; não equivalem a auditoria, certificação ou aprovação para implementar.",
+          "label": "Revisar os controles"
         }
       ],
       "collections_eyebrow": "Explore por assunto",
@@ -512,6 +574,20 @@
           "title": "Evidências de recursos de seguros",
           "description": "Confira o que um recurso de seguros realmente faz, as evidências disponíveis e os pontos que precisam de revisão antes do uso.",
           "label": "Abrir o guia de verificação de apps"
+        },
+        {
+          "id": "operational-planning-collection",
+          "route": "operational_planning",
+          "title": "Ferramentas de planejamento operacional",
+          "description": "Reúna custos do trabalho manual, cenários de SLA e controles de governança de IA em um percurso de planejamento. As três ferramentas funcionam no navegador sem enviar suas entradas; os resultados apoiam estimativas e autoavaliação.",
+          "label": "Abrir a coleção"
+        },
+        {
+          "id": "agriculture-foodtech-concepts",
+          "route": "agriculture_concepts",
+          "title": "Conceitos de agricultura e FoodTech",
+          "description": "Explore seis ideias documentadas sobre lavouras, animais, irrigação, segurança dos alimentos, mercados e desperdício. Compare as evidências necessárias antes de um piloto; são conceitos, não ferramentas de IA com funcionamento verificado.",
+          "label": "Explorar os conceitos"
         }
       ],
       "all_guides": "Explorar todas as coleções de guias",
@@ -661,6 +737,20 @@
           "title": "Registro de cierre del servicio",
           "description": "Documente con claridad trabajos realizados, resultados de pruebas, asuntos pendientes y aceptación del cliente.",
           "label": "Preparar el registro de cierre"
+        },
+        {
+          "id": "sla-planning-calculator",
+          "route": "sla_calculator",
+          "title": "Inactividad y créditos de SLA",
+          "description": "Compare la inactividad permitida con un escenario de interrupción y calcule créditos ilustrativos. El modelo es lineal; los límites, tramos y exclusiones del contrato requieren revisión por separado.",
+          "label": "Calcular un escenario"
+        },
+        {
+          "id": "ai-governance-self-assessment",
+          "route": "ai_governance",
+          "title": "Autoevaluación de gobernanza de IA",
+          "description": "Revise diez controles e identifique cuáles necesitan evidencias antes de un piloto de IA. Sus respuestas apoyan la planificación; no equivalen a una auditoría, certificación o autorización de implementación.",
+          "label": "Revisar los controles"
         }
       ],
       "collections_eyebrow": "Explore por tema",
@@ -687,6 +777,20 @@
           "title": "Evidencias de recursos de seguros",
           "description": "Compruebe qué hace realmente un recurso de seguros, las evidencias disponibles y los puntos que deben revisarse antes de usarlo.",
           "label": "Abrir la guía de verificación de apps"
+        },
+        {
+          "id": "operational-planning-collection",
+          "route": "operational_planning",
+          "title": "Herramientas de planificación operativa",
+          "description": "Reúna costes del trabajo manual, escenarios de SLA y controles de gobernanza de IA en una ruta de planificación. Las tres herramientas funcionan en el navegador sin enviar sus datos; los resultados apoyan estimaciones y autoevaluación.",
+          "label": "Abrir la colección"
+        },
+        {
+          "id": "agriculture-foodtech-concepts",
+          "route": "agriculture_concepts",
+          "title": "Conceptos de agricultura y FoodTech",
+          "description": "Explore seis ideas documentadas sobre cultivos, ganado, riego, seguridad alimentaria, mercados y desperdicio. Compare las evidencias necesarias antes de un piloto; son conceptos, no herramientas de IA cuyo funcionamiento se haya verificado.",
+          "label": "Explorar los conceptos"
         }
       ],
       "all_guides": "Explorar todas las colecciones de guías",
@@ -836,6 +940,20 @@
           "title": "Dossier de clôture de service",
           "description": "Documentez clairement travaux réalisés, résultats des tests, points ouverts et acceptation du client.",
           "label": "Préparer le dossier de clôture"
+        },
+        {
+          "id": "sla-planning-calculator",
+          "route": "sla_calculator",
+          "title": "Indisponibilité et crédits SLA",
+          "description": "Comparez l’indisponibilité autorisée à un scénario de panne et calculez des crédits indicatifs. Le modèle est linéaire ; les plafonds, paliers et exclusions du contrat demandent un examen distinct.",
+          "label": "Calculer un scénario"
+        },
+        {
+          "id": "ai-governance-self-assessment",
+          "route": "ai_governance",
+          "title": "Autoévaluation de gouvernance IA",
+          "description": "Examinez dix contrôles et repérez ceux qui nécessitent encore des preuves avant un pilote IA. Vos réponses facilitent la préparation ; elles ne constituent ni un audit, ni une certification, ni une autorisation de déploiement.",
+          "label": "Examiner les contrôles"
         }
       ],
       "collections_eyebrow": "Explorer par thème",
@@ -862,6 +980,20 @@
           "title": "Preuves des ressources d’assurance",
           "description": "Vérifiez les fonctions réelles d’une ressource d’assurance, les preuves disponibles et les points à revoir avant utilisation.",
           "label": "Ouvrir le guide de vérification des apps"
+        },
+        {
+          "id": "operational-planning-collection",
+          "route": "operational_planning",
+          "title": "Outils de planification opérationnelle",
+          "description": "Réunissez coûts du travail manuel, scénarios SLA et contrôles de gouvernance IA dans un même parcours. Les trois outils fonctionnent dans le navigateur sans transmettre vos saisies ; les résultats servent à l’estimation et à l’autoévaluation.",
+          "label": "Ouvrir la collection"
+        },
+        {
+          "id": "agriculture-foodtech-concepts",
+          "route": "agriculture_concepts",
+          "title": "Concepts pour l’agriculture et la FoodTech",
+          "description": "Explorez six idées documentées sur les cultures, l’élevage, l’irrigation, la sécurité alimentaire, les marchés et le gaspillage. Comparez les preuves nécessaires avant un pilote ; il s’agit de concepts, pas d’outils d’IA au fonctionnement vérifié.",
+          "label": "Explorer les concepts"
         }
       ],
       "all_guides": "Explorer toutes les collections de guides",
@@ -1011,6 +1143,20 @@
           "title": "Dokumentation des Serviceabschlusses",
           "description": "Dokumentieren Sie erledigte Arbeiten, Testergebnisse, offene Punkte und Kundenabnahme nachvollziehbar.",
           "label": "Abschlussdokumentation vorbereiten"
+        },
+        {
+          "id": "sla-planning-calculator",
+          "route": "sla_calculator",
+          "title": "Ausfallzeiten und SLA-Gutschriften",
+          "description": "Vergleichen Sie zulässige Ausfallzeiten mit einem Störungsszenario und berechnen Sie beispielhafte Gutschriften. Das Modell ist linear; Vertragsobergrenzen, Staffelungen und Ausschlüsse müssen gesondert geprüft werden.",
+          "label": "Szenario berechnen"
+        },
+        {
+          "id": "ai-governance-self-assessment",
+          "route": "ai_governance",
+          "title": "Selbsteinschätzung zur KI-Governance",
+          "description": "Prüfen Sie zehn Kontrollen und erkennen Sie, wo vor einem KI-Pilotprojekt noch Nachweise fehlen. Ihre Angaben unterstützen die Planung; sie ersetzen weder Audit noch Zertifizierung oder Freigabe zur Umsetzung.",
+          "label": "Kontrollen prüfen"
         }
       ],
       "collections_eyebrow": "Nach Thema entdecken",
@@ -1037,6 +1183,20 @@
           "title": "Nachweise zu Versicherungsressourcen",
           "description": "Prüfen Sie die tatsächlichen Funktionen einer Versicherungsressource, vorhandene Nachweise und offene Prüfpunkte vor der Nutzung.",
           "label": "Leitfaden zur App-Prüfung öffnen"
+        },
+        {
+          "id": "operational-planning-collection",
+          "route": "operational_planning",
+          "title": "Werkzeuge für die operative Planung",
+          "description": "Verbinden Sie manuelle Arbeitskosten, SLA-Szenarien und KI-Governance-Kontrollen in einem Planungsablauf. Die drei Werkzeuge laufen im Browser, ohne Ihre Eingaben zu übertragen; die Ergebnisse dienen Schätzungen und der Selbsteinschätzung.",
+          "label": "Sammlung öffnen"
+        },
+        {
+          "id": "agriculture-foodtech-concepts",
+          "route": "agriculture_concepts",
+          "title": "Konzepte für Landwirtschaft und FoodTech",
+          "description": "Entdecken Sie sechs dokumentierte Ideen zu Pflanzenbau, Tierhaltung, Bewässerung, Lebensmittelsicherheit, Märkten und Abfällen. Vergleichen Sie die benötigten Nachweise vor einem Pilotprojekt; die Konzepte sind keine nachweislich funktionsfähigen KI-Werkzeuge.",
+          "label": "Konzepte entdecken"
         }
       ],
       "all_guides": "Alle Leitfadensammlungen entdecken",
