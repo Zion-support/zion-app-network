@@ -40,6 +40,37 @@
           ]
         },
         {
+          "id": "operational-planning-en",
+          "title": "Compare workload costs, service targets and controls",
+          "intro": "Use a local browser tool to examine one scenario, then carry the assumptions into your planning. Choose the guide for methods and related resources.",
+          "resources": [
+            {
+              "name": "Manual workload cost calculator",
+              "href": "https://ziontechgroup.com/roi-calc/",
+              "description": "Estimate monthly and annual manual-work costs from hours and your hourly rate. This tool does not calculate investment returns.",
+              "language": "en"
+            },
+            {
+              "name": "SLA downtime and credit calculator",
+              "href": "https://ziontechgroup.com/sla-calculator/",
+              "description": "Compare allowed and excess downtime with illustrative service credits under a linear rule. Check contract terms separately.",
+              "language": "en"
+            },
+            {
+              "name": "AI governance self-assessment",
+              "href": "https://ziontechgroup.com/ai-governance-checklist/",
+              "description": "Review ten self-reported controls and identify questions to discuss before a pilot. The count does not certify compliance.",
+              "language": "en"
+            },
+            {
+              "name": "Operational planning tools",
+              "href": "https://ziontechgroup.com/apps/operational-planning-tools.html",
+              "description": "Choose between the three tools, review their methods and continue to related resources in the same language.",
+              "language": "en"
+            }
+          ]
+        },
+        {
           "id": "resource-path-en",
           "title": "Prepare work and review it",
           "intro": "Use the collections to find local draft tools, manual review guides and technical planning resources.",
@@ -252,6 +283,37 @@
               "name": "Checklist de riscos de agentes de IA: prepare um piloto para avaliação",
               "href": "https://ziontechgroup.com/pt/blog/enterprise-ai-agent-risk-checklist/",
               "description": "Defina acesso a dados, ações permitidas, premissas de custo e evidências de revisão antes de executar um piloto com agentes de IA. Explore os recursos relacionados da Zion.",
+              "language": "pt"
+            }
+          ]
+        },
+        {
+          "id": "operational-planning-pt",
+          "title": "Compare custos de trabalho, metas de serviço e controles",
+          "intro": "Use uma ferramenta local no navegador para examinar um cenário e levar as premissas ao planejamento. Consulte o guia para conhecer os métodos e os recursos relacionados.",
+          "resources": [
+            {
+              "name": "Calculadora de custo do trabalho manual",
+              "href": "https://ziontechgroup.com/pt/roi-calc/",
+              "description": "Estime o custo mensal e anual do trabalho manual com suas horas e seu custo por hora. Esta ferramenta não calcula retorno sobre investimento.",
+              "language": "pt"
+            },
+            {
+              "name": "Calculadora de indisponibilidade e créditos de SLA",
+              "href": "https://ziontechgroup.com/pt/sla-calculator/",
+              "description": "Compare indisponibilidade permitida e excedente com créditos de serviço ilustrativos sob uma regra linear. Confira os termos do contrato separadamente.",
+              "language": "pt"
+            },
+            {
+              "name": "Autoavaliação de governança de IA",
+              "href": "https://ziontechgroup.com/pt/ai-governance-checklist/",
+              "description": "Revise dez controles declarados e identifique perguntas para discutir antes de um piloto. A contagem não certifica conformidade.",
+              "language": "pt"
+            },
+            {
+              "name": "Ferramentas de planejamento operacional",
+              "href": "https://ziontechgroup.com/pt/apps/operational-planning-tools.html",
+              "description": "Escolha entre as três ferramentas, confira os métodos e siga para recursos relacionados no mesmo idioma.",
               "language": "pt"
             }
           ]
@@ -474,6 +536,37 @@
           ]
         },
         {
+          "id": "operational-planning-es",
+          "title": "Compare costes de trabajo, objetivos de servicio y controles",
+          "intro": "Use una herramienta local del navegador para examinar un escenario y llevar los supuestos a la planificación. Consulte la guía para conocer los métodos y los recursos relacionados.",
+          "resources": [
+            {
+              "name": "Calculadora del coste del trabajo manual",
+              "href": "https://ziontechgroup.com/es/roi-calc/",
+              "description": "Estime el coste mensual y anual del trabajo manual con sus horas y su coste por hora. Esta herramienta no calcula el retorno de la inversión.",
+              "language": "es"
+            },
+            {
+              "name": "Calculadora de inactividad y créditos de SLA",
+              "href": "https://ziontechgroup.com/es/sla-calculator/",
+              "description": "Compare inactividad permitida y excedente con créditos de servicio ilustrativos según una regla lineal. Compruebe las condiciones del contrato por separado.",
+              "language": "es"
+            },
+            {
+              "name": "Autoevaluación de gobernanza de IA",
+              "href": "https://ziontechgroup.com/es/ai-governance-checklist/",
+              "description": "Revise diez controles declarados e identifique preguntas para discutir antes de un piloto. El recuento no certifica el cumplimiento normativo.",
+              "language": "es"
+            },
+            {
+              "name": "Herramientas de planificación operativa",
+              "href": "https://ziontechgroup.com/es/apps/operational-planning-tools.html",
+              "description": "Elija entre las tres herramientas, revise sus métodos y continúe con recursos relacionados en el mismo idioma.",
+              "language": "es"
+            }
+          ]
+        },
+        {
           "id": "resource-path-es",
           "title": "Prepare y revise el trabajo",
           "intro": "Use las colecciones para encontrar herramientas locales de borradores, guías de revisión manual y recursos de planificación técnica.",
@@ -691,6 +784,37 @@
           ]
         },
         {
+          "id": "operational-planning-fr",
+          "title": "Comparez les coûts de travail, les objectifs de service et les contrôles",
+          "intro": "Utilisez un outil local dans le navigateur pour examiner un scénario et conserver les hypothèses pour la planification. Consultez le guide pour les méthodes et les ressources associées.",
+          "resources": [
+            {
+              "name": "Calculateur du coût du travail manuel",
+              "href": "https://ziontechgroup.com/fr/roi-calc/",
+              "description": "Estimez le coût mensuel et annuel du travail manuel à partir de vos heures et de votre coût horaire. Cet outil ne calcule pas le retour sur investissement.",
+              "language": "fr"
+            },
+            {
+              "name": "Calculateur d’indisponibilité et de crédits SLA",
+              "href": "https://ziontechgroup.com/fr/sla-calculator/",
+              "description": "Comparez l’indisponibilité autorisée et le dépassement avec des crédits de service illustratifs selon une règle linéaire. Vérifiez séparément les conditions du contrat.",
+              "language": "fr"
+            },
+            {
+              "name": "Autoévaluation de gouvernance IA",
+              "href": "https://ziontechgroup.com/fr/ai-governance-checklist/",
+              "description": "Examinez dix contrôles déclarés et repérez les questions à discuter avant un pilote. Le décompte ne certifie pas la conformité.",
+              "language": "fr"
+            },
+            {
+              "name": "Outils de planification opérationnelle",
+              "href": "https://ziontechgroup.com/fr/apps/operational-planning-tools.html",
+              "description": "Choisissez parmi les trois outils, examinez leurs méthodes et poursuivez avec des ressources associées dans la même langue.",
+              "language": "fr"
+            }
+          ]
+        },
+        {
           "id": "resource-path-fr",
           "title": "Préparez et relisez le travail",
           "intro": "Les collections regroupent des outils locaux de rédaction, des guides de relecture manuelle et des ressources de préparation technique.",
@@ -903,6 +1027,37 @@
               "name": "Risikocheckliste für KI-Agenten: einen überprüfbaren Pilotversuch vorbereiten",
               "href": "https://ziontechgroup.com/de/blog/enterprise-ai-agent-risk-checklist/",
               "description": "Legen Sie Datenzugriffe, erlaubte Aktionen, Kostenannahmen und Prüfnachweise fest, bevor Sie einen KI-Agenten im Pilotversuch einsetzen. Entdecken Sie passende Zion-Werkzeuge und Leitfäden.",
+              "language": "de"
+            }
+          ]
+        },
+        {
+          "id": "operational-planning-de",
+          "title": "Arbeitskosten, Serviceziele und Kontrollen vergleichen",
+          "intro": "Prüfen Sie ein Szenario mit einem lokalen Browserwerkzeug und übernehmen Sie die Annahmen in Ihre Planung. Der Leitfaden erläutert die Methoden und verweist auf passende Ressourcen.",
+          "resources": [
+            {
+              "name": "Kostenrechner für manuelle Arbeit",
+              "href": "https://ziontechgroup.com/de/roi-calc/",
+              "description": "Schätzen Sie monatliche und jährliche Kosten manueller Arbeit aus Ihren Stunden und Stundenkosten. Dieses Werkzeug berechnet keine Kapitalrendite.",
+              "language": "de"
+            },
+            {
+              "name": "SLA-Ausfallzeit- und Gutschriftrechner",
+              "href": "https://ziontechgroup.com/de/sla-calculator/",
+              "description": "Vergleichen Sie erlaubte und überschrittene Ausfallzeiten mit beispielhaften Servicegutschriften nach einer linearen Regel. Prüfen Sie die Vertragsbedingungen gesondert.",
+              "language": "de"
+            },
+            {
+              "name": "KI-Governance-Selbsteinschätzung",
+              "href": "https://ziontechgroup.com/de/ai-governance-checklist/",
+              "description": "Prüfen Sie zehn selbst angegebene Kontrollen und sammeln Sie offene Fragen vor einem Piloten. Die Anzahl bestätigt keine Regelkonformität.",
+              "language": "de"
+            },
+            {
+              "name": "Werkzeuge für die operative Planung",
+              "href": "https://ziontechgroup.com/de/apps/operational-planning-tools.html",
+              "description": "Wählen Sie eines der drei Werkzeuge, prüfen Sie die Methoden und folgen Sie passenden Ressourcen in derselben Sprache.",
               "language": "de"
             }
           ]
