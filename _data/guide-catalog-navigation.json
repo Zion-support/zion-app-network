@@ -67,6 +67,13 @@
               "href": "https://ziontechgroup.com/apps/operational-planning-tools.html",
               "description": "Choose between the three tools, review their methods and continue to related resources in the same language.",
               "language": "en"
+            },
+            {
+              "name": "Service cost planner",
+              "description": "Build a local planning scenario from supplier fees, labor, equipment, taxes, travel, freight and import costs. Compare markup and margin, then review the supporting evidence before a quotation.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/",
+              "language": "en",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -315,6 +322,13 @@
               "href": "https://ziontechgroup.com/pt/apps/operational-planning-tools.html",
               "description": "Escolha entre as três ferramentas, confira os métodos e siga para recursos relacionados no mesmo idioma.",
               "language": "pt"
+            },
+            {
+              "name": "Planejador de custos de serviço",
+              "description": "Monte um cenário local com custos de fornecedor, mão de obra, equipamentos, impostos, deslocamento, frete e importação. Compare acréscimo sobre custo e margem e revise as evidências antes de uma cotação.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/pt/",
+              "language": "pt",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -563,6 +577,13 @@
               "href": "https://ziontechgroup.com/es/apps/operational-planning-tools.html",
               "description": "Elija entre las tres herramientas, revise sus métodos y continúe con recursos relacionados en el mismo idioma.",
               "language": "es"
+            },
+            {
+              "name": "Planificador de costes de servicio",
+              "description": "Prepare un escenario local con costes de proveedor, mano de obra, equipos, impuestos, desplazamiento, transporte e importación. Compare recargo sobre coste y margen y revise las evidencias antes de cotizar.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/es/",
+              "language": "es",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -811,6 +832,13 @@
               "href": "https://ziontechgroup.com/fr/apps/operational-planning-tools.html",
               "description": "Choisissez parmi les trois outils, examinez leurs méthodes et poursuivez avec des ressources associées dans la même langue.",
               "language": "fr"
+            },
+            {
+              "name": "Planificateur de coûts de service",
+              "description": "Préparez un scénario local avec les coûts du fournisseur, de main-d’œuvre, de matériel, de taxes, de déplacement, de transport et d’importation. Comparez majoration et marge, puis examinez les justificatifs avant un devis.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/fr/",
+              "language": "fr",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -1059,6 +1087,13 @@
               "href": "https://ziontechgroup.com/de/apps/operational-planning-tools.html",
               "description": "Wählen Sie eines der drei Werkzeuge, prüfen Sie die Methoden und folgen Sie passenden Ressourcen in derselben Sprache.",
               "language": "de"
+            },
+            {
+              "name": "Planer für Servicekosten",
+              "description": "Erstellen Sie ein lokales Szenario aus Lieferanten-, Arbeits-, Geräte-, Steuer-, Reise-, Fracht- und Importkosten. Vergleichen Sie Kostenaufschlag und Marge und prüfen Sie die Nachweise vor einem Angebot.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/de/",
+              "language": "de",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },

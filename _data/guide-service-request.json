@@ -50,6 +50,13 @@
               "description": "Specify the authorized checks, expected results, permitted photographs or logs, escalation owner and stop conditions. Reference sensitive records in the approved service system rather than copying passwords or unrestricted production data into a demonstration.",
               "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026.html",
               "language": "en"
+            },
+            {
+              "name": "Service cost planner",
+              "description": "Build a local planning scenario from supplier fees, labor, equipment, taxes, travel, freight and import costs. Compare markup and margin, then review the supporting evidence before a quotation.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/",
+              "language": "en",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -137,6 +144,13 @@
               "description": "Especifique verificações autorizadas, resultados esperados, fotografias ou registros permitidos, responsável por escalonamento e condições de parada. Referencie dados sensíveis no sistema de serviço autorizado, sem copiar senhas ou dados irrestritos de produção para uma demonstração.",
               "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-pt-br.html",
               "language": "pt"
+            },
+            {
+              "name": "Planejador de custos de serviço",
+              "description": "Monte um cenário local com custos de fornecedor, mão de obra, equipamentos, impostos, deslocamento, frete e importação. Compare acréscimo sobre custo e margem e revise as evidências antes de uma cotação.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/pt/",
+              "language": "pt",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -224,6 +238,13 @@
               "description": "Especifique comprobaciones autorizadas, resultados esperados, fotografías o registros permitidos, responsable de escalamiento y condiciones de parada. Referencie los datos sensibles en el sistema de servicio autorizado, sin copiar contraseñas ni datos de producción sin restricciones en una demostración.",
               "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-es.html",
               "language": "es"
+            },
+            {
+              "name": "Planificador de costes de servicio",
+              "description": "Prepare un escenario local con costes de proveedor, mano de obra, equipos, impuestos, desplazamiento, transporte e importación. Compare recargo sobre coste y margen y revise las evidencias antes de cotizar.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/es/",
+              "language": "es",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -311,6 +332,13 @@
               "description": "Précisez les contrôles autorisés, les résultats attendus, les photos ou journaux permis, le responsable d’escalade et les conditions d’arrêt. Référencez les données sensibles dans le système de service autorisé, sans copier de mots de passe ni de données de production non restreintes dans une démonstration.",
               "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-fr.html",
               "language": "fr"
+            },
+            {
+              "name": "Planificateur de coûts de service",
+              "description": "Préparez un scénario local avec les coûts du fournisseur, de main-d’œuvre, de matériel, de taxes, de déplacement, de transport et d’importation. Comparez majoration et marge, puis examinez les justificatifs avant un devis.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/fr/",
+              "language": "fr",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
@@ -398,6 +426,13 @@
               "description": "Definieren Sie autorisierte Prüfungen, erwartete Ergebnisse, erlaubte Fotos oder Protokolle, Eskalationsverantwortliche und Abbruchbedingungen. Verweisen Sie für sensible Unterlagen auf das freigegebene Servicesystem, statt Passwörter oder unbeschränkte Produktionsdaten in eine Demonstration zu kopieren.",
               "href": "https://ziontechgroup.com/zion-app-network/app-network-operations-evidence-checklist-2026-de.html",
               "language": "de"
+            },
+            {
+              "name": "Planer für Servicekosten",
+              "description": "Erstellen Sie ein lokales Szenario aus Lieferanten-, Arbeits-, Geräte-, Steuer-, Reise-, Fracht- und Importkosten. Vergleichen Sie Kostenaufschlag und Marge und prüfen Sie die Nachweise vor einem Angebot.",
+              "href": "https://ziontechgroup.com/quote-builder-ai/de/",
+              "language": "de",
+              "source": "https://github.com/Zion-support/quote-builder-ai"
             }
           ]
         },
