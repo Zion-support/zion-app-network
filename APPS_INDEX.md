@@ -1,16 +1,16 @@
 # Zion AI App Network — Master Index
 
 <!--insurance-catalog-note:start-->
-[Insurance catalog status](CATALOG-INSURANCE-EVIDENCE.md) · [Free local evidence workbench](https://ziontechgroup.com/apps/insurance-evidence-workbench.html) · [Free Discovery](https://ziontechgroup.com/discovery/)
+[Insurance catalog status](CATALOG-INSURANCE-EVIDENCE.md) · [App verification guide](https://ziontechgroup.com/apps/app-verification-guide.html) · [Free Discovery](https://ziontechgroup.com/discovery/)
 
-Insurance entries below are documentation concepts, not functioning AI engines. The linked workbench is a local checklist, with no model inference, document upload or regulated decision. Legacy category counts are snapshots; a repository link is not evidence of a working app.
+Insurance entries below are documentation concepts, not functioning AI engines. Use the verification guide to identify the resource type, test a fictional example and record the evidence before a pilot. Legacy category counts are snapshots; a repository link is not evidence of a working app.
 <!--insurance-catalog-note:end-->
 
 Complete A–Z index of every repository in the Zion Tech Group App Network, with GitHub source links and live app links.
 
 **Hubs:** [Zion App Network](https://ziontechgroup.com/zion-app-network/) · [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) · [Zion Network](https://zion-support.github.io/zion-network/) · [Homepage](https://ziontechgroup.com)
 
-**Unique repository links in this index: 193**
+**Unique repository links in this index: 190**
 
 ## AI Apps (15)
 
@@ -85,7 +85,7 @@ Complete A–Z index of every repository in the Zion Tech Group App Network, wit
 | [ai-procurement-copilot](https://github.com/Zion-support/ai-procurement-copilot) | Supplier comparison, RFQ drafting and spend-anomaly detection | https://ziontechgroup.com/ai-procurement-copilot/ |
 | [sla-risk-forecaster](https://github.com/Zion-support/sla-risk-forecaster) | Predicts SLA breaches days ahead | https://ziontechgroup.com/sla-risk-forecaster/ |
 | [knowledge-gap-finder](https://github.com/Zion-support/knowledge-gap-finder) | Audits knowledge bases for missing, stale or conflicting articles | https://ziontechgroup.com/knowledge-gap-finder/ |
-| [quote-builder-ai](https://github.com/Zion-support/quote-builder-ai) | Instant, accurate service quotes | https://ziontechgroup.com/quote-builder-ai/ |
+| [quote-builder-ai](https://github.com/Zion-support/quote-builder-ai) | Local service-cost planning worksheet; explicit inputs and human quotation review | https://ziontechgroup.com/quote-builder-ai/ |
 | [returns-optimization-ai](https://github.com/Zion-support/returns-optimization-ai) | Cut return rates and costs with AI root-cause analysis | https://ziontechgroup.com/returns-optimization-ai/ |
 | [route-density-planner](https://github.com/Zion-support/route-density-planner) | Field-service routing AI | https://ziontechgroup.com/route-density-planner/ |
 | [maintenance-ticket-triage](https://github.com/Zion-support/maintenance-ticket-triage) | AI classification and routing of maintenance tickets | https://ziontechgroup.com/maintenance-ticket-triage/ |
@@ -111,10 +111,10 @@ Spotlight: [SPOTLIGHT-2026-09-25-BATCH36.md](SPOTLIGHT-2026-09-25-BATCH36.md) ·
 |---|---|---|
 | [zion-agents](https://github.com/Zion-support/zion-agents) | Autonomous AI agent fleet & workflows | https://zion-support.github.io/zion-agents/ |
 | [agents](https://github.com/Zion-support/agents) | Agent runtime & orchestration | https://ziontechgroup.com/agents/ |
-| [zion-mcp-stack](https://github.com/Zion-support/zion-mcp-stack) | MCP servers & tool connectivity | https://ziontechgroup.com/zion-mcp-stack/ |
+| zion-mcp-stack | MCP servers & tool connectivity | No public deployment |
 | [zion-ai-agent-marketplace](https://github.com/Zion-support/zion-ai-agent-marketplace) | Discover & deploy ready agents | https://ziontechgroup.com/zion-ai-agent-marketplace/ |
-| [telegram-agent-listener](https://github.com/Zion-support/telegram-agent-listener) | Telegram intake for agent workflows | https://ziontechgroup.com/telegram-agent-listener/ |
-| [telegram-ai-reply-worker](https://github.com/Zion-support/telegram-ai-reply-worker) | AI reply worker for Telegram threads | https://ziontechgroup.com/telegram-ai-reply-worker/ |
+| telegram-agent-listener | Telegram intake for agent workflows | No public deployment |
+| telegram-ai-reply-worker | AI reply worker for Telegram threads | No public deployment |
 
 Spotlight: [SPOTLIGHT-2026-09-25-BATCH42.md](SPOTLIGHT-2026-09-25-BATCH42.md) · Homepage pack: [homepage-content-batch42.md](homepage-content-batch42.md)
 
@@ -203,7 +203,7 @@ Spotlight: [SPOTLIGHT-2026-09-26-BATCH53.md](SPOTLIGHT-2026-09-26-BATCH53.md) ·
 |---|---|---|
 | [Zion AI Agent Builder](https://github.com/Zion-support/zion-ai-agent-builder) | No-code studio to design, test and ship AI agents with guardrails | https://ziontechgroup.com/zion-ai-agent-builder/ |
 | [Voice Agent Studio](https://github.com/Zion-support/voice-agent-studio) | AI voice agents for calls & IVR — design, test and launch phone automation | https://ziontechgroup.com/voice-agent-studio/ |
-| [Zion MCP Stack](https://github.com/Zion-support/zion-mcp-stack) | Self-hosted MCP server stack (Docker Compose): Grafana, Slack, Playwright, Docker MCP Gateway | https://ziontechgroup.com/zion-mcp-stack/ |
+| Zion MCP Stack | Self-hosted MCP server stack (Docker Compose): Grafana, Slack, Playwright, Docker MCP Gateway | No public deployment |
 | [Zion AI Eval Harness](https://github.com/Zion-support/ai-eval-harness) | Evaluation & regression testing for LLM features — prompts, models, gates in CI | https://ziontechgroup.com/ai-eval-harness/ |
 | [AI Assessment Engine](https://github.com/Zion-support/ai-assessment-engine) | Build and score skills assessments with anti-gaming and analytics | https://ziontechgroup.com/ai-assessment-engine/ |
 | [Zion AI Threat Brief](https://github.com/Zion-support/zion-ai-threat-brief) | Daily AI-curated threat intelligence briefs mapped to your stack | https://ziontechgroup.com/zion-ai-threat-brief/ |
@@ -299,7 +299,7 @@ Spotlight: [SPOTLIGHT-2026-09-27-BATCH59.md](SPOTLIGHT-2026-09-27-BATCH59.md) ·
 | [learning-outcome-dashboard](https://github.com/Zion-support/learning-outcome-dashboard) | Learning outcome dashboards for educators and institutions | https://ziontechgroup.com/learning-outcome-dashboard/ |
 | [tutoring-session-analyzer](https://github.com/Zion-support/tutoring-session-analyzer) | Tutoring session analytics: engagement, coverage and improvement tips | https://ziontechgroup.com/tutoring-session-analyzer/ |
 
-Spotlight: [SPOTLIGHT-2026-10-01-BATCH68.md](SPOTLIGHT-2026-10-01-BATCH68.md) · Homepage pack: [homepage-content-batch68.md](homepage-content-batch68.md) · Showcase: https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase.html · Blog: https://ziontechgroup.com/blog/green-energy-education-ai-suite/
+Spotlight: [SPOTLIGHT-2026-10-01-BATCH68.md](SPOTLIGHT-2026-10-01-BATCH68.md) · Homepage pack: [homepage-content-batch68.md](homepage-content-batch68.md) · Showcase: https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase.html · [Five-language guide](https://ziontechgroup.com/zion-app-network/app/network-green-energy-education-showcase.html)
 
 ## Batch 102 — Professional Services & MSP Growth AI (4)
 
@@ -416,7 +416,7 @@ These entries describe inspected concepts, not certified production apps. Existi
 | AML Screening AI | [Explore](https://ziontechgroup.com/aml-screening-ai/) | [GitHub](https://github.com/Zion-support/aml-screening-ai) | Informational AML review concept; not verified live screening |
 | Fraud Transaction Monitor | [Explore](https://ziontechgroup.com/fraud-transaction-monitor/) | [GitHub](https://github.com/Zion-support/fraud-transaction-monitor) | Informational transaction review concept; not verified live fraud scoring |
 
-[Benefits and translation matrix](DISCOVERY_CONSOLIDATION_2026-10-08.md) · [Content standard](CONTENT_PUBLICATION_STANDARD.md) · [Workflow guide](https://ziontechgroup.com/apps/discovery-workflow-paths.html) · [Free Discovery](https://ziontechgroup.com/discovery/).
+[Benefits and translation matrix](DISCOVERY_CONSOLIDATION_2026-10-08.md) · [Content standard](CONTENT_PUBLICATION_STANDARD.md) · [Workflow guide](https://ziontechgroup.com/apps/network-start-here.html) · [Free Discovery](https://ziontechgroup.com/discovery/).
 
 
 ## Insurance workflow concepts — documentation, not deployed AI
