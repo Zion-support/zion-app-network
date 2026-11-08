@@ -264,5 +264,19 @@
 - [renewable-energy-forecaster](https://github.com/Zion-support/renewable-energy-forecaster) ↔ [live](https://ziontechgroup.com/renewable-energy-forecaster/)
 - [smart-grid-load-balancer](https://github.com/Zion-support/smart-grid-load-balancer) ↔ [live](https://ziontechgroup.com/smart-grid-load-balancer/)
 
+## ⚖️ AI Governance, Risk & Compliance (2026-11-08)
+New themed cluster — 8 live apps + 2 open-source tools, all interlinked:
+- [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) ↔ [live](https://ziontechgroup.com/ai-readiness-assessment/)
+- [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) ↔ [live](https://ziontechgroup.com/ai-governance-dashboard/)
+- [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) ↔ [live](https://ziontechgroup.com/ai-ai-safety/)
+- [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) ↔ [live](https://ziontechgroup.com/audit-readiness-copilot/)
+- [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) ↔ [live](https://ziontechgroup.com/compliance-evidence-collector/)
+- [policy-change-tracker](https://github.com/Zion-support/policy-change-tracker) ↔ [live](https://ziontechgroup.com/policy-change-tracker/)
+- [prompt-shield](https://github.com/Zion-support/prompt-shield) ↔ [live](https://ziontechgroup.com/prompt-shield/)
+- [zion-governance-evidence-pack](https://github.com/Zion-support/zion-governance-evidence-pack) ↔ [live](https://ziontechgroup.com/zion-governance-evidence-pack/)
+- [zion-ai-risk-evaluator](https://github.com/Zion-support/zion-ai-risk-evaluator) ↔ [live](https://ziontechgroup.com/zion-ai-risk-evaluator/)
+
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/network-governance-trust-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-governance-trust-2026.md](INTERLINKS-governance-trust-2026.md).
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/

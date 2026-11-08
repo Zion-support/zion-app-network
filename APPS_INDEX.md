@@ -387,6 +387,9 @@ Overview: https://ziontechgroup.com/apps/october-2026-batch108-travel-ai.html
 
 Overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
 
+## Governance & AI Trust (2026-11-08) — new themed cluster
+See [APPS_INDEX-BATCH114-GOVERNANCE.md](APPS_INDEX-BATCH114-GOVERNANCE.md) for the rollup + app list. Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/network-governance-trust-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-governance-trust-2026.md](INTERLINKS-governance-trust-2026.md). This consolidation keeps the master index at a curated-subset level; the authoritative per-batch rollups live in APPS_INDEX-BATCH-*.md / APPS_INDEX-BATCHES-*.md.
+
 ---
 *Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/). Explore the [catalog](CATALOG.md), [network map](NETWORK.md) and [interlinks](INTERLINKS.md).*
 
