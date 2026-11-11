@@ -18,10 +18,18 @@ on:
       - '**/*.yml'
       - 'scripts/public_content_privacy_guard.py'
       - 'scripts/test_public_content_privacy_guard.py'
+      - 'scripts/public_link_diff_guard.py'
+      - 'scripts/test_public_link_diff_guard.py'
       - '.github/workflows/public-content-privacy-guard.yml'
   workflow_dispatch:
 permissions:
   contents: read
+
+# Reuse the existing workflow: cancel only superseded PR checks, never manual runs.
+concurrency:
+  group: public-content-privacy-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   guard:
     runs-on: ubuntu-latest
@@ -39,3 +47,11 @@ jobs:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: python3 scripts/public_content_privacy_guard.py --base "$BASE_SHA" --head "$HEAD_SHA"
+      - name: Offline local link guard regression tests
+        run: python3 -m unittest discover -s scripts -p 'test_public_link_diff_guard.py' -v
+      - name: Check newly added local page links and anchors
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: python3 scripts/public_link_diff_guard.py --base "$BASE_SHA" --head "$HEAD_SHA" --output link-guard-report.json
