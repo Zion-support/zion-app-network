@@ -1,5 +1,5 @@
 {
-  "release": "network-home-2026-10-31-v1",
+  "release": "network-home-2026-11-12-v1",
   "legacy_fragment_ids": [
     "app-network-start-here-2026",
     "app-network-start-here-heading",
@@ -87,10 +87,11 @@
       "sla_calculator": "/sla-calculator/",
       "ai_governance": "/ai-governance-checklist/",
       "operational_planning": "/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.html"
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.html",
+      "showcase": "/apps-network-showcase/"
     },
     "pt": {
-      "home": "/",
+      "home": "/pt/",
       "catalog": "/pt/apps/",
       "directory": "/zion-app-network/directory-pt.html",
       "guides": "/zion-app-network/catalog-navigation-pt-br.html",
@@ -113,7 +114,8 @@
       "sla_calculator": "/pt/sla-calculator/",
       "ai_governance": "/pt/ai-governance-checklist/",
       "operational_planning": "/pt/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.pt-br.html"
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.pt-br.html",
+      "showcase": "/pt/apps-network-showcase/"
     },
     "es": {
       "home": "/es/",
@@ -139,7 +141,8 @@
       "sla_calculator": "/es/sla-calculator/",
       "ai_governance": "/es/ai-governance-checklist/",
       "operational_planning": "/es/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.es.html"
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.es.html",
+      "showcase": "/es/apps-network-showcase/"
     },
     "fr": {
       "home": "/fr/",
@@ -165,7 +168,8 @@
       "sla_calculator": "/fr/sla-calculator/",
       "ai_governance": "/fr/ai-governance-checklist/",
       "operational_planning": "/fr/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.fr.html"
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.fr.html",
+      "showcase": "/fr/apps-network-showcase/"
     },
     "de": {
       "home": "/de/",
@@ -191,7 +195,8 @@
       "sla_calculator": "/de/sla-calculator/",
       "ai_governance": "/de/ai-governance-checklist/",
       "operational_planning": "/de/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.de.html"
+      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.de.html",
+      "showcase": "/de/apps-network-showcase/"
     }
   },
   "locales": {
@@ -288,6 +293,13 @@
       "resources_title": "Keep the next step connected.",
       "resources_intro": "Use these resources to carry scope, assumptions and evidence from planning to a clear handoff.",
       "resources": [
+        {
+          "id": "practical-apps-showcase",
+          "title": "Explore the Zion apps network by goal",
+          "description": "Prepare a field service request, model cloud costs or compare an AI app with six practical resources and five complete language editions.",
+          "route": "showcase",
+          "label": "Explore resource"
+        },
         {
           "id": "app-selection-evidence-scorecard-2026",
           "heading_id": "app-selection-evidence-scorecard-heading",
@@ -496,6 +508,13 @@
       "resources_intro": "Use estes recursos para levar escopo, premissas e evidências do planejamento a uma passagem clara de responsabilidades.",
       "resources": [
         {
+          "id": "practical-apps-showcase",
+          "title": "Explore a rede de apps da Zion por objetivo",
+          "description": "Prepare um atendimento de campo, simule custos de nuvem ou compare um app de IA com seis recursos práticos e cinco versões completas de idioma.",
+          "route": "showcase",
+          "label": "Explorar recurso"
+        },
+        {
           "id": "app-selection-evidence-scorecard-2026",
           "heading_id": "app-selection-evidence-scorecard-heading",
           "route": "scorecard",
@@ -702,6 +721,13 @@
       "resources_title": "Mantenga conectados los siguientes pasos.",
       "resources_intro": "Use estos recursos para trasladar alcance, supuestos y evidencias desde la planificación hasta un traspaso claro.",
       "resources": [
+        {
+          "id": "practical-apps-showcase",
+          "title": "Explore la red de apps de Zion según su objetivo",
+          "description": "Prepare un servicio de campo, modele costes de nube o compare una app de IA con seis recursos prácticos y cinco versiones completas de idioma.",
+          "route": "showcase",
+          "label": "Explorar recurso"
+        },
         {
           "id": "app-selection-evidence-scorecard-2026",
           "heading_id": "app-selection-evidence-scorecard-heading",
@@ -910,6 +936,13 @@
       "resources_intro": "Utilisez ces ressources pour conserver périmètre, hypothèses et preuves, de la préparation à une transmission claire.",
       "resources": [
         {
+          "id": "practical-apps-showcase",
+          "title": "Explorez le réseau d’apps Zion selon votre objectif",
+          "description": "Préparez une intervention, estimez les coûts cloud ou comparez une app d’IA grâce à six ressources pratiques et cinq versions linguistiques complètes.",
+          "route": "showcase",
+          "label": "Explorer la ressource"
+        },
+        {
           "id": "app-selection-evidence-scorecard-2026",
           "heading_id": "app-selection-evidence-scorecard-heading",
           "route": "scorecard",
@@ -1116,6 +1149,13 @@
       "resources_title": "Verbinden Sie die nächsten Schritte.",
       "resources_intro": "Führen Sie Umfang, Annahmen und Nachweise mit diesen Ressourcen von der Planung bis zu einer klaren Übergabe weiter.",
       "resources": [
+        {
+          "id": "practical-apps-showcase",
+          "title": "Das Zion-App-Netzwerk nach Ihrem Ziel erkunden",
+          "description": "Bereiten Sie einen Vor-Ort-Service vor, modellieren Sie Cloud-Kosten oder vergleichen Sie eine KI-App mit sechs praktischen Ressourcen und fünf vollständigen Sprachversionen.",
+          "route": "showcase",
+          "label": "Ressource ansehen"
+        },
         {
           "id": "app-selection-evidence-scorecard-2026",
           "heading_id": "app-selection-evidence-scorecard-heading",
