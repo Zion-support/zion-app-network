@@ -124,7 +124,7 @@ def assemble(lang):
     body = BODY[lang]
     urls = dict(LANGS); urls['en'] = CANON
     al = alternate_links()
-    cards_groups = [body['cards'][:3], body['cards'][3:6], body['cards'][6:9]]
+    cards_groups = [g for g in (body['cards'][:3], body['cards'][3:6], body['cards'][6:9]) if g]
     labels = ['🎯 Wake-on-Call & Booking', '📋 Field-Tech Dispatch', '🌎 5-Language Outbound', '🆕 Open-Source Voice Agent']
     section_html = ''
     for grp, label in zip(cards_groups, labels):
