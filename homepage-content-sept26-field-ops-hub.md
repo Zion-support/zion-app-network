@@ -1,0 +1,31 @@
+# Homepage content — Field Services & AI Operations Hub (2026-11-14)
+
+## Positioning
+Zion Tech Group is a complementary partner for service companies, manufacturers, and solution providers: **Field Engineering + IT/Infrastructure ops + AI Operations (remote experts)**. Rather than replacing the software provider or the local service vendor, Zion sits alongside — delivering the engineering, infrastructure, and AI operations layer that makes software and field teams work on-site.
+
+## Field Service & Workforce suite (10 apps)
+Field Service Dispatch AI: https://ziontechgroup.com/field-service-dispatch-ai/
+FE Ticket Triage: https://ziontechgroup.com/fe-ticket-triage/
+Technician Scheduler AI: https://ziontechgroup.com/technician-scheduler-ai/
+Onsite Support Copilot: https://ziontechgroup.com/onsite-support-copilot/
+Service SLA Tracker: https://ziontechgroup.com/service-sla-tracker/
+Field Workforce Analytics: https://ziontechgroup.com/field-workforce-analytics/
+
+## Field Engineering & Infrastructure (complementary delivery — Zion)
+Painéis, storage, câmeras/CCTV e segurança; redes, servidores e pontos de acesso; backup e telecomunicações; suporte presencial no local para projetos híbridos (tech + humanizado de campo).
+AI/IT ops: diagnóstico, otimização e co-management de NOC/SOC em servidores, redes e sistemas de produção — assistente de campo conectado à operação.
+
+## AI Operations & Remote Experts (novo modelo de crescimento)
+- Field experts remotos via câmera conectada + vídeo assembleia (modelo de referência: eyllo), com assistente de IA que transcreve, reúne observações e gera relatórios.
+- Suporte presencial + consultoria remota, criação de playbooks e melhoria contínua de processos de campo.
+- Bridge: operador/tecnico em campo + escalonamento de resolução em nuvem — entrega em 24-48h pela parte remota, presencial apenas em eventos críticos.
+
+## Discovery hub (gratuito, 7 dias)
+Levantamento e diagnóstico gratuitos em 7 dias, entregues por e-mail para o cliente e commercial@ziontechgroup.com. Promover na landing principal e nos materiais de campo.
+
+## Live showcase
+- Demos e landing de apps: https://ziontechgroup.com/zion-app-network/
+- Network app directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+
+## Language matrix
+PT-BR (padrão), EN, ES, FR, DE — consistente com o diretório de apps (5 idiomas).
