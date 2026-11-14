@@ -429,3 +429,13 @@ These entries describe inspected concepts, not certified production apps. Existi
 | [Policy Comparison AI](https://github.com/Zion-support/policy-comparison-ai) | Policy-comparison workflow concept; no AI engine implemented | [Planning page](https://ziontechgroup.com/policy-comparison-ai/) |
 | [Underwriting Copilot AI](https://github.com/Zion-support/underwriting-copilot-ai) | Underwriting-intake workflow concept; no AI engine implemented | [Planning page](https://ziontechgroup.com/underwriting-copilot-ai/) |
 | [Claims Automation AI](https://github.com/Zion-support/claims-automation-ai) | Claims-evidence workflow concept; no AI engine implemented | [Planning page](https://ziontechgroup.com/claims-automation-ai/) |
+
+## 📞 AI Voice & Missed-Call Automation for Field Services (2026-11-14)
+
+New themed cluster — wake-on-call voice agent for local services (FE's & technicians — top priority):
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-voice-field-automation](https://github.com/Zion-support/zion-voice-field-automation) | Wake-on-call voice agent + job booking + dispatch — published 5-language showcase | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html) |
+
+---

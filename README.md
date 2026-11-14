@@ -49,6 +49,7 @@ The workbench records six evidence-planning fields, identifies missing fields an
 - 📣 Batch 99 — Marketing & Growth AI: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99-marketing-growth.md) · [homepage pack](homepage-content-batch99.md) · [showcase](https://ziontechgroup.com/apps/october-2026-batch99.html)
 - ⚖️ Batch 74 — Legal Tech & Contract AI: [spotlight](SPOTLIGHT-2026-10-04-BATCH74.md) · [interlinks](INTERLINKS-batch74-legal.md) · [homepage pack](homepage-content-batch74.md) · [showcase](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
 - ⚖️ Governance, Risk & Compliance (2026-11-08): [interlinks](INTERLINKS-governance-trust-2026.md) · [homepage pack](homepage-content-governance-trust-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/network-governance-trust-2026.html)
+- 📞 Batch 115 — AI Voice & Missed-Call Automation for Field Services: [interlinks](INTERLINKS-voice-field-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html)
 
 ## Recent app clusters — Q4 2026
 

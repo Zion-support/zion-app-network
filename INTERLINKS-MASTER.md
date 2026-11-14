@@ -278,5 +278,13 @@ New themed cluster — 8 live apps + 2 open-source tools, all interlinked:
 
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/network-governance-trust-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-governance-trust-2026.md](INTERLINKS-governance-trust-2026.md).
 
+## 📞 AI Voice & Missed-Call Automation for Field Services (2026-11-14)
+
+New themed cluster — wake-on-call voice agent for local services (FE's & technicians — top priority):
+
+- [zion-voice-field-automation](https://github.com/Zion-support/zion-voice-field-automation) ↔ [app-network-voice-field-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html)
+
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-voice-field-2026.md](INTERLINKS-voice-field-2026.md).
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
