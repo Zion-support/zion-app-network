@@ -386,6 +386,23 @@ Overview: https://ziontechgroup.com/apps/october-2026-batch108-travel-ai.html
 | [tailings-dam-monitor](https://github.com/Zion-support/tailings-dam-monitor) | Tailings dam monitoring — piezometer/InSAR signals, GISTM compliance alerts | https://ziontechgroup.com/tailings-dam-monitor/ |
 
 Overview: https://ziontechgroup.com/apps/october-2026-batch109-mining-ai.html
+## Batch 110 — Platform, Agents & LatAm Field Playbooks (2026-11) (11)
+
+|| Repository | What it does | Live app |
+||---|---|---|
+| zion-agent-bridge | Pending coordination with existing owner before catalog/deploy (private infrastructure — held) | No public deployment |
+|| zion-agent-listener | Pending coordination with existing owner before catalog/deploy (private infrastructure — held) | No public deployment |
+|| [zion-ai-meeting-copilot](https://github.com/Zion-support/zion-ai-meeting-copilot) | AI meeting copilot — recording, transcription, action items and next-best-action. | https://meeting-copilot.ziontechgroup.com/ |
+|| [zion-ai-regs-radar](https://github.com/Zion-support/zion-ai-regs-radar) | Global AI regulation and compliance tracker across territories. | https://ziontechgroup.com/zion-ai-regs-radar/ |
+|| [zion-content-studio](https://github.com/Zion-support/zion-content-studio) | Standalone content production, translation and publishing pipeline. | https://ziontechgroup.com/zion-content-studio/ |
+|| [zion-edge-ai-platform](https://github.com/Zion-support/zion-edge-ai-platform) | Edge AI deployment platform — models, inference and telemetry at the edge. | https://ziontechgroup.com/zion-edge-ai-platform/ |
+|| [zion-discovery](https://github.com/Zion-support/discovery) | Free Discovery — process diagnostic in 7 days, delivered to client + commercial@ziontechgroup.com. | https://ziontechgroup.com/discovery/ |
+|| [zion-plans](https://github.com/Zion-support/zion-plans) | Discovery, Consulting, Starter, Growth — official catalog. | https://ziontechgroup.com/plans/ |
+|| [zion-tools](https://github.com/Zion-support/zion-tools) | ROI, FinOps and SLA calculators for operators. | https://ziontechgroup.com/zion-tools/ |
+|| [zion-field-banking](https://github.com/Zion-support/zion-field-banking) | Field playbook — banking vertical. Local notes, not a cloned flagship. | https://ziontechgroup.com/zion-field-banking/ |
+|| [zion-field-customs](https://github.com/Zion-support/zion-field-customs) | Field playbook — customs vertical. Local notes. | https://field-customs.ziontechgroup.com/ |
+
+Spotlight: - · Homepage pack: - · Network hub: https://ziontechgroup.com/zion-app-network/
 
 ## Governance & AI Trust (2026-11-08) — new themed cluster
 See [APPS_INDEX-BATCH114-GOVERNANCE.md](APPS_INDEX-BATCH114-GOVERNANCE.md) for the rollup + app list. Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/network-governance-trust-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-governance-trust-2026.md](INTERLINKS-governance-trust-2026.md). This consolidation keeps the master index at a curated-subset level; the authoritative per-batch rollups live in APPS_INDEX-BATCH-*.md / APPS_INDEX-BATCHES-*.md.
