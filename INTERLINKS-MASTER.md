@@ -294,5 +294,20 @@ New themed cluster — free 48-hour diagnostic sprint + pain-to-payback + scoped
 
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-operations-diagnostic-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-operations-diagnostic-2026.md](INTERLINKS-operations-diagnostic-2026.md).
 
+## 🤖 AI Stack Matcher (2026-11-14)
+New themed cluster — build/blend/buy verdict + 3-year TCO + orchestration comparison:
+- [zion-ai-stack-matcher](https://github.com/Zion-support/zion-ai-stack-matcher) ↔ [app-network-ai-stack-matcher-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-stack-matcher-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-stack-matcher-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-stack-matcher-2026.md](INTERLINKS-ai-stack-matcher-2026.md).
+
+## 💰 SaaS Optimization & ROI Calculator (2026-11-14)
+New themed cluster — license waster audit + cloud spend modeler + payback estimator (FinOps):
+- [zion-saas-optimization](https://github.com/Zion-support/zion-saas-optimization) ↔ [app-network-saas-optimization-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-saas-optimization-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-saas-optimization-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-saas-optimization-2026.md](INTERLINKS-saas-optimization-2026.md).
+
+## 🌐 GEO Topic Clusters & AI Search Visibility (2026-11-14)
+New themed cluster — pillar content engine + FAQ + comparison scorecards + GEO audit (SEO/AI visibility):
+- [zion-geo-topics](https://github.com/Zion-support/zion-geo-topics) ↔ [app-network-geotopics-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-geotopics-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-geotopics-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-geotopics-2026.md](INTERLINKS-geotopics-2026.md).
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/

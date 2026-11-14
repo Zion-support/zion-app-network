@@ -455,5 +455,30 @@ New themed cluster — curated catalog of narrow pre-configured AI agents (servi
 |---|---|---|
 | [zion-agent-marketplace](https://github.com/Zion-support/zion-agent-marketplace) | Curated catalog of narrow pre-configured AI agents with human-in-the-loop approval — published 5-language showcase | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-agent-marketplace-2026.html) |
 
+## 🤖 AI Stack Matcher (2026-11-14)
+
+New themed cluster — build/blend/buy verdict + 3-year TCO + orchestration comparison, for FE's & technicians:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ai-stack-matcher](https://github.com/Zion-support/zion-ai-stack-matcher) | Build/blend/buy verdict, 3-year TCO, orchestration comparison (LangChain vs LangGraph vs crewAI vs custom) | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-stack-matcher-2026.html) |
+
+## 💰 SaaS Optimization & ROI Calculator (2026-11-14)
+
+New themed cluster — license waster audit + cloud spend modeler + payback estimator (FinOps), for FE's & technicians:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-saas-optimization](https://github.com/Zion-support/zion-saas-optimization) | License waster audit, cloud spend modeler, payback estimator, LLM cost optimizer | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-saas-optimization-2026.html) |
+
+## 🌐 GEO Topic Clusters & AI Search Visibility (2026-11-14)
+
+New themed cluster — pillar content engine + FAQ + comparison scorecards + GEO audit (SEO/AI visibility):
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-geo-topics](https://github.com/Zion-support/zion-geo-topics) | Pillar content engine, FAQ + direct-answer blocks, comparison scorecards, GEO audit tool | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-geotopics-2026.html) |
+
 ---
+
 
