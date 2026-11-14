@@ -1,0 +1,25 @@
+# Interlink Map — Implementation Vault (Batch 121)
+
+Master interlink map for the implementation vault cluster, linking all apps and the live hub.
+
+## Live hub & showcase
+
+- Hub: `app-network-implementation-vault-2026.html` → `https://ziontechgroup.com/zion-app-network/app/app-network-implementation-vault-2026.html`
+- Repo: `zion-implementation-vault` → `https://github.com/Zion-support/zion-implementation-vault`
+
+## App-cluster interlinks (internal)
+
+- `app-network-implementation-vault-2026` ↔ `app-network-voice-field-2026` (voice deployment runbook)
+- `app-network-implementation-vault-2026` ↔ `app-network-agent-marketplace-2026` (agent deployment)
+- `app-network-implementation-vault-2026` ↔ `app-network-diagnostic-sprint-2026` (discovery → implementation)
+
+## Discovery & commercial
+
+- Discovery: `https://ziontechgroup.com/discovery/`
+- Commercial BCC: `commercial@ziontechgroup.com`
+- Pricing rule: minimum 40% markup over all-in cost for Zion; quote shared after client confirms need + PO.
+
+## Notes
+
+- All interlinks follow the canonical URL convention `https://ziontechgroup.com/zion-app-network/app/<slug>.html` + `hreflang` alternates for EN/PT-BR/ES/FR/DE.
+- Languages: en (canonical), pt-BR, es, fr, de.

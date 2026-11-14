@@ -496,6 +496,23 @@ New themed cluster — pillar content engine + FAQ + comparison scorecards + GEO
 |---|---|---|
 | [zion-geo-topics](https://github.com/Zion-support/zion-geo-topics) | Pillar content engine, FAQ + direct-answer blocks, comparison scorecards, GEO audit tool | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-geotopics-2026.html) |
 
+## 📦 Implementation Vault (2026-11-14)
+
+New themed cluster — 5-phase implementation with client sign-off at each gate, named-owner checklists, launch checklist, adoption metric:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-implementation-vault](https://github.com/Zion-support/zion-implementation-vault) | 5-phase implementation (planning → design → UAT → deployment → close-out) with client sign-off at each gate | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-implementation-vault-2026.html) |
+
+## 🏛️ Vertical Trust & Regulated-Industry AI Agents (2026-11-14)
+
+New themed cluster — compliance rule index + audit-trail runbook + human-approval workflow + data-residency controls for regulated verticals (financial services, healthcare, legal, government):
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-vertical-trust](https://github.com/Zion-support/zion-vertical-trust) | Per-vertical compliance rules, audit-trail runbook, human-approval workflow, data-residency controls | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-vertical-trust-2026.html) |
+
 ---
+
 
 

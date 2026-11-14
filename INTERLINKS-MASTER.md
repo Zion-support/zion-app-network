@@ -309,5 +309,10 @@ New themed cluster — pillar content engine + FAQ + comparison scorecards + GEO
 - [zion-geo-topics](https://github.com/Zion-support/zion-geo-topics) ↔ [app-network-geotopics-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-geotopics-2026.html)
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-geotopics-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-geotopics-2026.md](INTERLINKS-geotopics-2026.md).
 
+## 🏛️ Vertical Trust & Regulated-Industry AI Agents (2026-11-14)
+New themed cluster — compliance rule index + audit-trail runbook + human-approval workflow + data-residency controls for regulated verticals (financial services, healthcare, legal, government):
+- [zion-vertical-trust](https://github.com/Zion-support/zion-vertical-trust) ↔ [app-network-vertical-trust-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-vertical-trust-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-vertical-trust-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-vertical-trust-2026.md](INTERLINKS-vertical-trust-2026.md).
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
