@@ -430,6 +430,15 @@ These entries describe inspected concepts, not certified production apps. Existi
 | [Underwriting Copilot AI](https://github.com/Zion-support/underwriting-copilot-ai) | Underwriting-intake workflow concept; no AI engine implemented | [Planning page](https://ziontechgroup.com/underwriting-copilot-ai/) |
 | [Claims Automation AI](https://github.com/Zion-support/claims-automation-ai) | Claims-evidence workflow concept; no AI engine implemented | [Planning page](https://ziontechgroup.com/claims-automation-ai/) |
 
+## 🔍 AI Operations Diagnostic Sprint (2026-11-14)
+
+New themed cluster — free 48-hour diagnostic sprint + pain-to-payback + scoped 2-week build, for FE's & technicians:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ops-diagnostic-sprint](https://github.com/Zion-support/zion-ops-diagnostic-sprint) | 48-hour free diagnostic sprint + pain-to-payback + scoped 2-week build | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-operations-diagnostic-2026.html) |
+
+---
 ## 📞 AI Voice & Missed-Call Automation for Field Services (2026-11-14)
 
 New themed cluster — wake-on-call voice agent for local services (FE's & technicians — top priority):

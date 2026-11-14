@@ -286,5 +286,13 @@ New themed cluster — wake-on-call voice agent for local services (FE's & techn
 
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-voice-field-2026.md](INTERLINKS-voice-field-2026.md).
 
+## 🔍 AI Operations Diagnostic Sprint (2026-11-14)
+
+New themed cluster — free 48-hour diagnostic sprint + pain-to-payback + scoped 2-week build, for FE's & technicians:
+
+- [zion-ops-diagnostic-sprint](https://github.com/Zion-support/zion-ops-diagnostic-sprint) ↔ [app-network-operations-diagnostic-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-operations-diagnostic-2026.html)
+
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-operations-diagnostic-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-operations-diagnostic-2026.md](INTERLINKS-operations-diagnostic-2026.md).
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
