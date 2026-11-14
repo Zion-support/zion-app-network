@@ -447,4 +447,13 @@ New themed cluster — wake-on-call voice agent for local services (FE's & techn
 |---|---|---|
 | [zion-voice-field-automation](https://github.com/Zion-support/zion-voice-field-automation) | Wake-on-call voice agent + job booking + dispatch — published 5-language showcase | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html) |
 
+## 🤖 Agent Marketplace for Local Services (2026-11-14)
+
+New themed cluster — curated catalog of narrow pre-configured AI agents (service triage, quote follow-up, review response, appointment reminders) with human-in-the-loop approval, for FE's & technicians:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-agent-marketplace](https://github.com/Zion-support/zion-agent-marketplace) | Curated catalog of narrow pre-configured AI agents with human-in-the-loop approval — published 5-language showcase | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-agent-marketplace-2026.html) |
+
 ---
+
