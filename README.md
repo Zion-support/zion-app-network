@@ -63,6 +63,8 @@ The workbench records six evidence-planning fields, identifies missing fields an
 - 🌐 Batch 126 — Content Intelligence & GEO Agent: [interlinks](INTERLINKS-content-intelligence-geo-agent-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html)
 - 🤖 Batch 127 — AI Recruiting Pipeline Agent: [interlinks](INTERLINKS-ai-recruiting-pipeline-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html)
 - 🌐 Batch 128 — AI Customer Support Agent: [interlinks](INTERLINKS-ai-customer-support-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html)
+- 🌐 Batch 129 — AI Marketing Campaign Agent: [interlinks](INTERLINKS-ai-marketing-campaign-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-marketing-campaign-2026.html)
+- 🤖 Batch 130 — AI Sales Outreach & Multi-Channel Engagement: [interlinks](INTERLINKS-ai-sales-outreach-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sales-outreach-2026.html)
 
 ## Recent app clusters — Q4 2026
 

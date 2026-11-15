@@ -362,6 +362,15 @@ support (EN/PT-BR/ES/FR/DE), and human handoff with full conversation context pr
 - [zion-ai-customer-support](https://github.com/Zion-support/zion-ai-customer-support) ↔ [app-network-ai-customer-support-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html)
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-customer-support-2026.md](INTERLINKS-ai-customer-support-2026.md).
 
+## 🌐 Batch 129 — AI Marketing Campaign Agent (2026-11-14)
+
+New concept app — multi-agent marketing system: campaign lead agent plans, specialist agents (content, social, SEO,
+ad copy, repurposing) execute across channels, human approves brand-critical pieces. Cuts content time 60-80%,
+software costs 50-70%:
+
+- [zion-ai-marketing-campaign](https://github.com/Zion-support/zion-ai-marketing-campaign) ↔ [app-network-ai-marketing-campaign-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-marketing-campaign-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-marketing-campaign-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-marketing-campaign-2026.md](INTERLINKS-ai-marketing-campaign-2026.md).
+
 ## 🤖 Batch 127 — AI Recruiting Pipeline Agent (2026-11-14)
 
 New concept app — end-to-end hiring automation: sourcing → conversational screening → interview scheduling → candidate
@@ -369,6 +378,14 @@ engagement → ATS/CRM write-back, with recruiter-in-the-loop approvals — buil
 
 - [zion-ai-recruiting-pipeline](https://github.com/Zion-support/zion-ai-recruiting-pipeline) ↔ [app-network-ai-recruiting-pipeline-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html)
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-recruiting-pipeline-2026.md](INTERLINKS-ai-recruiting-pipeline-2026.md).
+
+## 🌐 Batch 130 — AI Sales Outreach & Multi-Channel Engagement (2026-11-14)
+
+New concept app — multi-channel outbound automation: account research, contact enrichment, personalised outreach,
+multi-touch sequences (email/LinkedIn/phone), reply handling, CRM write-back, deliverability monitoring:
+
+- [zion-ai-sales-outreach](https://github.com/Zion-support/zion-ai-sales-outreach) ↔ [app-network-ai-sales-outreach-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sales-outreach-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-sales-outreach-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-sales-outreach-2026.md](INTERLINKS-ai-sales-outreach-2026.md).
 
 ---
 

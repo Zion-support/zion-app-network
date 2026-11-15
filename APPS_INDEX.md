@@ -569,6 +569,25 @@ support (EN/PT-BR/ES/FR/DE), and human handoff with full conversation context pr
 |---|---|---|
 | [zion-ai-customer-support](https://github.com/Zion-support/zion-ai-customer-support) | Knowledge-grounded agent, ticket triage & routing, resolution, 5-language support, human handoff, support analytics | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html) |
 
+## 🌐 Batch 129 — AI Marketing Campaign Agent (2026-11-14)
+
+New concept app — multi-agent marketing system: campaign lead agent plans, specialist agents (content, social, SEO,
+ad copy, repurposing) execute across channels, human approves brand-critical pieces. Cuts content time 60-80%,
+software costs 50-70%:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ai-marketing-campaign](https://github.com/Zion-support/zion-ai-marketing-campaign) | Campaign lead, content generation, repurposing, SEO & metadata, social media, competitive monitoring | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-marketing-campaign-2026.html) |
+
+## 🤖 Batch 130 — AI Sales Outreach & Multi-Channel Engagement (2026-11-14)
+
+New concept app — multi-channel outbound automation: account research, contact enrichment, personalised outreach,
+multi-touch sequences (email/LinkedIn/phone), reply handling, CRM write-back, deliverability monitoring:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ai-sales-outreach](https://github.com/Zion-support/zion-ai-sales-outreach) | Research agent, enrichment agent, personalised writer, multi-touch sequencing, reply handling, CRM write-back, deliverability | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sales-outreach-2026.html) |
+
 ---
 
 
