@@ -41,5 +41,19 @@ Zion não precisa vender o serviço do parceiro; entrega a **camada complementar
 | BBhering Serviços de Manutenção | São Paulo | Manutenção industrial. |
 ### Oportunidade de Zion
 - Manutenção preventiva/correctiva de equipamentos pesados + co-management de NOC/SOC.
-- Acompanhamento remoto (camara conectada + IA) + presencial meio-termo.
+- Acompanhamento remoto (câmera conectada + IA) + presencial meio-termo.
+- Alinhado ao hub de Field Service & AI Operations já publicado.
+
+## Setor vertical — Saúde & Telemedicina (novo)
+### Por que é atrativo para Zion
+Saúde/digital health é um mercado de conformidade e alto volume de imagem e dados; o parceiro de saúde precisa de suporte presencial (campo) + TI para telemedicina, tomada de imagens, repoção de equipamentos de diagnóstico e AI ops na operação.
+### Origens da pesquisa (RevenueBase, 2026)
+| Empresa | Cidade | Foco |
+|---|---|---|
+| Conexa Saúde | Belo Horizonte / RJ | Telemedicina preventiva, 672 contatos |
+| DDoctoralia | Curitiba | Agendamento online de consultas, 773 contatos |
+| Docway | São Paulo | Infraestrutura de telemedicina (Twilio), prolífico |
+| My Brazilian Doctor | São Paulo | Telemedicina para pacientes internacionais |
+### Oportunidade de Zion
+- Suporte presencial e AI ops para clínicas e centros de diagnóstico: repoção de equipamentos de imagem, manutenção de servidores de telemedicina, camera conectada + IA, playbooks de privacidade de saúde.
 - Alinhado ao hub de Field Service & AI Operations já publicado.
