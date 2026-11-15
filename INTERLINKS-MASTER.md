@@ -314,5 +314,28 @@ New themed cluster — compliance rule index + audit-trail runbook + human-appro
 - [zion-vertical-trust](https://github.com/Zion-support/zion-vertical-trust) ↔ [app-network-vertical-trust-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-vertical-trust-2026.html)
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-vertical-trust-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-vertical-trust-2026.md](INTERLINKS-vertical-trust-2026.md).
 
+## 📣 Batch 123 — AI Sales & Lead-Gen Specialist (2026-11-14)
+
+New concept app — free, always-online lead-engineering pipeline: scans all email labels (inbox + folders, oldest to
+newest) for service requests & technician inquiries, enriches contacts (location, company, prior work, pricing),
+drafts CRM + personalised outreach, and hands off to the agent marketplace and implementation vault — for FE's
+& technicians.
+
+- [zion-sales-leadgen](https://github.com/Zion-support/zion-sales-leadgen) ↔
+  [app-network-sales-leadgen-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-sales-leadgen-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-sales-leadgen-2026.html
+(+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-sales-leadgen-2026.md](INTERLINKS-sales-leadgen-2026.md).
+
+## 🌐 Batch 124 — Multilingual Localization Hub (2026-11-14)
+
+New concept app — the living standard for the 5-language network (EN/PT-BR/ES/FR/DE): hreflang best practice,
+per-language content matrix, translation toolkit, per-language SEO, and a cultural-localization checklist.
+
+- [zion-multilingual-localization](https://github.com/Zion-support/zion-multilingual-localization) ↔
+  [app-network-multilingual-localization-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-multilingual-localization-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-multilingual-localization-2026.html
+(+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-multilingual-localization-2026.md](INTERLINKS-multilingual-localization-2026.md).
+
 ---
+
 © 2026 Zion Tech Group · https://ziontechgroup.com/
