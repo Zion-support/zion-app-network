@@ -27,5 +27,19 @@ Levantamento e diagnóstico gratuitos em 7 dias, entregues por e-mail para o cli
 - Demos e landing de apps: https://ziontechgroup.com/zion-app-network/
 - Network app directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
 
-## Language matrix
-PT-BR (padrão), EN, ES, FR, DE — consistente com o diretório de apps (5 idiomas).
+## Setor vertical — Manutenção de máquinas industriais (São Paulo)
+### Por que é atrativo para Zion
+Zion não precisa vender o serviço do parceiro; entrega a **camada complementar** (field engineering + infraestrutura + AI ops) que o contrato do parceiro não cobre. Setores industrial/máquinas = nível crítico alto, muita reposição de peças/atenção presencial e baixa facilidade de inhouse.
+### Origens da pesquisa (RevenueBase, Porto/Janeiro, 2026)
+| Empresa | Cidade | Foco |
+|---|---|---|
+| Ventura Power | São Paulo | Manutenção de turbinas a gás/óleo, reparos, refab. |
+| Tractian | São Paulo | Inteligência de máquina / monitoramento industrial. |
+| GGrupo Enesa | São Paulo | Serviços industriais, 2.458 contatos. |
+| GGTAFIX | São Paulo | Infraestrutura/segurança/automação industrial. |
+| JJoetec | São Paulo | 501-1.000 PF, 144 contatos. |
+| BBhering Serviços de Manutenção | São Paulo | Manutenção industrial. |
+### Oportunidade de Zion
+- Manutenção preventiva/correctiva de equipamentos pesados + co-management de NOC/SOC.
+- Acompanhamento remoto (camara conectada + IA) + presencial meio-termo.
+- Alinhado ao hub de Field Service & AI Operations já publicado.
