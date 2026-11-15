@@ -78,6 +78,16 @@ Related: [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-co
 - [customs-doc-generator](https://github.com/Zion-support/customs-doc-generator) — https://ziontechgroup.com/customs-doc-generator/
 - [ai-smart-hands-scheduler](https://github.com/Zion-support/ai-smart-hands-scheduler) — https://ai-smart-hands-scheduler.ziontechgroup.com
 
+## Field Services & AI Operations Hub (Healthcare & Telemedicine)
+
+Vertical bundle for clinics, labs, imaging centers and healthcare providers scaling in Brazil.
+Complementary layer to the core field-service toolchain (not a replacement).
+
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-healthcare-telemedicina.html
+Spotlight: [SPOTLIGHT-2026-11-15-BATCH-healthcare-telemedicina.md](SPOTLIGHT-2026-11-15-BATCH-healthcare-telemedicina.md)
+Interlinks: [INTERLINKS-healthcare-telemedicina.md](INTERLINKS-healthcare-telemedicina.md)
+Homepage pack: [homepage-content-healthcare-telemedicina.md](homepage-content-healthcare-telemedicina.md)
+
 ## Revenue, Contracts & Compliance Cluster
 - [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — https://ziontechgroup.com/contract-renewal-radar/
 - [license-renewal-planner](https://github.com/Zion-support/license-renewal-planner) — https://ziontechgroup.com/license-renewal-planner/

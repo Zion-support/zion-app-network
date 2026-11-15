@@ -36,5 +36,14 @@ Hub promoted to v13 (0e76941). Tail: 183/194 already live, 11 restored (6 new la
 ## Complete Network 2026 — 24 live-verified (15 Oct 2026, session baby)
 [EN](https://ziontechgroup.com/zion-app-network/app/network-complete-network-2026-showcase.html) · PT/ES/FR/DE variants · [Spotlight](SPOTLIGHT-2026-10-15-COMPLETE-NETWORK.md) · [Master Index](APPS_INDEX-MASTER-2026-10-15.md)
 
+## Field Services & AI Operations Hub — Healthcare & Telemedicine (15 Nov 2026)
+
+Complementary Field Services & AI Operations Hub: field engineering + remote experts + AI operations for clinics, labs, imaging centers and providers scaling in Brazil. Complementary layer to the core field-service toolchain.
+
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-healthcare-telemedicina.html
+Spotlight: [SPOTLIGHT-2026-11-15-BATCH-healthcare-telemedicina.md](SPOTLIGHT-2026-11-15-BATCH-healthcare-telemedicina.md)
+Interlinks: [INTERLINKS-healthcare-telemedicina.md](INTERLINKS-healthcare-telemedicina.md)
+Homepage pack: [homepage-content-healthcare-telemedicina.md](homepage-content-healthcare-telemedicina.md)
+
 ## Earlier batches
 Restored Q–Z (22), M–P (33), G–L (25), F (11), D–E (29), C–E (12), A–E (12) and earlier families — see hub https://ziontechgroup.com/zion-app-network/ and SPOTLIGHT files. Full history in git log.
