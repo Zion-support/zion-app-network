@@ -45,5 +45,15 @@ Spotlight: [SPOTLIGHT-2026-11-15-BATCH-healthcare-telemedicina.md](SPOTLIGHT-202
 Interlinks: [INTERLINKS-healthcare-telemedicina.md](INTERLINKS-healthcare-telemedicina.md)
 Homepage pack: [homepage-content-healthcare-telemedicina.md](homepage-content-healthcare-telemedicina.md)
 
+## Field Services & AI Operations Hub — Energy & Utilities (15 Nov 2026)
+
+Energy and utilities bundle: grid load, renewable forecasting, carbon accounting,
+energy audit and optimisation.
+
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-energy-utilities.html
+Spotlight: [SPOTLIGHT-2026-11-15-BATCH-energy-utilities.md](SPOTLIGHT-2026-11-15-BATCH-energy-utilities.md)
+Interlinks: [INTERLINKS-energy-utilities.md](INTERLINKS-energy-utilities.md)
+Homepage pack: [homepage-content-energy-utilities.md](homepage-content-energy-utilities.md)
+
 ## Earlier batches
 Restored Q–Z (22), M–P (33), G–L (25), F (11), D–E (29), C–E (12), A–E (12) and earlier families — see hub https://ziontechgroup.com/zion-app-network/ and SPOTLIGHT files. Full history in git log.

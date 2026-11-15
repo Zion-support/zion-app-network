@@ -88,6 +88,16 @@ Spotlight: [SPOTLIGHT-2026-11-15-BATCH-healthcare-telemedicina.md](SPOTLIGHT-202
 Interlinks: [INTERLINKS-healthcare-telemedicina.md](INTERLINKS-healthcare-telemedicina.md)
 Homepage pack: [homepage-content-healthcare-telemedicina.md](homepage-content-healthcare-telemedicina.md)
 
+## Field Services & AI Operations Hub — Energy & Utilities
+
+Energy and utilities bundle: grid load, renewable forecasting, carbon accounting,
+energy audit and optimisation. Complements the field-services and healthcare layers.
+
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-energy-utilities.html
+Spotlight: [SPOTLIGHT-2026-11-15-BATCH-energy-utilities.md](SPOTLIGHT-2026-11-15-BATCH-energy-utilities.md)
+Interlinks: [INTERLINKS-energy-utilities.md](INTERLINKS-energy-utilities.md)
+Homepage pack: [homepage-content-energy-utilities.md](homepage-content-energy-utilities.md)
+
 ## Revenue, Contracts & Compliance Cluster
 - [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — https://ziontechgroup.com/contract-renewal-radar/
 - [license-renewal-planner](https://github.com/Zion-support/license-renewal-planner) — https://ziontechgroup.com/license-renewal-planner/
