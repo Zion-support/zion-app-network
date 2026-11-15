@@ -551,6 +551,19 @@ content-gap brief generator, 5-language localization:
 |---|---|---|
 | [zion-content-intelligence-geo-agent](https://github.com/Zion-support/zion-content-intelligence-geo-agent) | Content-intelligence scanner, GEO visibility monitor, competitor benchmarking, content-gap brief generator, 5-language localization | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html) |
 
+## 🤖 Batch 11b — Data, AI & Reliability Cluster (2026-11-15)
+
+AI operations: observability, SLA tracking, incident response, ops runbooks and AI agent workflows. Complementary to field services and the healthcare & energy hubs:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) | AI-agent latency, cost and uptime SLA tracking | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-observability-reliability.html) |
+| [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) | AI-assisted runbooks, diagnosis and escalation | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-observability-reliability.html) |
+| [incident-response](https://github.com/Zion-support/incident-response) | Automated triage, response and containment | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-observability-reliability.html) |
+| [agent-builder](https://github.com/Zion-support/agent-builder) | Build and deploy AI agents with guardrails | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-observability-reliability.html) |
+| [field-force-ai](https://github.com/Zion-support/field-force-ai) | Field deployment and coordination of AI infrastructure | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-observability-reliability.html) |
+
+
 ## 🤖 Batch 127 — AI Recruiting Pipeline Agent (2026-11-14)
 
 New concept app — end-to-end hiring automation: sourcing → conversational screening → interview scheduling → candidate

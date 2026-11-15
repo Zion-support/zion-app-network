@@ -98,6 +98,15 @@ Spotlight: [SPOTLIGHT-2026-11-15-BATCH-energy-utilities.md](SPOTLIGHT-2026-11-15
 Interlinks: [INTERLINKS-energy-utilities.md](INTERLINKS-energy-utilities.md)
 Homepage pack: [homepage-content-energy-utilities.md](homepage-content-energy-utilities.md)
 
+## Data, AI & Reliability Cluster (Batch 11b — Nov 15, 2026)
+
+Observability, SLA tracking, incident response, operations runbooks and AI agent workflows for production AI.
+
+Showcase: https://ziontechgroup.com/zion-app-network/app-network-ai-observability-reliability.html
+Spotlight: [SPOTLIGHT-2026-11-15-BATCH-ai-observability-reliability.md](SPOTLIGHT-2026-11-15-BATCH-ai-observability-reliability.md)
+Interlinks: [INTERLINKS-ai-observability-reliability.md](INTERLINKS-ai-observability-reliability.md)
+Homepage pack: [homepage-content-ai-observability-reliability.md](homepage-content-ai-observability-reliability.md)
+
 ## Revenue, Contracts & Compliance Cluster
 - [contract-renewal-radar](https://github.com/Zion-support/contract-renewal-radar) — https://ziontechgroup.com/contract-renewal-radar/
 - [license-renewal-planner](https://github.com/Zion-support/license-renewal-planner) — https://ziontechgroup.com/license-renewal-planner/
