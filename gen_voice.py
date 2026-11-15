@@ -4,108 +4,108 @@ WORK = '/Users/miami2/.hermes/profiles/agent-finops-ops/cache/apphub'
 os.makedirs(WORK, exist_ok=True)
 
 BASE = 'https://ziontechgroup.com/zion-app-network/app'
-CANON = f'{BASE}/app-network-voice-field-2026.html'
+CANON = f'{BASE}/app-network-ai-voice-omnichannel-2026.html'
 L = {
-    'pt': f'{BASE}/app-network-voice-field-2026-pt.html',
-    'es': f'{BASE}/app-network-voice-field-2026-es.html',
-    'fr': f'{BASE}/app-network-voice-field-2026-fr.html',
-    'de': f'{BASE}/app-network-voice-field-2026-de.html',
+    'pt': f'{BASE}/app-network-ai-voice-omnichannel-2026-pt.html',
+    'es': f'{BASE}/app-network-ai-voice-omnichannel-2026-es.html',
+    'fr': f'{BASE}/app-network-ai-voice-omnichannel-2026-fr.html',
+    'de': f'{BASE}/app-network-ai-voice-omnichannel-2026-de.html',
 }
 LANGS = [('en', CANON), ('pt-BR', L['pt']), ('es', L['es']), ('fr', L['fr']), ('de', L['de'])]
 
 BODY = {
     'en': {
-        'langbar': '<nav class="langbar">🌐 <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html">English</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-fr.html">Français</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-de.html">Deutsch</a></nav>',
-        'title': 'AI Voice & Missed-Call Automation — Field Services — Zion Tech Group',
-        'description': 'Wake-on-call voice agent answers missed calls, books the job, and dispatches the technician — 24/7 in your language.',
-        'h1': '📞 AI Voice & Missed-Call Automation for Field Services',
-        'pitch': 'A single coordinated voice-automation module for local services: wake-on-call, job booking, site capture, and technician dispatch — online and free, with a 40%+ markup margin for Zion. Built for electricians, plumbers, HVAC, locksmiths, contractors and field teams.',
+        'langbar': '<nav class="langbar">🌐 <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html">English</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-fr.html">Français</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-de.html">Deutsch</a></nav>',
+        'title': 'AI Voice & Omnichannel Contact Center — 24/7 Voice + SMS + Chat + WhatsApp',
+        'description': 'Free AI Voice & Omnichannel Contact Center hub: voice AI for inbound and outbound campaigns, knowledge-base-grounded answers, qualification, booking, and human handoff — phone, SMS, chat, WhatsApp, and WebRTC, in all five languages.',
+        'h1': '🤖 AI Voice & Omnichannel Contact Center',
+        'pitch': 'Every phone call — inbound or outbound — gets answered, qualified, and booked, 24/7, in every language we serve, with human handoff when it counts. Voice AI that runs phone + SMS + chat + WhatsApp + WebRTC end-to-end, answers from your knowledge base, writes outcomes to your CRM, and hot-transfers to live agents with full context. Built for Zion\'s client-facing service business.',
         'cards': [
-            ('📞 Wake-on-Call Voice Agent', 'Answers the phone when your team is busy, captures the site address and job summary, books the job.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📅 Job Booking & Dispatch', 'Converts a call into a dispatcher queue with postcode, site count and SLA — no more dropped quotes.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🌐 5-Language Call Answering', 'Answers in the customer\'s language — EN / Português / Español / Français / Deutsch — matching the network standard.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📊 Missed-Call → Booking Analytics', 'Missed-call rate, conversion per call, answer time and booked-vs-quoted by operator.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🔔 Auto-Handoff to Technicians', 'Flags every call as unassigned after 60 seconds and pages the on-duty field tech.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('💬 SMS / WhatsApp Confirmation', 'Caller gets a one-touch confirmation so the job is never lost between the shop floor and the site.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
+            ('📞 Voice Agent', 'Answers inbound and runs outbound campaigns; qualifies against criteria on a deterministic flow; hot-transfers to a live rep with full call context.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📱 Omnichannel Coverage', 'Phone, SMS, chat, WhatsApp, and WebRTC with native connectors (Twilio, Genesys, Amazon Connect, SIP trunking) and mid-conversation language switching.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📚 Knowledge-Grounded Answers', 'Answers from the company\'s knowledge base, FAQ, and policy documents — no hallucination, fully grounded in your assets.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🗣️ Speech-to-Text + Sentiment', 'Real-time transcription, call scoring, and sentiment analysis for QA and rep coaching.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📅 Appointment & Lead Booking', 'Confirms, books, and routes qualified leads; writes outcomes to the CRM automatically.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🙋 Human Handoff', 'Escalates complex cases to live agents with full conversation context, intent data, and a summary of the interaction.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
         ],
-        'discovery_h2': '🧭 Free AI Discovery — always online, always free',
-        'discovery_p': 'Need a voice-automation rollout for your field team? Take our free Discovery questionnaire: your personalised AI discovery report is generated instantly and emailed to you and our commercial team (commercial@ziontechgroup.com) for fast, tailored follow-up.',
+        'discovery_h2': '🧭 Free Discovery — always online, always free',
+        'discovery_p': 'Tell us your voice + omnichannel needs, and we\'ll plan, build, and configure your 24/7 voice agent — answers from your knowledge base, qualified leads booked, routine requests resolved, complex cases escalated with full context. Your plan is emailed to you and our commercial team (commercial@ziontechgroup.com).',
         'discovery_cta1': 'Start Free Discovery',
         'discovery_cta2': 'Browse the App Network',
     },
     'pt': {
-        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html">English</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-fr.html">Français</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-de.html">Deutsch</a></nav>',
-        'title': 'Automação de Voz com IA e Chamadas Perdidas — Serviços de Campo — Zion Tech Group',
-        'description': 'Agente de voz wake-on-call responde a chamadas perdidas, agenda o trabalho e despacha o técnico — 24/7, no seu idioma.',
-        'h1': '📞 Automação de Voz com IA para Serviços de Campo',
-        'pitch': 'Módulo único de automação por voz para serviços locais: wake-on-call, agendamento de trabalho, captura de sites e despacho de técnicos — online e gratuito, com margem de 40%+ para a Zion. Feito para eletricistas, encanadores, climatização, fechadores, contratistas e equipes de campo.',
+        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html">English</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-fr.html">Français</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-de.html">Deutsch</a></nav>',
+        'title': 'Agente de Contato por Voz & Omnichannel — Voz + SMS + Chat + WhatsApp — Zion Tech Group',
+        'description': 'Hub gratuito de Agente de Contato por Voz & Omnichannel: voz AI para campanhas inbound e outbound, respostas fundamentadas em base de conhecimento, qualificação, agendamento e mão de mão humana — telefone, SMS, chat, WhatsApp e WebRTC, em todos os cinco idiomas.',
+        'h1': '🤖 Agente de Contato por Voz & Omnichannel',
+        'pitch': 'Todo chamado telefônico — inbound ou outbound — é atendido, qualificado e contratado, 24/7, em todos os idiomas que atendemos, com mão de mão humana quando conta. Voz AI que roda telefone + SMS + chat + WhatsApp + WebRTC em última instância, responde a partir da sua base de conhecimento, escreve resultados no CRM e transfere para agentes humanos com contexto completo. Feito para o negócio de serviço ao cliente da Zion.',
         'cards': [
-            ('📞 Agente de Voz Wake-on-Call', 'Responde o telefone quando a sua equipe está ocupada, capta o endereço do site e o resumo do trabalho e agenda o serviço.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📅 Agendamento e Despacho de Trabalhos', 'Converte uma chamada em uma fila de despacho com número de postos, localização e SLA — sem perder propostas.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🌐 Atendimento por telefone em 5 idiomas', 'Atende no idioma do cliente — EN / Português / Español / Français / Deutsch — em conformidade com o padrão da rede.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📊 Analytics de Chamadas perdidas → Agendamento', 'Taxa de chamadas perdidas, conversão por chamada, tempo de resposta e agendados versus propostos por operador.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🔔 Despacho automático para técnicos', 'Sinaliza cada chamada como não atribuída após 60 segundos e avisa o técnico de campo em serviço.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('💬 Confirmação por SMS / WhatsApp', 'O chamado recebe uma confirmação com um toque para que o trabalho nunca seja perdido entre o fundo da loja e o local.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
+            ('📞 Agente de Voz', 'Atende inbound e executa campanhas outbound; qualifica com base em critérios em um fluxo determinístico; transfere instantaneamente para um recrutador com contexto completo da chamada.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📱 Cobertura Omnichannel', 'Telefone, SMS, chat, WhatsApp e WebRTC com conectores nativos (Twilio, Genesys, Amazon Connect, SIP trunking) e troca de língua durante a conversa.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📚 Respostas com Base de Conhecimento', 'Responde a partir da base de conhecimento, FAQ e documentos de políticas da empresa — sem alucinação, totalmente fundamentado nos seus ativos.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🗣️ Fala para Texto + Sentimento', 'Transcrição em tempo real, pontuação de chamadas e análise de sentimentos para QA e coach de recrutadores.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📅 Agendamento de Visitas e Leads', 'Confirma, agenda e roteia Leads qualificados; escreve resultados automaticamente no CRM.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🙋 Mão de Mão Humana', 'Escala casos complexos para agentes humanos com contexto completo da conversa, dados de intenção e resumo da interação.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
         ],
-        'discovery_h2': '🧭 Descoberta Gratuita de IA — sempre online, sempre gratuita',
-        'discovery_p': 'Precisa de um desdobramento de automação por voz para a sua equipa de campo? Responda o nosso questionário de Descoberta: o seu relatório de IA personalizado é gerado instantaneamente e enviado por e-mail para si e para a nossa equipa comercial (commercial@ziontechgroup.com) para um seguimento rápido e personalizado.',
+        'discovery_h2': '🧭 Descoberta Gratuita — sempre online, sempre gratuita',
+        'discovery_p': 'Conte-nos as suas necessidades de voz + omnicanal e nós planejamos, construímos e configuramos o seu agente de voz 24/7 — respostas a partir da sua base de conhecimento, Leads qualificados agendados, pedidos rotineiros resolvidos, casos complexos escalados com contexto completo. O seu plano é enviado por e-mail para você e nossa equipe comercial (commercial@ziontechgroup.com).',
         'discovery_cta1': 'Iniciar Descoberta Gratuita',
         'discovery_cta2': 'Navegar pela Rede de Aplicativos',
     },
     'es': {
-        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html">English</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-fr.html">Français</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-de.html">Deutsch</a></nav>',
-        'title': 'Automatización de Voz con IA y Llamadas Perdidas — Servicios de Campo — Zion Tech Group',
-        'description': 'Agente de voz wake-on-call contesta las llamadas perdidas, agenda el trabajo y despacha al técnico — 24/7, en su idioma.',
-        'h1': '📞 Automatización de Voz con IA para Servicios de Campo',
-        'pitch': 'Módulo único de automatización por voz para servicios locales: wake-on-call, agendamiento de trabajo, captura de sitio y despacho de técnicos — online y gratuito, con margen de 40%+ para la Zion. Hecho para electricistas, plumbers, climatización, cerrajeros, contratistas y equipos de campo.',
+        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html">English</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-fr.html">Français</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-de.html">Deutsch</a></nav>',
+        'title': 'Agente de Contacto por Voz y Omnicanal — Voz + SMS + Chat + WhatsApp — Zion Tech Group',
+        'description': 'Hub gratuito de Agente de Contacto por Voz y Omnicanal: voz AI para campañas inbound y outbound, respuestas fundamentadas en base de conocimiento, calificación, agendamiento y mano de mano humana — teléfono, SMS, chat, WhatsApp y WebRTC, en los cinco idiomas.',
+        'h1': '🤖 Agente de Contacto por Voz y Omnicanal',
+        'pitch': 'Cada llamada telefónica — inbound o outbound — es atendida, calificada y contratada, 24/7, en todos los idiomas que atendemos, con mano de mana humana cuando cuenta. Voz AI que puede manejar teléfono + SMS + chat + WhatsApp + WebRTC en última instancia, responde desde tu base de conocimiento, escribe resultados en tu CRM y transfiere a agentes humanos con contexto completo. Hecho para el negocio de servicio al cliente de Zion.',
         'cards': [
-            ('📞 Agente de Voz Wake-on-Call', 'Contesta el teléfono cuando el equipo está ocupado, capta la dirección del sitio y el resumen del trabajo y agenda el servicio.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📅 Agendamiento y Despacho de Trabajos', 'Convierte una llamada en una cola de despacho con número de postos, ubicación y SLA — sin perder propuestas.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🌐 Contestación por teléfono en 5 idiomas', 'Contestando en el idioma del cliente — EN / Portugués / Español / Francés / Alemán — según el estándar de la red.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📊 Analytics de llamadas perdidas → Agendamiento', 'Tasa de llamadas perdidas, conversión por llamada, tiempo de respuesta y agendaados versus ofertados por operador.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🔔 Despacho automático a técnicos', 'Marca cada llamada como no asignada después de 60 segundos y avisa al técnico de campo en servicio.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('💬 Confirmación por SMS / WhatsApp', 'El llamado recibe una confirmación con un toque para que el trabajo nunca se pierda entre la planta y el sitio.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
+            ('📞 Agente de Voz', 'Atiende inbound y ejecuta campañas outbound; califica según criterios en un flujo determinista; transfiere a un reclutador con contexto completo de la llamada.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📱 Cobertura Omnichannel', 'Teléfono, SMS, chat, WhatsApp y WebRTC con conectores nativos (Twilio, Genesys, Amazon Connect, SIP trunking) y cambio de idioma durante la conversación.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📚 Respuestas con Base de Conocimiento', 'Responde desde la base de conocimiento, FAQ y documentos de política de la empresa — sin alucinación, totalmente fundamentado en sus activos.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🗣️ Voz a Texto + Sentimiento', 'Transcripción en tiempo real, puntuación de llamadas y análisis de sentimiento para QA y coach de reclutadores.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📅 Agendamiento de Visitas y Leads', 'Confirma, agenda y enruta Leads calificados; escribe resultados automáticamente en el CRM.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🙋 Mano de Mano Humana', 'Escala casos complejos a agentes humanos con contexto completo de la conversación, datos de intención y resumen de la interacción.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
         ],
-        'discovery_h2': '🧭 Descubrimiento Gratuito de IA — siempre en línea, siempre gratuito',
-        'discovery_p': '¿Necesita un despliegue de automatización por voz para su equipo de campo? Respondan nuestro cuestionario de Descubrimiento: su informe personalizado de IA se genera instantáneamente y se envía por correo a usted y a nuestro equipo comercial (commercial@ziontechgroup.com) para un seguimiento rápido y personalizado.',
+        'discovery_h2': '🧭 Descubrimiento Gratuito — siempre en línea, siempre gratuito',
+        'discovery_p': 'Dígales sus necesidades de voz + omnicanal y nosotros planificamos, construimos y configuramos su agente de voz 24/7 — respuestas desde su base de conocimiento, Leads calificados agendados, pedidos rotineiros resueltos, casos complejos escalados con contexto completo. Su plan se envía por correo a usted y nuestro equipo comercial (commercial@ziontechgroup.com).',
         'discovery_cta1': 'Comenzar Descubrimiento Gratuito',
         'discovery_cta2': 'Explorar la Red de Aplicaciones',
     },
     'fr': {
-        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html">English</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-fr.html">Français</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-de.html">Deutsch</a></nav>',
-        'title': 'Automatisation vocale IA et appels manqués — Services de terrain — Zion Tech Group',
-        'description': 'Agent vocal wake-on-call répond aux appels manqués, planifie la mission et envoie le technicien — 24h/24, dans votre langue.',
-        'h1': '📞 Automatisation vocale IA pour services de terrain',
-        'pitch': 'Module d\'automatisation vocale unique pour services locaux : wake-on-call, créez une mission, capturez le site et envoyez le technicien — en ligne et gratuit, avec une marge de 40%+ pour la Zion. Conçu pour les électriciens, plombiers, Climatisation, serruriers, entrepreneurs et équipes de terrain.',
+        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html">English</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-fr.html">Français</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-de.html">Deutsch</a></nav>',
+        'title': 'Agent de Contact voix et Omnicanal — Voi + SMS + Chat + WhatsApp — Zion Tech Group',
+        'description': 'Hub gratuit de Agent de Contact voix et Omnicanal : voix IA pour campagnes inbound et outbound, réponses fondées sur la base de connaissances, qualification, réservation et main d\'ouvrière, téléphone, SMS, chat, WhatsApp et WebRTC, dans les cinq langues.',
+        'h1': '🤖 Agent de Contact voix et Omnicanal',
+        'pitch': 'Chaque appel téléphonique — entrant ou sortant — est répondu, qualifié et confirmé, 24h/24, 7j/7, dans toutes les langues que nous desservons, avec une main d\'ouvrière humaine quand cela compte. Voix IA qui peut gérer téléphone + SMS + chat + WhatsApp + WebRTC en bout en bout, répond depuis votre base de connaissances, écrit les résultats dans votre CRM et transfère en direct aux agents avec le contexte complet. Conçu pour le business de services à la clientèle de Zion.',
         'cards': [
-            ('📞 Agent vocal Wake-on-Call', 'Répond au téléphone quand l\'équipe est occupée, capture l\'adresse du site et le résumé de la mission, planifie le travail.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📅 Planification et expédition de missions', 'Transforme un appel en une file d\'attente de dispatch avec le nombre de postes, la localisation et la SLA — sans perdre les propositions.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🌐 Traduction vocale 5 langues', 'En répondant dans la langue du client — EN / Portugais / Espagnol / Français / Allemand — selon la norme du réseau.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📊 Analytics des appels manqués → Planification', 'Taux d\'appels manqués, conversion par appel, temps de réponse et planifiés par rapport aux propositions par opérateur.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🔔 Envoie automatique vers techniciens', 'Marque chaque appel comme non attribué après 60 secondes et prévient le technicien de terrain en service.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('💬 Confirmation SMS / WhatsApp', 'L\'appelant reçoit une confirmation avec un toucher pour que la mission ne soit jamais perdue entre l\'atelier et le site.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
+            ('📞 Agent Voix', 'Répond aux appels entrants et exécute des campagnes sortantes ; qualifie selon des critères dans un flux déterministe ; transfère en direct à un recruteur avec le contexte de la conversation.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📱 Couverture Omnicanale', 'Téléphone, SMS, chat, WhatsApp et WebRTC avec connecteurs natifs (Twilio, Genesys, Amazon Connect, SIP trunking) et changement de langue en pleine conversation.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📚 Réponses avec Base de Connaissances', 'Répond depuis la base de connaissances, FAQ et documents de politique de l\'entreprise — sans hallucination, entièrement fondé sur vos actifs.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🗣️ Reconnaissance Vocale + Sentiment', 'Transcription en temps réel, notation des appels et analyse de sentiment pour la QC et le coaching des recruteurs.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📅 Réservation de Visites et Leads', 'Confirme, planifie et oriente les Leads qualifiés ; écrit les résultats automatiquement dans le CRM.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🙋 Main d\'ouvrière Humaine', 'Escalade les cas complexes vers des agents humains avec le contexte complet de la conversation, les données d\'intention et un résumé de l\'interaction.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
         ],
-        'discovery_h2': '🧭 Découverte gratuite d\'IA — toujours en ligne, toujours gratuite',
-        'discovery_p': 'Vous avez besoin d\'un déploiement d\'automatisation vocale pour votre équipe de terrain ? Répondez à notre questionnaire de Découverte : votre rapport personnalisé d\'IA est généré instantanément et envoyé par e-mail à vous et à notre équipe commerciale (commercial@ziontechgroup.com) pour un suivi rapide et personnalisé.',
+        'discovery_h2': '🧭 Découverte Gratuite — toujours en ligne, toujours gratuite',
+        'discovery_p': 'Dites-nous vos besoins voix + omnicanal et nous planifions, construisons et configurons votre agent voix 24/7 — réponses depuis votre base de connaissances, Leads qualifiés confirmés, demandes rotatives résolues, cas complexes escaladés avec contexte complet. Votre plan est envoyé par e-mail à vous et à notre équipe commerciale (commercial@ziontechgroup.com).',
         'discovery_cta1': 'Commencer la Découverte Gratuite',
         'discovery_cta2': 'Parcourir le Réseau d\'Applications',
     },
     'de': {
-        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html">English</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-de.html">Deutsch</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026-fr.html">Français</a></nav>',
-        'title': 'KI-Voice & Abgehen-Vermeidung Autoisierung für Feld-Services — Zion Tech Group',
-        'description': 'Wake-on-Call Sprache-Agent beantwortet verpasste Anrufe, bucht die Aufgabe und schickt den Techniker — 24/7, in Ihrer Sprache.',
-        'h1': '📞 KI-Voice & Abgehen-Vermeidung Autoisierung für Feld-Services',
-        'pitch': 'Einheitliches Sprache-Auto-Modul für lokale Dienstleistungen: Wake-on-Call, Buchung, Sammeln der Site und Versand des Technikers — online und kostenlos, mit 40%+ Marge. Gemacht für Elektriker, Versorger, Kältetechnik, Schlosser, Auftragnehmer und Feld-Teams.',
+        'langbar': '<nav class="langbar">🌐 <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html">English</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-de.html">Deutsch</a> · <a class="active" href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-pt.html">Português</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-es.html">Español</a> · <a href="https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026-fr.html">Français</a></nav>',
+        'title': 'KI-Voice- & Omnichannel-Kundenstützung — 24/7 Vot + SMS + Chat + WhatsApp — Zion Tech Group',
+        'description': 'Kostenloser KI-Voice- & Omnichannel-Kundenstützungs-HuB: Vot-AI für eingehende und ausgehende Kampagnen, auf Wissensbasis basierende Antworten, Qualifizierung, Buchung und menschliche Handoff-Übergabe — Telefon, SMS, Chat, WhatsApp und WebRTC, in allen fünf Sprachen.',
+        'h1': '🤖 KI-Voice- & Omnichannel-Kundenstützung',
+        'pitch': 'Jeder Telefonanruf — eingehend oder ausgehend — wird 24/7, in allen Sprachen, die wir bedienen, befristet, qualifiziert und gebucht, mit menschlicher Handoff-Übergabe, wenn es zählt. Voice AI, das Telefon + SMS + Chat + WhatsApp + WebRTC zuständig ausführt, auf Ihrer Wissensbasis antwortet, Ergebnisse in Ihrem CRM schreibt und an lebendige Agenten mit vollständigem Kontext weiterleitet. Für Zion\'s Kundenstützungsgeschäft gebaut.',
         'cards': [
-            ('📞 Wake-on-Call Sprache-Agent', 'Antwortet die Telefon, wenn das Team belegt ist, erfasst die Adresse der Site und das Zusammenfassung der Aufgabe und bucht den Dienst.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📅 Buchung und Versand', 'Wandelt ein Anruf in eine Warteschlange von Dispatch mit Postleitzahl, Standort und SLA — ohne Vorhaben verlieren.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🌐 5-Sprachen Anrufbeantwortung', 'Antwortet in der Sprache des Kunden — EN / Português / Español / Français / Deutsch — gemäß dem Netz-Standard.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('📊 Analytics von verpassten Anrufen → Buchung', 'Quote von verpassten Anrufen, Konversion pro Anruf, Antwortzeit und gebucht versus angeboten pro Operator.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('🔔 Auto-Send an Techniker', 'Markiert jeden Anruf als nicht zugewiesen nach 60 Sekunden und warnt den Feld-Techniker in Dienst.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
-            ('💬 SMS / WhatsApp Bestätigung', 'Den Anrufer erhält eine Bestätigung mit einem Tipp, damit die Aufgabe nie zwischen der Werkbühne und dem Standort verloren geht.', 'https://ziontechgroup.com/voice-field-automation/', 'https://github.com/Zion-support/zion-voice-field-automation'),
+            ('📞 Voice-Agent', 'Beantwortet eingehende Anrufe und führt ausgehende Kampagnen; qualifiziert anhand von Kriterien in einem deterministischen Ablauf; übergibt an einen Recruiter mit vollständigem Kontext des Anrufs.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📱 Omnichannel-Bedeckung', 'Telefon, SMS, Chat, WhatsApp und WebRTC mit nativem Anschluss (Twilio, Genesys, Amazon Connect, SIP-Truhe) und Sprachumschaltung während des Gesprächs.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📚 Wissensbasierte Antworten', 'Antworten auf Basis der Wissensbasis, FAQ und Richtlinien des Unternehmens — keine Halluzinationen, vollständig auf Ihren Assets fundiert.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🗣️ Speech-to-Text + Sentiment', 'Echtzeit-Transkription, Anrufbewertung und Sentimentsanalyse für QC und Agent-Coaching.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('📅 Termin- und Lead-Buchung', 'Bestätigt, bucht und leitet qualifizierte Leads weiter; schreibt Ergebnisse automatisch in das CRM.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
+            ('🙋 Menschliche Handoff-Übergabe', 'Eskaliert komplexe Fälle an lebendige Agenten mit vollständigem Gesprächskontext, Intent-Daten und Zusammenfassung der Interaktion.', 'https://ziontechgroup.com/ai-voice-omnichannel/', 'https://github.com/Zion-support/zion-ai-voice-omnichannel'),
         ],
-        'discovery_h2': '🧭 Kostenloser KI-Entdeckung — immer online, immer kostenlos',
-        'discovery_p': 'Sie benötigen ein Sprache-Auto-Durchbruch für Ihr Feld-Team? Beantworten Sie unser Entdeckungsfragebogen: Ihr personalisierter KI-Bericht wird sofort generiert und per E-Mail an Sie und unser Vertriebsteam (commercial@ziontechgroup.com) gesendet für ein schnelles und personalisiertes Nachverfolgung.',
+        'discovery_h2': '🧭 Kostenloser Entdeckung — immer online, immer kostenlos',
+        'discovery_p': 'Erzählen Sie uns Ihre Voice- und Omnichannel-Bedürfnisse, und wir planen, bauen und konfigurieren Ihre 24/7-Voice-Agenten — Antworten aus Ihrer Wissensbasis, qualifizierte Leads gebucht, routinemäßige Anfragen gelöst, komplexe Fälle mit vollständigem Kontext an Ihr Team eskaliert. Ihr Plan wird per E-Mail an Sie und unser Vertriebsteam (commercial@ziontechgroup.com) gesendet.',
         'discovery_cta1': 'Kostenlosen Entdeckung starten',
         'discovery_cta2': 'App-Netzwerk durchsuchen',
     },
@@ -125,13 +125,13 @@ def assemble(lang):
     urls = dict(LANGS); urls['en'] = CANON
     al = alternate_links()
     cards_groups = [g for g in (body['cards'][:3], body['cards'][3:6], body['cards'][6:9]) if g]
-    labels = ['🎯 Wake-on-Call & Booking', '📋 Field-Tech Dispatch', '🌎 5-Language Outbound', '🆕 Open-Source Voice Agent']
+    labels = ['📞 Voice Agent', '📱 Omnichannel Coverage', '📚 Knowledge-Grounded Answers', '🗣️ Speech-to-Text + Sentiment', '📅 Appointment & Lead Booking', '🙋 Human Handoff']
     section_html = ''
     for grp, label in zip(cards_groups, labels):
         gh = ''.join(f'<div class="card"><h3>{h}</h3><p>{d}</p><a href="{live}">Live app →</a> · <a href="{repo}">Repo</a></div>' for h, d, live, repo in grp)
         section_html += f'<section><h2>{label}</h2><div class="cards">{gh}</div></section>'
     disc = f'<div class="disc"><h2>{body["discovery_h2"]}</h2><p>{body["discovery_p"]}</p><a class="cta green" href="https://ziontechgroup.com/discovery/">{body["discovery_cta1"]}</a><a class="cta alt" href="https://ziontechgroup.com/zion-app-network/">{body["discovery_cta2"]}</a></div>'
-    closing = '<p style="margin-top:24px"><a href="https://ziontechgroup.com">← ziontechgroup.com</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-voice-field-2026.md">Spotlight doc</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX-BATCH115-VOICE.md">Batch rollup</a></p>'
+    closing = '<p style="margin-top:24px"><a href="https://ziontechgroup.com">← ziontechgroup.com</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-ai-voice-omnichannel-2026.md">Spotlight doc</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX-BATCH131-VOICE.md">Batch rollup</a></p>'
     footer = '<footer>© 2026 Zion Tech Group — <a href="https://ziontechgroup.com">ziontechgroup.com</a> · Part of the Zion AI App Network</footer>'
     t = f'''<!DOCTYPE html>
 <html>
@@ -165,7 +165,7 @@ def assemble(lang):
 
 for lang, ext in [('en',''), ('pt','pt'), ('es','es'), ('fr','fr'), ('de','de')]:
     content = assemble(lang)
-    path = os.path.join(WORK, f'app-network-voice-field-2026{"-"+ext if ext else ""}.html')
+    path = os.path.join(WORK, f'app-network-ai-voice-omnichannel-2026{"-"+ext if ext else ""}.html')
     with open(path, 'w', encoding='utf-8') as f:
         f.write(content)
     print("wrote", path, "len", len(content))

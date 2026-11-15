@@ -599,7 +599,27 @@ multi-touch sequences (email/LinkedIn/phone), reply handling, CRM write-back, de
 
 | Repository | Current implementation | Planning page |
 |---|---|---|
-| [zion-ai-sales-outreach](https://github.com/Zion-support/zion-ai-sales-outreach) | Research agent, enrichment agent, personalised writer, multi-touch sequencing, reply handling, CRM write-back, deliverability | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sales-outreach-2026.html) |
+|| [zion-ai-sales-outreach](https://github.com/Zion-support/zion-ai-sales-outreach) | Research agent, enrichment agent, personalised writer, multi-touch sequencing, reply handling, CRM write-back, deliverability | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sales-outreach-2026.html) |
+
+## 🌐 Batch 131 — AI Voice & Omnichannel Contact Center (2026-11-14)
+
+New concept app — free, always-online voice + omnichannel contact center: voice AI for inbound and outbound
+campaigns, knowledge-base-grounded answers, qualification and booking, voice-to-text + sentiment, and human handoff
+with full context — phone, SMS, chat, WhatsApp, WebRTC, in 5 languages:
+
+- [zion-ai-voice-omnichannel](https://github.com/Zion-support/zion-ai-voice-omnichannel) ↔
+  [app-network-ai-voice-omnichannel-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-voice-omnichannel-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-voice-omnichannel-2026.md](INTERLINKS-ai-voice-omnichannel-2026.md).
+
+## 📦 Batch 132 — AI Data Analytics & BI Automation (2026-11-14)
+
+New concept app — free, always-online agentic analytics & augmented analytics: natural-language Q&A agent,
+push insights & anomaly detection, operational dashboards, agentic forecasting, cross-tool actions, and semantic
+layer + governance — no SQL, no BI license:
+
+- [zion-ai-data-analytics](https://github.com/Zion-support/zion-ai-data-analytics) ↔
+  [app-network-ai-data-analytics-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-data-analytics-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-data-analytics-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-data-analytics-2026.md](INTERLINKS-ai-data-analytics-2026.md).
 
 ---
 
