@@ -531,6 +531,26 @@ per-language content matrix, translation toolkit, per-language SEO, and a cultur
 |---|---|---|
 | [zion-multilingual-localization](https://github.com/Zion-support/zion-multilingual-localization) | hreflang standard, per-language content matrix, translation toolkit, SEO-per-language, localisation checklist | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-multilingual-localization-2026.html) |
 
+## 🤖 Batch 125 — AI SDR & Multi-Agent Lead Agent (2026-11-14)
+
+New concept app — free, always-online multi-agent orchestrator for account-based outbound: prospector → enrichment →
+writer (personalised, signal-calibrated) → sequencer → inbox/qualification → meeting booking + CRM sync (HubSpot) — for FE's
+& technicians:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ai-sdr-multi-agent](https://github.com/Zion-support/zion-ai-sdr-multi-agent) | Multi-agent orchestrator (prospector, enrichment, writer, sequencer, inbox, qualification) + human-in-the-loop review | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sdr-multi-agent-2026.html) |
+
+## 🌐 Batch 126 — Content Intelligence & GEO Agent (2026-11-14)
+
+New concept app — the intelligence layer for content strategy and AI search visibility (GEO): content-intelligence
+scanner vs competitors, GEO monitor across ChatGPT/Google/Claude/Gemini/Copilot/Perplexity, competitor benchmarking,
+content-gap brief generator, 5-language localization:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-content-intelligence-geo-agent](https://github.com/Zion-support/zion-content-intelligence-geo-agent) | Content-intelligence scanner, GEO visibility monitor, competitor benchmarking, content-gap brief generator, 5-language localization | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html) |
+
 ---
 
 

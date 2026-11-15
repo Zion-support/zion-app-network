@@ -336,6 +336,24 @@ per-language content matrix, translation toolkit, per-language SEO, and a cultur
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-multilingual-localization-2026.html
 (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-multilingual-localization-2026.md](INTERLINKS-multilingual-localization-2026.md).
 
+## 🌐 Batch 126 — Content Intelligence & GEO Agent (2026-11-14)
+
+New concept app — the intelligence layer for content strategy and AI search visibility (GEO): content-intelligence
+scanner vs competitors, GEO monitor across ChatGPT/Google AI Overviews/Claude/Gemini/Copilot/Perplexity, competitor
+benchmarking, content-gap brief generator, 5-language localization:
+
+- [zion-content-intelligence-geo-agent](https://github.com/Zion-support/zion-content-intelligence-geo-agent) ↔ [app-network-content-intelligence-geo-agent-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-content-intelligence-geo-agent-2026.md](INTERLINKS-content-intelligence-geo-agent-2026.md).
+
+## 🤖 Batch 125 — AI SDR & Multi-Agent Lead Agent (2026-11-14)
+
+New concept app — free, always-online multi-agent orchestrator for account-based outbound: prospector → enrichment →
+writer (personalised, signal-calibrated) → sequencer → inbox/qualification → meeting booking + CRM sync (HubSpot) — for
+FE's & technicians:
+
+- [zion-ai-sdr-multi-agent](https://github.com/Zion-support/zion-ai-sdr-multi-agent) ↔ [app-network-ai-sdr-multi-agent-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sdr-multi-agent-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-sdr-multi-agent-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-sdr-multi-agent-2026.md](INTERLINKS-ai-sdr-multi-agent-2026.md).
+
 ---
 
 © 2026 Zion Tech Group · https://ziontechgroup.com/
