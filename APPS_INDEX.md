@@ -551,6 +551,24 @@ content-gap brief generator, 5-language localization:
 |---|---|---|
 | [zion-content-intelligence-geo-agent](https://github.com/Zion-support/zion-content-intelligence-geo-agent) | Content-intelligence scanner, GEO visibility monitor, competitor benchmarking, content-gap brief generator, 5-language localization | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html) |
 
+## 🤖 Batch 127 — AI Recruiting Pipeline Agent (2026-11-14)
+
+New concept app — end-to-end hiring automation: sourcing → conversational screening → interview scheduling → candidate
+engagement → ATS/CRM write-back, with recruiter-in-the-loop approvals — built for Zion's FE/technician hiring:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ai-recruiting-pipeline](https://github.com/Zion-support/zion-ai-recruiting-pipeline) | Sourcing, conversational screening, interview scheduling, candidate engagement, ATS/CRM write-back, pipeline analytics | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html) |
+
+## 🌐 Batch 128 — AI Customer Support Agent (2026-11-14)
+
+New concept app — helpdesk automation: knowledge-grounded answers, ticket triage & routing, resolution, multilingual
+support (EN/PT-BR/ES/FR/DE), and human handoff with full conversation context preserved:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-ai-customer-support](https://github.com/Zion-support/zion-ai-customer-support) | Knowledge-grounded agent, ticket triage & routing, resolution, 5-language support, human handoff, support analytics | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html) |
+
 ---
 
 

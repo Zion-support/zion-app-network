@@ -61,6 +61,8 @@ The workbench records six evidence-planning fields, identifies missing fields an
 - 🌐 Batch 124 — Multilingual Localization Hub: [interlinks](INTERLINKS-multilingual-localization-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-multilingual-localization-2026.html)
 - 🤖 Batch 125 — AI SDR & Multi-Agent Lead Agent: [interlinks](INTERLINKS-ai-sdr-multi-agent-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sdr-multi-agent-2026.html)
 - 🌐 Batch 126 — Content Intelligence & GEO Agent: [interlinks](INTERLINKS-content-intelligence-geo-agent-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-content-intelligence-geo-agent-2026.html)
+- 🤖 Batch 127 — AI Recruiting Pipeline Agent: [interlinks](INTERLINKS-ai-recruiting-pipeline-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html)
+- 🌐 Batch 128 — AI Customer Support Agent: [interlinks](INTERLINKS-ai-customer-support-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html)
 
 ## Recent app clusters — Q4 2026
 

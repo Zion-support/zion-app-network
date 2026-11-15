@@ -354,6 +354,22 @@ FE's & technicians:
 - [zion-ai-sdr-multi-agent](https://github.com/Zion-support/zion-ai-sdr-multi-agent) ↔ [app-network-ai-sdr-multi-agent-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-sdr-multi-agent-2026.html)
 Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-sdr-multi-agent-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-sdr-multi-agent-2026.md](INTERLINKS-ai-sdr-multi-agent-2026.md).
 
+## 🌐 Batch 128 — AI Customer Support Agent (2026-11-14)
+
+New concept app — helpdesk automation: knowledge-grounded answers, ticket triage & routing, resolution, multilingual
+support (EN/PT-BR/ES/FR/DE), and human handoff with full conversation context preserved:
+
+- [zion-ai-customer-support](https://github.com/Zion-support/zion-ai-customer-support) ↔ [app-network-ai-customer-support-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-customer-support-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-customer-support-2026.md](INTERLINKS-ai-customer-support-2026.md).
+
+## 🤖 Batch 127 — AI Recruiting Pipeline Agent (2026-11-14)
+
+New concept app — end-to-end hiring automation: sourcing → conversational screening → interview scheduling → candidate
+engagement → ATS/CRM write-back, with recruiter-in-the-loop approvals — built for Zion's FE/technician hiring:
+
+- [zion-ai-recruiting-pipeline](https://github.com/Zion-support/zion-ai-recruiting-pipeline) ↔ [app-network-ai-recruiting-pipeline-2026.html](https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html)
+Showcase (5 languages): https://ziontechgroup.com/zion-app-network/app/app-network-ai-recruiting-pipeline-2026.html (+ -pt/-es/-fr/-de). Interlinks: [INTERLINKS-ai-recruiting-pipeline-2026.md](INTERLINKS-ai-recruiting-pipeline-2026.md).
+
 ---
 
 © 2026 Zion Tech Group · https://ziontechgroup.com/
