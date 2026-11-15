@@ -512,6 +512,25 @@ New themed cluster — compliance rule index + audit-trail runbook + human-appro
 |---|---|---|
 | [zion-vertical-trust](https://github.com/Zion-support/zion-vertical-trust) | Per-vertical compliance rules, audit-trail runbook, human-approval workflow, data-residency controls | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-vertical-trust-2026.html) |
 
+## 🤖 AI Sales & Lead-Gen Specialist (2026-11-14)
+
+New concept app — free, always-online lead-engineering pipeline: scans all email labels for service requests &
+technician inquiries, enriches contacts, drafts CRM + outreach, and hands off to the agent marketplace and
+implementation vault — for FE's & technicians:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-sales-leadgen](https://github.com/Zion-support/zion-sales-leadgen) | Email-thread lead scanner, lead enrichment, CRM write-back draft, personalised outreach draft, lead scoring | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-sales-leadgen-2026.html) |
+
+## 🌐 Multilingual Localization Hub (2026-11-14)
+
+New concept app — the living standard for the 5-language network (EN/PT-BR/ES/FR/DE): hreflang best practice,
+per-language content matrix, translation toolkit, per-language SEO, and a cultural-localization checklist:
+
+| Repository | Current implementation | Planning page |
+|---|---|---|
+| [zion-multilingual-localization](https://github.com/Zion-support/zion-multilingual-localization) | hreflang standard, per-language content matrix, translation toolkit, SEO-per-language, localisation checklist | [Planning](https://ziontechgroup.com/zion-app-network/app/app-network-multilingual-localization-2026.html) |
+
 ---
 
 
