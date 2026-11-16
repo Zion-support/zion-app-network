@@ -1,5 +1,13 @@
 # Zion AI App Network — Master Index
 
+## Governance documentation — source review (2026-11-16)
+
+- [AI Risk Evaluator](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/README.md) — documented concept with a [manual risk review](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/templates/ai-risk-review.md); no automated scoring or production verification.
+- [Governance Evidence Pack](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/README.md) — documented concept with a [manual evidence register](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/templates/evidence-register.md); no automated collection or production verification.
+
+[Scope and reciprocal links](INTERLINKS-governance-trust-2026.md). Both source repositories supply English same-page content only. These entries do not establish a global count of functioning apps.
+
+
 <!--insurance-catalog-note:start-->
 [Insurance catalog status](CATALOG-INSURANCE-EVIDENCE.md) · [App verification guide](https://ziontechgroup.com/apps/app-verification-guide.html) · [Free Discovery](https://ziontechgroup.com/discovery/)
 

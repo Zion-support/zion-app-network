@@ -1,39 +1,41 @@
-# Zion App Network — Master Interlink Map: AI Governance, Risk & Compliance (2026-11-08)
+# Governance & AI Trust — source interlink map
 
-Consolidated themed cluster for the **Governance, Risk & Compliance (GRC)** and **AI Trust & Safety** pillar of the Zion AI App Network. Coverage: 8 live apps + 2 new concept tools, all interlinked to related suites (Compliance Ops, Legal-Tech, Security & Trust, FinOps/ROI).
+Scoped documentation review: 2026-11-16. This is a navigation map, not evidence of an integrated platform, shared backend, model inference or automatic data transfer.
 
-## Hubs
-- **Hub repo:** https://github.com/Zion-support/zion-app-network
-- **Live hub:** https://ziontechgroup.com/zion-app-network/
-- **Master index:** [APPS_INDEX.md](APPS_INDEX.md) · **Catalog:** [CATALOG.md](CATALOG.md) · **Network graph:** [NETWORK.md](NETWORK.md) · **Interlinks:** [INTERLINKS.md](INTERLINKS.md) (+ this file)
-- **Homepage:** https://ziontechgroup.com · **Free AI Discovery:** https://ziontechgroup.com/discovery/
+## Hub and standards
 
-## Thematic map
-- **Risk, readiness & evaluation** ↔ [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) · [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) · [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) · [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) · [policy-change-tracker](https://github.com/Zion-support/policy-change-tracker)
-- **Safety & trust enforcement** ↔ [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) · [prompt-shield](https://github.com/Zion-support/prompt-shield)
-- **Audit evidence & monitoring** ↔ [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) · [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) · [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard)
-- **Related Compliance Ops suites** ↔ [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) · [ai-compliance-guardian](https://github.com/Zion-support/ai-compliance-guardian) · legal-tech / GRC batches (74, 58, 103)
+[Master source index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Network map](NETWORK.md) · [Cluster scope](APPS_INDEX-BATCH114-GOVERNANCE.md) · [Publication standard](NETWORK_PUBLICATION_STANDARD.md)
 
-## App-by-app interlinks
-### Risk, readiness & evaluation
-- [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) — AI readiness assessment (scored questionnaire with adoption roadmap) — https://ziontechgroup.com/ai-readiness-assessment/ — feeds [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) and pairs with [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector)
-- [ai-governance-dashboard](https://github.com/Zion-support/ai-governance-dashboard) — enterprise AI governance, model registry, compliance monitoring — https://ziontechgroup.com/ai-governance-dashboard/ — consumes readiness and audit signals; pairs with [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) and [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor)
-- [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) — audit preparation, evidence workflows, gap closure — https://ziontechgroup.com/audit-readiness-copilot/ — feeds [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) and links to [policy-change-tracker](https://github.com/Zion-support/policy-change-tracker)
-- [compliance-evidence-collector](https://github.com/Zion-support/compliance-evidence-collector) — evidence retrieval, audit trails, source attribution — https://ziontechgroup.com/compliance-evidence-collector/ — publishes to [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) and [compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor) context
-- [policy-change-tracker](https://github.com/Zion-support/policy-change-tracker) — regulatory & policy change calendars, checklists, draft generation — https://ziontechgroup.com/policy-change-tracker/ — feeds [audit-readiness-copilot](https://github.com/Zion-support/audit-readiness-copilot) and legal-tech batches (74, 58, 103)
+[Home](https://ziontechgroup.com/) · [Free Discovery](https://ziontechgroup.com/discovery/) · [Apps](https://ziontechgroup.com/apps/) · [Start Here](https://ziontechgroup.com/apps/network-start-here.html)
 
-### Safety & trust enforcement
-- [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) — safety testing, red-teaming, safety evaluation frameworks — https://ziontechgroup.com/ai-ai-safety/ — guards every AI app; pairs with [prompt-shield](https://github.com/Zion-support/prompt-shield)
-- [prompt-shield](https://github.com/Zion-support/prompt-shield) — runtime firewall that detects and blocks prompt-injection attacks — https://ziontechgroup.com/prompt-shield/ — enforces trust at the application edge; pairs with [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) and [ai-compliance-auditor](https://github.com/Zion-support/ai-compliance-auditor)
+## Reciprocal manual workflow
 
-## New (concept) tools — added 2026-11-08
-- [zion-governance-evidence-pack](https://github.com/Zion-support/zion-governance-evidence-pack) — new: copy-ready evidence packs (AI readiness, compliance, audit) assembled from the suite above. Open-source; live site at https://ziontechgroup.com/zion-governance-evidence-pack/
-- [zion-ai-risk-evaluator](https://github.com/Zion-support/zion-ai-risk-evaluator) — new: consolidated AI risk scoring matrix (safety, governance, readiness, compliance). Open-source; live site at https://ziontechgroup.com/zion-ai-risk-evaluator/
+1. [AI Risk Evaluator documentation](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/README.md) explains scope and implementation limits. Use its [blank manual risk review](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/templates/ai-risk-review.md) to frame safety, governance, readiness and compliance questions.
+2. [Governance Evidence Pack documentation](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/README.md) explains evidence-handling limits. Use its [blank manual evidence register](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/templates/evidence-register.md) to reference authorized supporting material and unresolved gaps.
+3. A named reviewer makes a bounded decision in an approved private workspace. No worksheet result automatically approves a pilot, deployment or compliance conclusion.
 
-## Related suites (see also)
-- [INTERLINKS.md](INTERLINKS.md) — master interlink map (all apps)
-- APPS_INDEX.md — master index (1,245 repos)
-- APPS_INDEX-BATCH114-GOVERNANCE.md — rollup + counts
-- SPOTLIGHT-governance-trust-2026.md — content pack for the new showcase
+Each repository's README and NETWORK.md link back to this map and to the other repository. Completed records remain private; this map supplies no data-transfer mechanism.
 
-© 2026 Zion Tech Group · https://ziontechgroup.com · Part of the Zion AI App Network
+| Repository | Source navigation | Capability label | Locale evidence |
+|---|---|---|---|
+| [AI Risk Evaluator](https://github.com/Zion-support/zion-ai-risk-evaluator) | [README](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/README.md) · [Network](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/NETWORK.md) | Documented concept and manual worksheet | English only; other same-page locales absent |
+| [Governance Evidence Pack](https://github.com/Zion-support/zion-governance-evidence-pack) | [README](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/README.md) · [Network](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/NETWORK.md) | Documented concept and manual register | English only; other same-page locales absent |
+
+## Related source references — separate review required
+
+- [AI Readiness Assessment](https://github.com/Zion-support/ai-readiness-assessment)
+- [AI Governance Dashboard](https://github.com/Zion-support/ai-governance-dashboard)
+- [AI Safety & Red-Teaming](https://github.com/Zion-support/ai-ai-safety)
+- [Audit Readiness Copilot](https://github.com/Zion-support/audit-readiness-copilot)
+- [Compliance Evidence Collector](https://github.com/Zion-support/compliance-evidence-collector)
+- [Policy Change Tracker](https://github.com/Zion-support/policy-change-tracker)
+- [Prompt Shield](https://github.com/Zion-support/prompt-shield)
+
+These are navigation references retained from the existing cluster, not verified live integrations or a feature audit. Confirm actual implementation, hosting, authorization and relevant professional review before describing capabilities or selecting a pilot.
+
+## Publication boundaries
+
+- The existing historical showcase source is [app-network-governance-trust-2026.html](app-network-governance-trust-2026.html); it is not proof of deployment or current feature accuracy.
+- Do not infer a published route from a repository path. The former `/app/network-governance-trust-2026.html` target is absent from the reviewed hub tree.
+- Source changes require review; public release status, navigation, assets and language counterparts require separate post-deployment checks.
+- No total network app count, guaranteed outcome, automatic evidence collection or regulatory certification is claimed by this map.

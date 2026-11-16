@@ -8,6 +8,12 @@ Interconnected apps, tools, workflow concepts and field playbooks by [Zion Tech 
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 - 🗂️ [Master index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Insurance catalog supplement](CATALOG-INSURANCE-EVIDENCE.md)
 
+## Governance documentation — scoped source review (2026-11-16)
+
+[AI Risk Evaluator manual review](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/README.md) ↔ [Governance Evidence Pack manual register](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/README.md) · [Governance source map](INTERLINKS-governance-trust-2026.md).
+
+Both repositories are documented concepts with static English information pages and blank manual worksheets, not automated AI engines or verified production integrations. Missing translations and public deployment evidence remain explicit gaps. Completed records belong in an approved private workspace.
+
 ## App verification and FinOps — five languages
 
 Use the verification guide to record evidence, the local USD calculator to compare assumptions, and the manual pilot guide to review fictional positive and negative scenarios. These pages do not connect to cloud accounts or execute a pilot; modeled results are not measured savings.
@@ -48,7 +54,7 @@ The workbench records six evidence-planning fields, identifies missing fields an
 - 🎮 Batch 100b — Gaming & Esports AI: [spotlight](SPOTLIGHT-2026-10-07-BATCH100.md) · [interlinks](INTERLINKS-batch100-gaming-esports.md) · [homepage pack](homepage-content-batch100.md) · [showcase](https://ziontechgroup.com/apps/october-2026-batch100-gaming-esports.html)
 - 📣 Batch 99 — Marketing & Growth AI: [spotlight](SPOTLIGHT-2026-10-06-BATCH99.md) · [interlinks](INTERLINKS-batch99-marketing-growth.md) · [homepage pack](homepage-content-batch99.md) · [showcase](https://ziontechgroup.com/apps/october-2026-batch99.html)
 - ⚖️ Batch 74 — Legal Tech & Contract AI: [spotlight](SPOTLIGHT-2026-10-04-BATCH74.md) · [interlinks](INTERLINKS-batch74-legal.md) · [homepage pack](homepage-content-batch74.md) · [showcase](https://ziontechgroup.com/zion-app-network/app-network-batch74-oct04.html)
-- ⚖️ Governance, Risk & Compliance (2026-11-08): [interlinks](INTERLINKS-governance-trust-2026.md) · [homepage pack](homepage-content-governance-trust-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/network-governance-trust-2026.html)
+- ⚖️ Governance, Risk & Compliance (2026-11-08): [interlinks](INTERLINKS-governance-trust-2026.md) · [homepage pack](homepage-content-governance-trust-2026.md) · [historical showcase source; deployment not verified](https://github.com/Zion-support/zion-app-network/blob/main/app-network-governance-trust-2026.html)
 - 📞 Batch 115 — AI Voice & Missed-Call Automation for Field Services: [interlinks](INTERLINKS-voice-field-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-voice-field-2026.html)
 - 🔍 Batch 116 — AI Operations Diagnostic Sprint: [interlinks](INTERLINKS-operations-diagnostic-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-operations-diagnostic-2026.html)
 - 🤖 Batch 117 — Agent Marketplace for Local Services: [interlinks](INTERLINKS-agent-marketplace-2026.md) · [showcase](https://ziontechgroup.com/zion-app-network/app/app-network-agent-marketplace-2026.html)

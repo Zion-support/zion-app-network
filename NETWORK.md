@@ -2,6 +2,12 @@
 
 Master directory and interlink hub for all Zion Tech Group AI apps.
 
+## Governance documentation — scoped source review (2026-11-16)
+
+[AI Risk Evaluator manual review](https://github.com/Zion-support/zion-ai-risk-evaluator/blob/main/README.md) ↔ [Governance Evidence Pack manual register](https://github.com/Zion-support/zion-governance-evidence-pack/blob/main/README.md) · [Governance source map](INTERLINKS-governance-trust-2026.md).
+
+Both repositories are documented concepts with static English information pages and blank manual worksheets, not automated AI engines or verified production integrations. Missing translations and public deployment evidence remain explicit gaps. Completed records belong in an approved private workspace.
+
 ## Choose, compare and test apps — 8 October 2026
 [Maintained learning paths](LEARNING_PATHS.md) · [English guide](https://ziontechgroup.com/apps/network-learning-paths.html) · [Português](https://ziontechgroup.com/pt/apps/network-learning-paths.html) · [Español](https://ziontechgroup.com/es/apps/network-learning-paths.html) · [Français](https://ziontechgroup.com/fr/apps/network-learning-paths.html) · [Deutsch](https://ziontechgroup.com/de/apps/network-learning-paths.html)
 
