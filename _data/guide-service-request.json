@@ -57,6 +57,12 @@
               "href": "https://ziontechgroup.com/quote-builder-ai/",
               "language": "en",
               "source": "https://github.com/Zion-support/quote-builder-ai"
+            },
+            {
+              "name": "Before mounting a server in a rack",
+              "description": "Confirm the server model, rack unit (U) position, usable rack depth, rail compatibility and weight in its installed configuration. Check the manufacturer’s installation manual and site rules for staffing and lifting requirements. Keep the work pending until the rails, lifting method and required staffing are verified. Before committing to the work, record the client’s written approval, purchase order (PO) and Zion’s operational release separately.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026.html",
+              "language": "en"
             }
           ]
         },
@@ -151,6 +157,12 @@
               "href": "https://ziontechgroup.com/quote-builder-ai/pt/",
               "language": "pt",
               "source": "https://github.com/Zion-support/quote-builder-ai"
+            },
+            {
+              "name": "Antes de montar um servidor em rack",
+              "description": "Confirme o modelo do servidor, a posição no rack em unidades (U), a profundidade útil, a compatibilidade dos trilhos e o peso na configuração instalada. Consulte o manual de instalação do fabricante e as regras do local para verificar a equipe e o método de elevação exigidos. Mantenha o serviço pendente até confirmar os trilhos, o método de elevação e a equipe necessária. Antes de assumir um compromisso, registre separadamente o aceite por escrito do cliente, a ordem de compra (PO) e a liberação operacional da Zion.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-visit-handoff-2026-pt-br.html",
+              "language": "pt"
             }
           ]
         },
