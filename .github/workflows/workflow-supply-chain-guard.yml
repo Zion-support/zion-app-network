@@ -17,9 +17,10 @@ name: Workflow supply-chain guard
 permissions:
   contents: read
 
+# Cancel superseded PR checks only; never cancel main-push or weekly supply-chain checks.
 concurrency:
-  group: workflow-supply-chain-guard-${{ github.ref }}
-  cancel-in-progress: true
+  group: workflow-supply-chain-guard-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   guard:
