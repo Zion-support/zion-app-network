@@ -18,7 +18,7 @@ Six existing page families, thirty localized editions. Three local browser tools
 | AI Meeting Notes Copilot | Local keyword-rule recap; not audio transcription or semantic AI. Review classification and owners. | [Open](https://ziontechgroup.com/ai-meeting-notes-copilot/) |
 | Incident Response | Human-owned service-planning guide; no attack detection, system monitoring or containment. | [Open](https://ziontechgroup.com/ai-incident-response/) |
 
-Use the [verification guide](https://ziontechgroup.com/apps/app-verification-guide.html), then a separately authorized pilot. [Free Discovery](https://ziontechgroup.com/discovery/) · [English homepage](https://ziontechgroup.com/en/).
+Use the [verification guide](https://ziontechgroup.com/apps/app-verification-guide.html), then a separately authorized pilot. [Free Discovery](https://ziontechgroup.com/en/discovery/) · [English homepage](https://ziontechgroup.com/en/).
 
 Do not paste secrets, private client data or confidential transcripts. These local tools do not upload inputs, connect accounts or send email. Copying occurs only when requested; manually check facts, recipients, owners and deadlines. Discovery is a separate scoping request, not a purchase or dispatch, and email inbox receipt is not guaranteed.
 
