@@ -72,12 +72,18 @@ class DirectoryTests(unittest.TestCase):
             suffix='' if loc=='en' else '-'+('pt-br' if loc=='pt' else loc)
             self.assertEqual(page['routes'][3],'/zion-app-network/app-network-operations-evidence-checklist-2026'+suffix+'.html')
     def test_discovery_link_is_localized(self):
-        for page in self.pages.values():
-            links=Document(self.render(page)).attrs('a');self.assertIn(page['prefix']+'discovery/',[a.get('href') for a in links])
+        for loc, page in self.pages.items():
+            with self.subTest(locale=loc):
+                links = Document(self.render(page)).attrs('a')
+                hrefs = [a.get('href') for a in links]
+                self.assertEqual(hrefs.count(f'/{loc}/discovery/'), 3)
+                self.assertNotIn('/discovery/', hrefs)
+                for other in set(self.pages) - {loc}:
+                    self.assertNotIn(f'/{other}/discovery/', hrefs)
     def test_core_navigation_keeps_the_selected_language(self):
         for loc,page in self.pages.items():
             suffix='' if loc=='en' else '-'+('pt-br' if loc=='pt' else loc)
-            wanted={page['home'],page['prefix']+'apps/',page['prefix']+'discovery/',
+            wanted={page['home'],page['prefix']+'apps/',f'/{loc}/discovery/',
                     '/zion-app-network/app-network-start-here-2026'+suffix+'.html',
                     '/zion-app-network/app-selection-evidence-scorecard-2026'+suffix+'.html',
                     '/zion-app-network/catalog-navigation'+suffix+'.html'}
