@@ -18,7 +18,7 @@ The navigation and featured guides are available in five languages. Source index
 
 Use Discovery to organize the problem, or go straight to a pilot or evidence review.
 
-- [Free online Discovery](https://ziontechgroup.com/discovery/): Map a process and read the report in the browser. Requested email delivery is separate from confirmed inbox receipt.
+- [Free online Discovery](https://ziontechgroup.com/en/discovery/): Map a process and read the report in the browser. Requested email delivery is separate from confirmed inbox receipt.
 - [First measured win guide](https://ziontechgroup.com/apps/discovery-first-win-guide.html): Set a baseline, an owner and a small experiment before widening the scope.
 - [App selection evidence scorecard](https://ziontechgroup.com/zion-app-network/app-selection-evidence-scorecard-2026.html): Compare the evidence behind a resource and identify what still needs review.
 
