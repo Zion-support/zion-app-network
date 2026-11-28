@@ -8,6 +8,14 @@ Interconnected apps, tools, workflow concepts and field playbooks by [Zion Tech 
 - 🌐 Hub page: https://ziontechgroup.com/zion-app-network/
 - 🗂️ [Master index](APPS_INDEX.md) · [Catalog](CATALOG.md) · [Insurance catalog supplement](CATALOG-INSURANCE-EVIDENCE.md)
 
+## Triagem de pedidos de orçamento para rótulos e embalagens
+
+Use o Discovery para avaliar como o Comercial pode conferir formato, material, acabamento, tiragem, revisão da arte e prazo antes de encaminhar o pedido para análise técnica.
+
+**Exemplo fictício.** Um pedido de 20 mil rótulos traz duas revisões da arte e omite o acabamento. A triagem registra a tiragem, sinaliza a divergência de revisão e prepara uma pergunta sobre o acabamento. O Comercial confere o resumo antes de responder.
+
+[Começar o Discovery online gratuito](https://ziontechgroup.com/discovery/) · [Escolher um recurso para a próxima etapa](https://ziontechgroup.com/apps/discovery-app-paths.html) · [Consultar planos e opções de pagamento](https://ziontechgroup.com/plans/)
+
 ## App verification and FinOps — five languages
 
 Use the verification guide to record evidence, the local USD calculator to compare assumptions, and the manual pilot guide to review fictional positive and negative scenarios. These pages do not connect to cloud accounts or execute a pilot; modeled results are not measured savings.
