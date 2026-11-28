@@ -81,10 +81,10 @@ class LocalizedGuideTests(unittest.TestCase):
                 hrefs={a['href'] for a in p.find('a')}
                 prefix='/' if locale=='en' else '/'+locale+'/'
                 self.assertIn(prefix+'apps/',hrefs)
-                datacenter_en = (model['id'], locale) == ('service-request', 'en')
-                discovery_path = '/en/discovery/' if datacenter_en else prefix+'discovery/'
+                english_discovery = locale == 'en' and model['id'] in {'service-request', 'catalog-navigation'}
+                discovery_path = '/en/discovery/' if english_discovery else prefix+'discovery/'
                 self.assertIn(discovery_path,hrefs)
-                if datacenter_en:
+                if english_discovery:
                     anchors = p.find('a')
                     self.assertEqual(sum(a['href']==discovery_path for a in anchors),3)
                     self.assertEqual([a.get('hreflang') for a in anchors if a['href']==guides.ORIGIN+discovery_path],['en'])

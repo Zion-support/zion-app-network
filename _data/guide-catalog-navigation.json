@@ -3,6 +3,7 @@
   "basePath": "catalog-navigation",
   "locales": {
     "en": {
+      "discoveryPath": "/en/discovery/",
       "title": "Find a clear path through the Zion app network",
       "description": "Choose translated guides, local tools and source records for planning, productivity and field service.",
       "intro": "Start with the task you need to complete. Follow a practical guide or a local tool, then carry its result into the next step with a named reviewer.",
@@ -15,7 +16,7 @@
           "resources": [
             {
               "name": "Free online Discovery",
-              "href": "https://ziontechgroup.com/discovery/",
+              "href": "https://ziontechgroup.com/en/discovery/",
               "description": "Map a process and read the report in the browser. Requested email delivery is separate from confirmed inbox receipt.",
               "language": "en"
             },
