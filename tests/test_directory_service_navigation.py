@@ -49,6 +49,24 @@ class DirectoryTests(unittest.TestCase):
         self.assertEqual(len({p['services']['heading'] for p in self.pages.values()}),5)
         for page in self.pages.values():
             self.assertEqual(len(page['services']['cards']),3);self.assertTrue(page['services']['note'])
+    def test_reversible_experiment_has_localized_guide_or_live_portuguese_planner(self):
+        expected = {
+            'en': '/apps/discovery-first-win-guide.html',
+            'pt': '/automation-pilot-planner/',
+            'es': '/es/apps/discovery-first-win-guide.html',
+            'fr': '/fr/apps/discovery-first-win-guide.html',
+            'de': '/de/apps/discovery-first-win-guide.html',
+        }
+        for loc, page in self.pages.items():
+            with self.subTest(locale=loc):
+                route = expected[loc]
+                self.assertEqual(page['routes'][1], route)
+                links = Document(self.render(page)).attrs('a')
+                self.assertEqual([a.get('href') for a in links].count(route), 1)
+                if loc != 'pt':
+                    self.assertNotIn('/automation-pilot-planner/' + loc + '/',
+                                     [a.get('href') for a in links])
+
     def test_evidence_route_matches_localized_checklist(self):
         for loc,page in self.pages.items():
             suffix='' if loc=='en' else '-'+('pt-br' if loc=='pt' else loc)
