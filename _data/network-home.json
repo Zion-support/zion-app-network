@@ -87,7 +87,6 @@
       "sla_calculator": "/sla-calculator/",
       "ai_governance": "/ai-governance-checklist/",
       "operational_planning": "/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.html",
       "showcase": "/apps-network-showcase/"
     },
     "pt": {
@@ -114,7 +113,6 @@
       "sla_calculator": "/pt/sla-calculator/",
       "ai_governance": "/pt/ai-governance-checklist/",
       "operational_planning": "/pt/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.pt-br.html",
       "showcase": "/pt/apps-network-showcase/"
     },
     "es": {
@@ -141,7 +139,6 @@
       "sla_calculator": "/es/sla-calculator/",
       "ai_governance": "/es/ai-governance-checklist/",
       "operational_planning": "/es/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.es.html",
       "showcase": "/es/apps-network-showcase/"
     },
     "fr": {
@@ -168,7 +165,6 @@
       "sla_calculator": "/fr/sla-calculator/",
       "ai_governance": "/fr/ai-governance-checklist/",
       "operational_planning": "/fr/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.fr.html",
       "showcase": "/fr/apps-network-showcase/"
     },
     "de": {
@@ -195,7 +191,6 @@
       "sla_calculator": "/de/sla-calculator/",
       "ai_governance": "/de/ai-governance-checklist/",
       "operational_planning": "/de/apps/operational-planning-tools.html",
-      "agriculture_concepts": "/apps/october-2026-batch111-agriculture.de.html",
       "showcase": "/de/apps-network-showcase/"
     }
   },
@@ -394,13 +389,6 @@
           "title": "Operational planning tools",
           "description": "Bring manual workload costs, SLA scenarios and AI governance checks into one planning path. The three tools work in your browser without uploading your inputs; their outputs support estimates and self-assessment.",
           "label": "Open the collection"
-        },
-        {
-          "id": "agriculture-foodtech-concepts",
-          "route": "agriculture_concepts",
-          "title": "Agriculture and FoodTech concepts",
-          "description": "Explore six documented ideas covering crops, livestock, irrigation, food safety, markets and waste. Compare the evidence each would need before a pilot; these are concepts, not verified working AI tools.",
-          "label": "Explore the concepts"
         }
       ],
       "all_guides": "Explore all guide collections",
@@ -608,13 +596,6 @@
           "title": "Ferramentas de planejamento operacional",
           "description": "Reúna custos do trabalho manual, cenários de SLA e controles de governança de IA em um percurso de planejamento. As três ferramentas funcionam no navegador sem enviar suas entradas; os resultados apoiam estimativas e autoavaliação.",
           "label": "Abrir a coleção"
-        },
-        {
-          "id": "agriculture-foodtech-concepts",
-          "route": "agriculture_concepts",
-          "title": "Conceitos de agricultura e FoodTech",
-          "description": "Explore seis ideias documentadas sobre lavouras, animais, irrigação, segurança dos alimentos, mercados e desperdício. Compare as evidências necessárias antes de um piloto; são conceitos, não ferramentas de IA com funcionamento verificado.",
-          "label": "Explorar os conceitos"
         }
       ],
       "all_guides": "Explorar todas as coleções de guias",
@@ -822,13 +803,6 @@
           "title": "Herramientas de planificación operativa",
           "description": "Reúna costes del trabajo manual, escenarios de SLA y controles de gobernanza de IA en una ruta de planificación. Las tres herramientas funcionan en el navegador sin enviar sus datos; los resultados apoyan estimaciones y autoevaluación.",
           "label": "Abrir la colección"
-        },
-        {
-          "id": "agriculture-foodtech-concepts",
-          "route": "agriculture_concepts",
-          "title": "Conceptos de agricultura y FoodTech",
-          "description": "Explore seis ideas documentadas sobre cultivos, ganado, riego, seguridad alimentaria, mercados y desperdicio. Compare las evidencias necesarias antes de un piloto; son conceptos, no herramientas de IA cuyo funcionamiento se haya verificado.",
-          "label": "Explorar los conceptos"
         }
       ],
       "all_guides": "Explorar todas las colecciones de guías",
@@ -1036,13 +1010,6 @@
           "title": "Outils de planification opérationnelle",
           "description": "Réunissez coûts du travail manuel, scénarios SLA et contrôles de gouvernance IA dans un même parcours. Les trois outils fonctionnent dans le navigateur sans transmettre vos saisies ; les résultats servent à l’estimation et à l’autoévaluation.",
           "label": "Ouvrir la collection"
-        },
-        {
-          "id": "agriculture-foodtech-concepts",
-          "route": "agriculture_concepts",
-          "title": "Concepts pour l’agriculture et la FoodTech",
-          "description": "Explorez six idées documentées sur les cultures, l’élevage, l’irrigation, la sécurité alimentaire, les marchés et le gaspillage. Comparez les preuves nécessaires avant un pilote ; il s’agit de concepts, pas d’outils d’IA au fonctionnement vérifié.",
-          "label": "Explorer les concepts"
         }
       ],
       "all_guides": "Explorer toutes les collections de guides",
@@ -1250,13 +1217,6 @@
           "title": "Werkzeuge für die operative Planung",
           "description": "Verbinden Sie manuelle Arbeitskosten, SLA-Szenarien und KI-Governance-Kontrollen in einem Planungsablauf. Die drei Werkzeuge laufen im Browser, ohne Ihre Eingaben zu übertragen; die Ergebnisse dienen Schätzungen und der Selbsteinschätzung.",
           "label": "Sammlung öffnen"
-        },
-        {
-          "id": "agriculture-foodtech-concepts",
-          "route": "agriculture_concepts",
-          "title": "Konzepte für Landwirtschaft und FoodTech",
-          "description": "Entdecken Sie sechs dokumentierte Ideen zu Pflanzenbau, Tierhaltung, Bewässerung, Lebensmittelsicherheit, Märkten und Abfällen. Vergleichen Sie die benötigten Nachweise vor einem Pilotprojekt; die Konzepte sind keine nachweislich funktionsfähigen KI-Werkzeuge.",
-          "label": "Konzepte entdecken"
         }
       ],
       "all_guides": "Alle Leitfadensammlungen entdecken",
