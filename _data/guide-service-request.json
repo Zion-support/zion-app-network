@@ -82,6 +82,12 @@
               "description": "Use the copyable template to define the expected report in advance: actual work, timestamps, test results, exceptions, open items and the client's separate acceptance. Keep each remaining action attached to an owner.",
               "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html",
               "language": "en"
+            },
+            {
+              "name": "Physical server relocation: what to record",
+              "description": "Fictional example: moving server LAB-01 from rack A to rack B. Before the move: confirm which assets are in or out of scope, the source and destination, access to both racks, the authorized work window, and who is responsible. Record the inventory and condition at departure. In transit: confirm protection approved for the equipment and record who handed it over, who received it, and when. On arrival: reconcile the inventory and condition; pause and notify the responsible lead if any equipment is damaged or does not match the inventory. After authorized installation: record the agreed tests, whether service was restored or the previous state reinstated, open items, and separate sign-off from the client's authorized representative. Physical delivery alone does not prove service restoration or client sign-off.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026.html",
+              "language": "en"
             }
           ]
         }
