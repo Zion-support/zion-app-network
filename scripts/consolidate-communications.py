@@ -38,8 +38,20 @@ if 'id="communications-suite"' not in updated:
     for title, slug in APPS:
         section += f'<li><a href="https://ziontechgroup.com/{slug}/">{title}</a> · <a href="https://github.com/Zion-support/{slug}">Source</a></li>'
     section += '</ul><p><a href="'+GUIDE+'">Read the five-language Discovery guide</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md">Master catalog</a> · <a href="https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md">Master index</a></p></section>\n'
-    assert '<footer>' in updated, 'Stop: expected hub footer not found'
-    updated = updated.replace('<footer>', section+'<footer>', 1)
+    if '<footer>' in updated:
+        # Standalone HTML fixture and legacy pages.
+        updated = updated.replace('<footer>', section+'<footer>', 1)
+    else:
+        # The published App Network hub is a Jekyll Liquid pipeline. Its
+        # footer lives in hub_legacy.html, not in index.html. Append a new
+        # capture to the existing closing-body pipeline without touching the
+        # legacy include or another agent's captured sections.
+        pipeline = "{{ corrected | replace: '</body>', promotion | replace: '</body>', showcases2026 | replace: '</body>', ops2026 | replace: '</body>', opsEvidence2026 }}"
+        assert updated.count(pipeline) == 1, 'Stop: unsupported hub template; no files committed'
+        assert updated.count('{% capture opsEvidence2026 %}') == 1, 'Stop: missing Liquid capture anchor'
+        terminal = pipeline.replace('opsEvidence2026 }}', "opsEvidence2026 | replace: '</body>', communicationsSuite }}")
+        capture = '{% capture communicationsSuite %}' + section + '</body>{% endcapture %}\n'
+        updated = updated.replace(pipeline, capture + terminal, 1)
 assert 'Answer 12 questions' not in updated
 assert '<strong>instantly by email</strong>' not in updated
 assert 'Same-day expert follow-up' not in updated

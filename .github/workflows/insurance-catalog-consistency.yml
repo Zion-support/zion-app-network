@@ -1,5 +1,10 @@
 name: Insurance Catalog Consistency
 on:
+  pull_request:
+    paths:
+      - 'scripts/repair-insurance-catalog.cjs'
+      - 'scripts/test-insurance-catalog.cjs'
+      - '.github/workflows/insurance-catalog-consistency.yml'
   push:
     branches: [main]
     paths:
@@ -8,12 +13,48 @@ on:
       - '.github/workflows/insurance-catalog-consistency.yml'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
+
 concurrency:
-  group: insurance-catalog-repair
-  cancel-in-progress: false
+  group: insurance-catalog-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
+  validate:
+    if: github.event_name == 'pull_request'
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout read-only PR head
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Setup Node
+        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6.3.0
+        with:
+          node-version: '22'
+          package-manager-cache: false
+      - name: Test preservation/idempotence regression fixtures
+        run: node scripts/test-insurance-catalog.cjs
+      - name: Dry-run repair against real Liquid homepage without writing files
+        run: |
+          node - <<'NODE'
+          const assert=require('node:assert/strict');
+          const fs=require('node:fs');
+          const {repairHub}=require('./scripts/repair-insurance-catalog.cjs');
+          const source=fs.readFileSync('index.html','utf8');
+          const once=repairHub(source);
+          assert.equal(once,repairHub(once),'not idempotent');
+          assert.equal((once.match(/id="insurance-evidence-hub"/g)||[]).length,1);
+          assert(once.includes("{% assign corrected = corrected | replace: '<!--insurance-evidence-hub:start-->', start_here %}"));
+          console.log('PASS: existing Liquid hub preserved; one evidence section.');
+          NODE
   repair:
+    if: github.event_name != 'pull_request'
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
