@@ -1,0 +1,66 @@
+[
+  {
+    "name": "discovery",
+    "url": "https://discovery.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/discovery/",
+    "redirect_status": 302
+  },
+  {
+    "name": "agents",
+    "url": "https://agents.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/autonomous-ai-agents/",
+    "redirect_status": 302
+  },
+  {
+    "name": "network",
+    "url": "https://network.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-network/",
+    "redirect_status": 302
+  },
+  {
+    "name": "field-mauritius",
+    "url": "https://field-mauritius.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-field-mauritius/",
+    "redirect_status": 302
+  },
+  {
+    "name": "field-mozambique",
+    "url": "https://field-mozambique.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-field-mozambique/",
+    "redirect_status": 302
+  },
+  {
+    "name": "field-paraguay",
+    "url": "https://field-paraguay.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-field-paraguay/",
+    "redirect_status": 302
+  },
+  {
+    "name": "field-slovenia",
+    "url": "https://field-slovenia.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-field-slovenia/",
+    "redirect_status": 302
+  },
+  {
+    "name": "field-sri-lanka",
+    "url": "https://field-sri-lanka.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-field-sri-lanka/",
+    "redirect_status": 302
+  },
+  {
+    "name": "field-tanzania",
+    "url": "https://field-tanzania.ziontechgroup.com/",
+    "canonical": "https://ziontechgroup.com/zion-field-tanzania/",
+    "redirect_status": 302
+  },
+  {
+    "name": "tools",
+    "url": "https://tools.ziontechgroup.com/",
+    "canonical": "https://tools.ziontechgroup.com/",
+    "known_issue": {
+      "error": "tls",
+      "review_by": "2026-10-30T18:00:00+00:00",
+      "reason": "Certificate recovery pending after custom-domain reset; verify provider state before any further change."
+    }
+  }
+]
