@@ -1,4 +1,4 @@
-{% assign c = page %}
+{% assign c = page %}{% assign discovery_path = c.prefix | append: 'discovery/' %}{% if c.locale == 'en' %}{% assign discovery_path = '/en/discovery/' %}{% endif %}
 {% assign languages = 'en,pt,es,fr,de' | split: ',' %}
 {% assign names = 'English,Português,Español,Français,Deutsch' | split: ',' %}
 <!doctype html>
@@ -71,7 +71,7 @@
       <a href="{{ c.home | escape }}">{{ c.nav[0] | escape }}</a>
       <a href="{{ c.entry.start_route | escape }}">{{ c.entry.start_label | escape }}</a>
       <a href="{{ c.prefix | escape }}apps/">{{ c.entry.apps_label | escape }}</a>
-      <a href="{{ c.prefix | escape }}discovery/">{{ c.nav[1] | escape }}</a>
+      <a href="{{ discovery_path | escape }}">{{ c.nav[1] | escape }}</a>
       <a href="{{ c.entry.scorecard_route | escape }}">{{ c.entry.scorecard_label | escape }}</a>
       <a href="{{ c.entry.collections_route | escape }}">{{ c.entry.collections_label | escape }}</a>
     </nav>
@@ -81,7 +81,7 @@
       <h1 id="page-title">{{ c.title | escape }}</h1>
       <p>{{ c.intro | escape }}</p>
       <div class="actions">
-        <a class="button" href="{{ c.prefix | escape }}discovery/">{{ c.nav[1] | escape }}</a>
+        <a class="button" href="{{ discovery_path | escape }}">{{ c.nav[1] | escape }}</a>
         <a class="button secondary" href="{{ c.entry.scorecard_route | escape }}">{{ c.entry.scorecard_label | escape }}</a>
       </div>
     </section>
@@ -120,7 +120,7 @@
       </div>
       <p class="notice">{{ c.services.note | escape }}</p>
       <nav aria-label="{{ c.nav_labels[2] | escape }}">
-        <a href="{{ c.prefix | escape }}discovery/">{{ c.nav[1] | escape }}</a>
+        <a href="{{ discovery_path | escape }}">{{ c.nav[1] | escape }}</a>
         <a href="{{ c.home | escape }}">{{ c.nav[0] | escape }}</a>
       </nav>
     </section>
