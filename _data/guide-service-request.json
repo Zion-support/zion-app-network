@@ -288,6 +288,12 @@
               "description": "Use la plantilla copiable para definir de antemano el informe esperado: trabajo realizado, horarios, resultados de pruebas, excepciones, pendientes y aceptación separada del cliente. Mantenga cada acción restante vinculada a un responsable.",
               "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html",
               "language": "es"
+            },
+            {
+              "name": "Traslado físico de un servidor: qué registrar",
+              "description": "Ejemplo ficticio: trasladar el servidor LAB-01 del rack A al rack B. Antes del traslado: confirme qué equipos están dentro y fuera del alcance, el origen y el destino, el acceso a ambos racks, la ventana autorizada y las personas responsables. Registre el inventario y el estado a la salida. Durante el transporte: compruebe que se utiliza la protección aprobada para el equipo y registre quién lo entregó, quién lo recibió y cuándo. A la llegada: coteje el inventario y el estado; si hay daños o discrepancias, detenga el trabajo y avise a la persona responsable. Tras la instalación autorizada: registre las pruebas acordadas, si el servicio se restableció o se volvió al estado anterior, las tareas pendientes y la aceptación por separado del representante autorizado del cliente. La entrega física por sí sola no demuestra el restablecimiento del servicio ni la aceptación del cliente.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-es.html",
+              "language": "es"
             }
           ]
         }
@@ -382,6 +388,12 @@
               "description": "Utilisez le modèle à copier pour définir à l’avance le rapport attendu : travaux réalisés, horaires, résultats des tests, exceptions, points ouverts et acceptation distincte du client. Associez chaque action restante à un responsable.",
               "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html",
               "language": "fr"
+            },
+            {
+              "name": "Déplacement physique d’un serveur : que consigner ?",
+              "description": "Exemple fictif : déplacer le serveur LAB-01 de la baie A à la baie B. Avant le déplacement : confirmez les équipements inclus et exclus du périmètre, le départ et la destination, l’accès aux deux baies, la fenêtre d’intervention autorisée et les personnes responsables. Consignez l’inventaire et l’état au départ. Pendant le transport : vérifiez que la protection approuvée pour l’équipement est utilisée et notez qui l’a remis, qui l’a reçu et à quel moment. À l’arrivée : comparez l’inventaire et l’état ; en cas de dommage ou d’écart, suspendez l’intervention et avertissez le responsable. Après l’installation autorisée : consignez les tests convenus, la remise en service ou le retour à l’état antérieur, les points en suspens et l’acceptation distincte par le représentant habilité du client. La remise physique ne prouve à elle seule ni la remise en service ni l’acceptation du client.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-fr.html",
+              "language": "fr"
             }
           ]
         }
@@ -474,6 +486,12 @@
             {
               "name": "Bereiten Sie den Serviceabschlussbericht vor",
               "description": "Definieren Sie mit der kopierbaren Vorlage vorab den erwarteten Bericht: tatsächliche Arbeiten, Zeitpunkte, Prüfergebnisse, Abweichungen, offene Punkte und separate Kundenabnahme. Weisen Sie jeder verbleibenden Aufgabe eine verantwortliche Person zu.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html",
+              "language": "de"
+            },
+            {
+              "name": "Physischer Serverumzug: Was ist zu dokumentieren?",
+              "description": "Fiktives Beispiel: Der Server LAB-01 zieht von Rack A in Rack B um. Vor dem Umzug: Klären Sie, welche Geräte zum Umfang gehören oder ausgeschlossen sind, den Ausgangs- und Zielort, den Zugang zu beiden Racks, das freigegebene Wartungsfenster und die Zuständigkeiten. Dokumentieren Sie den Bestand und den Zustand bei Abgang. Beim Transport: Prüfen Sie, dass die freigegebene Schutzverpackung verwendet wird, und dokumentieren Sie, wer das Gerät wann übergeben und wer es entgegengenommen hat. Bei Ankunft: Gleichen Sie Bestand und Zustand ab. Bei Schäden oder Abweichungen unterbrechen Sie die Arbeiten und informieren die zuständige Person. Nach der freigegebenen Installation: Dokumentieren Sie die vereinbarten Tests, die Wiederherstellung des Betriebs oder die Rückkehr zum vorherigen Zustand, offene Punkte und die gesonderte Abnahme durch die dazu berechtigte Person auf Kundenseite. Die physische Übergabe allein belegt weder die Wiederherstellung des Betriebs noch die Abnahme.",
               "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-de.html",
               "language": "de"
             }
