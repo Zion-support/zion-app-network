@@ -10,6 +10,7 @@
   ],
   "locales": {
     "en": {
+      "discoveryPath": "/en/discovery/",
       "title": "Prepare a clear datacenter service request",
       "description": "Turn a datacenter need into a reviewable service brief: task, equipment, access, maintenance window, quote assumptions and completion evidence.",
       "intro": "A useful request lets the service team understand the work before estimating it. Start with the outcome you need, separate confirmed facts from open questions, and use the linked Zion resources to prepare the brief, quotation review and eventual handoff.",
@@ -23,7 +24,7 @@
             {
               "name": "Organize the need with free Discovery",
               "description": "Use the online questionnaire to structure the business need and read its report. Carry the relevant findings into your service brief, with an owner and an explicit list of questions still to resolve.",
-              "href": "https://ziontechgroup.com/discovery/",
+              "href": "https://ziontechgroup.com/en/discovery/",
               "language": "en"
             },
             {

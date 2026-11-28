@@ -48,11 +48,12 @@ def load_guides():
 def render(guide, locale, guides):
     c, u = guide['locales'][locale], UI[locale]
     prefix = '/' if locale == 'en' else '/' + locale + '/'
+    discovery_path = c.get('discoveryPath', prefix+'discovery/')
     home = '/' if locale == 'pt' else '/' + locale + '/'
     canonical = ORIGIN + route(guide, locale)
     alternates = '\n'.join(f'<link rel="alternate" hreflang="{UI[l]["lang"]}" href="{ORIGIN + route(guide,l)}">' for l in LOCALES)
     languages = ''.join(link(route(guide,l), UI[l]['name'], f' lang="{UI[l]["lang"]}" hreflang="{UI[l]["lang"]}"' + (' aria-current="page"' if l == locale else '')) for l in LOCALES)
-    navigation = link(home,u['home']) + link(prefix+'apps/',u['catalog']) + link('/zion-app-network/directory-'+locale+'.html',u['directory']) + link(prefix+'discovery/',u['discovery'])
+    navigation = link(home,u['home']) + link(prefix+'apps/',u['catalog']) + link('/zion-app-network/directory-'+locale+'.html',u['directory']) + link(discovery_path,u['discovery'])
     toc = ''.join(f'<a href="#{esc(s["id"])}">{esc(s["title"])}</a>' for s in c['sections'])
     sections = []
     for section in c['sections']:
@@ -94,7 +95,7 @@ def render(guide, locale, guides):
 {''.join(sections)}
 <section class="section" id="practice" aria-labelledby="practice-title"><h2 id="practice-title">{esc(u['steps'])}</h2><ol class="steps">{steps}</ol><div class="example"><p class="eyebrow">{esc(u['example'])}</p><h3>{esc(c['example']['title'])}</h3><p>{esc(c['example']['body'])}</p></div><aside class="scope" aria-labelledby="scope-title"><h2 id="scope-title">{esc(u['scope'])}</h2><p>{esc(c['scope'])}</p></aside></section>
 <section class="section" aria-labelledby="related-title"><h2 id="related-title">{esc(u['related'])}</h2><nav class="related" aria-label="{esc(u['related'])}">{related}</nav>{legacy}</section>
-<section class="section discovery" aria-labelledby="discovery-title"><h2 id="discovery-title">{esc(u['discovery'])}</h2><p>{esc(u['discoveryText'])}</p><div class="actions">{link(prefix+'discovery/',u['discovery'],' class="button"')}{link(prefix+'apps/',u['catalog'])}</div></section>
+<section class="section discovery" aria-labelledby="discovery-title"><h2 id="discovery-title">{esc(u['discovery'])}</h2><p>{esc(u['discoveryText'])}</p><div class="actions">{link(discovery_path,u['discovery'],' class="button"')}{link(prefix+'apps/',u['catalog'])}</div></section>
 </main><footer><div class="wrap"><p>{esc(u['footer'])}</p><nav aria-label="{esc(u['catalog'])}">{navigation}{link('https://github.com/Zion-support/zion-app-network',u['source'])}</nav><p>Zion Tech Group</p></div></footer></body></html>
 '''
 

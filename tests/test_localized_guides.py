@@ -81,7 +81,14 @@ class LocalizedGuideTests(unittest.TestCase):
                 hrefs={a['href'] for a in p.find('a')}
                 prefix='/' if locale=='en' else '/'+locale+'/'
                 self.assertIn(prefix+'apps/',hrefs)
-                self.assertIn(prefix+'discovery/',hrefs)
+                datacenter_en = (model['id'], locale) == ('service-request', 'en')
+                discovery_path = '/en/discovery/' if datacenter_en else prefix+'discovery/'
+                self.assertIn(discovery_path,hrefs)
+                if datacenter_en:
+                    anchors = p.find('a')
+                    self.assertEqual(sum(a['href']==discovery_path for a in anchors),3)
+                    self.assertEqual([a.get('hreflang') for a in anchors if a['href']==guides.ORIGIN+discovery_path],['en'])
+                    self.assertTrue({'/discovery/',guides.ORIGIN+'/discovery/'}.isdisjoint(hrefs))
                 self.assertIn('/zion-app-network/directory-'+locale+'.html',hrefs)
                 for sibling in self.models:
                     if sibling['id']!=model['id'] and (sibling.get('showInRelatedGuides', True) or sibling['id'] in model.get('relatedGuideIds', [])):
