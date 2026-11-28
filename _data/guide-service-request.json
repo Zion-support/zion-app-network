@@ -182,6 +182,12 @@
               "description": "Use o modelo copiável para definir antecipadamente o relatório esperado: trabalho realizado, horários, resultados dos testes, exceções, pendências e aceite separado do cliente. Mantenha cada ação restante associada a um responsável.",
               "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html",
               "language": "pt"
+            },
+            {
+              "name": "Mudança física de servidor: o que registrar",
+              "description": "Exemplo fictício: mover o servidor LAB-01 do rack A para o rack B. Antes: confirme os ativos incluídos e excluídos, origem e destino, acesso aos dois racks, janela autorizada e responsáveis. Registre inventário e condição de saída. No transporte: confirme proteção aprovada para o equipamento e registre quem entregou, quem recebeu e quando. Na chegada: compare inventário e condição; se houver dano ou divergência, pause e comunique o responsável. Após a instalação autorizada, registre os testes acordados, a restauração do serviço ou o retorno ao estado anterior, as pendências e o aceite separado do responsável do cliente. A entrega física não comprova restauração nem aceite.",
+              "href": "https://ziontechgroup.com/zion-app-network/field-service-completion-pack-2026-pt-br.html",
+              "language": "pt"
             }
           ]
         }
